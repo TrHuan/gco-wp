@@ -1,0 +1,2 @@
+2022-03-07T08:37:55+00:00 CRITICAL require(): Failed opening required 'D:\wamp64\www\job\gco\gco-wp\kho\web-thoi-trang\ak-fitness-yoga\wp-content\plugins\woocommerce/packages/woocommerce-admin/src/Notes/Marketing.php' (include_path='.;C:\php\pear') in D:\wamp64\www\job\gco\gco-wp\kho\web-thoi-trang\ak-fitness-yoga\wp-content\plugins\woocommerce\vendor\jetpack-autoloader\class-php-autoloader.php on line 87
+
