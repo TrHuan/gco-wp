@@ -1,0 +1,138 @@
+/*socical*/
+#tool__society {
+    position: fixed;
+    bottom: 45px;
+    left: 10px;
+    width: 48px;
+    z-index: 9999;
+}
+#tool__society .tool__item {
+    display: flex;
+    display: -webkit-flex;
+    flex-direction: column;
+    -moz-flex-direction: column;
+    -webkit-flex-direction: column;
+    -o-flex-direction: column;
+    -ms-flex-direction: column;
+}
+#tool__society .tool__item .tool__icon {
+    display: flex;
+    display: -webkit-flex;
+    align-items: center;
+    -moz-align-items: center;
+    -webkit-align-items: center;
+    -o-align-items: center;
+    -ms-align-items: center;
+    justify-content: center;
+    -moz-justify-content: center;
+    -webkit-justify-content: center;
+    -o-justify-content: center;
+    -ms-justify-content: center;
+    width: 48px;
+    height: 48px;
+    margin: 20px 0 0;
+    font-size: 30px;
+    color: #fff;
+    cursor: pointer;
+    background: orange;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -o-border-radius: 50%;
+    -ms-border-radius: 50%;
+    animation: zoom 1s infinite;
+    -moz-animation: zoom 1s infinite;
+    -webkit-animation: zoom 1s infinite;
+    -o-animation: zoom 1s infinite;
+    -ms-animation: zoom 1s infinite;
+    animation-direction: alternate-reverse;
+    -moz-animation-direction: alternate-reverse;
+    -webkit-animation-direction: alternate-reverse;
+    -o-animation-direction: alternate-reverse;
+    -ms-animation-direction: alternate-reverse;
+}
+#tool__society .tool__item .tool__icon img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    width: calc(100% - 15px);
+}
+#tool__society .tool__item .tool__icon.tool__icon_tel {
+    background: #21BD56;
+}
+#tool__society .tool__item .tool__icon.tool__icon_zalo {
+    background: #2074C8;
+}
+#tool__society .tool__item .tool__icon.tool__icon_mes {
+    background: #007FFF;
+}
+/*#tool__society .tool__item .tool__icon.tool__icon_back {
+    padding: 9px;
+    text-align: center;
+}*/
+@keyframes zoom{
+    from {
+        box-shadow: rgba(16, 128, 199, 0.21) 0px 0px 0px 0px, rgba(16, 128, 199, 0.12) 0px 0px 0px 0px;
+        -moz-box-shadow: rgba(16, 128, 199, 0.21) 0px 0px 0px 0px, rgba(16, 128, 199, 0.12) 0px 0px 0px 0px;
+        -webkit-box-shadow: rgba(16, 128, 199, 0.21) 0px 0px 0px 0px, rgba(16, 128, 199, 0.12) 0px 0px 0px 0px;
+        -o-box-shadow: rgba(16, 128, 199, 0.21) 0px 0px 0px 0px, rgba(16, 128, 199, 0.12) 0px 0px 0px 0px;
+        -ms-box-shadow: rgba(16, 128, 199, 0.21) 0px 0px 0px 0px, rgba(16, 128, 199, 0.12) 0px 0px 0px 0px;
+    }
+    to {
+        box-shadow: rgba(16, 128, 199, 0.21) 0px 0px 0px 5px, rgba(16, 128, 199, 0.12) 0px 0px 0px 10px;
+        -moz-box-shadow: rgba(16, 128, 199, 0.21) 0px 0px 0px 5px, rgba(16, 128, 199, 0.12) 0px 0px 0px 10px;
+        -webkit-box-shadow: rgba(16, 128, 199, 0.21) 0px 0px 0px 5px, rgba(16, 128, 199, 0.12) 0px 0px 0px 10px;
+        -o-box-shadow: rgba(16, 128, 199, 0.21) 0px 0px 0px 5px, rgba(16, 128, 199, 0.12) 0px 0px 0px 10px;
+        -ms-box-shadow: rgba(16, 128, 199, 0.21) 0px 0px 0px 5px, rgba(16, 128, 199, 0.12) 0px 0px 0px 10px;
+    }
+}
+/*@media screen and (max-width: 480px) {
+    #tool__society .tool__item {
+        flex-direction: row;
+        -moz-flex-direction: row;
+        -webkit-flex-direction: row;
+        -o-flex-direction: row;
+        -ms-flex-direction: row;
+    }
+}*/
+
+
+/*popup-mobile*/
+.popup-mobile {
+    display: block;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    z-index: 99;
+}
+.popup-mobile .popup-content {
+    display: none;
+}
+.popup-mobile .popup-content .popup-form {
+    padding: 15px 20px;
+    background: green;
+}
+.popup-plush {
+    transition: all .3s;
+    -moz-transition: all .3s;
+    -webkit-transition: all .3s;
+    -o-transition: all .3s;
+    -ms-transition: all .3s;
+}
+.popup-plush.active {
+    transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+}
+/*@media screen and (max-width: 575px) {
+    .popup-mobile {
+        display: block;
+    }
+}*/

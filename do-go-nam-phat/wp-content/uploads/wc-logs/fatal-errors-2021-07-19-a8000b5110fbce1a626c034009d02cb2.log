@@ -1,0 +1,20 @@
+2021-07-19T02:39:22+00:00 CRITICAL syntax error, unexpected end of file in D:\wamp64\www\job\gco\wp\do-go-nam-phat\wp-content\themes\do-go-nam-phat\woocommerce\archive-product.php on line 95
+
+2021-07-19T07:39:21+00:00 CRITICAL require_once(): Failed opening required 'http://localhost/job/gco/wp/do-go-nam-phat//tim-kiem' (include_path='.;C:\php\pear') in D:\wamp64\www\job\gco\wp\do-go-nam-phat\wp-content\themes\do-go-nam-phat\searchform.php on line 12
+
+2021-07-19T08:39:25+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in D:\wamp64\www\job\gco\wp\do-go-nam-phat\wp-content\themes\do-go-nam-phat\search.php on line 94
+
+2021-07-19T08:40:29+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in D:\wamp64\www\job\gco\wp\do-go-nam-phat\wp-content\themes\do-go-nam-phat\search.php on line 94
+
+2021-07-19T08:41:28+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in D:\wamp64\www\job\gco\wp\do-go-nam-phat\wp-content\themes\do-go-nam-phat\search.php on line 90
+
+2021-07-19T08:42:03+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in D:\wamp64\www\job\gco\wp\do-go-nam-phat\wp-content\themes\do-go-nam-phat\search.php on line 90
+
+2021-07-19T08:42:21+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in D:\wamp64\www\job\gco\wp\do-go-nam-phat\wp-content\themes\do-go-nam-phat\search.php on line 91
+
+2021-07-19T08:45:59+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in D:\wamp64\www\job\gco\wp\do-go-nam-phat\wp-content\themes\do-go-nam-phat\search.php on line 80
+
+2021-07-19T08:46:39+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in D:\wamp64\www\job\gco\wp\do-go-nam-phat\wp-content\themes\do-go-nam-phat\search.php on line 80
+
+2021-07-19T08:47:06+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in D:\wamp64\www\job\gco\wp\do-go-nam-phat\wp-content\themes\do-go-nam-phat\search.php on line 65
+

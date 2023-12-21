@@ -1,0 +1,8 @@
+2021-07-16T08:33:28+00:00 CRITICAL syntax error, unexpected ':', expecting ',' or ';' in D:\wamp64\www\job\gco\wp\do-go-nam-phat\wp-content\themes\do-go-nam-phat\inc\widgets\widget-contact.php on line 198
+
+2021-07-16T08:33:29+00:00 CRITICAL syntax error, unexpected ':', expecting ',' or ';' in D:\wamp64\www\job\gco\wp\do-go-nam-phat\wp-content\themes\do-go-nam-phat\inc\widgets\widget-contact.php on line 198
+
+2021-07-16T08:33:45+00:00 CRITICAL syntax error, unexpected ':', expecting ',' or ';' in D:\wamp64\www\job\gco\wp\do-go-nam-phat\wp-content\themes\do-go-nam-phat\inc\widgets\widget-contact.php on line 198
+
+2021-07-16T08:43:23+00:00 CRITICAL Cannot redeclare create_widget_blogs() (previously declared in D:\wamp64\www\job\gco\wp\do-go-nam-phat\wp-content\themes\do-go-nam-phat\inc\widgets\widget-blogs.php:11) in D:\wamp64\www\job\gco\wp\do-go-nam-phat\wp-content\themes\do-go-nam-phat\inc\widgets\widget-socials.php on line 15
+
