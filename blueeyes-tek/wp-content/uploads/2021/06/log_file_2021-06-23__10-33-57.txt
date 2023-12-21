@@ -1,0 +1,150 @@
+
+---Downloaded files---
+The import files for: Home 1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/job/gco/wp/blueeyes-tek
+Data file = D:\wamp64\www\job\gco\wp\blueeyes-tek/wp-content/themes/sw_maxshop/lib/import/demo-1/demo-content-pagemenu.xml
+Widget file = D:\wamp64\www\job\gco\wp\blueeyes-tek/wp-content/themes/sw_maxshop/lib/import/demo-1/widgets.json
+Customizer file = not defined!
+Options files:
+maxshop_theme -> D:\wamp64\www\job\gco\wp\blueeyes-tek/wp-content/themes/sw_maxshop/lib/import/demo-1/theme_options.txt 
+
+
+---Importing widgets---
+Sidebar Left Blog : 
+
+Chuyên mục - Blog Categories - Widget already exists
+SW best seller products - Best Sellers - Widget already exists
+Văn bản - No Title - Widget already exists
+
+Sidebar Right Blog : 
+
+Chuyên mục - Blog Categories - Widget already exists
+SW best seller products - Best Sellers - Widget already exists
+Văn bản - No Title - Widget already exists
+
+Top : 
+
+WooCommerce Currency Converter - No Title - Imported
+Văn bản - No Title - Widget already exists
+Menu - No Title - Widget already exists
+SW Top Widget - No Title - Widget already exists
+SW Posts - No Title - Widget already exists
+
+Sidebar Left Detail Product : 
+
+SW related products - Related products - Widget already exists
+Product Tag Cloud - Product Tags - Imported
+Văn bản - No Title - Widget already exists
+
+Sidebar Right Detail Product : 
+
+SW related products - Related products - Widget already exists
+Product Tag Cloud - POPULAR TAGS - Imported
+Văn bản - No Title - Widget already exists
+
+Sidebar Bottom Detail Product : 
+
+Sw Woocommerce Related &amp; Upsell Slider widget - No Title - Imported
+
+Sidebar Left Product : 
+
+Filter Products by Price - price - Imported
+Filter Products by Attribute - Color - Imported
+Filter Products by Attribute - Size - Imported
+SW best seller products - Best Sellers - Widget already exists
+Văn bản - No Title - Widget already exists
+
+Sidebar Right Product : 
+
+SW related products - No Title - Widget already exists
+Filter Products by Price - price - Imported
+SW best seller products - Best Sellers - Widget already exists
+Sw Testimonial Slider widget - Testimonial - Imported
+Văn bản - No Title - Widget already exists
+
+Above Footer : 
+
+Văn bản - No Title - Widget already exists
+
+Footer : 
+
+Văn bản - No Title - Widget already exists
+Menu - MY ACCOUNT - Widget already exists
+Menu - INFORMATION - Widget already exists
+Văn bản - CONTACT US - Widget already exists
+
+Footer Style 8 : 
+
+Menu - No Title - Widget already exists
+Văn bản - No Title - Widget already exists
+
+Footer Copyright 8 : 
+
+Văn bản - No Title - Widget already exists
+
+Banner Style 9 : 
+
+Image Widget - No Title - Imported
+
+Footer Style 9 Left : 
+
+Văn bản - CONTACT US - Widget already exists
+
+Footer Style 9 Right1 : 
+
+Sw Testimonial Slider widget - TESTIMONIAL - Imported
+
+Footer Style 9 Right2 : 
+
+Menu - MY ACCOUNT - Widget already exists
+Menu - INFORMATION - Widget already exists
+Menu - HOW TO BUY - Widget already exists
+
+Footer Copyright 9 : 
+
+Văn bản - No Title - Widget already exists
+Văn bản - No Title - Widget already exists
+
+Filter Mobile : 
+
+Filter Products by Attribute - Color - Imported
+Filter Products by Attribute - Size - Imported
+Filter Products by Price - Price - Imported
+
+Widget Search : 
+
+SW Ajax WooCommerce Search - Ajax search - Imported
+
+
+
+---pt-ocdi/after_import---
+<pre class='xdebug-var-dump' dir='ltr'>
+<small>D:\wamp64\www\job\gco\wp\blueeyes-tek\wp-content\plugins\one-click-demo-import\inc\ImportActions.php:186:</small>
+<b>array</b> <i>(size=14)</i>
+  'import_file_name' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Home 1'</font> <i>(length=6)</i>
+  'page_title' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Home Elementor'</font> <i>(length=14)</i>
+  'header_title' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Header_1'</font> <i>(length=8)</i>
+  'footer_title' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Footer_1'</font> <i>(length=8)</i>
+  'local_import_file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'D:\wamp64\www\job\gco\wp\blueeyes-tek/wp-content/themes/sw_maxshop/lib/import/demo-1/data.xml'</font> <i>(length=93)</i>
+  'local_import_widget_file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'D:\wamp64\www\job\gco\wp\blueeyes-tek/wp-content/themes/sw_maxshop/lib/import/demo-1/widgets.json'</font> <i>(length=97)</i>
+  'local_import_page_file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'D:\wamp64\www\job\gco\wp\blueeyes-tek/wp-content/themes/sw_maxshop/lib/import/demo-1/demo-content-page.xml'</font> <i>(length=106)</i>
+  'local_import_pagemenu_file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'D:\wamp64\www\job\gco\wp\blueeyes-tek/wp-content/themes/sw_maxshop/lib/import/demo-1/demo-content-pagemenu.xml'</font> <i>(length=110)</i>
+  'local_import_revslider' <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=1)</i>
+      'slide1' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'D:\wamp64\www\job\gco\wp\blueeyes-tek/wp-content/themes/sw_maxshop/lib/import/demo-1/home-page-1.zip'</font> <i>(length=100)</i>
+  'local_import_options' <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=1)</i>
+      0 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=2)</i>
+          'file_path' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'D:\wamp64\www\job\gco\wp\blueeyes-tek/wp-content/themes/sw_maxshop/lib/import/demo-1/theme_options.txt'</font> <i>(length=102)</i>
+          'option_name' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'maxshop_theme'</font> <i>(length=13)</i>
+  'menu_locate' <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=2)</i>
+      'primary_menu' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Top Menu'</font> <i>(length=8)</i>
+      'vertical_menu' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Left menu shop 5'</font> <i>(length=16)</i>
+  'import_preview_image_url' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'http://localhost/job/gco/wp/blueeyes-tek/wp-content/themes/sw_maxshop/lib/import/demo-1/home.png'</font> <i>(length=96)</i>
+  'import_notice' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'After you import this demo, you will have to setup the slider separately. This import maybe finish on 10-15 minutes'</font> <i>(length=115)</i>
+  'preview_url' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'http://demo.wpthemego.com/themes/sw_maxshop/'</font> <i>(length=44)</i>
+</pre>

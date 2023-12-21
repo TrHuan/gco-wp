@@ -1,0 +1,188 @@
+
+---Downloaded files---
+The import files for: Home 1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/job/gco/wp/blueeyes-tek
+Data file = D:\wamp64\www\job\gco\wp\blueeyes-tek/wp-content/themes/sw_maxshop/lib/import/demo-1/data.xml
+Widget file = D:\wamp64\www\job\gco\wp\blueeyes-tek/wp-content/themes/sw_maxshop/lib/import/demo-1/widgets.json
+Customizer file = not defined!
+Options files:
+maxshop_theme -> D:\wamp64\www\job\gco\wp\blueeyes-tek/wp-content/themes/sw_maxshop/lib/import/demo-1/theme_options.txt 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "brand-item-3" (Đa phương tiện)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "cl-image-1" (Đa phương tiện)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "static-image-h-2" (Đa phương tiện)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "Heidi-Klum" (Đa phương tiện)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "pulse1.png" (Đa phương tiện)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "ourteam6" (Đa phương tiện)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "left1" (Đa phương tiện)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "banner-3" (Đa phương tiện)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "7" (Đa phương tiện)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "9" (Đa phương tiện)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "banner-mobile-1" (Đa phương tiện)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "banner-mobile-2" (Đa phương tiện)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
