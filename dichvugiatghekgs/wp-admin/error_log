@@ -1,0 +1,56 @@
+[19-Apr-2023 02:42:48 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /home/q861trcgeaz4/public_html/wp-content/plugins/wordpress-seo-premium/vendor/yoast/wordpress-seo/admin/tracking/class-tracking-server-data.php on line 39
+[01-May-2023 01:09:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=17221 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[01-May-2023 11:27:58 UTC] PHP Warning:  Error while sending QUERY packet. PID=30123 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[02-May-2023 02:10:06 UTC] PHP Warning:  Error while sending QUERY packet. PID=343 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[04-May-2023 20:45:43 UTC] PHP Warning:  Error while sending QUERY packet. PID=30417 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[05-May-2023 20:42:37 UTC] PHP Warning:  Error while sending QUERY packet. PID=894 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[06-May-2023 07:21:59 UTC] PHP Warning:  Error while sending QUERY packet. PID=32261 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[07-May-2023 06:52:06 UTC] PHP Warning:  Error while sending QUERY packet. PID=16168 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[07-May-2023 20:49:02 UTC] PHP Warning:  Error while sending QUERY packet. PID=6017 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[08-May-2023 08:06:46 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /home/q861trcgeaz4/public_html/wp-content/plugins/wordpress-seo-premium/vendor/yoast/wordpress-seo/admin/tracking/class-tracking-server-data.php on line 39
+[08-May-2023 18:32:59 UTC] PHP Warning:  Error while sending QUERY packet. PID=2442 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[09-May-2023 04:59:15 UTC] PHP Warning:  Error while sending QUERY packet. PID=17665 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[10-May-2023 05:20:06 UTC] PHP Warning:  Error while sending QUERY packet. PID=13832 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[10-May-2023 17:48:25 UTC] PHP Warning:  Error while sending QUERY packet. PID=2066 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[12-May-2023 03:55:08 UTC] PHP Warning:  Error while sending QUERY packet. PID=21647 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[13-May-2023 01:52:23 UTC] PHP Warning:  Error while sending QUERY packet. PID=5936 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[14-May-2023 20:05:10 UTC] PHP Warning:  Error while sending QUERY packet. PID=30250 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[15-May-2023 23:21:07 UTC] PHP Warning:  Error while sending QUERY packet. PID=29800 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[16-May-2023 09:35:56 UTC] PHP Warning:  Error while sending QUERY packet. PID=23532 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[17-May-2023 08:14:16 UTC] PHP Warning:  Error while sending QUERY packet. PID=4997 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[17-May-2023 10:16:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=21969 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[17-May-2023 10:26:59 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /home/q861trcgeaz4/public_html/wp-content/plugins/wordpress-seo-premium/vendor/yoast/wordpress-seo/admin/tracking/class-tracking-server-data.php on line 39
+[18-May-2023 08:19:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=6379 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[18-May-2023 08:36:53 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /home/q861trcgeaz4/public_html/wp-content/plugins/wordpress-seo-premium/vendor/yoast/wordpress-seo/admin/tracking/class-tracking-server-data.php on line 39
+[18-May-2023 08:37:23 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /home/q861trcgeaz4/public_html/wp-content/plugins/wordpress-seo-premium/vendor/yoast/wordpress-seo/admin/tracking/class-tracking-server-data.php on line 39
+[22-May-2023 09:24:14 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /home/q861trcgeaz4/public_html/wp-content/plugins/wordpress-seo-premium/vendor/yoast/wordpress-seo/admin/tracking/class-tracking-server-data.php on line 39
+[22-May-2023 23:37:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=20677 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[24-May-2023 07:52:00 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /home/q861trcgeaz4/public_html/wp-content/plugins/wordpress-seo-premium/vendor/yoast/wordpress-seo/admin/tracking/class-tracking-server-data.php on line 39
+[24-May-2023 07:53:00 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /home/q861trcgeaz4/public_html/wp-content/plugins/wordpress-seo-premium/vendor/yoast/wordpress-seo/admin/tracking/class-tracking-server-data.php on line 39
+[31-May-2023 04:13:50 UTC] PHP Warning:  Error while sending QUERY packet. PID=28077 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[01-Jun-2023 03:07:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=14833 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[01-Jun-2023 15:52:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=8335 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[02-Jun-2023 02:29:12 UTC] PHP Warning:  Error while sending QUERY packet. PID=28634 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[02-Jun-2023 13:50:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=22061 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[03-Jun-2023 00:47:07 UTC] PHP Warning:  Error while sending QUERY packet. PID=10793 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[03-Jun-2023 11:49:50 UTC] PHP Warning:  Error while sending QUERY packet. PID=18356 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[03-Jun-2023 22:59:45 UTC] PHP Warning:  Error while sending QUERY packet. PID=3796 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[04-Jun-2023 20:43:53 UTC] PHP Warning:  Error while sending QUERY packet. PID=16185 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[04-Jun-2023 20:43:53 UTC] PHP Warning:  Error while sending QUERY packet. PID=16184 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[05-Jun-2023 09:57:42 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /home/q861trcgeaz4/public_html/wp-content/plugins/wordpress-seo-premium/vendor/yoast/wordpress-seo/admin/tracking/class-tracking-server-data.php on line 39
+[05-Jun-2023 19:35:48 UTC] PHP Warning:  Error while sending QUERY packet. PID=8610 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[06-Jun-2023 06:29:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=3203 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[07-Jun-2023 09:57:43 UTC] PHP Warning:  Error while sending QUERY packet. PID=27382 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[08-Jun-2023 08:57:33 UTC] PHP Warning:  Error while sending QUERY packet. PID=29307 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[08-Jun-2023 20:09:06 UTC] PHP Warning:  Error while sending QUERY packet. PID=30454 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[09-Jun-2023 08:32:12 UTC] PHP Warning:  Error while sending QUERY packet. PID=24154 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[09-Jun-2023 22:32:23 UTC] PHP Warning:  Error while sending QUERY packet. PID=10172 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[10-Jun-2023 19:20:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=1739 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[11-Jun-2023 05:48:02 UTC] PHP Warning:  Error while sending QUERY packet. PID=30441 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[11-Jun-2023 15:56:28 UTC] PHP Warning:  Error while sending QUERY packet. PID=29643 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[12-Jun-2023 02:41:46 UTC] PHP Warning:  Error while sending QUERY packet. PID=29484 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[13-Jun-2023 00:53:07 UTC] PHP Warning:  Error while sending QUERY packet. PID=9701 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[13-Jun-2023 12:50:21 UTC] PHP Warning:  Error while sending QUERY packet. PID=6664 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[14-Jun-2023 21:58:55 UTC] PHP Warning:  Error while sending QUERY packet. PID=5524 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[15-Jun-2023 08:45:08 UTC] PHP Warning:  Error while sending QUERY packet. PID=28473 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187
+[15-Jun-2023 19:19:07 UTC] PHP Warning:  Error while sending QUERY packet. PID=5506 in /home/q861trcgeaz4/public_html/wp-includes/class-wpdb.php on line 2187

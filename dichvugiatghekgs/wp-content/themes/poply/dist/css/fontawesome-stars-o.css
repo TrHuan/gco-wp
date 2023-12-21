@@ -1,0 +1,72 @@
+
+.br-theme-fontawesome-stars-o .br-widget {
+  height: 33px;
+  white-space: nowrap;
+  display: inline-block;
+  border: 1px solid rgba(225, 225, 225,.2);
+}
+.br-theme-fontawesome-stars-o .br-widget a {
+  font: normal normal normal 20px/1 FontAwesome;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  text-decoration: none;
+  background: #f3f3f3;
+  color: #fff;
+  
+  padding: 5px;
+}
+.br-theme-fontawesome-stars-o .br-widget a{
+  border: 1px solid #e1e1e1;
+}
+.br-theme-fontawesome-stars-o .br-widget a:first-child{border-radius: 5px 0 0 5px}
+.br-theme-fontawesome-stars-o .br-widget a:last-of-type{border-radius: 0 5px 5px 0}
+.br-widget a:after, a.br-active:after, a.br-selected:after,a.br-fractional:after{
+  font-family: "Font Awesome 5 Free";
+  font-weight: 700;
+}
+.br-theme-fontawesome-stars-o .br-widget a:after {
+  content: '\f005';
+  /* color: #d2d2d2; */
+}
+.br-theme-fontawesome-stars-o .br-widget a.br-active:after {
+  content: '\f005';
+  color: #febb02;
+}
+.br-theme-fontawesome-stars-o .br-widget a.br-selected:after {
+  content: '\f005';
+  color: #febb02;
+}
+.br-theme-fontawesome-stars-o .br-widget a.br-fractional:after {
+  content: '\f123';
+  color: #febb02;
+}
+.br-theme-fontawesome-stars-o .br-widget .br-current-rating {
+  display: none;
+}
+.br-theme-fontawesome-stars-o .br-readonly a {
+  cursor: default;
+}
+.br-theme-fontawesome-stars-o .br-reverse a.br-fractional {
+  display: inline-block;
+  transform: scaleX(-1);
+  -moz-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  filter: FlipH;
+  -ms-filter: "FlipH";
+}
+@media print {
+  .br-theme-fontawesome-stars-o .br-widget a:after {
+    content: '\f005';
+    color: black;
+  }
+  .br-theme-fontawesome-stars-o .br-widget a.br-active:after,
+  .br-theme-fontawesome-stars-o .br-widget a.br-selected:after {
+    content: '\f005';
+    color: black;
+  }
+  .br-theme-fontawesome-stars-o .br-widget a.br-fractional:after {
+    content: '\f123';
+    color: black;
+  }
+}
+/* .br-wrapper.br-theme-fontawesome-stars-o{margin-left: 15px;} */
