@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Disallow: /readme.html
+Disallow: /license.txt
+Disallow: /?s=*
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-admin/images/*
+Sitemap: https://bghome.vn/sitemap_index.xml

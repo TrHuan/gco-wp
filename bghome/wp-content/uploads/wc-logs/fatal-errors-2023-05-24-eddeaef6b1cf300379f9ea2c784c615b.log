@@ -1,0 +1,4 @@
+2023-05-24T00:42:46+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1388544 bytes) in /home/bghomevn/domains/bghome.vn/public_html/wp-includes/class-wpdb.php on line 3749
+
+2023-05-24T00:46:27+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1388544 bytes) in /home/bghomevn/domains/bghome.vn/public_html/wp-includes/class-wpdb.php on line 3749
+

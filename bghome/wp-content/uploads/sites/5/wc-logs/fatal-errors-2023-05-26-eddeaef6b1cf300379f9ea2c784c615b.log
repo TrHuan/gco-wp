@@ -1,0 +1,2 @@
+2023-05-26T01:40:55+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 8388616 bytes) in /home/bghomevn/domains/bghome.vn/public_html/wp-content/plugins/file-manager-advanced/application/library/php/elFinderVolumeDriver.class.php on line 4826
+
