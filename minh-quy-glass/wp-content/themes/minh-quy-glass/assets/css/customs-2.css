@@ -1,0 +1,245 @@
+.container-fluid {
+    padding: 0;
+}
+
+.container {
+    padding: 0 15px;
+}
+
+.module_features .content-image {
+    margin-bottom: 18px;
+}
+
+.module_banners .content-box .button-box .btn {
+    color: #fff;
+}
+
+.module_blogs .content-button a {
+    background: none;
+    padding: 0;
+    border: none;
+}
+
+.lth-sidebars .sidebar-box {
+    border: 1px solid rgba(6, 82, 119, 0.5);
+    padding: 0 30px;
+}
+.sidebar-box h3, .sidebar-box h2 {
+    font-weight: 700;
+    color: #065277;
+    font-size: 20px;
+    text-transform: uppercase;
+    padding: 30px 0;
+    border-bottom: 1px solid rgba(6, 82, 119, 0.5);
+    margin-bottom: 0;
+}
+.sidebar-box .product-categories {
+    padding: 30px 0;
+}
+.sidebar-box ul li {
+    margin-bottom: 15px;
+}
+.sidebar-box ul li:last-child {
+    margin-bottom: 0;
+}
+.sidebar-box .product-categories ul {
+    padding: 15px 15px 0;
+}
+.sidebar-box .product-categories .current-cat-parent li:not(.cat-parent),
+.sidebar-box .product-categories li:not(.cat-parent) {
+    display: none;
+}
+.sidebar-box .product-categories .current-cat-parent .cat-parent li,
+.sidebar-box .product-categories .cat-parent li {
+    display: block;
+}
+
+.breadcrumbs {
+    overflow-x: hidden;
+    background-color: rgba(6, 82, 119, 0.1);
+}
+.breadcrumb-image {
+    display: flex;
+    align-items: center;
+    position: initial;
+}
+.breadcrumb-image .container {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.breadcrumb-image .title {
+    padding: 0;
+    color: #fff;
+    font-size: calc(22px + (50 - 22) * ((100vw - 320px) / (1920 - 320)));
+}
+.breadcrumb-image img {
+    min-height: 150px;
+}
+.nav-breadcrumbs {
+    /*background-color: rgba(6, 82, 119, 0.1);*/
+    padding: 8px 0;
+    font-size: 0;
+}
+.nav-breadcrumbs a {
+    color: #6c6c6c;
+    font-size: 20px;
+}
+.nav-breadcrumbs a:hover {
+    color: #06A8DF;
+}
+.nav-breadcrumbs a:after {
+    content: "\eaca";
+    font-family: "IcoFont";
+    display: inline-block;
+    color: #6c6c6c;
+    font-weight: 700;
+    margin-left: 6px;
+}
+.nav-breadcrumbs span {
+    font-size: 20px;
+    color: #065277;
+}
+
+.module_products_list .groups-box .item {
+    height: 100%;
+}
+
+.main-single-products {
+    overflow-x: hidden;
+}
+
+.module_other_products .module_title {
+    text-align: left;
+}
+
+.module_blogs .content-button a {
+    font-weight: 400;
+}
+
+.sidebar-blogs ul {
+    padding: 30px 0;
+}
+
+.lth-single-blog {
+    padding: 70px 0;
+}
+
+.main-single-blog .lth-blogs {
+    overflow-x: hidden;
+}
+
+.module_about .module_content {
+    overflow-x: hidden;
+}
+
+form .wpcf7-form-control {
+    background: none;
+    background-color: #fff;
+    border: 1px solid #E1E1E1;
+    width: 100%;
+    font-size: 15px;
+    padding: 0 15px;
+    border-radius: 0;
+    height: 60px;
+    color: #000;
+}
+form textarea.wpcf7-form-control {
+    height: 130px;
+    line-height: inherit;
+    padding: 5px 10px;
+}
+form .form-button {
+    position: relative;
+}
+form .form-button .ajax-loader {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+}
+.module_contacts form .wpcf7-form-control {
+    height: 40px;
+    color: #A1A1A1;
+    font-size: 18px;
+}
+.module_contacts form textarea.wpcf7-form-control {
+    height: 98px;
+}
+.module_contacts form .form-button {
+    display: inline-block;
+}
+.module_contacts form .wpcf7-submit {
+    padding: 8px 90px;
+    color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #065277;
+    border-radius: 0;
+    background-color: #065277;
+    font-size: 15px;
+    font-weight: 600;
+    transition: all 400ms;
+    white-space: nowrap;
+    cursor: pointer;
+}
+.main-contact .module_map {
+    margin-bottom: 30px;
+}
+
+.sidebar-quotes ul {
+    padding: 30px 0;
+}
+.sidebar-quotes ul li {
+    margin-bottom: 30px;
+}
+.sidebar-quotes ul a {
+    font-weight: 600;
+    color: #4E4E4E;
+}
+.sidebar-quotes ul a:hover {
+    color: #06A8DF;
+}
+
+.pagination .page-numbers {
+    display: inline-block;
+}
+.pagination .page-numbers.prev,
+.pagination .page-numbers.next {
+    font-size: 0;
+}
+.pagination .page-numbers.prev:before,
+.pagination .page-numbers.next:before {
+    content: "\eab8";
+    font-family: IcoFont!important;
+    font-size: 18px;
+}
+.pagination .page-numbers.prev:before {
+    content: "\eab5";
+}
+
+.lth-single-quote {
+    padding: 70px 0;
+}
+.module_single_quote .table table {
+    width: 100%;
+}
+.main-single-quote .module_other_products {
+    overflow: hidden;
+}
+
+.main-projects .lth-projects {
+    padding: 70px 0;
+}
+.main-projects .module_projects_list .content-box > p {
+    display: none;
+}
+
+.lth-single-project {
+    padding: 70px 0;
+    overflow-x: hidden;
+}
+.main-single-project .lth-other-projects {
+    overflow-x: hidden;
+}
