@@ -1,0 +1,35 @@
+.icon-hover > .vc_column-inner > .wpb_wrapper > .wpb_single_image{
+	transition: transform .3s ease-out;
+}
+.icon-hover:hover > .vc_column-inner > .wpb_wrapper > .wpb_single_image{
+	transform: translate(0, -10px);
+}
+
+.icon-hover .radiantthemes-iconbox{
+transition: transform .3s ease-out;
+}
+.icon-hover:hover .radiantthemes-iconbox{
+transform: translate(0, -10px);
+}
+
+.custom-box-shadow-2{
+       box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.12);
+}
+
+.box-shadow{
+   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.11);
+}
+
+.table>tbody>tr:first-child td{border-top:none!important;}
+.table>tbody>tr>td{
+    padding:14px 0px;
+    border-top: 1px solid rgba(255, 255, 255, 0.21) !important;
+    }
+.spacing-table>div>.table>tbody>tr>td{
+    padding:14px 14px;
+    
+}
+
+.wraper_header.style-twelve .header_main_action ul > li.header-cart-bar > .header-cart-bar-icon .cart-count {
+    background-color: #084e4d !important;
+}

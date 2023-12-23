@@ -1,0 +1,137 @@
+﻿/* rt-case-studies-slider element-two */
+
+.rt-case-studies-slider.element-two{
+	width:auto;
+	margin-left:-15px;
+	margin-right:-15px;
+}
+
+.rt-case-studies-slider.element-two .rt-case-studies-slider-item{
+	padding-left:15px;
+	padding-right:15px;
+	text-align:center;
+}
+
+.rt-case-studies-slider.element-two .rt-case-studies-slider-item > .holder{
+	position:relative;
+	overflow:hidden;
+}
+
+.rt-case-studies-slider.element-two .rt-case-studies-slider-item > .holder > .pic{
+	position:relative;
+	overflow:hidden;
+	margin-bottom:35px;
+}
+
+.rt-case-studies-slider.element-two .rt-case-studies-slider-item > .holder > .pic > img{
+	width:100%;
+}
+
+.rt-case-studies-slider.element-two .rt-case-studies-slider-item > .holder > .pic > .holder{
+	position:absolute;
+	top:0;
+	right:0;
+	bottom:0;
+	left:0;
+	z-index:1;
+	background-position:center center;
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.rt-case-studies-slider.element-two .rt-case-studies-slider-item > .holder > .pic > .overlay{
+	position:absolute;
+	top:0;
+	right:0;
+	bottom:0;
+	left:0;
+	z-index:1;
+	background-image:url(data:image/svg+xml;utf8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMTkuMC4wLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDUxMiA1MTIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDUxMiA1MTI7IiB4bWw6c3BhY2U9InByZXNlcnZlIiB3aWR0aD0iNTEycHgiIGhlaWdodD0iNTEycHgiPgo8Zz4KCTxnPgoJCTxwYXRoIGQ9Ik00OTIsMjM2SDI3NlYyMGMwLTExLjA0Ni04Ljk1NC0yMC0yMC0yMGMtMTEuMDQ2LDAtMjAsOC45NTQtMjAsMjB2MjE2SDIwYy0xMS4wNDYsMC0yMCw4Ljk1NC0yMCwyMHM4Ljk1NCwyMCwyMCwyMGgyMTYgICAgdjIxNmMwLDExLjA0Niw4Ljk1NCwyMCwyMCwyMHMyMC04Ljk1NCwyMC0yMFYyNzZoMjE2YzExLjA0NiwwLDIwLTguOTU0LDIwLTIwQzUxMiwyNDQuOTU0LDUwMy4wNDYsMjM2LDQ5MiwyMzZ6IiBmaWxsPSIjRkZGRkZGIi8+Cgk8L2c+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPC9zdmc+Cg==);
+	background-size:55px auto;
+	background-position:center calc(50% + 15px);
+	background-repeat:no-repeat;
+	background-color:#333645;
+	opacity:0;
+	transition:opacity 0.3s ease-in-out, background-position 0.5s ease-in-out;
+	-webkit-transition:opacity 0.3s ease-in-out, background-position 0.5s ease-in-out;
+}
+
+.rt-case-studies-slider.element-two .rt-case-studies-slider-item > .holder > .pic:hover > .overlay{
+	background-position:center center;
+	opacity:1;
+}
+
+.rt-case-studies-slider.element-two .rt-case-studies-slider-item > .holder > .data{
+}
+
+.rt-case-studies-slider.element-two .rt-case-studies-slider-item > .holder > .data > *:last-child{
+	margin-bottom:0 !important;
+}
+
+.rt-case-studies-slider.element-two .rt-case-studies-slider-item > .holder > .data h4{
+	margin-bottom:17px;
+	font-weight:700;
+	font-size:22px;
+	color:#fff;
+	line-height:30px;
+}
+
+.rt-case-studies-slider.element-two .rt-case-studies-slider-item > .holder > .data h4 a{
+	color:inherit;
+}
+
+.rt-case-studies-slider.element-two .rt-case-studies-slider-item > .holder > .data p{
+	margin-bottom:10px;
+	color:#fff;
+}
+
+.rt-case-studies-slider.element-two .owl-dots{
+	margin-top:35px;
+	margin-right:15px;
+	margin-left:15px;
+	text-align:center;
+}
+
+.rt-case-studies-slider.element-two .owl-dots > .owl-dot{
+	display:inline-block;
+	vertical-align:top;
+	margin-left:3px;
+	margin-right:3px;
+}
+
+.rt-case-studies-slider.element-two .owl-dots > .owl-dot > span{
+	display:block;
+	width:14px;
+	height:14px;
+	background-color:#bcbdc3;
+	border-radius:50%;
+	transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+}
+
+.rt-case-studies-slider.element-two .owl-dots > .owl-dot.active > span{
+}
+
+/* LARGE DESKTOP PART */
+@media screen and (min-width:1200px){
+}
+
+/* DESKTOP PART */
+@media screen and (min-width:992px) and (max-width:1199px){
+}
+
+/* TABLET LANDSCAPE PART */
+@media screen and (min-width:768px) and (max-width:991px){
+}
+
+/* TABLET PROTRAIT PART */
+@media screen and (min-width:480px) and (max-width:767px){
+}
+
+/* SMART PHONE LANDSCAPE PART */
+@media screen and (min-width:321px) and (max-width:479px){
+}
+
+/* SMART PHONE PROTRAIT PART */
+@media screen and (max-width:320px){
+}

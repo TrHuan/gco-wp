@@ -1,0 +1,149 @@
+﻿/* team element-seven */
+
+.team.element-seven{
+	width:auto;
+	margin-left:-5px;
+	margin-right:-5px;
+}
+
+.team.element-seven .team-item{
+	padding:20px 5px 20px 5px;
+}
+
+.team.element-seven:not(.owl-carousel) .team-item{
+	float:left;
+	margin-bottom:40px;
+}
+
+.team.element-seven .team-item > .holder{
+	text-align:center;
+	box-shadow:0px 0px 0px rgba(0,0,0,0);
+	transition:all 0.5s ease-in-out;
+	-webkit-transition:all 0.5s ease-in-out;
+}
+
+.team.element-seven .team-item > .holder:hover{
+	position:relative;
+	box-shadow:0px 0px 25px rgba(0,0,0,0.15);
+}
+
+.team.element-seven .team-item > .holder > .pic{
+	position:relative;
+}
+
+.team.element-seven .team-item > .holder > .pic > img{
+	width:100%;
+}
+
+.team.element-seven .team-item > .holder > .pic > .pic-background{
+	position:absolute;
+	top:0;
+	right:0;
+	bottom:0;
+	left:0;
+	z-index:1;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,f6f6f6+100 */
+	background: rgb(255,255,255); /* Old browsers */
+	background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(246,246,246,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(246,246,246,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0 ); /* IE6-9 */
+	transition:all 0.5s ease-in-out;
+	-webkit-transition:all 0.5s ease-in-out;
+}
+
+.team.element-seven .team-item > .holder:hover > .pic > .pic-background{
+	opacity:0;
+	visibility:hidden;
+}
+
+.team.element-seven .team-item > .holder > .pic > .pic-main{
+	position:absolute;
+	top:0;
+	right:0;
+	bottom:0;
+	left:0;
+	z-index:2;
+	background:center bottom no-repeat;
+	background-size:cover;
+}
+
+.team.element-seven .team-item > .holder > .data{
+	padding:20px 15px 22px 15px;
+}
+
+.team.element-seven .team-item > .holder > .data > *:last-child{
+	margin-bottom:0 !important;
+}
+
+.team.element-seven .team-item > .holder > .data .title{
+	margin-bottom:2px;
+	font-weight:500;
+	font-size:16px;
+	color:#343434;
+	line-height:26px;
+}
+
+.team.element-seven .team-item > .holder > .data .title a{
+	color:inherit;
+}
+
+.team.element-seven .team-item > .holder > .data .designation{
+	margin-bottom:7px;
+	font-weight:400;
+	font-size:13px;
+	color:#343434;
+	line-height:25px;
+}
+
+/* LARGE DESKTOP PART */
+@media screen and (min-width:1200px){
+}
+
+/* DESKTOP PART */
+@media screen and (min-width:992px) and (max-width:1199px){
+}
+
+/* TABLET LANDSCAPE PART */
+@media screen and (min-width:768px) and (max-width:991px){
+
+	/* team element-one */
+
+	.team.element-seven:not(.owl-carousel) .team-item{
+		width:50% !important;
+	}
+
+}
+
+/* TABLET PROTRAIT PART */
+@media screen and (min-width:480px) and (max-width:767px){
+
+	/* team element-one */
+
+	.team.element-seven:not(.owl-carousel) .team-item{
+		width:50% !important;
+	}
+
+}
+
+/* SMART PHONE LANDSCAPE PART */
+@media screen and (min-width:321px) and (max-width:479px){
+
+	/* team element-one */
+
+	.team.element-seven:not(.owl-carousel) .team-item{
+		width:100% !important;
+	}
+
+}
+
+/* SMART PHONE PROTRAIT PART */
+@media screen and (max-width:320px){
+
+	/* team element-one */
+
+	.team.element-seven:not(.owl-carousel) .team-item{
+		width:100% !important;
+	}
+
+}
