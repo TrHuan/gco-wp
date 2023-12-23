@@ -1,0 +1,56 @@
+/* :not(:last-child) */
+/* :nth-child(1n+0) */
+.content-faq__pages {
+  position: relative;
+}
+.content-faq__pages .list-faqs__pages {
+  position: relative;
+}
+.content-faq__pages .list-faqs__pages:after {
+  position: absolute;
+  content: "";
+  left: -120px;
+  top: -45px;
+  display: flex;
+  width: 590px;
+  height: 590px;
+  background: url(../images/testemonials__details.png) no-repeat center;
+  background-size: 100% 100%;
+}
+
+.items-faqs__pages {
+  padding: 45px 65px;
+  background-color: #FFFFFF;
+  border-radius: 40px;
+  max-width: 1185px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  box-shadow: 10px 10px 26px -15px rgba(199, 35, 62, 0.4);
+  position: relative;
+  z-index: 10;
+}
+.items-faqs__pages:hover .btn-see__faqs, .items-faqs__pages:focus .btn-see__faqs {
+  opacity: 1;
+  transform: translateX(0px);
+}
+.items-faqs__pages .titles-faq__pages {
+  font-family: "KaiseiTokumin-Regular";
+}
+.items-faqs__pages .text-faq__details {
+  text-align: right;
+  font-family: "SFUIDisplay-Light";
+}
+.items-faqs__pages .text-faq__details a {
+  font-family: "SFUIDisplay-Medium";
+  color: #C7233E;
+}
+.items-faqs__pages .btn-see__faqs {
+  display: flex;
+  width: fit-content;
+  margin-left: auto;
+  color: #DD596A;
+  font-family: "SFUIDisplay-Medium";
+  opacity: 0;
+  transform: translateX(-20px);
+}

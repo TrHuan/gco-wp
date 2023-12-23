@@ -1,0 +1,410 @@
+@import 'base';
+@import 'function';
+
+
+.content-intros__mains {
+    border: solid 5px #FFFFFF;
+    border-radius: 50px;
+    background: rgb(255, 222, 225);
+    background: linear-gradient(90deg, rgba(255, 222, 225, 1) 0%, rgba(255, 222, 225, 0.2612395299916842) 100%);
+    -webkit-box-shadow: 0px 0px 37px 6px rgba(199, 35, 62, 0.5);
+    -moz-box-shadow: 0px 0px 37px 6px rgba(199, 35, 62, 0.5);
+    box-shadow: 0px 0px 37px 6px rgba(199, 35, 62, 0.5);
+    padding: 40px;
+    position: relative;
+
+    >.row {
+        align-items: center;
+
+    }
+
+    &:after {
+        content: "";
+        width: 490px;
+        height: 490px;
+        display: flex;
+        position: absolute;
+        top: 60px;
+        right: 90px;
+        background: url(../images/bg-text-intros-mains.png) no-repeat center;
+        background-size: 100% 100%;
+    }
+
+}
+
+
+.text-intros__mains {
+    position: relative;
+    z-index: 10;
+
+    .text-after__mains {
+        position: relative;
+        font-family: 'RoundedMplus1c-Thin';
+        width: fit-content;
+        transition: all 0.3s;
+
+        &:after {
+            content: "";
+            left: 0px;
+            bottom: -5px;
+            width: 10px;
+            height: 1px;
+            background-color: #707070;
+            display: flex;
+            transition: all 0.3s;
+            position: absolute;
+        }
+
+        &:hover,
+        &:focus {
+
+            font-family: 'RoundedMplus1c-Medium';
+
+            &:after {
+                width: 100% !important;
+            }
+        }
+    }
+}
+
+
+
+.item-prds__mains {
+    position: relative;
+    width: 100%;
+    background: rgb(255, 222, 225);
+    background: linear-gradient(0deg, rgba(255, 222, 225, 0.7458333675266982) 0%, rgba(255, 222, 225, 1) 100%);
+    border-radius: 50px;
+    border: solid 2px #FFFFFF;
+    -webkit-box-shadow: 0px 0px 17px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 0px 17px 0px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 17px 0px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+
+
+    &:hover,
+    &:focus {
+
+        &:after {
+            opacity: 1;
+        }
+
+        .img-prds__mains {
+
+            >a {
+                img {
+                    opacity: 0.5;
+                }
+
+            }
+
+            .intros-prds__hides {
+                opacity: 1;
+            }
+        }
+
+        .intros-prds__mains {
+            .names-prds__mains {
+                font-family: 'KaiseiTokumin-Bold';
+                transform: scale(0.8);
+            }
+        }
+
+    }
+
+    &:after {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(255, 255, 255, 0.5);
+        z-index: 1;
+        left: 0;
+        top: 0;
+        opacity: 0;
+        transition: all 0.3s;
+    }
+
+    .img-prds__mains {
+        position: relative;
+        z-index: 10;
+
+        .intros-prds__hides {
+            position: absolute;
+            left: 0px;
+            bottom: 0px;
+            width: 100%;
+            height: auto;
+            font-size: 16px;
+            opacity: 0;
+            transition: all 0.3s;
+        }
+
+        >a {
+            display: flex;
+            width: 100%;
+            height: 1px;
+            padding-top: 115%;
+            position: relative;
+
+            img {
+                position: absolute;
+                left: 0px;
+                right: 0px;
+                bottom: 0px;
+                margin: auto;
+                width: auto;
+                height: auto;
+                object-fit: scale-down;
+                max-width: 100%;
+                max-height: 100%;
+                transition: all 0.3s;
+            }
+
+        }
+    }
+
+    .intros-prds__mains {
+        text-align: center;
+        margin-top: 5px;
+        border-top: solid 1px #333333;
+        padding-top: 20px;
+        z-index: 10;
+        position: relative;
+
+        .names-prds__mains {
+            display: flex;
+            justify-content: center;
+
+            &:hover,
+            &:focus {
+                color: $reds;
+            }
+        }
+
+        .star-views__prds {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+}
+
+
+.prds-mains {
+    .item-prds__mains {
+        margin-bottom: 50px;
+    }
+}
+
+.text-about__mains {
+    max-width: 745px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.about-mains {
+    background: url(../images/bg-about-mains.png) no-repeat center;
+    background-size: 120% 120%;
+    border-radius: 25px;
+    padding: 75px 0px;
+
+    .btn-see__next {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+.about-mains {
+    .container {
+        max-width: 1600px;
+
+        >.row {
+            align-items: center;
+        }
+    }
+}
+
+.items-slides__mains {
+    >.row {
+        align-items: center;
+    }
+
+    .titles-light__alls {
+        letter-spacing: 10px;
+    }
+}
+
+.items-about__mains {
+    display: flex;
+
+    .number-about__mains {
+        line-height: 1;
+        margin-right: 30px;
+        font-family: 'RoundedMplus1c-Light';
+    }
+
+    .intros-about__mains {
+        width: 100%;
+        flex: 1;
+        font-family: 'RoundedMplus1c-Light';
+
+        .names-about__mains {
+            font-family: 'KaiseiTokumin-Regular';
+        }
+    }
+}
+
+.list-about__mains {
+    li {
+        &:not(:last-child) {
+            margin-bottom: 25px;
+        }
+    }
+}
+
+
+.btn-see__next {
+    display: flex;
+    width: fit-content;
+    color: #3B3B3B;
+    font-family: 'SFUIDisplay-Light';
+    position: relative;
+
+    &:after {
+        content: "";
+        position: absolute;
+        left: 0px;
+        bottom: 0px;
+        width: 0;
+        height: 1px;
+        background-color: #333333;
+        transition: all 0.3s;
+
+    }
+
+    &:hover,
+    &:focus {
+        color: #3B3B3B;
+
+        &:after {
+            width: 100%;
+        }
+    }
+
+}
+
+.img-quocte__mains {
+    text-align: center;
+}
+
+.intro-quocte__mains {
+    max-width: 895px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+
+    p {
+        margin-bottom: 20px;
+
+    }
+}
+
+
+.title-quocte__mains {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    &:after {
+        content: "";
+        display: flex;
+        width: 35px;
+        height: 35px;
+        background: url(../images/after-title-quoctes.png) no-repeat center;
+        background-size: contain;
+        margin-top: 10px;
+    }
+}
+
+.quocte-mains {
+    padding-bottom: 60px;
+    padding-top: 60px;
+    background: rgb(255, 222, 225);
+    background: linear-gradient(180deg, rgba(255, 222, 225, 0.04555325548188027) 0%, rgba(255, 222, 225, 0.630987429151348) 100%);
+}
+
+
+.list-favorites__mains {
+    display: flex;
+    flex-wrap: wrap;
+
+    li {
+        width: 22%;
+
+        .items-favorites__mains {
+            display: flex;
+            height: 1px;
+            width: 100%;
+            position: relative;
+            padding-top: 100.5%;
+
+            img {
+                position: absolute;
+                left: 0px;
+                top: 0px;
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+        }
+
+        &:first-child {
+            width: 34%;
+
+            .items-favorites__mains {
+                padding-top: 130%;
+            }
+
+
+        }
+    }
+}
+
+.bottom-favorite__mains {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 50px 0px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    background-color: #FFFFFF;
+
+    li {
+        &:not(:last-child) {
+            margin-right: 105px;
+        }
+
+        a {
+            color: #333333;
+            font-family: 'Montserrat-Light';
+
+            img {
+                transition: all 0.3s;
+            }
+
+            &:hover,
+            &:focus {
+                color: $reds;
+
+                img {
+                    transform: scale(1.2);
+                }
+            }
+        }
+    }
+
+}

@@ -1,0 +1,14 @@
+img {
+  max-width: 100%;
+  vertical-align: middle;
+  -webkit-object-fit: cover;
+  -moz-object-fit: cover;
+  -ms-object-fit: cover;
+  object-fit: cover;
+}
+
+.clearfix:before, .clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+}

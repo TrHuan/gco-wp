@@ -1,0 +1,70 @@
+/* :not(:last-child) */
+/* :nth-child(1n+0) */
+.title-testemonials__details {
+  padding-bottom: 10px 20px;
+  border-bottom: solid 2px #333333;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.items-testemonials__details {
+  display: flex;
+  align-items: center;
+  position: relative;
+  padding: 60px 0px;
+}
+.items-testemonials__details:after {
+  content: "";
+  position: absolute;
+  width: 585px;
+  height: 585px;
+  display: flex;
+  top: -100px;
+  z-index: 1;
+  background: url(../images/testemonials__details.png) no-repeat center;
+  background-size: 100% 100%;
+}
+.items-testemonials__details:nth-child(2n+1):after {
+  right: 0px;
+}
+.items-testemonials__details:nth-child(2n+1) .img-testemonials__details {
+  left: 0;
+}
+.items-testemonials__details:nth-child(2n+1) .intros-testemonials__details {
+  margin-left: auto;
+  padding-left: 250px;
+  text-align: left;
+}
+.items-testemonials__details:nth-child(2n+2):after {
+  left: -170px;
+}
+.items-testemonials__details:nth-child(2n+2) .img-testemonials__details {
+  right: 0;
+}
+.items-testemonials__details:nth-child(2n+2) .intros-testemonials__details {
+  margin-right: auto;
+  padding-left: 155px;
+  padding-right: 250px;
+  text-align: right;
+}
+.items-testemonials__details .img-testemonials__details {
+  position: absolute;
+  width: 460px;
+  height: auto;
+  z-index: 15;
+}
+.items-testemonials__details .intros-testemonials__details {
+  position: relative;
+  width: 80%;
+  background-color: #FFFFFF;
+  min-height: 495px;
+  border-radius: 115px;
+  padding: 40px 75px;
+  box-shadow: 0px 0px 26px 0px rgba(0, 0, 0, 0.1);
+  z-index: 10;
+}
+
+.titles-intros__testemonials {
+  font-family: "CabritoDidone-ConDemIt";
+}

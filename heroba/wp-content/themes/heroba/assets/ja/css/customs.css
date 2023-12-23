@@ -1,0 +1,20 @@
+.main-products .item-prds__mains .intros-prds__mains .star-views__prds {
+    display: none;
+}
+
+.items-faqs__pages .btn-see__faqs {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+@media (max-width: 1299px) {
+    .menu-desktop>ul>li>a {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 1199px) {
+    .menu-desktop>ul>li>a {
+        font-size: 12px;
+    }
+}

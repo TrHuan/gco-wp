@@ -1,0 +1,58 @@
+@import 'base';
+@import 'function';
+
+
+.content-faq__pages {
+    position: relative;
+
+    .list-faqs__pages {
+        position: relative;
+
+        &:after {
+            position: absolute;
+            content: "";
+            left: -120px;
+            top: -45px;
+            display: flex;
+            width: 590px;
+            height: 590px;
+            background: url(../images/testemonials__details.png) no-repeat center;
+            background-size: 100% 100%;
+        }
+    }
+}
+
+.items-faqs__pages {
+    padding: 45px 65px;
+    background-color: #FFFFFF;
+    border-radius: 40px;
+    max-width: 1185px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    -webkit-box-shadow: 10px 10px 26px -15px rgba(199, 35, 62, 0.4);
+    -moz-box-shadow: 10px 10px 26px -15px rgba(199, 35, 62, 0.4);
+    box-shadow: 10px 10px 26px -15px rgba(199, 35, 62, 0.4);
+    position: relative;
+    z-index: 10;
+
+    &:hover,
+    &:focus {}
+
+    .titles-faq__pages {
+        font-family: 'SFProDisplay-Regular';
+    }
+
+    .text-faq__details {
+        text-align: right;
+        font-family: 'SFUIDisplay-Light';
+    }
+
+    .btn-see__faqs {
+        display: flex;
+        width: fit-content;
+        margin-left: auto;
+        color: #DD596A;
+        font-family: 'SFUIDisplay-Medium';
+    }
+}
