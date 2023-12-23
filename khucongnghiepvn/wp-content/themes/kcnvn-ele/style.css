@@ -1,0 +1,50 @@
+/* 
+Theme Name: KCNVN
+Theme URI: https://github.com/elementor/hello-theme/
+Description: KCNVN is a child theme of Hello Elementor, created by Elementor team
+Author: Elementor Team
+Author URI: https://elementor.com/
+Template: hello-elementor
+Version: 1.0.1
+Text Domain: KCNVN
+License: GNU General Public License v3 or later.
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Tags: flexible-header, custom-colors, custom-menu, custom-logo, editor-style, featured-images, rtl-language-support, threaded-comments, translation-ready
+*/
+
+/*
+    Add your custom styles here
+*/
+@font-face {
+    font-weight: 400;
+    font-style: normal;
+    font-family: ABook;
+    src: url(/vn-data/themes/kcnvn-ele/fonts/woff2/ABook_400.woff2) format("woff2"), url(/vn-data/themes/kcnvn-ele/fonts/woff/ABook_400.woff) format("woff");
+}
+@font-face {
+    font-weight: 300;
+    font-style: normal;
+    font-family: ABook;
+    font-display: fallback;
+    src: url(/vn-data/themes/kcnvn-ele/fonts/woff/ABook_300.woff);
+}
+@font-face {
+    font-weight: 700;
+    font-style: normal;
+    font-family: ABook;
+    font-display: fallback;
+    src: url(/vn-data/themes/kcnvn-ele/fonts/woff/ABook_700.woff);
+}
+p {
+    font-family: ABook,Georgia,Times,serif;
+	font-size:17px;
+	font-weight:300;
+	line-height:30px;
+	color: #232f3e;
+}
+h1 {
+    font-family: ABook, Georgia, Times, serif !important;
+	color: #232f3e;
+}
+a.jeg_readmore {display: none;}
+.jeg_ad_module {margin-bottom: 0px;}
