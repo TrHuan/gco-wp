@@ -1,0 +1,1929 @@
+<!DOCTYPE html>
+<!--[if IE 9 ]> <html lang="vi" class="ie9 loading-site no-js"> <![endif]-->
+<!--[if IE 8 ]> <html lang="vi" class="ie8 loading-site no-js"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="vi" class="loading-site no-js"> <!--<![endif]-->
+<head><meta charset="UTF-8" /><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>class RocketLazyLoadScripts{constructor(e){this.triggerEvents=e,this.userEventHandler=this.triggerListener.bind(this),this.touchStartHandler=this._onTouchStart.bind(this),this.touchMoveHandler=this._onTouchMove.bind(this),this.touchEndHandler=this._onTouchEnd.bind(this),this.clickHandler=this._onClick.bind(this),this.interceptedClicks=[],this.delayedScripts={normal:[],async:[],defer:[]},this.allJQueries=[]}_addUserInteractionListener(e){document.hidden?e.triggerListener():(this.triggerEvents.forEach((t=>window.addEventListener(t,e.userEventHandler,{passive:!0}))),window.addEventListener("touchstart",e.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",e.touchStartHandler),document.addEventListener("visibilitychange",e.userEventHandler))}_removeUserInteractionListener(){this.triggerEvents.forEach((e=>window.removeEventListener(e,this.userEventHandler,{passive:!0}))),document.removeEventListener("visibilitychange",this.userEventHandler)}_onTouchStart(e){window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),e.target.addEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"onclick","rocket-onclick")}_onTouchMove(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),e.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"rocket-onclick","onclick")}_onTouchEnd(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}_onClick(e){e.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"rocket-onclick","onclick"),this.interceptedClicks.push(e),e.preventDefault(),e.stopPropagation(),e.stopImmediatePropagation()}_replayClicks(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach((e=>{e.target.dispatchEvent(new MouseEvent("click",{view:e.view,bubbles:!0,cancelable:!0}))}))}_renameDOMAttribute(e,t,n){e.hasAttribute(t)&&(event.target.setAttribute(n,event.target.getAttribute(t)),event.target.removeAttribute(t))}triggerListener(){this._removeUserInteractionListener(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this._loadEverythingNow.bind(this)):this._loadEverythingNow()}async _loadEverythingNow(){this._delayEventListeners(),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async),await this._triggerDOMContentLoaded(),await this._triggerWindowLoad(),window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this._replayClicks()}_registerAllDelayedScripts(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((e=>{e.hasAttribute("src")?e.hasAttribute("async")&&!1!==e.async?this.delayedScripts.async.push(e):e.hasAttribute("defer")&&!1!==e.defer||"module"===e.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(e):this.delayedScripts.normal.push(e):this.delayedScripts.normal.push(e)}))}async _transformScript(e){return await this._requestAnimFrame(),new Promise((t=>{const n=document.createElement("script");[...e.attributes].forEach((e=>{let t=e.nodeName;"type"!==t&&("data-rocket-type"===t&&(t="type"),n.setAttribute(t,e.nodeValue))})),e.hasAttribute("src")?(n.addEventListener("load",t),n.addEventListener("error",t)):(n.text=e.text,t()),e.parentNode.replaceChild(n,e)}))}async _loadScriptsFromList(e){const t=e.shift();return t?(await this._transformScript(t),this._loadScriptsFromList(e)):Promise.resolve()}_preloadAllScripts(){var e=document.createDocumentFragment();[...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async].forEach((t=>{const n=t.getAttribute("src");if(n){const t=document.createElement("link");t.href=n,t.rel="preload",t.as="script",e.appendChild(t)}})),document.head.appendChild(e)}_delayEventListeners(){let e={};function t(t,n){!function(t){function n(n){return e[t].eventsToRewrite.indexOf(n)>=0?"rocket-"+n:n}e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},eventsToRewrite:[]},t.addEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.remove.apply(t,arguments)})}(t),e[t].eventsToRewrite.push(n)}function n(e,t){let n=e[t];Object.defineProperty(e,t,{get:()=>n||function(){},set(i){e["rocket"+t]=n=i}})}t(document,"DOMContentLoaded"),t(window,"DOMContentLoaded"),t(window,"load"),t(window,"pageshow"),t(document,"readystatechange"),n(document,"onreadystatechange"),n(window,"onload"),n(window,"onpageshow")}_delayJQueryReady(e){let t=window.jQuery;Object.defineProperty(window,"jQuery",{get:()=>t,set(n){if(n&&n.fn&&!e.allJQueries.includes(n)){n.fn.ready=n.fn.init.prototype.ready=function(t){e.domReadyFired?t.bind(document)(n):document.addEventListener("rocket-DOMContentLoaded",(()=>t.bind(document)(n)))};const t=n.fn.on;n.fn.on=n.fn.init.prototype.on=function(){if(this[0]===window){function e(e){return e.split(" ").map((e=>"load"===e||0===e.indexOf("load.")?"rocket-jquery-load":e)).join(" ")}"string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=e(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t=>{delete Object.assign(arguments[0],{[e(t)]:arguments[0][t]})[t]}))}return t.apply(this,arguments),this},e.allJQueries.push(n)}t=n}})}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._requestAnimFrame(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._requestAnimFrame(),window.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._requestAnimFrame(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._requestAnimFrame(),document.rocketonreadystatechange&&document.rocketonreadystatechange()}async _triggerWindowLoad(){await this._requestAnimFrame(),window.dispatchEvent(new Event("rocket-load")),await this._requestAnimFrame(),window.rocketonload&&window.rocketonload(),await this._requestAnimFrame(),this.allJQueries.forEach((e=>e(window).trigger("rocket-jquery-load"))),window.dispatchEvent(new Event("rocket-pageshow")),await this._requestAnimFrame(),window.rocketonpageshow&&window.rocketonpageshow()}_handleDocumentWrite(){const e=new Map;document.write=document.writeln=function(t){const n=document.currentScript,i=document.createRange(),r=n.parentElement;let o=e.get(n);void 0===o&&(o=n.nextSibling,e.set(n,o));const s=document.createDocumentFragment();i.setStart(s,0),s.appendChild(i.createContextualFragment(t)),r.insertBefore(s,o)}}async _requestAnimFrame(){return document.hidden?new Promise((e=>setTimeout(e))):new Promise((e=>requestAnimationFrame(e)))}static run(){const e=new RocketLazyLoadScripts(["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"]);e._addUserInteractionListener(e)}}RocketLazyLoadScripts.run();</script>
+	
+    <meta name="description" content="megan2 - ">
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://megan2.local/xmlrpc.php" />
+	<link rel = "canonical" href = "http://megan2.local/" />
+
+	
+
+	<script type="rocketlazyloadscript">(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<!-- This site is optimized with the Yoast SEO plugin v20.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Trang chủ - megan2</title><link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Open%20Sans%3Aregular%2C700%2Cregular%2C700%2Cregular&#038;display=swap" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open%20Sans%3Aregular%2C700%2Cregular%2C700%2Cregular&#038;display=swap" media="print" onload="this.media='all'" /><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open%20Sans%3Aregular%2C700%2Cregular%2C700%2Cregular&#038;display=swap" /></noscript><link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&#038;display=swap" /><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&#038;display=swap" media="print" onload="this.media='all'" /><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&#038;display=swap" /></noscript>
+	<link rel="canonical" href="http://megan2.local/" />
+	<meta property="og:locale" content="vi_VN" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="megan2" />
+	<meta property="og:url" content="http://megan2.local/" />
+	<meta property="og:site_name" content="megan2" />
+	<meta property="article:modified_time" content="2023-03-30T01:31:35+00:00" />
+	<meta property="og:image" content="http://megan2.local/wp-content/uploads/2023/03/bg-doitac-1.jpg" />
+	<meta property="og:image:width" content="2048" />
+	<meta property="og:image:height" content="1365" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="megan2" />
+	<meta name="twitter:image" content="http://megan2.local/wp-content/uploads/2023/03/bg-doitac-1.jpg" />
+	<meta name="twitter:label1" content="Ước tính thời gian đọc" />
+	<meta name="twitter:data1" content="3 phút" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"http://megan2.local/","url":"http://megan2.local/","name":"Trang chủ - megan2","isPartOf":{"@id":"http://megan2.local/#website"},"about":{"@id":"http://megan2.local/#organization"},"datePublished":"2023-03-27T04:06:16+00:00","dateModified":"2023-03-30T01:31:35+00:00","breadcrumb":{"@id":"http://megan2.local/#breadcrumb"},"inLanguage":"vi","potentialAction":[{"@type":"ReadAction","target":["http://megan2.local/"]}]},{"@type":"BreadcrumbList","@id":"http://megan2.local/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"http://megan2.local/#website","url":"http://megan2.local/","name":"megan2","description":"","publisher":{"@id":"http://megan2.local/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"http://megan2.local/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"vi"},{"@type":"Organization","@id":"http://megan2.local/#organization","name":"megan2","url":"http://megan2.local/","logo":{"@type":"ImageObject","inLanguage":"vi","@id":"http://megan2.local/#/schema/logo/image/","url":"http://megan2.local/wp-content/uploads/2023/03/logo-1.png","contentUrl":"http://megan2.local/wp-content/uploads/2023/03/logo-1.png","width":258,"height":234,"caption":"megan2"},"image":{"@id":"http://megan2.local/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Dòng thông tin megan2 &raquo;" href="http://megan2.local/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dòng phản hồi megan2 &raquo;" href="http://megan2.local/comments/feed/" />
+<link rel="prefetch" href="http://megan2.local/wp-content/themes/flatsome/assets/js/chunk.countup.fe2c1016.js" />
+<link rel="prefetch" href="http://megan2.local/wp-content/themes/flatsome/assets/js/chunk.sticky-sidebar.a58a6557.js" />
+<link rel="prefetch" href="http://megan2.local/wp-content/themes/flatsome/assets/js/chunk.tooltips.29144c1c.js" />
+<link rel="prefetch" href="http://megan2.local/wp-content/themes/flatsome/assets/js/chunk.vendors-popups.947eca5c.js" />
+<link rel="prefetch" href="http://megan2.local/wp-content/themes/flatsome/assets/js/chunk.vendors-slider.c7f2bd49.js" />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,161;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px;--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223}@media (-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{clip:rect(1px,1px,1px,1px);word-wrap:normal!important;border:0;-webkit-clip-path:inset(50%);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{clip:auto!important;background-color:#ddd;-webkit-clip-path:none;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}figure{margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+</style>
+<link rel='stylesheet' id='classic-theme-styles-css' href='http://megan2.local/wp-includes/css/classic-themes.min.css?ver=6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='http://megan2.local/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='css-lth-bootstrap-css' href='http://megan2.local/wp-content/themes/flatsome-child/assets/css/bootstrap.min.css?ver=all' type='text/css' media='all' />
+<link rel='stylesheet' id='css-lth-fontawesome-css' href='http://megan2.local/wp-content/themes/flatsome-child/assets/css/all.fontawesome.min.css?ver=all' type='text/css' media='all' />
+<link rel='stylesheet' id='css-lth-customs-css' href='http://megan2.local/wp-content/themes/flatsome-child/assets/css/customs.css?ver=all' type='text/css' media='all' />
+<link rel='stylesheet' id='css-lth-slick-css' href='http://megan2.local/wp-content/themes/flatsome-child/assets/css/slick.min.css?ver=all' type='text/css' media='all' />
+<link rel='stylesheet' id='flatsome-main-css' href='http://megan2.local/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.15.7' type='text/css' media='all' />
+<style id='flatsome-main-inline-css' type='text/css'>
+@font-face {
+				font-family: "fl-icons";
+				font-display: block;
+				src: url(http://megan2.local/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot?v=3.15.7);
+				src:
+					url(http://megan2.local/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot#iefix?v=3.15.7) format("embedded-opentype"),
+					url(http://megan2.local/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2?v=3.15.7) format("woff2"),
+					url(http://megan2.local/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf?v=3.15.7) format("truetype"),
+					url(http://megan2.local/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff?v=3.15.7) format("woff"),
+					url(http://megan2.local/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg?v=3.15.7#fl-icons) format("svg");
+			}
+</style>
+<link rel='stylesheet' id='flatsome-style-css' href='http://megan2.local/wp-content/themes/flatsome-child/style.css?ver=3.0' type='text/css' media='all' />
+
+<style id='rocket-lazyload-inline-css' type='text/css'>
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;cursor:pointer;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:72px;width:72px;left:50%;top:50%;margin-left:-36px;margin-top:-36px;position:absolute;background:url(http://megan2.local/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat;cursor:pointer}
+</style>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+            window._nslDOMReady = function (callback) {
+                if ( document.readyState === "complete" || document.readyState === "interactive" ) {
+                    callback();
+                } else {
+                    document.addEventListener( "DOMContentLoaded", callback );
+                }
+            };
+            </script><script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='http://megan2.local/wp-includes/js/jquery/jquery.min.js?ver=3.6.3' id='jquery-core-js' defer></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='http://megan2.local/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js' defer></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='http://megan2.local/wp-content/themes/flatsome-child/assets/js/jquery.min.js?ver=all' id='js-lth-jquery-js' defer></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='http://megan2.local/wp-content/themes/flatsome-child/assets/js/slick.min.js?ver=all' id='js-lth-slick-js' defer></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='http://megan2.local/wp-content/themes/flatsome-child/assets/js/main.js?ver=all' id='js-lth-main-js' defer></script>
+<link rel="https://api.w.org/" href="http://megan2.local/wp-json/" /><link rel="alternate" type="application/json" href="http://megan2.local/wp-json/wp/v2/pages/5" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://megan2.local/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://megan2.local/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2" />
+<link rel='shortlink' href='http://megan2.local/' />
+<link rel="alternate" type="application/json+oembed" href="http://megan2.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmegan2.local%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://megan2.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmegan2.local%2F&#038;format=xml" />
+<style>.bg{opacity: 0; transition: opacity 1s; -webkit-transition: opacity 1s;} .bg-loaded{opacity: 1;}</style><!--[if IE]><link rel="stylesheet" type="text/css" href="http://megan2.local/wp-content/themes/flatsome/assets/css/ie-fallback.css"><script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.1/html5shiv.js"></script><script>var head = document.getElementsByTagName('head')[0],style = document.createElement('style');style.type = 'text/css';style.styleSheet.cssText = ':before,:after{content:none !important';head.appendChild(style);setTimeout(function(){head.removeChild(style);}, 0);</script><script src="http://megan2.local/wp-content/themes/flatsome/assets/libs/ie-flexibility.js"></script><![endif]--><link rel="icon" href="http://megan2.local/wp-content/uploads/2023/03/cropped-logo-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://megan2.local/wp-content/uploads/2023/03/cropped-logo-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://megan2.local/wp-content/uploads/2023/03/cropped-logo-1-180x180.png" />
+<meta name="msapplication-TileImage" content="http://megan2.local/wp-content/uploads/2023/03/cropped-logo-1-270x270.png" />
+<style id="custom-css" type="text/css">:root {--primary-color: #ecb841;}.container-width, .full-width .ubermenu-nav, .container, .row{max-width: 1170px}.row.row-collapse{max-width: 1140px}.row.row-small{max-width: 1162.5px}.row.row-large{max-width: 1200px}.header-main{height: 75px}#logo img{max-height: 75px}#logo{width:200px;}.header-top{min-height: 30px}.transparent .header-main{height: 70px}.transparent #logo img{max-height: 70px}.has-transparent + .page-title:first-of-type,.has-transparent + #main > .page-title,.has-transparent + #main > div > .page-title,.has-transparent + #main .page-header-wrapper:first-of-type .page-title{padding-top: 70px;}.header.show-on-scroll,.stuck .header-main{height:70px!important}.stuck #logo img{max-height: 70px!important}.header-bottom {background-color: #f1f1f1}.header-main .nav > li > a{line-height: 16px }@media (max-width: 549px) {.header-main{height: 70px}#logo img{max-height: 70px}}/* Color */.accordion-title.active, .has-icon-bg .icon .icon-inner,.logo a, .primary.is-underline, .primary.is-link, .badge-outline .badge-inner, .nav-outline > li.active> a,.nav-outline >li.active > a, .cart-icon strong,[data-color='primary'], .is-outline.primary{color: #ecb841;}/* Color !important */[data-text-color="primary"]{color: #ecb841!important;}/* Background Color */[data-text-bg="primary"]{background-color: #ecb841;}/* Background */.scroll-to-bullets a,.featured-title, .label-new.menu-item > a:after, .nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,button[type="submit"], .button.wc-forward:not(.checkout):not(.checkout-button), .button.submit-button, .button.primary:not(.is-outline),.featured-table .title,.is-outline:hover, .has-icon:hover .icon-label,.nav-dropdown-bold .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold > li > a:hover, .nav-dropdown-bold.dark .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold.dark > li > a:hover, .header-vertical-menu__opener ,.is-outline:hover, .tagcloud a:hover,.grid-tools a, input[type='submit']:not(.is-form), .box-badge:hover .box-text, input.button.alt,.nav-box > li > a:hover,.nav-box > li.active > a,.nav-pills > li.active > a ,.current-dropdown .cart-icon strong, .cart-icon:hover strong, .nav-line-bottom > li > a:before, .nav-line-grow > li > a:before, .nav-line > li > a:before,.banner, .header-top, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover, .button.primary:not(.is-outline), input[type='submit'].primary, input[type='submit'].primary, input[type='reset'].button, input[type='button'].primary, .badge-inner{background-color: #ecb841;}/* Border */.nav-vertical.nav-tabs > li.active > a,.scroll-to-bullets a.active,.nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,.accordion-title.active,.featured-table,.is-outline:hover, .tagcloud a:hover,blockquote, .has-border, .cart-icon strong:after,.cart-icon strong,.blockUI:before, .processing:before,.loading-spin, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover{border-color: #ecb841}.nav-tabs > li.active > a{border-top-color: #ecb841}.widget_shopping_cart_content .blockUI.blockOverlay:before { border-left-color: #ecb841 }.woocommerce-checkout-review-order .blockUI.blockOverlay:before { border-left-color: #ecb841 }/* Fill */.slider .flickity-prev-next-button:hover svg,.slider .flickity-prev-next-button:hover .arrow{fill: #ecb841;}/* Background Color */[data-icon-label]:after, .secondary.is-underline:hover,.secondary.is-outline:hover,.icon-label,.button.secondary:not(.is-outline),.button.alt:not(.is-outline), .badge-inner.on-sale, .button.checkout, .single_add_to_cart_button, .current .breadcrumb-step{ background-color:#111111; }[data-text-bg="secondary"]{background-color: #111111;}/* Color */.secondary.is-underline,.secondary.is-link, .secondary.is-outline,.stars a.active, .star-rating:before, .woocommerce-page .star-rating:before,.star-rating span:before, .color-secondary{color: #111111}/* Color !important */[data-text-color="secondary"]{color: #111111!important;}/* Border */.secondary.is-outline:hover{border-color:#111111}@media screen and (max-width: 549px){body{font-size: 100%;}}body{font-family:"Open Sans", sans-serif}body{font-weight: 0}body{color: #353535}.nav > li > a {font-family:"Open Sans", sans-serif;}.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-family:"Open Sans", sans-serif;}.nav > li > a {font-weight: 700;}.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-weight: 700;}h1,h2,h3,h4,h5,h6,.heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a{font-family: "Open Sans", sans-serif;}h1,h2,h3,h4,h5,h6,.heading-font,.banner h1,.banner h2{font-weight: 700;}.alt-font{font-family: "Open Sans", sans-serif;}.alt-font{font-weight: 0!important;}.header:not(.transparent) .header-nav-main.nav > li > a {color: #1c1c1c;}.header:not(.transparent) .header-nav-main.nav > li > a:hover,.header:not(.transparent) .header-nav-main.nav > li.active > a,.header:not(.transparent) .header-nav-main.nav > li.current > a,.header:not(.transparent) .header-nav-main.nav > li > a.active,.header:not(.transparent) .header-nav-main.nav > li > a.current{color: #ecb841;}.header-nav-main.nav-line-bottom > li > a:before,.header-nav-main.nav-line-grow > li > a:before,.header-nav-main.nav-line > li > a:before,.header-nav-main.nav-box > li > a:hover,.header-nav-main.nav-box > li.active > a,.header-nav-main.nav-pills > li > a:hover,.header-nav-main.nav-pills > li.active > a{color:#FFF!important;background-color: #ecb841;}a{color: #000000;}a:hover{color: #ecb841;}.tagcloud a:hover{border-color: #ecb841;background-color: #ecb841;}.absolute-footer, html{background-color: #363636}.label-new.menu-item > a:after{content:"New";}.label-hot.menu-item > a:after{content:"Hot";}.label-sale.menu-item > a:after{content:"Sale";}.label-popular.menu-item > a:after{content:"Popular";}</style><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript></head>
+
+<body class="home page-template page-template-page-blank page-template-page-blank-php page page-id-5 lightbox nav-dropdown-has-arrow nav-dropdown-has-shadow nav-dropdown-has-border">
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+<div id="wrapper">
+
+	
+	<header id="header" class="header has-sticky sticky-jump">
+		<div class="header-wrapper">
+			<div id="masthead" class="header-main ">
+      <div class="header-inner flex-row container logo-left medium-logo-center" role="navigation">
+
+          <!-- Logo -->
+          <div id="logo" class="flex-col logo">
+            
+<!-- Header logo -->
+<a href="http://megan2.local/" title="megan2" rel="home">
+		<img width="258" height="234" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20258%20234'%3E%3C/svg%3E" class="header_logo header-logo" alt="megan2" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/logo-1.png"/><noscript><img width="258" height="234" src="http://megan2.local/wp-content/uploads/2023/03/logo-1.png" class="header_logo header-logo" alt="megan2"/></noscript><img  width="163" height="147" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20163%20147'%3E%3C/svg%3E" class="header-logo-dark" alt="megan2" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/logo-light-1.png"/><noscript><img  width="163" height="147" src="http://megan2.local/wp-content/uploads/2023/03/logo-light-1.png" class="header-logo-dark" alt="megan2"/></noscript></a>
+          </div>
+
+          <!-- Mobile Left Elements -->
+          <div class="flex-col show-for-medium flex-left">
+            <ul class="mobile-nav nav nav-left ">
+              <li class="nav-icon has-icon">
+  		<a href="#" data-open="#main-menu" data-pos="left" data-bg="main-menu-overlay" data-color="" class="is-small" aria-label="Menu" aria-controls="main-menu" aria-expanded="false">
+		
+		  <i class="icon-menu" ></i>
+		  		</a>
+	</li>            </ul>
+          </div>
+
+          <!-- Left Elements -->
+          <div class="flex-col hide-for-medium flex-left
+            flex-grow">
+            <ul class="header-nav header-nav-main nav nav-left  nav-spacing-xlarge nav-uppercase" >
+                          </ul>
+          </div>
+
+          <!-- Right Elements -->
+          <div class="flex-col hide-for-medium flex-right">
+            <ul class="header-nav header-nav-main nav nav-right  nav-spacing-xlarge nav-uppercase">
+              <li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38 menu-item-design-default"><a href="http://megan2.local/gioi-thieu/" class="nav-top-link">Giới thiệu</a></li>
+<li id="menu-item-501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-501 menu-item-design-default has-dropdown"><a href="http://megan2.local/du-an-noi-bat/" class="nav-top-link">Dự án nổi bật<i class="icon-angle-down" ></i></a>
+<ul class="sub-menu nav-dropdown nav-dropdown-default">
+	<li id="menu-item-589" class="menu-item menu-item-type-taxonomy menu-item-object-du_an_cat menu-item-589"><a href="http://megan2.local/du_an_cat/vincity/">Vincity</a></li>
+	<li id="menu-item-587" class="menu-item menu-item-type-taxonomy menu-item-object-du_an_cat menu-item-587"><a href="http://megan2.local/du_an_cat/swan-park/">Swan Park</a></li>
+	<li id="menu-item-586" class="menu-item menu-item-type-taxonomy menu-item-object-du_an_cat menu-item-586"><a href="http://megan2.local/du_an_cat/swan-bay/">Swan Bay</a></li>
+	<li id="menu-item-588" class="menu-item menu-item-type-taxonomy menu-item-object-du_an_cat menu-item-588"><a href="http://megan2.local/du_an_cat/villa-park/">Villa Park</a></li>
+	<li id="menu-item-582" class="menu-item menu-item-type-taxonomy menu-item-object-du_an_cat menu-item-582"><a href="http://megan2.local/du_an_cat/gem-riverside/">Gem Riverside</a></li>
+	<li id="menu-item-585" class="menu-item menu-item-type-taxonomy menu-item-object-du_an_cat menu-item-585"><a href="http://megan2.local/du_an_cat/saigon-sport-city/">Saigon Sport City</a></li>
+	<li id="menu-item-584" class="menu-item menu-item-type-taxonomy menu-item-object-du_an_cat menu-item-584"><a href="http://megan2.local/du_an_cat/river-park-2/">River Park 2</a></li>
+	<li id="menu-item-583" class="menu-item menu-item-type-taxonomy menu-item-object-du_an_cat menu-item-583"><a href="http://megan2.local/du_an_cat/palm-heights/">Palm Heights</a></li>
+	<li id="menu-item-581" class="menu-item menu-item-type-taxonomy menu-item-object-du_an_cat menu-item-581"><a href="http://megan2.local/du_an_cat/can-ho-dat-xanh-lien-phuong/">Căn hộ Đất Xanh Liên Phường</a></li>
+</ul>
+</li>
+<li id="menu-item-478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-478 menu-item-design-default"><a href="http://megan2.local/su-kien/" class="nav-top-link">Sự kiện</a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37 menu-item-design-default"><a href="http://megan2.local/doi-tac/" class="nav-top-link">Đối tác</a></li>
+<li id="menu-item-477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477 menu-item-design-default"><a href="http://megan2.local/tin-tuc/" class="nav-top-link">Tin tức</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36 menu-item-design-default"><a href="http://megan2.local/lien-he/" class="nav-top-link">Liên hệ</a></li>
+<li class="html custom html_topbar_left"><div class="hotline_html"><p>HOTLINE: <strong><a href="tel:+" 0902848440"="">0902.848.440</a></strong> - <strong><a href="tel:+" 0938460400"="">0938.460.400</a></strong></p></div></li>            </ul>
+          </div>
+
+          <!-- Mobile Right Elements -->
+          <div class="flex-col show-for-medium flex-right">
+            <ul class="mobile-nav nav nav-right ">
+                          </ul>
+          </div>
+
+      </div>
+     
+      </div>
+<div class="header-bg-container fill"><div class="header-bg-image fill"></div><div class="header-bg-color fill"></div></div>		</div>
+	</header>
+
+	
+	
+	<main id="main" class="">
+
+
+<div id="content" role="main" class="content-area">
+
+		
+			<div class="bialty-container"><div class="container section-title-container hidden"><h1 class="section-title section-title-normal"><b></b><span class="section-title-main">Lorem ipsum dolor sit amet...</span><b></b></h1></div>
+	<section class="section" id="section_1332367504">
+		<div class="bg section-bg fill bg-fill  bg-loaded">
+
+			
+			
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+<div class="slider-wrapper relative" id="slider-2009467576">
+    <div class="slider slider-nav-circle slider-nav-large slider-nav-light slider-style-normal" data-flickity-options='{
+            "cellAlign": "center",
+            "imagesLoaded": true,
+            "lazyLoad": 1,
+            "freeScroll": false,
+            "wrapAround": true,
+            "autoPlay": 6000,
+            "pauseAutoPlayOnHover" : true,
+            "prevNextButtons": true,
+            "contain" : true,
+            "adaptiveHeight" : true,
+            "dragThreshold" : 10,
+            "percentPosition": true,
+            "pageDots": true,
+            "rightToLeft": false,
+            "draggable": true,
+            "selectedAttraction": 0.1,
+            "parallax" : 0,
+            "friction": 0.6        }'>
+        
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_981992540">
+								<div class="img-inner image-cover dark" style="padding-top:500px;">
+			<img width="1020" height="680" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201020%20680'%3E%3C/svg%3E" class="attachment-large size-large" alt="Trang ch&#7911;" decoding="async" data-lazy-srcset="http://megan2.local/wp-content/uploads/2023/03/bg-duannoibst-1-1024x683.jpg 1024w, http://megan2.local/wp-content/uploads/2023/03/bg-duannoibst-1-300x200.jpg 300w, http://megan2.local/wp-content/uploads/2023/03/bg-duannoibst-1-768x512.jpg 768w, http://megan2.local/wp-content/uploads/2023/03/bg-duannoibst-1-1536x1024.jpg 1536w, http://megan2.local/wp-content/uploads/2023/03/bg-duannoibst-1.jpg 2048w" data-lazy-sizes="(max-width: 1020px) 100vw, 1020px" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/bg-duannoibst-1-1024x683.jpg"><noscript><img width="1020" height="680" src="http://megan2.local/wp-content/uploads/2023/03/bg-duannoibst-1-1024x683.jpg" class="attachment-large size-large" alt="Trang ch&#7911;" decoding="async" srcset="http://megan2.local/wp-content/uploads/2023/03/bg-duannoibst-1-1024x683.jpg 1024w, http://megan2.local/wp-content/uploads/2023/03/bg-duannoibst-1-300x200.jpg 300w, http://megan2.local/wp-content/uploads/2023/03/bg-duannoibst-1-768x512.jpg 768w, http://megan2.local/wp-content/uploads/2023/03/bg-duannoibst-1-1536x1024.jpg 1536w, http://megan2.local/wp-content/uploads/2023/03/bg-duannoibst-1.jpg 2048w" sizes="(max-width: 1020px) 100vw, 1020px"></noscript>						
+					</div>
+								
+<style>
+#image_981992540 {
+  width: 100%;
+}
+</style>
+	</div>
+	
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1914052455">
+								<div class="img-inner image-cover dark" style="padding-top:500px;">
+			<img width="1020" height="710" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201020%20710'%3E%3C/svg%3E" class="attachment-large size-large" alt="Trang ch&#7911;" decoding="async" data-lazy-srcset="http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1-1024x713.jpg 1024w, http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1-300x209.jpg 300w, http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1-768x534.jpg 768w, http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1-1536x1069.jpg 1536w, http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1.jpg 2048w" data-lazy-sizes="(max-width: 1020px) 100vw, 1020px" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1-1024x713.jpg"><noscript><img width="1020" height="710" src="http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1-1024x713.jpg" class="attachment-large size-large" alt="Trang ch&#7911;" decoding="async" srcset="http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1-1024x713.jpg 1024w, http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1-300x209.jpg 300w, http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1-768x534.jpg 768w, http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1-1536x1069.jpg 1536w, http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1.jpg 2048w" sizes="(max-width: 1020px) 100vw, 1020px"></noscript>						
+					</div>
+								
+<style>
+#image_1914052455 {
+  width: 100%;
+}
+</style>
+	</div>
+	
+     </div>
+
+     <div class="loading-spin dark large centered"></div>
+
+     	</div>
+
+
+		</div>
+
+		
+<style>
+#section_1332367504 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+#section_1332367504 .ux-shape-divider--top svg {
+  height: 150px;
+  --divider-top-width: 100%;
+}
+#section_1332367504 .ux-shape-divider--bottom svg {
+  height: 150px;
+  --divider-width: 100%;
+}
+</style>
+	</section>
+	
+	<section class="section" id="section_1265829965">
+		<div class="bg section-bg fill bg-fill  bg-loaded">
+
+			
+			
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+<div class="container section-title-container"><h2 class="section-title section-title-center"><b></b><span class="section-title-main" style="color:rgb(28, 28, 28);">Gi&#7899;i thi&#7879;u</span><b></b></h2></div>
+<div class="row row_gioi_thieu" id="row-1175725049">
+
+	<div id="col-1357357814" class="col medium-3 small-12 large-3" data-animate="flipInY">
+				<div class="col-inner text-center">
+			
+			
+
+		<div class="icon-box featured-box icon-box-top text-left">
+					<div class="icon-box-img" style="width: 68px">
+				<div class="icon">
+					<div class="icon-inner" style="color:rgb(237, 184, 65);">
+						<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveaspectratio="xMidYMid" width="69.031" height="60.031" viewbox="0 0 69.031 60.031">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #edb841;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path d="M36.669,8.225 L52.084,-0.014 L52.084,60.024 L36.669,60.024 L36.669,8.225 ZM53.627,-0.012 L53.627,60.027 L69.043,60.027 L69.043,8.225 L53.627,-0.012 ZM0.014,60.024 L24.199,60.024 L24.199,17.371 L0.014,29.166 L0.014,60.024 ZM25.669,60.024 L35.128,60.024 L35.128,22.426 L25.669,17.371 L25.669,60.024 Z" class="cls-1"></path>
+</svg>
+					</div>
+				</div>
+			</div>
+				<div class="icon-box-text last-reset">
+									
+	<div id="text-1237896609" class="text">
+		
+<h3>TH&Agrave;NH L&#7852;P</h3>
+<p><b>C&ocirc;ng ty TNHH Investment Land&nbsp;</b>&#273;&#432;&#7907;c th&agrave;nh l&#7853;p theo gi&#7845;y ph&eacute;p &#273;&#259;ng k&yacute; kinh doanh s&#7889; 0313851136 &hellip;</p>
+<p><a href="http://megan.local/gioi-thieu/?customize_changeset_uuid=0ef31cbe-cc24-4421-b124-112f61db38c8&amp;customize_messenger_channel=preview-0&amp;customize_autosaved=on" data-wplink-url-error="true"><span style="color: #edb841;">Xem th&ecirc;m</span></a></p>
+		
+<style>
+#text-1237896609 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+		</div>
+	</div>
+	
+	
+		</div>
+				
+<style>
+#col-1357357814 > .col-inner {
+  padding: 0px 15px 0px 15px;
+}
+</style>
+	</div>
+
+	
+
+	<div id="col-688076106" class="col medium-3 small-12 large-3" data-animate="flipInY">
+				<div class="col-inner text-center">
+			
+			
+
+		<div class="icon-box featured-box icon-box-top text-left">
+					<div class="icon-box-img" style="width: 44px">
+				<div class="icon">
+					<div class="icon-inner" style="color:rgb(237, 184, 65);">
+						<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveaspectratio="xMidYMid" width="43" height="60.031" viewbox="0 0 43 60.031">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #edb841;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path d="M32.479,-0.010 L32.479,5.146 L26.580,5.146 L26.580,-0.010 L16.417,-0.010 L16.417,5.146 L10.518,5.146 L10.518,-0.010 L0.356,-0.010 L0.356,5.146 L0.356,10.299 L0.356,14.953 L42.641,14.953 L42.641,10.299 L42.641,5.146 L42.641,-0.010 L32.479,-0.010 ZM37.778,50.136 L37.778,17.267 L5.219,17.267 L5.219,50.136 L-0.015,50.136 L-0.015,60.019 L43.012,60.019 L43.012,50.136 L37.778,50.136 ZM9.416,20.276 L14.721,20.276 L14.721,50.136 L9.416,50.136 L9.416,20.276 Z" class="cls-1"></path>
+</svg>
+					</div>
+				</div>
+			</div>
+				<div class="icon-box-text last-reset">
+									
+	<div id="text-1109037962" class="text">
+		
+<h3>S&#7913; m&#7879;nh</h3>
+<p>Mang &#273;&#7871;n cho kh&aacute;ch h&agrave;ng nh&#7919;ng gi&#7843;i ph&aacute;p v&agrave; s&#7921; l&#7921;a ch&#7885;n t&#7889;t nh&#7845;t, v&igrave; l&#7907;i &iacute;ch c&#7911;a kh&aacute;ch h&agrave;ng, &#273;&#7889;i t&aacute;c, ch&#7911; &#273;&#7847;u t&#432;&hellip;</p>
+<p><a href="http://megan.local/gioi-thieu/?customize_changeset_uuid=0ef31cbe-cc24-4421-b124-112f61db38c8&amp;customize_messenger_channel=preview-0&amp;customize_autosaved=on" data-wplink-url-error="true"><span style="color: #edb841;">Xem th&ecirc;m</span></a></p>
+		
+<style>
+#text-1109037962 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+		</div>
+	</div>
+	
+	
+		</div>
+				
+<style>
+#col-688076106 > .col-inner {
+  padding: 0px 15px 0px 15px;
+}
+</style>
+	</div>
+
+	
+
+	<div id="col-1040178462" class="col medium-3 small-12 large-3" data-animate="flipInY">
+				<div class="col-inner text-center">
+			
+			
+
+		<div class="icon-box featured-box icon-box-top text-left">
+					<div class="icon-box-img" style="width: 46px">
+				<div class="icon">
+					<div class="icon-inner" style="color:rgb(237, 184, 65);">
+						<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveaspectratio="xMidYMid" width="45" height="60" viewbox="0 0 45 60">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #edb841;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path d="M26.695,47.700 L21.300,47.700 L21.300,24.255 C21.300,23.583 20.769,23.038 20.112,23.038 L7.776,23.038 C7.120,23.038 6.589,23.583 6.589,24.255 L6.589,47.700 L1.196,47.700 C0.686,47.700 0.232,48.037 0.070,48.531 C-0.092,49.027 0.073,49.572 0.479,49.888 L13.230,59.751 C13.442,59.915 13.693,59.998 13.947,59.998 C14.200,59.998 14.452,59.915 14.664,59.751 L27.413,49.888 C27.819,49.572 27.984,49.027 27.822,48.531 C27.658,48.037 27.207,47.700 26.695,47.700 ZM13.947,57.258 L4.737,50.135 L7.776,50.135 C8.432,50.135 8.964,49.591 8.964,48.918 L8.964,25.473 L18.925,25.473 L18.925,48.918 C18.925,49.591 19.457,50.135 20.112,50.135 L23.152,50.135 L13.947,57.258 ZM44.931,20.875 C44.769,21.371 44.316,21.706 43.805,21.706 L38.411,21.706 L38.411,45.148 C38.411,45.820 37.881,46.364 37.223,46.364 L24.889,46.364 C24.231,46.364 23.699,45.820 23.699,45.148 L23.699,21.706 L18.308,21.706 C17.798,21.706 17.344,21.371 17.182,20.875 C17.019,20.379 17.184,19.835 17.591,19.518 L30.340,9.653 C30.764,9.326 31.348,9.326 31.773,9.653 L44.523,19.518 C44.929,19.836 45.093,20.382 44.931,20.875 ZM29.868,6.225 L29.868,1.222 C29.868,0.550 30.400,0.005 31.056,0.005 C31.713,0.005 32.245,0.550 32.245,1.222 L32.245,6.225 C32.245,6.897 31.713,7.441 31.056,7.441 C30.400,7.441 29.868,6.897 29.868,6.225 ZM35.365,9.749 C34.926,9.248 34.966,8.480 35.451,8.031 L39.282,4.493 C39.772,4.040 40.523,4.083 40.960,4.579 C41.402,5.079 41.361,5.847 40.877,6.296 L37.047,9.834 C36.820,10.045 36.536,10.148 36.252,10.148 C35.926,10.148 35.602,10.015 35.365,9.749 ZM21.238,6.296 C20.750,5.847 20.712,5.079 21.152,4.579 C21.592,4.081 22.342,4.040 22.830,4.493 L26.661,8.030 C27.149,8.480 27.187,9.248 26.745,9.748 C26.510,10.013 26.187,10.149 25.865,10.149 C25.581,10.149 25.297,10.046 25.070,9.835 L21.238,6.296 Z" class="cls-1"></path>
+</svg>
+					</div>
+				</div>
+			</div>
+				<div class="icon-box-text last-reset">
+									
+	<div id="text-3110178247" class="text">
+		
+<h3>T&#7847;m nh&igrave;n</h3>
+<p>X&acirc;y d&#7921;ng Investment Land tr&#7903; th&agrave;nh m&#7897;t doanh nghi&#7879;p h&agrave;ng &#273;&#7847;u trong l&#297;nh v&#7921;c t&#432; v&#7845;n, ph&acirc;n ph&#7889;i v&agrave; ti&#7871;p th&#7883; b&#7845;t &#273;&#7897;ng s&#7843;n &hellip;.</p>
+<p><a href="http://megan.local/gioi-thieu/?customize_changeset_uuid=0ef31cbe-cc24-4421-b124-112f61db38c8&amp;customize_messenger_channel=preview-0&amp;customize_autosaved=on" data-wplink-url-error="true"><span style="color: #edb841;">Xem th&ecirc;m</span></a></p>
+		
+<style>
+#text-3110178247 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+		</div>
+	</div>
+	
+	
+		</div>
+				
+<style>
+#col-1040178462 > .col-inner {
+  padding: 0px 15px 0px 15px;
+}
+</style>
+	</div>
+
+	
+
+	<div id="col-684484285" class="col medium-3 small-12 large-3" data-animate="flipInY">
+				<div class="col-inner text-center">
+			
+			
+
+		<div class="icon-box featured-box icon-box-top text-left">
+					<div class="icon-box-img" style="width: 60px">
+				<div class="icon">
+					<div class="icon-inner" style="color:rgb(237, 184, 65);">
+						<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveaspectratio="xMidYMid" width="60.06" height="60.062" viewbox="0 0 60.06 60.062">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #edb841;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path d="M60.049,37.192 L60.049,22.864 L55.633,22.864 C55.053,20.789 54.242,18.816 53.202,16.983 L56.321,13.865 L46.190,3.733 L43.072,6.850 C41.237,5.814 39.266,5.002 37.191,4.421 L37.191,0.006 L22.862,0.006 L22.862,4.421 C20.789,5.000 18.817,5.814 16.982,6.850 L13.864,3.733 L3.732,13.865 L6.849,16.983 C5.813,18.818 5.001,20.789 4.422,22.864 L0.005,22.864 L0.005,37.192 L4.422,37.192 C5.001,39.267 5.813,41.238 6.849,43.073 L3.732,46.191 L13.864,56.320 L16.982,53.205 C18.817,54.241 20.789,55.054 22.862,55.632 L22.862,60.050 L37.191,60.050 L37.191,55.632 C39.266,55.054 41.237,54.241 43.072,53.205 L46.190,56.320 L56.321,46.191 L53.202,43.073 C54.240,41.238 55.053,39.267 55.633,37.192 L60.049,37.192 ZM30.027,13.052 C34.624,13.052 38.346,15.834 38.346,21.078 C38.346,26.325 34.622,32.043 30.027,32.043 C25.431,32.043 21.708,26.325 21.708,21.078 C21.708,15.834 25.429,13.052 30.027,13.052 ZM46.132,41.226 C42.564,46.283 36.687,49.593 30.027,49.593 C23.366,49.593 17.489,46.283 13.921,41.226 L13.921,40.704 C13.921,38.473 15.845,35.727 18.196,34.611 L23.425,32.126 L27.054,39.690 L28.913,34.651 C29.277,34.719 29.644,34.813 30.025,34.813 C30.405,34.813 30.767,34.719 31.136,34.651 L32.901,39.447 L36.455,32.043 L41.852,34.613 C44.203,35.729 46.130,38.473 46.130,40.708 L46.132,41.226 L46.132,41.226 Z" class="cls-1"></path>
+</svg>
+					</div>
+				</div>
+			</div>
+				<div class="icon-box-text last-reset">
+									
+	<div id="text-275670363" class="text">
+		
+<h3>Gi&aacute; tr&#7883;</h3>
+<p>Minh b&#7841;ch v&agrave; trung th&#7921;c &#273;&#7875; ph&aacute;t tri&#7875;n b&#7873;n v&#7919;ng. Tin c&#7853;y, t&ocirc;n tr&#7885;ng kh&aacute;ch h&agrave;ng v&agrave; nh&agrave; &#273;&#7847;u t&#432;, &#273;&#7889;i t&aacute;c. &hellip;.</p>
+<p><a href="http://megan.local/gioi-thieu/?customize_changeset_uuid=0ef31cbe-cc24-4421-b124-112f61db38c8&amp;customize_messenger_channel=preview-0&amp;customize_autosaved=on" data-wplink-url-error="true"><span style="color: #edb841;">Xem th&ecirc;m</span></a></p>
+		
+<style>
+#text-275670363 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+		</div>
+	</div>
+	
+	
+		</div>
+				
+<style>
+#col-684484285 > .col-inner {
+  padding: 0px 15px 0px 15px;
+}
+</style>
+	</div>
+
+	
+</div>
+		</div>
+
+		
+<style>
+#section_1265829965 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+#section_1265829965 .ux-shape-divider--top svg {
+  height: 150px;
+  --divider-top-width: 100%;
+}
+#section_1265829965 .ux-shape-divider--bottom svg {
+  height: 150px;
+  --divider-width: 100%;
+}
+</style>
+	</section>
+	
+	<section class="section" id="section_1414396055">
+		<div class="bg section-bg fill bg-fill  ">
+
+			
+			<div class="section-bg-overlay absolute fill"></div>
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+<div class="row row-full-width" id="row-1589749820">
+
+	<div id="col-1165039313" class="col small-12 large-12" data-animate="fadeInUp">
+				<div class="col-inner text-center">
+			
+			
+<div class="container section-title-container"><h2 class="section-title section-title-center"><b></b><span class="section-title-main" style="color:rgb(28, 28, 28);">D&#7921; &aacute;n n&#7893;i b&#7853;t</span><b></b></h2></div>
+		</div>
+					</div>
+
+	
+
+	<div id="col-704336606" class="col small-12 large-12" data-animate="fadeInRight">
+				<div class="col-inner text-center">
+			
+			
+
+  <div class="swiper swiper-slider swiper-categories has-shadow row-box-shadow-1 row-box-shadow-2-hover" data-item="5" data-item_lg="4" data-item_md="3" data-item_sm="2" data-item_mb="2" data-row="1" data-dots="false" data-arrows="true" data-autoplay="false">
+                        <div class="item">
+                <div class="post-box col-inner">
+                  <a href="http://megan2.local/du_an_cat/vincity/">
+                                                <div class="post-image">
+                              <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Trang ch&#7911;" width="auto" height="auto" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/bg-doitac-1.jpg"><noscript><img src="http://megan2.local/wp-content/uploads/2023/03/bg-doitac-1.jpg" alt="Trang ch&#7911;" width="auto" height="auto"></noscript>
+                          </div>
+                      
+                      <div class="post-content">
+                          <h3 class="post-name">                              
+                              Vincity                          </h3>
+                      </div>
+                  </a>
+                </div>
+            </div>
+                        <div class="item">
+                <div class="post-box col-inner">
+                  <a href="http://megan2.local/du_an_cat/swan-park/">
+                                                <div class="post-image">
+                              <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Trang ch&#7911;" width="auto" height="auto" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/bg-duannoibst-1.jpg"><noscript><img src="http://megan2.local/wp-content/uploads/2023/03/bg-duannoibst-1.jpg" alt="Trang ch&#7911;" width="auto" height="auto"></noscript>
+                          </div>
+                      
+                      <div class="post-content">
+                          <h3 class="post-name">                              
+                              Swan Park                          </h3>
+                      </div>
+                  </a>
+                </div>
+            </div>
+                        <div class="item">
+                <div class="post-box col-inner">
+                  <a href="http://megan2.local/du_an_cat/villa-park/">
+                                                <div class="post-image">
+                              <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Trang ch&#7911;" width="auto" height="auto" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1.jpg"><noscript><img src="http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1.jpg" alt="Trang ch&#7911;" width="auto" height="auto"></noscript>
+                          </div>
+                      
+                      <div class="post-content">
+                          <h3 class="post-name">                              
+                              Villa Park                          </h3>
+                      </div>
+                  </a>
+                </div>
+            </div>
+                        <div class="item">
+                <div class="post-box col-inner">
+                  <a href="http://megan2.local/du_an_cat/gem-riverside/">
+                                                <div class="post-image">
+                              <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Trang ch&#7911;" width="auto" height="auto" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/bg-doitac-1.jpg"><noscript><img src="http://megan2.local/wp-content/uploads/2023/03/bg-doitac-1.jpg" alt="Trang ch&#7911;" width="auto" height="auto"></noscript>
+                          </div>
+                      
+                      <div class="post-content">
+                          <h3 class="post-name">                              
+                              Gem Riverside                          </h3>
+                      </div>
+                  </a>
+                </div>
+            </div>
+                        <div class="item">
+                <div class="post-box col-inner">
+                  <a href="http://megan2.local/du_an_cat/saigon-sport-city/">
+                                                <div class="post-image">
+                              <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Trang ch&#7911;" width="auto" height="auto" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/bg-duannoibst-1.jpg"><noscript><img src="http://megan2.local/wp-content/uploads/2023/03/bg-duannoibst-1.jpg" alt="Trang ch&#7911;" width="auto" height="auto"></noscript>
+                          </div>
+                      
+                      <div class="post-content">
+                          <h3 class="post-name">                              
+                              Saigon Sport City                          </h3>
+                      </div>
+                  </a>
+                </div>
+            </div>
+                        <div class="item">
+                <div class="post-box col-inner">
+                  <a href="http://megan2.local/du_an_cat/river-park-2/">
+                                                <div class="post-image">
+                              <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Trang ch&#7911;" width="auto" height="auto" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1.jpg"><noscript><img src="http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1.jpg" alt="Trang ch&#7911;" width="auto" height="auto"></noscript>
+                          </div>
+                      
+                      <div class="post-content">
+                          <h3 class="post-name">                              
+                              River Park 2                          </h3>
+                      </div>
+                  </a>
+                </div>
+            </div>
+                        <div class="item">
+                <div class="post-box col-inner">
+                  <a href="http://megan2.local/du_an_cat/palm-heights/">
+                                                <div class="post-image">
+                              <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Trang ch&#7911;" width="auto" height="auto" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/bg-doitac-1.jpg"><noscript><img src="http://megan2.local/wp-content/uploads/2023/03/bg-doitac-1.jpg" alt="Trang ch&#7911;" width="auto" height="auto"></noscript>
+                          </div>
+                      
+                      <div class="post-content">
+                          <h3 class="post-name">                              
+                              Palm Heights                          </h3>
+                      </div>
+                  </a>
+                </div>
+            </div>
+                        <div class="item">
+                <div class="post-box col-inner">
+                  <a href="http://megan2.local/du_an_cat/can-ho-dat-xanh-lien-phuong/">
+                                                <div class="post-image">
+                              <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Trang ch&#7911;" width="auto" height="auto" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/bg-duannoibst-1.jpg"><noscript><img src="http://megan2.local/wp-content/uploads/2023/03/bg-duannoibst-1.jpg" alt="Trang ch&#7911;" width="auto" height="auto"></noscript>
+                          </div>
+                      
+                      <div class="post-content">
+                          <h3 class="post-name">                              
+                              C&#259;n h&#7897; &#272;&#7845;t Xanh Li&ecirc;n Ph&#432;&#7901;ng                          </h3>
+                      </div>
+                  </a>
+                </div>
+            </div>
+                        <div class="item">
+                <div class="post-box col-inner">
+                  <a href="http://megan2.local/du_an_cat/swan-bay/">
+                                                <div class="post-image">
+                              <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Trang ch&#7911;" width="auto" height="auto" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1.jpg"><noscript><img src="http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1.jpg" alt="Trang ch&#7911;" width="auto" height="auto"></noscript>
+                          </div>
+                      
+                      <div class="post-content">
+                          <h3 class="post-name">                              
+                              Swan Bay                          </h3>
+                      </div>
+                  </a>
+                </div>
+            </div>
+              </div>
+
+  
+		</div>
+					</div>
+
+	
+
+	<div id="col-1892050827" class="col small-12 large-12" data-animate="fadeInUp">
+				<div class="col-inner text-center">
+			
+			
+<a href="http://megan2.local/du-an-noi-bat/" target="_self" class="button primary lowercase box-shadow-3 box-shadow-5-hover" style="border-radius:10px;">
+    <span>Xem t&#7845;t c&#7843; d&#7921; &aacute;n</span>
+  </a>
+
+		</div>
+					</div>
+
+	
+</div>
+		</div>
+
+		
+<style>
+#section_1414396055 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+#section_1414396055 .section-bg-overlay {
+  background-color: rgba(237, 184, 65, 0.8);
+}
+#section_1414396055 .section-bg.bg-loaded {
+  background-image: url(http://megan2.local/wp-content/uploads/2023/03/bg-doitac-1.jpg);
+}
+#section_1414396055 .ux-shape-divider--top svg {
+  height: 150px;
+  --divider-top-width: 100%;
+}
+#section_1414396055 .ux-shape-divider--bottom svg {
+  height: 150px;
+  --divider-width: 100%;
+}
+</style>
+	</section>
+	
+	<section class="section" id="section_1812208016">
+		<div class="bg section-bg fill bg-fill  bg-loaded">
+
+			
+			
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+<div class="row" id="row-2080552985">
+
+	<div id="col-932132346" class="col small-12 large-12" data-animate="fadeInUp">
+				<div class="col-inner">
+			
+			
+<div class="container section-title-container"><h2 class="section-title section-title-center"><b></b><span class="section-title-main" style="color:rgb(28, 28, 28);">S&#7921; ki&#7879;n</span><b></b></h2></div>
+		</div>
+					</div>
+
+	
+
+	<div id="col-551183814" class="col small-12 large-12" data-animate="fadeInRight">
+				<div class="col-inner">
+			
+			
+
+  
+    <div id="row-525263315" class="row has-shadow row-box-shadow-1 row-box-shadow-2-hover large-columns-3 medium-columns- small-columns-1 row-masonry" data-packery-options='{"itemSelector": ".col", "gutter": 0, "presentageWidth" : true}'>
+
+  <div class="col post-item">
+			<div class="col-inner">
+			<a href="http://megan2.local/mo-ban-can-ho-gem-riverside/" class="plain">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image">
+  						<div class="image-cover" style="padding-top:56%;">
+  							<div class="bialty-container"><img width="300" height="209" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20209'%3E%3C/svg%3E" class="attachment-medium size-medium wp-post-image" alt="Trang ch&#7911;" decoding="async" data-lazy-srcset="http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1-300x209.jpg 300w, http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1-1024x713.jpg 1024w, http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1-768x534.jpg 768w, http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1-1536x1069.jpg 1536w, http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1.jpg 2048w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1-300x209.jpg"><noscript><img width="300" height="209" src="http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1-300x209.jpg" class="attachment-medium size-medium wp-post-image" alt="Trang ch&#7911;" decoding="async" srcset="http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1-300x209.jpg 300w, http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1-1024x713.jpg 1024w, http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1-768x534.jpg 768w, http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1-1536x1069.jpg 1536w, http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px"></noscript></div>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h3 class="post-title is-large ">M&#7903; b&aacute;n c&#259;n h&#7897; Gem Riverside</h3>
+										<div class="is-divider"></div>
+										<p class="from_the_blog_excerpt ">Th&#7901;i gian: th&aacute;ng 03,2018 [...] [...]					</p>
+					                    
+											<button href="http://megan2.local/mo-ban-can-ho-gem-riverside/" class="button  is-link is-small mb-0">
+							Xem th&ecirc;m						</button>
+					
+					
+					</div>
+					</div>
+									</div>
+				</a>
+			</div>
+		</div><div class="col post-item">
+			<div class="col-inner">
+			<a href="http://megan2.local/mo-ban-vincity/" class="plain">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image">
+  						<div class="image-cover" style="padding-top:56%;">
+  							<div class="bialty-container"><img width="300" height="200" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20200'%3E%3C/svg%3E" class="attachment-medium size-medium wp-post-image" alt="Trang ch&#7911;" decoding="async" data-lazy-srcset="http://megan2.local/wp-content/uploads/2023/03/bg-doitac-1-300x200.jpg 300w, http://megan2.local/wp-content/uploads/2023/03/bg-doitac-1-1024x683.jpg 1024w, http://megan2.local/wp-content/uploads/2023/03/bg-doitac-1-768x512.jpg 768w, http://megan2.local/wp-content/uploads/2023/03/bg-doitac-1-1536x1024.jpg 1536w, http://megan2.local/wp-content/uploads/2023/03/bg-doitac-1.jpg 2048w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/bg-doitac-1-300x200.jpg"><noscript><img width="300" height="200" src="http://megan2.local/wp-content/uploads/2023/03/bg-doitac-1-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="Trang ch&#7911;" decoding="async" srcset="http://megan2.local/wp-content/uploads/2023/03/bg-doitac-1-300x200.jpg 300w, http://megan2.local/wp-content/uploads/2023/03/bg-doitac-1-1024x683.jpg 1024w, http://megan2.local/wp-content/uploads/2023/03/bg-doitac-1-768x512.jpg 768w, http://megan2.local/wp-content/uploads/2023/03/bg-doitac-1-1536x1024.jpg 1536w, http://megan2.local/wp-content/uploads/2023/03/bg-doitac-1.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px"></noscript></div>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h3 class="post-title is-large ">M&#7903; b&aacute;n Vincity</h3>
+										<div class="is-divider"></div>
+										<p class="from_the_blog_excerpt ">Th&#7901;i gian:&nbsp;&nbsp;th&aacute;ng 03,2018 [...] [...]					</p>
+					                    
+											<button href="http://megan2.local/mo-ban-vincity/" class="button  is-link is-small mb-0">
+							Xem th&ecirc;m						</button>
+					
+					
+					</div>
+					</div>
+									</div>
+				</a>
+			</div>
+		</div><div class="col post-item">
+			<div class="col-inner">
+			<a href="http://megan2.local/mo-ban-palm-heights-giai-doan-2/" class="plain">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image">
+  						<div class="image-cover" style="padding-top:56%;">
+  							<div class="bialty-container"><img width="300" height="192" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20192'%3E%3C/svg%3E" class="attachment-medium size-medium wp-post-image" alt="Trang ch&#7911;" decoding="async" data-lazy-srcset="http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1-300x192.jpg 300w, http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1-1024x655.jpg 1024w, http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1-768x492.jpg 768w, http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1-1536x983.jpg 1536w, http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1.jpg 1920w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1-300x192.jpg"><noscript><img width="300" height="192" src="http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1-300x192.jpg" class="attachment-medium size-medium wp-post-image" alt="Trang ch&#7911;" decoding="async" srcset="http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1-300x192.jpg 300w, http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1-1024x655.jpg 1024w, http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1-768x492.jpg 768w, http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1-1536x983.jpg 1536w, http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1.jpg 1920w" sizes="(max-width: 300px) 100vw, 300px"></noscript></div>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h3 class="post-title is-large ">M&#7903; b&aacute;n Palm Heights ( giai &#273;o&#7841;n 2)</h3>
+										<div class="is-divider"></div>
+										<p class="from_the_blog_excerpt ">Th&#7901;i gian:&nbsp;th&aacute;ng 05,2018 [...] [...]					</p>
+					                    
+											<button href="http://megan2.local/mo-ban-palm-heights-giai-doan-2/" class="button  is-link is-small mb-0">
+							Xem th&ecirc;m						</button>
+					
+					
+					</div>
+					</div>
+									</div>
+				</a>
+			</div>
+		</div><div class="col post-item">
+			<div class="col-inner">
+			<a href="http://megan2.local/mo-ban-biet-thu-swan-bay/" class="plain">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image">
+  						<div class="image-cover" style="padding-top:56%;">
+  							<div class="bialty-container"><img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="attachment-medium size-medium wp-post-image" alt="Trang ch&#7911;" decoding="async" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/canhosapgiao-150x150-2.jpg"><noscript><img width="150" height="150" src="http://megan2.local/wp-content/uploads/2023/03/canhosapgiao-150x150-2.jpg" class="attachment-medium size-medium wp-post-image" alt="Trang ch&#7911;" decoding="async"></noscript></div>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h3 class="post-title is-large ">M&#7903; b&aacute;n bi&#7879;t th&#7921; Swan Bay</h3>
+										<div class="is-divider"></div>
+										<p class="from_the_blog_excerpt ">Th&#7901;i gian: th&aacute;ng 05,2018 [...] [...]					</p>
+					                    
+											<button href="http://megan2.local/mo-ban-biet-thu-swan-bay/" class="button  is-link is-small mb-0">
+							Xem th&ecirc;m						</button>
+					
+					
+					</div>
+					</div>
+									</div>
+				</a>
+			</div>
+		</div><div class="col post-item">
+			<div class="col-inner">
+			<a href="http://megan2.local/mo-ban-swan-park-giai-doan-2/" class="plain">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image">
+  						<div class="image-cover" style="padding-top:56%;">
+  							<div class="bialty-container"><img width="300" height="180" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20180'%3E%3C/svg%3E" class="attachment-medium size-medium wp-post-image" alt="Trang ch&#7911;" decoding="async" data-lazy-srcset="http://megan2.local/wp-content/uploads/2023/03/duandaunam-2018-2-300x180.jpg 300w, http://megan2.local/wp-content/uploads/2023/03/duandaunam-2018-2-1024x614.jpg 1024w, http://megan2.local/wp-content/uploads/2023/03/duandaunam-2018-2-768x461.jpg 768w, http://megan2.local/wp-content/uploads/2023/03/duandaunam-2018-2-1536x922.jpg 1536w, http://megan2.local/wp-content/uploads/2023/03/duandaunam-2018-2.jpg 1920w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/duandaunam-2018-2-300x180.jpg"><noscript><img width="300" height="180" src="http://megan2.local/wp-content/uploads/2023/03/duandaunam-2018-2-300x180.jpg" class="attachment-medium size-medium wp-post-image" alt="Trang ch&#7911;" decoding="async" srcset="http://megan2.local/wp-content/uploads/2023/03/duandaunam-2018-2-300x180.jpg 300w, http://megan2.local/wp-content/uploads/2023/03/duandaunam-2018-2-1024x614.jpg 1024w, http://megan2.local/wp-content/uploads/2023/03/duandaunam-2018-2-768x461.jpg 768w, http://megan2.local/wp-content/uploads/2023/03/duandaunam-2018-2-1536x922.jpg 1536w, http://megan2.local/wp-content/uploads/2023/03/duandaunam-2018-2.jpg 1920w" sizes="(max-width: 300px) 100vw, 300px"></noscript></div>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h3 class="post-title is-large ">M&#7903; b&aacute;n Swan Park (giai &#273;o&#7841;n 2)</h3>
+										<div class="is-divider"></div>
+										<p class="from_the_blog_excerpt ">Th&#7901;i gian: th&aacute;ng 02 &ndash; 2018 [...] [...]					</p>
+					                    
+											<button href="http://megan2.local/mo-ban-swan-park-giai-doan-2/" class="button  is-link is-small mb-0">
+							Xem th&ecirc;m						</button>
+					
+					
+					</div>
+					</div>
+									</div>
+				</a>
+			</div>
+		</div><div class="col post-item">
+			<div class="col-inner">
+			<a href="http://megan2.local/kick-off-swan-park/" class="plain">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image">
+  						<div class="image-cover" style="padding-top:56%;">
+  							<div class="bialty-container"><img width="300" height="192" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20192'%3E%3C/svg%3E" class="attachment-medium size-medium wp-post-image" alt="Trang ch&#7911;" decoding="async" data-lazy-srcset="http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1-300x192.jpg 300w, http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1-1024x655.jpg 1024w, http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1-768x492.jpg 768w, http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1-1536x983.jpg 1536w, http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1.jpg 1920w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1-300x192.jpg"><noscript><img width="300" height="192" src="http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1-300x192.jpg" class="attachment-medium size-medium wp-post-image" alt="Trang ch&#7911;" decoding="async" srcset="http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1-300x192.jpg 300w, http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1-1024x655.jpg 1024w, http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1-768x492.jpg 768w, http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1-1536x983.jpg 1536w, http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1.jpg 1920w" sizes="(max-width: 300px) 100vw, 300px"></noscript></div>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h3 class="post-title is-large ">Kick Off Swan Park</h3>
+										<div class="is-divider"></div>
+										<p class="from_the_blog_excerpt ">Th&#7901;i gian:&nbsp;17h00 &ndash; ng&agrave;y 26 th&aacute;ng 01,2018 [...] [...]					</p>
+					                    
+											<button href="http://megan2.local/kick-off-swan-park/" class="button  is-link is-small mb-0">
+							Xem th&ecirc;m						</button>
+					
+					
+					</div>
+					</div>
+									</div>
+				</a>
+			</div>
+		</div></div>
+		</div>
+					</div>
+
+	
+
+	<div id="col-2035155203" class="col small-12 large-12" data-animate="fadeInUp">
+				<div class="col-inner text-center">
+			
+			
+<a href="http://megan2.local/su-kien/" target="_self" class="button primary lowercase box-shadow-3 box-shadow-5-hover" style="border-radius:10px;">
+    <span>Xem t&#7845;t c&#7843; s&#7921; ki&#7879;n</span>
+  </a>
+
+		</div>
+					</div>
+
+	
+</div>
+		</div>
+
+		
+<style>
+#section_1812208016 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+#section_1812208016 .ux-shape-divider--top svg {
+  height: 150px;
+  --divider-top-width: 100%;
+}
+#section_1812208016 .ux-shape-divider--bottom svg {
+  height: 150px;
+  --divider-width: 100%;
+}
+</style>
+	</section>
+	
+	<section class="section" id="section_911467545">
+		<div class="bg section-bg fill bg-fill  ">
+
+			
+			<div class="section-bg-overlay absolute fill"></div>
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+<div class="row" id="row-12660298">
+
+	<div id="col-71201144" class="col small-12 large-12" data-animate="fadeInUp">
+				<div class="col-inner">
+			
+			
+<div class="container section-title-container"><h2 class="section-title section-title-center"><b></b><span class="section-title-main" style="color:rgb(28, 28, 28);">&#272;&#7889;i t&aacute;c</span><b></b></h2></div>
+		</div>
+					</div>
+
+	
+
+	<div id="col-646004025" class="col small-12 large-12" data-animate="fadeInUp">
+				<div class="col-inner">
+			
+			
+
+  
+    <div class="row large-columns-5 medium-columns-3 small-columns-2 row-collapse">
+  <div class="gallery-col col">
+          <div class="col-inner">
+            <a class="image-lightbox lightbox-gallery" href="http://megan2.local/wp-content/uploads/2023/03/logo-KhangDien-2.jpg" title="">            <div class="box has-hover gallery-box box-default">
+              <div class="box-image">
+                <img width="230" height="90" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20230%2090'%3E%3C/svg%3E" class="attachment-medium size-medium" alt="Trang ch&#7911;" decoding="async" ids="73,74,75,76,77,78,79,80,81,72" style="default" col_spacing="collapse" columns="5" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/logo-KhangDien-2.jpg"><noscript><img width="230" height="90" src="http://megan2.local/wp-content/uploads/2023/03/logo-KhangDien-2.jpg" class="attachment-medium size-medium" alt="Trang ch&#7911;" decoding="async" ids="73,74,75,76,77,78,79,80,81,72" style="default" col_spacing="collapse" columns="5"></noscript>                                                              </div>
+              <div class="box-text text-left">
+                 <p></p>
+              </div>
+            </div>
+            </a>          </div>
+         </div><div class="gallery-col col">
+          <div class="col-inner">
+            <a class="image-lightbox lightbox-gallery" href="http://megan2.local/wp-content/uploads/2023/03/logo-MBbank-2.jpg" title="">            <div class="box has-hover gallery-box box-default">
+              <div class="box-image">
+                <img width="230" height="90" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20230%2090'%3E%3C/svg%3E" class="attachment-medium size-medium" alt="Trang ch&#7911;" decoding="async" ids="73,74,75,76,77,78,79,80,81,72" style="default" col_spacing="collapse" columns="5" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/logo-MBbank-2.jpg"><noscript><img width="230" height="90" src="http://megan2.local/wp-content/uploads/2023/03/logo-MBbank-2.jpg" class="attachment-medium size-medium" alt="Trang ch&#7911;" decoding="async" ids="73,74,75,76,77,78,79,80,81,72" style="default" col_spacing="collapse" columns="5"></noscript>                                                              </div>
+              <div class="box-text text-left">
+                 <p></p>
+              </div>
+            </div>
+            </a>          </div>
+         </div><div class="gallery-col col">
+          <div class="col-inner">
+            <a class="image-lightbox lightbox-gallery" href="http://megan2.local/wp-content/uploads/2023/03/logo-MIK-2.jpg" title="">            <div class="box has-hover gallery-box box-default">
+              <div class="box-image">
+                <img width="230" height="90" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20230%2090'%3E%3C/svg%3E" class="attachment-medium size-medium" alt="Trang ch&#7911;" decoding="async" ids="73,74,75,76,77,78,79,80,81,72" style="default" col_spacing="collapse" columns="5" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/logo-MIK-2.jpg"><noscript><img width="230" height="90" src="http://megan2.local/wp-content/uploads/2023/03/logo-MIK-2.jpg" class="attachment-medium size-medium" alt="Trang ch&#7911;" decoding="async" ids="73,74,75,76,77,78,79,80,81,72" style="default" col_spacing="collapse" columns="5"></noscript>                                                              </div>
+              <div class="box-text text-left">
+                 <p></p>
+              </div>
+            </div>
+            </a>          </div>
+         </div><div class="gallery-col col">
+          <div class="col-inner">
+            <a class="image-lightbox lightbox-gallery" href="http://megan2.local/wp-content/uploads/2023/03/logo-NamLong-2.jpg" title="">            <div class="box has-hover gallery-box box-default">
+              <div class="box-image">
+                <img width="230" height="90" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20230%2090'%3E%3C/svg%3E" class="attachment-medium size-medium" alt="Trang ch&#7911;" decoding="async" ids="73,74,75,76,77,78,79,80,81,72" style="default" col_spacing="collapse" columns="5" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/logo-NamLong-2.jpg"><noscript><img width="230" height="90" src="http://megan2.local/wp-content/uploads/2023/03/logo-NamLong-2.jpg" class="attachment-medium size-medium" alt="Trang ch&#7911;" decoding="async" ids="73,74,75,76,77,78,79,80,81,72" style="default" col_spacing="collapse" columns="5"></noscript>                                                              </div>
+              <div class="box-text text-left">
+                 <p></p>
+              </div>
+            </div>
+            </a>          </div>
+         </div><div class="gallery-col col">
+          <div class="col-inner">
+            <a class="image-lightbox lightbox-gallery" href="http://megan2.local/wp-content/uploads/2023/03/logo-NovaLand-2.jpg" title="">            <div class="box has-hover gallery-box box-default">
+              <div class="box-image">
+                <img width="230" height="90" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20230%2090'%3E%3C/svg%3E" class="attachment-medium size-medium" alt="Trang ch&#7911;" decoding="async" ids="73,74,75,76,77,78,79,80,81,72" style="default" col_spacing="collapse" columns="5" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/logo-NovaLand-2.jpg"><noscript><img width="230" height="90" src="http://megan2.local/wp-content/uploads/2023/03/logo-NovaLand-2.jpg" class="attachment-medium size-medium" alt="Trang ch&#7911;" decoding="async" ids="73,74,75,76,77,78,79,80,81,72" style="default" col_spacing="collapse" columns="5"></noscript>                                                              </div>
+              <div class="box-text text-left">
+                 <p></p>
+              </div>
+            </div>
+            </a>          </div>
+         </div><div class="gallery-col col">
+          <div class="col-inner">
+            <a class="image-lightbox lightbox-gallery" href="http://megan2.local/wp-content/uploads/2023/03/logo-Vietcombank-2.jpg" title="">            <div class="box has-hover gallery-box box-default">
+              <div class="box-image">
+                <img width="230" height="90" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20230%2090'%3E%3C/svg%3E" class="attachment-medium size-medium" alt="Trang ch&#7911;" decoding="async" ids="73,74,75,76,77,78,79,80,81,72" style="default" col_spacing="collapse" columns="5" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/logo-Vietcombank-2.jpg"><noscript><img width="230" height="90" src="http://megan2.local/wp-content/uploads/2023/03/logo-Vietcombank-2.jpg" class="attachment-medium size-medium" alt="Trang ch&#7911;" decoding="async" ids="73,74,75,76,77,78,79,80,81,72" style="default" col_spacing="collapse" columns="5"></noscript>                                                              </div>
+              <div class="box-text text-left">
+                 <p></p>
+              </div>
+            </div>
+            </a>          </div>
+         </div><div class="gallery-col col">
+          <div class="col-inner">
+            <a class="image-lightbox lightbox-gallery" href="http://megan2.local/wp-content/uploads/2023/03/logo-Vietinbank-2.jpg" title="">            <div class="box has-hover gallery-box box-default">
+              <div class="box-image">
+                <img width="230" height="90" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20230%2090'%3E%3C/svg%3E" class="attachment-medium size-medium" alt="Trang ch&#7911;" decoding="async" ids="73,74,75,76,77,78,79,80,81,72" style="default" col_spacing="collapse" columns="5" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/logo-Vietinbank-2.jpg"><noscript><img width="230" height="90" src="http://megan2.local/wp-content/uploads/2023/03/logo-Vietinbank-2.jpg" class="attachment-medium size-medium" alt="Trang ch&#7911;" decoding="async" ids="73,74,75,76,77,78,79,80,81,72" style="default" col_spacing="collapse" columns="5"></noscript>                                                              </div>
+              <div class="box-text text-left">
+                 <p></p>
+              </div>
+            </div>
+            </a>          </div>
+         </div><div class="gallery-col col">
+          <div class="col-inner">
+            <a class="image-lightbox lightbox-gallery" href="http://megan2.local/wp-content/uploads/2023/03/logo-Vinhomes-2.jpg" title="">            <div class="box has-hover gallery-box box-default">
+              <div class="box-image">
+                <img width="230" height="90" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20230%2090'%3E%3C/svg%3E" class="attachment-medium size-medium" alt="Trang ch&#7911;" decoding="async" ids="73,74,75,76,77,78,79,80,81,72" style="default" col_spacing="collapse" columns="5" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/logo-Vinhomes-2.jpg"><noscript><img width="230" height="90" src="http://megan2.local/wp-content/uploads/2023/03/logo-Vinhomes-2.jpg" class="attachment-medium size-medium" alt="Trang ch&#7911;" decoding="async" ids="73,74,75,76,77,78,79,80,81,72" style="default" col_spacing="collapse" columns="5"></noscript>                                                              </div>
+              <div class="box-text text-left">
+                 <p></p>
+              </div>
+            </div>
+            </a>          </div>
+         </div><div class="gallery-col col">
+          <div class="col-inner">
+            <a class="image-lightbox lightbox-gallery" href="http://megan2.local/wp-content/uploads/2023/03/logo-VPbank-2.jpg" title="">            <div class="box has-hover gallery-box box-default">
+              <div class="box-image">
+                <img width="230" height="90" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20230%2090'%3E%3C/svg%3E" class="attachment-medium size-medium" alt="Trang ch&#7911;" decoding="async" ids="73,74,75,76,77,78,79,80,81,72" style="default" col_spacing="collapse" columns="5" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/logo-VPbank-2.jpg"><noscript><img width="230" height="90" src="http://megan2.local/wp-content/uploads/2023/03/logo-VPbank-2.jpg" class="attachment-medium size-medium" alt="Trang ch&#7911;" decoding="async" ids="73,74,75,76,77,78,79,80,81,72" style="default" col_spacing="collapse" columns="5"></noscript>                                                              </div>
+              <div class="box-text text-left">
+                 <p></p>
+              </div>
+            </div>
+            </a>          </div>
+         </div><div class="gallery-col col">
+          <div class="col-inner">
+            <a class="image-lightbox lightbox-gallery" href="http://megan2.local/wp-content/uploads/2023/03/logo-blank-2.jpg" title="">            <div class="box has-hover gallery-box box-default">
+              <div class="box-image">
+                <img width="230" height="90" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20230%2090'%3E%3C/svg%3E" class="attachment-medium size-medium" alt="Trang ch&#7911;" decoding="async" ids="73,74,75,76,77,78,79,80,81,72" style="default" col_spacing="collapse" columns="5" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/logo-blank-2.jpg"><noscript><img width="230" height="90" src="http://megan2.local/wp-content/uploads/2023/03/logo-blank-2.jpg" class="attachment-medium size-medium" alt="Trang ch&#7911;" decoding="async" ids="73,74,75,76,77,78,79,80,81,72" style="default" col_spacing="collapse" columns="5"></noscript>                                                              </div>
+              <div class="box-text text-left">
+                 <p></p>
+              </div>
+            </div>
+            </a>          </div>
+         </div></div>
+		</div>
+					</div>
+
+	
+</div>
+		</div>
+
+		
+<style>
+#section_911467545 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+#section_911467545 .section-bg-overlay {
+  background-color: rgba(237, 184, 65, 0.8);
+}
+#section_911467545 .section-bg.bg-loaded {
+  background-image: url(http://megan2.local/wp-content/uploads/2023/03/bg-doitac-1.jpg);
+}
+#section_911467545 .ux-shape-divider--top svg {
+  height: 150px;
+  --divider-top-width: 100%;
+}
+#section_911467545 .ux-shape-divider--bottom svg {
+  height: 150px;
+  --divider-width: 100%;
+}
+</style>
+	</section>
+	
+	<section class="section" id="section_1477504521">
+		<div class="bg section-bg fill bg-fill  bg-loaded">
+
+			
+			
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+<div class="row" id="row-533135055">
+
+	<div id="col-1971891377" class="col small-12 large-12" data-animate="fadeInUp">
+				<div class="col-inner">
+			
+			
+<div class="container section-title-container"><h2 class="section-title section-title-center"><b></b><span class="section-title-main" style="color:rgb(28, 28, 28);">Tin t&#7913;c</span><b></b></h2></div>
+		</div>
+					</div>
+
+	
+
+	<div id="col-1647020265" class="col small-12 large-12" data-animate="fadeInRight">
+				<div class="col-inner">
+			
+			
+  <style>
+    #row-839723167 .grid-col-1{height: 600px}
+    #row-839723167 .grid-col-1-2{height: 300px}
+    #row-839723167 .grid-col-1-3{height:200px}
+    #row-839723167 .grid-col-2-3{height: 400px}
+    #row-839723167 .grid-col-1-4{height: 150px}
+    #row-839723167 .grid-col-3-4{height: 450px}
+
+
+        /* Tablet */
+    @media (max-width: 850px){
+      #row-839723167 .grid-col-1{height: 400px}
+      #row-839723167 .grid-col-1-2{height: 200px}
+      #row-839723167 .grid-col-1-3{height:133.33333333333px}
+      #row-839723167 .grid-col-2-3{height: 266.66666666667px}
+      #row-839723167 .grid-col-1-4{height: 100px}
+      #row-839723167 .grid-col-3-4{height: 300px}
+    }
+    
+        /* Mobile */
+    @media (max-width: 550px){
+      #row-839723167 .grid-col-1{height: 400px}
+      #row-839723167 .grid-col-1-2{height: 200px}
+      #row-839723167 .grid-col-1-3{height:133.33333333333px}
+      #row-839723167 .grid-col-2-3{height: 266.66666666667px}
+      #row-839723167 .grid-col-1-4{height: 100px}
+      #row-839723167 .grid-col-3-4{height: 300px}
+    }
+    
+
+  </style>
+  
+  
+    <div id="row-839723167" class="row has-shadow row-box-shadow-1 row-box-shadow-2-hover row-grid" data-packery-options='{"itemSelector": ".col", "gutter": 0, "presentageWidth" : true}'>
+
+  <div class="col post-item grid-col grid-col-1 large-6 medium-12">
+			<div class="col-inner">
+			<a href="http://megan2.local/can-ho-trung-tam-quan-9/" class="plain">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image">
+  						<div class="image-cover" style="padding-top:56%;">
+  							<div class="bialty-container"><img width="1020" height="612" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201020%20612'%3E%3C/svg%3E" class="attachment-large size-large wp-post-image" alt="Trang ch&#7911;" decoding="async" data-lazy-srcset="http://megan2.local/wp-content/uploads/2023/03/canhotrungtam-1024x614-2.jpg 1024w, http://megan2.local/wp-content/uploads/2023/03/canhotrungtam-1024x614-2-300x180.jpg 300w, http://megan2.local/wp-content/uploads/2023/03/canhotrungtam-1024x614-2-768x461.jpg 768w" data-lazy-sizes="(max-width: 1020px) 100vw, 1020px" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/canhotrungtam-1024x614-2.jpg"><noscript><img width="1020" height="612" src="http://megan2.local/wp-content/uploads/2023/03/canhotrungtam-1024x614-2.jpg" class="attachment-large size-large wp-post-image" alt="Trang ch&#7911;" decoding="async" srcset="http://megan2.local/wp-content/uploads/2023/03/canhotrungtam-1024x614-2.jpg 1024w, http://megan2.local/wp-content/uploads/2023/03/canhotrungtam-1024x614-2-300x180.jpg 300w, http://megan2.local/wp-content/uploads/2023/03/canhotrungtam-1024x614-2-768x461.jpg 768w" sizes="(max-width: 1020px) 100vw, 1020px"></noscript></div>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h3 class="post-title is-large ">C&#259;n h&#7897; trung t&acirc;m Qu&#7853;n 9</h3>
+					<div class="post-meta is-small op-8">27/03/2023</div>					<div class="is-divider"></div>
+										<p class="from_the_blog_excerpt ">What is Lorem Ipsum? Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry. [...]					</p>
+					                    
+											<button href="http://megan2.local/can-ho-trung-tam-quan-9/" class="button  is-link is-small mb-0">
+							Xem th&ecirc;m						</button>
+					
+					
+					</div>
+					</div>
+									</div>
+				</a>
+			</div>
+		</div><div class="col post-item grid-col grid-col-1-2 large-6 medium-6">
+			<div class="col-inner">
+			<a href="http://megan2.local/an-cu-hang-sang-ngay-trung-tam/" class="plain">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image">
+  						<div class="image-cover" style="padding-top:56%;">
+  							<div class="bialty-container"><img width="300" height="177" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20177'%3E%3C/svg%3E" class="attachment-medium size-medium wp-post-image" alt="Trang ch&#7911;" decoding="async" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/chungcuhangsang-300x177-2.jpg"><noscript><img width="300" height="177" src="http://megan2.local/wp-content/uploads/2023/03/chungcuhangsang-300x177-2.jpg" class="attachment-medium size-medium wp-post-image" alt="Trang ch&#7911;" decoding="async"></noscript></div>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h3 class="post-title is-large ">An c&#432; h&#7841;ng sang ngay trung t&acirc;m</h3>
+					<div class="post-meta is-small op-8">27/03/2023</div>					<div class="is-divider"></div>
+										<p class="from_the_blog_excerpt ">What is Lorem Ipsum? Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry. [...]					</p>
+					                    
+											<button href="http://megan2.local/an-cu-hang-sang-ngay-trung-tam/" class="button  is-link is-small mb-0">
+							Xem th&ecirc;m						</button>
+					
+					
+					</div>
+					</div>
+									</div>
+				</a>
+			</div>
+		</div><div class="col post-item grid-col grid-col-1-2 large-3 medium-6">
+			<div class="col-inner">
+			<a href="http://megan2.local/du-an-moi-dau-nam-2018/" class="plain">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image">
+  						<div class="image-cover" style="padding-top:56%;">
+  							<div class="bialty-container"><img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Trang ch&#7911;" decoding="async" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/duandaunam-2018-150x150-1-150x150.jpg"><noscript><img width="150" height="150" src="http://megan2.local/wp-content/uploads/2023/03/duandaunam-2018-150x150-1-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Trang ch&#7911;" decoding="async"></noscript></div>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h3 class="post-title is-large ">D&#7921; &aacute;n m&#7899;i &#273;&#7847;u n&#259;m 2018</h3>
+					<div class="post-meta is-small op-8">27/03/2023</div>					<div class="is-divider"></div>
+					                    
+											<button href="http://megan2.local/du-an-moi-dau-nam-2018/" class="button  is-link is-small mb-0">
+							Xem th&ecirc;m						</button>
+					
+					
+					</div>
+					</div>
+									</div>
+				</a>
+			</div>
+		</div><div class="col post-item grid-col grid-col-1-2 large-3 medium-6">
+			<div class="col-inner">
+			<a href="http://megan2.local/can-ho-sap-giao-chinh-phuc-nguoi-mua/" class="plain">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image">
+  						<div class="image-cover" style="padding-top:56%;">
+  							<div class="bialty-container"><img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Trang ch&#7911;" decoding="async" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1-150x150.jpg"><noscript><img width="150" height="150" src="http://megan2.local/wp-content/uploads/2023/03/tintuc-duan-01-1-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Trang ch&#7911;" decoding="async"></noscript></div>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h3 class="post-title is-large ">C&#259;n h&#7897; s&#7855;p giao chinh ph&#7909;c ng&#432;&#7901;i mua.</h3>
+					<div class="post-meta is-small op-8">27/03/2023</div>					<div class="is-divider"></div>
+					                    
+											<button href="http://megan2.local/can-ho-sap-giao-chinh-phuc-nguoi-mua/" class="button  is-link is-small mb-0">
+							Xem th&ecirc;m						</button>
+					
+					
+					</div>
+					</div>
+									</div>
+				</a>
+			</div>
+		</div></div>
+		</div>
+					</div>
+
+	
+
+	<div id="col-1385946507" class="col small-12 large-12" data-animate="fadeInUp">
+				<div class="col-inner text-center">
+			
+			
+<a href="http://megan2.local/tin-tuc/" target="_self" class="button primary lowercase box-shadow-3 box-shadow-5-hover" style="border-radius:10px;">
+    <span>Xem t&#7845;t c&#7843; tin t&#7913;c</span>
+  </a>
+
+		</div>
+					</div>
+
+	
+</div>
+		</div>
+
+		
+<style>
+#section_1477504521 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+#section_1477504521 .ux-shape-divider--top svg {
+  height: 150px;
+  --divider-top-width: 100%;
+}
+#section_1477504521 .ux-shape-divider--bottom svg {
+  height: 150px;
+  --divider-width: 100%;
+}
+</style>
+	</section>
+	
+	<section class="section" id="section_1862765492">
+		<div class="bg section-bg fill bg-fill  ">
+
+			
+			<div class="section-bg-overlay absolute fill"></div>
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+<div class="row" id="row-893525417">
+
+	<div id="col-1231045429" class="col small-12 large-12" data-animate="fadeInUp">
+				<div class="col-inner">
+			
+			
+<div class="container section-title-container"><h2 class="section-title section-title-center"><b></b><span class="section-title-main" style="color:rgb(28, 28, 28);">Li&ecirc;n h&#7879;</span><b></b></h2></div>
+		</div>
+					</div>
+
+	
+
+	<div id="col-348420053" class="col small-12 large-12" data-animate="fadeInUp">
+				<div class="col-inner">
+			
+			
+
+<div class="wpcf7 no-js" id="wpcf7-f422-p5-o1" lang="vi" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/#wpcf7-f422-p5-o1" method="post" class="wpcf7-form init" aria-label="Form li&ecirc;n h&#7879;" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="422">
+<input type="hidden" name="_wpcf7_version" value="5.7.5.1">
+<input type="hidden" name="_wpcf7_locale" value="vi">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f422-p5-o1">
+<input type="hidden" name="_wpcf7_container_post" value="5">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
+</div>
+<div class="contact-form">
+	<div class="groups-box">
+		<div class="form-group">
+			<p><span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="H&#7885; t&ecirc;n" value="" type="text" name="your-name"></span>
+			</p>
+		</div>
+		<div class="form-group">
+			<p><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email" value="" type="email" name="your-email"></span>
+			</p>
+		</div>
+	</div>
+	<div class="form-group">
+		<p><span class="wpcf7-form-control-wrap" data-name="your-phone"><input size="40" maxlength="11" minlength="10" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="S&#7889; &#273;i&#7879;n tho&#7841;i" value="" type="tel" name="your-phone"></span>
+		</p>
+	</div>
+	<div class="form-group">
+		<p><span class="wpcf7-form-control-wrap" data-name="your-message"><textarea cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="N&#7897;i dung" name="your-message"></textarea></span>
+		</p>
+	</div>
+	<div class="form-group form-group-button">
+		<div class="form-button">
+			<p><input class="wpcf7-form-control has-spinner wpcf7-submit" type="submit" value="G&#7917;i tin">
+			</p>
+		</div>
+	</div>
+</div><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+
+		</div>
+					</div>
+
+	
+</div>
+		</div>
+
+		
+<style>
+#section_1862765492 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  margin-bottom: 0px;
+}
+#section_1862765492 .section-bg-overlay {
+  background-color: rgba(237, 184, 65, 0.8);
+}
+#section_1862765492 .section-bg.bg-loaded {
+  background-image: url(http://megan2.local/wp-content/uploads/2023/03/bg-form-lienhe-1.jpg);
+}
+#section_1862765492 .ux-shape-divider--top svg {
+  height: 150px;
+  --divider-top-width: 100%;
+}
+#section_1862765492 .ux-shape-divider--bottom svg {
+  height: 150px;
+  --divider-width: 100%;
+}
+</style>
+	</section>
+	
+</div>
+		
+				
+</div>
+
+
+
+    
+</main>
+
+<footer id="footer" class="footer-wrapper">
+
+		<section class="section" id="section_441914769">
+		<div class="bg section-bg fill bg-fill  bg-loaded" >
+
+			
+			
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+
+<div class="row"  id="row-79490860">
+
+
+	<div id="col-825384429" class="col medium-12 small-12 large-5"  >
+				<div class="col-inner"  >
+			
+			
+
+<div class="row"  id="row-1049741288">
+
+
+	<div id="col-626126877" class="col medium-4 small-12 large-4"  >
+				<div class="col-inner"  >
+			
+			
+
+<div class="ux-logo has-hover align-middle ux_logo inline-block" style="max-width: 100%!important; width: 153.08163265306px!important">
+        <div class="ux-logo-link block image-" title=""  href="" style="padding: 15px;">
+          <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%20111'%3E%3C/svg%3E" title="" alt="Logo" class="ux-logo-image block" style="height:111px;"  width="auto" height="111" data-lazy-src="http://megan2.local/wp-content/uploads/2023/03/logo-light-1.png" /><noscript><img src="http://megan2.local/wp-content/uploads/2023/03/logo-light-1.png" title="" alt="Logo" class="ux-logo-image block" style="height:111px;"  width="auto" height="111" /></noscript>
+        </div>
+      </div>
+
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-91060442" class="col medium-8 small-12 large-8"  >
+				<div class="col-inner"  >
+			
+			
+
+
+		<div class="icon-box featured-box icon-box-top text-left"  style="margin:0px 0px 15px 0px;">
+				<div class="icon-box-text last-reset">
+									
+
+	<div id="text-2670806044" class="text">
+		
+
+<h5><span style="color: #797979;">Địa chỉ :</span></h5>
+<p>Tầng lửng An Phú Plaza, 117 - 119 Lý Chính Thắng, Phường 07, Quận 3, Tp.HCM</p>
+		
+<style>
+#text-2670806044 {
+  color: rgb(255, 255, 255);
+}
+#text-2670806044 > * {
+  color: rgb(255, 255, 255);
+}
+</style>
+	</div>
+	
+
+		</div>
+	</div>
+	
+	
+
+		<div class="icon-box featured-box icon-box-top text-left"  style="margin:0px 0px 15px 0px;">
+				<div class="icon-box-text last-reset">
+									
+
+	<div id="text-2333817775" class="text">
+		
+
+<h5><span style="color: #797979;">Địa chỉ :</span></h5>
+<p><a href="tel:+0902848440"><span style="color: #ffffff;">0902.848.440</span></a><span style="color: #ffffff;"> - <a style="color: #ffffff;" href="tel:+0938460400">0938.460.400</a></span><br /><span style="color: #ffffff;"><a style="color: #ffffff;" href="mailto:investmentland01@gmail.com">investmentland01@gmail.com</a></span></p>
+		
+<style>
+#text-2333817775 {
+  color: rgb(255, 255, 255);
+}
+#text-2333817775 > * {
+  color: rgb(255, 255, 255);
+}
+</style>
+	</div>
+	
+
+		</div>
+	</div>
+	
+	
+
+		<div class="icon-box featured-box icon-box-top text-left"  >
+				<div class="icon-box-text last-reset">
+									
+
+	<div id="text-3113578212" class="text">
+		
+
+<h5><span style="color: #797979;">Giờ làm việc :</span></h5>
+<p>Thứ 2 - Thứ 6<br />08:00 am - 17:00 pm</p>
+		
+<style>
+#text-3113578212 {
+  color: rgb(255, 255, 255);
+}
+#text-3113578212 > * {
+  color: rgb(255, 255, 255);
+}
+</style>
+	</div>
+	
+
+		</div>
+	</div>
+	
+	
+
+		</div>
+					</div>
+
+	
+
+</div>
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-584484930" class="col medium-12 small-12 large-7"  >
+				<div class="col-inner"  >
+			
+			
+
+<div class="row"  id="row-454381208">
+
+
+	<div id="col-1984467358" class="col medium-7 small-12 large-7"  >
+				<div class="col-inner dark"  >
+			
+			
+
+<div class="container section-title-container" style="margin-bottom:5px;"><h3 class="section-title section-title-normal"><b></b><span class="section-title-main" style="color:rgb(255, 255, 255);">Dự án</span><b></b></h3></div>
+
+<div class="row"  id="row-455190615">
+
+
+	<div id="col-1218097580" class="col medium-6 small-12 large-6"  >
+				<div class="col-inner"  >
+			
+			
+
+	<div class="ux-menu stack stack-col justify-start ux-menu--divider-solid">
+		
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="http://megan2.local"  >
+			<i class="ux-menu-link__icon text-center icon-angle-right" ></i>			<span class="ux-menu-link__text">
+				Vincity			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="http://megan2.local"  >
+			<i class="ux-menu-link__icon text-center icon-angle-right" ></i>			<span class="ux-menu-link__text">
+				Swan Park			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="http://megan2.local"  >
+			<i class="ux-menu-link__icon text-center icon-angle-right" ></i>			<span class="ux-menu-link__text">
+				Villa Park			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="http://megan2.local"  >
+			<i class="ux-menu-link__icon text-center icon-angle-right" ></i>			<span class="ux-menu-link__text">
+				Gem Riverside			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="http://megan2.local"  >
+			<i class="ux-menu-link__icon text-center icon-angle-right" ></i>			<span class="ux-menu-link__text">
+				Swan Bay			</span>
+		</a>
+	</div>
+	
+
+
+	</div>
+	
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-2136937216" class="col medium-6 small-12 large-6"  >
+				<div class="col-inner"  >
+			
+			
+
+	<div class="ux-menu stack stack-col justify-start ux-menu--divider-solid">
+		
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="http://megan2.local"  >
+			<i class="ux-menu-link__icon text-center icon-angle-right" ></i>			<span class="ux-menu-link__text">
+				Saigon Sport City			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="http://megan2.local"  >
+			<i class="ux-menu-link__icon text-center icon-angle-right" ></i>			<span class="ux-menu-link__text">
+				River Park 2			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="http://megan2.local"  >
+			<i class="ux-menu-link__icon text-center icon-angle-right" ></i>			<span class="ux-menu-link__text">
+				Palm Heights			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="http://megan2.local"  >
+			<i class="ux-menu-link__icon text-center icon-angle-right" ></i>			<span class="ux-menu-link__text">
+				Căn hộ Đất Xanh			</span>
+		</a>
+	</div>
+	
+
+
+	</div>
+	
+
+		</div>
+					</div>
+
+	
+
+</div>
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-136805607" class="col medium-3 small-12 large-3"  >
+				<div class="col-inner dark"  >
+			
+			
+
+<div class="container section-title-container" style="margin-bottom:5px;"><h3 class="section-title section-title-normal"><b></b><span class="section-title-main" style="color:rgb(255, 255, 255);">Liên kết</span><b></b></h3></div>
+
+	<div class="ux-menu stack stack-col justify-start ux-menu--divider-solid">
+		
+
+	<div class="ux-menu-link flex menu-item ux-menu-link--active">
+		<a class="ux-menu-link__link flex" href="http://megan2.local/"  >
+			<i class="ux-menu-link__icon text-center icon-angle-right" ></i>			<span class="ux-menu-link__text">
+				Trang chủ			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="http://megan2.local"  >
+			<i class="ux-menu-link__icon text-center icon-angle-right" ></i>			<span class="ux-menu-link__text">
+				Sự kiện			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="http://megan2.local"  >
+			<i class="ux-menu-link__icon text-center icon-angle-right" ></i>			<span class="ux-menu-link__text">
+				Tin tức			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="http://megan2.local/lien-he/"  >
+			<i class="ux-menu-link__icon text-center icon-angle-right" ></i>			<span class="ux-menu-link__text">
+				Liên hệ			</span>
+		</a>
+	</div>
+	
+
+
+	</div>
+	
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-1485338041" class="col medium-2 small-12 large-2"  >
+				<div class="col-inner"  >
+			
+			
+
+<div class="container section-title-container" style="margin-bottom:5px;"><h3 class="section-title section-title-normal"><b></b><span class="section-title-main" style="color:rgb(255, 255, 255);">Social</span><b></b></h3></div>
+
+<div class="social-icons follow-icons" ><a href="#" target="_blank" data-label="Facebook" rel="noopener noreferrer nofollow" class="icon primary button circle facebook tooltip" title="Follow on Facebook" aria-label="Follow on Facebook"><i class="icon-facebook" ></i></a><a href="#" target="_blank" rel="noopener noreferrer nofollow" data-label="YouTube" class="icon primary button circle  youtube tooltip" title="Follow on YouTube" aria-label="Follow on YouTube"><i class="icon-youtube" ></i></a></div>
+
+
+		</div>
+					</div>
+
+	
+
+</div>
+
+		</div>
+					</div>
+
+	
+
+</div>
+
+		</div>
+
+		
+<style>
+#section_441914769 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: rgb(83, 83, 83);
+}
+#section_441914769 .ux-shape-divider--top svg {
+  height: 150px;
+  --divider-top-width: 100%;
+}
+#section_441914769 .ux-shape-divider--bottom svg {
+  height: 150px;
+  --divider-width: 100%;
+}
+</style>
+	</section>
+	
+<div class="absolute-footer dark medium-text-center text-center">
+  <div class="container clearfix">
+
+    
+    <div class="footer-primary pull-left">
+            <div class="copyright-footer">
+        © All rights reserved. Thiết kế website GCO      </div>
+          </div>
+  </div>
+</div>
+
+<a href="#top" class="back-to-top button icon invert plain fixed bottom z-1 is-outline hide-for-medium circle" id="top-link" aria-label="Go to top"><i class="icon-angle-up" ></i></a>
+
+</footer>
+
+</div>
+
+
+<div id="main-menu" class="mobile-sidebar no-scrollbar mfp-hide">
+
+	
+	<div class="sidebar-menu no-scrollbar ">
+
+		
+					<ul class="nav nav-sidebar nav-vertical nav-uppercase" data-tab="1">
+				<li class="header-search-form search-form html relative has-icon">
+	<div class="header-search-form-wrapper">
+		<div class="searchform-wrapper ux-search-box relative is-normal"><form method="get" class="searchform" action="http://megan2.local/" role="search">
+		<div class="flex-row relative">
+			<div class="flex-col flex-grow">
+	   	   <input type="search" class="search-field mb-0" name="s" value="" id="s" placeholder="Search&hellip;" />
+			</div>
+			<div class="flex-col">
+				<button type="submit" class="ux-search-submit submit-button secondary button icon mb-0" aria-label="Submit">
+					<i class="icon-search" ></i>				</button>
+			</div>
+		</div>
+    <div class="live-search-results text-left z-top"></div>
+</form>
+</div>	</div>
+</li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="http://megan2.local/gioi-thieu/">Giới thiệu</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-501"><a href="http://megan2.local/du-an-noi-bat/">Dự án nổi bật</a>
+<ul class="sub-menu nav-sidebar-ul children">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-du_an_cat menu-item-589"><a href="http://megan2.local/du_an_cat/vincity/">Vincity</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-du_an_cat menu-item-587"><a href="http://megan2.local/du_an_cat/swan-park/">Swan Park</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-du_an_cat menu-item-586"><a href="http://megan2.local/du_an_cat/swan-bay/">Swan Bay</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-du_an_cat menu-item-588"><a href="http://megan2.local/du_an_cat/villa-park/">Villa Park</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-du_an_cat menu-item-582"><a href="http://megan2.local/du_an_cat/gem-riverside/">Gem Riverside</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-du_an_cat menu-item-585"><a href="http://megan2.local/du_an_cat/saigon-sport-city/">Saigon Sport City</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-du_an_cat menu-item-584"><a href="http://megan2.local/du_an_cat/river-park-2/">River Park 2</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-du_an_cat menu-item-583"><a href="http://megan2.local/du_an_cat/palm-heights/">Palm Heights</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-du_an_cat menu-item-581"><a href="http://megan2.local/du_an_cat/can-ho-dat-xanh-lien-phuong/">Căn hộ Đất Xanh Liên Phường</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-478"><a href="http://megan2.local/su-kien/">Sự kiện</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="http://megan2.local/doi-tac/">Đối tác</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="http://megan2.local/tin-tuc/">Tin tức</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://megan2.local/lien-he/">Liên hệ</a></li>
+			</ul>
+		
+		
+	</div>
+
+	
+</div>
+<style id='wp-block-heading-inline-css' type='text/css'>
+h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-background,h6.has-background{padding:1.25em 2.375em}
+</style>
+<style id='wp-block-paragraph-inline-css' type='text/css'>
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}p.has-background{padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='http://megan2.local/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.5.1' id='swv-js' defer></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"http:\/\/megan2.local\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='http://megan2.local/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.5.1' id='contact-form-7-js' defer></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' id='rocket-browser-checker-js-after'>
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script type='text/javascript' id='rocket-preload-links-js-extra'>
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/(.+\/)?feed\/?.+\/?|\/(?:.+\/)?embed\/|\/(index\\.php\/)?wp\\-json(\/.*|$)|\/wp-admin\/|\/logout\/|\/wp-login.php","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|php|pdf|html|htm","siteUrl":"http:\/\/megan2.local","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' id='rocket-preload-links-js-after'>
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='http://megan2.local/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2' id='wp-polyfill-inert-js' defer></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='http://megan2.local/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11' id='regenerator-runtime-js' defer></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='http://megan2.local/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='http://megan2.local/wp-includes/js/hoverIntent.min.js?ver=1.10.2' id='hoverIntent-js' defer></script>
+<script type='text/javascript' id='flatsome-js-js-extra'>
+/* <![CDATA[ */
+var flatsomeVars = {"theme":{"version":"3.15.7"},"ajaxurl":"http:\/\/megan2.local\/wp-admin\/admin-ajax.php","rtl":"","sticky_height":"70","assets_url":"http:\/\/megan2.local\/wp-content\/themes\/flatsome\/assets\/js\/","lightbox":{"close_markup":"<button title=\"%title%\" type=\"button\" class=\"mfp-close\"><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-x\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"><\/line><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"><\/line><\/svg><\/button>","close_btn_inside":false},"user":{"can_edit_pages":false},"i18n":{"mainMenu":"Main Menu","toggleButton":"Toggle"},"options":{"cookie_notice_version":"1","swatches_layout":false,"swatches_box_select_event":false,"swatches_box_behavior_selected":false,"swatches_box_update_urls":"1","swatches_box_reset":false,"swatches_box_reset_extent":false,"swatches_box_reset_time":300,"search_result_latency":"0"}};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='http://megan2.local/wp-content/themes/flatsome/assets/js/flatsome.js?ver=2ba06bae7e21001b4413f16ac4e08981' id='flatsome-js-js' defer></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='http://megan2.local/wp-content/themes/flatsome/inc/integrations/wp-rocket/flatsome-wp-rocket.js?ver=3' id='flatsome-wp-rocket-js' defer></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='http://megan2.local/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.15.7' id='flatsome-live-search-js' defer></script>
+<!--[if IE]>
+<script type='text/javascript' src='https://cdn.jsdelivr.net/npm/intersection-observer-polyfill@0.1.0/dist/IntersectionObserver.js?ver=0.1.0' id='intersection-observer-polyfill-js'></script>
+<![endif]-->
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='http://megan2.local/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.15.7' id='flatsome-masonry-js-js' defer></script>
+<!--[if IE]>
+<script type='text/javascript' src='https://cdn.jsdelivr.net/gh/nuxodin/ie11CustomProperties@4.0.1/ie11CustomProperties.min.js?ver=4.0.1' id='css-vars-polyfill-js'></script>
+<![endif]-->
+<script>window.lazyLoadOptions={elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="http://megan2.local/wp-content/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js"></script><script>function lazyLoadThumb(e){var t='<img data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<div class="play"></div>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.dataset.query.length?'':'&'+this.dataset.query;e.setAttribute("src",t.replace("ID",this.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.replaceChild(e,this)}document.addEventListener("DOMContentLoaded",function(){var e,t,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id),e.onclick=lazyLoadYoutubeIframe,a[t].appendChild(e)});</script>
+</body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1680142426 -->
