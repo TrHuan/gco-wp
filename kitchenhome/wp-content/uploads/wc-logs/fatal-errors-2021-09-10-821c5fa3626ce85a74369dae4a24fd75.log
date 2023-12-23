@@ -1,0 +1,4 @@
+2021-09-10T07:35:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\wamp64\www\job\gco\wp\kitchenhome\wp-includes\Requests\Transport\cURL.php on line 164
+
+2021-09-10T09:13:38+00:00 CRITICAL Cannot declare class Widget_Blogs, because the name is already in use in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\inc\widgets\widget-blogs.php on line 0
+

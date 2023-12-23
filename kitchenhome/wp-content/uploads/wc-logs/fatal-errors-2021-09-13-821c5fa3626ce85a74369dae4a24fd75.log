@@ -1,0 +1,68 @@
+2021-09-13T01:14:03+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\taxonomy-product-cat.php on line 42
+
+2021-09-13T01:27:15+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\taxonomy-product-cat.php on line 43
+
+2021-09-13T01:31:52+00:00 CRITICAL syntax error, unexpected '=', expecting ')' in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\taxonomy-product-cat.php on line 53
+
+2021-09-13T01:31:59+00:00 CRITICAL syntax error, unexpected ':', expecting ')' in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\taxonomy-product-cat.php on line 53
+
+2021-09-13T01:33:31+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\taxonomy-product-cat.php on line 42
+
+2021-09-13T01:33:46+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\taxonomy-product-cat.php on line 42
+
+2021-09-13T01:36:05+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\taxonomy-product-cat.php on line 74
+
+2021-09-13T01:38:44+00:00 CRITICAL syntax error, unexpected end of file in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\taxonomy-product-cat.php on line 311
+
+2021-09-13T02:53:55+00:00 CRITICAL syntax error, unexpected '}' in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\product-box\product-box-2.php on line 26
+
+2021-09-13T02:54:38+00:00 CRITICAL syntax error, unexpected '}' in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\product-box\product-box-2.php on line 26
+
+2021-09-13T02:54:49+00:00 CRITICAL syntax error, unexpected '}' in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\product-box\product-box-2.php on line 26
+
+2021-09-13T02:55:49+00:00 CRITICAL syntax error, unexpected '}' in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\product-box\product-box-2.php on line 19
+
+2021-09-13T03:07:23+00:00 CRITICAL syntax error, unexpected ')', expecting ',' or ';' in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\templates\addons\products.php on line 16
+
+2021-09-13T03:40:48+00:00 CRITICAL Object of class WP_Term could not be converted to string in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\product-box\product-box-3.php on line 20
+
+2021-09-13T03:44:47+00:00 CRITICAL syntax error, unexpected ''post__in'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\product-box\product-box-3.php on line 28
+
+2021-09-13T03:52:12+00:00 CRITICAL syntax error, unexpected ';' in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\product-box\product-box-3.php on line 34
+
+2021-09-13T04:09:36+00:00 CRITICAL Object of class WP_Post could not be converted to string in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\inc\BFI_Thumb\BFI_Thumb.php on line 504
+
+2021-09-13T04:12:32+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_price_html() in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\product-box\product-box-3.php:105
+Stack trace:
+#0 D:\wamp64\www\job\gco\wp\kitchenhome\wp-includes\template.php(772): require()
+#1 D:\wamp64\www\job\gco\wp\kitchenhome\wp-includes\template.php(716): load_template('D:\\wamp64\\www\\j...', false, Array)
+#2 D:\wamp64\www\job\gco\wp\kitchenhome\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\content-product.php(28): get_template_part('woocommerce/pro...', '3')
+#4 D:\wamp64\www\job\gco\wp\kitchenhome\wp-includes\template.php(772): require('D:\\wamp64\\www\\j...')
+#5 D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\wamp64\\www\\j...', false)
+#6 D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\taxonomy- in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\product-box\product-box-3.php on line 105
+
+2021-09-13T04:12:49+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_price_html() in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\product-box\product-box-3.php:105
+Stack trace:
+#0 D:\wamp64\www\job\gco\wp\kitchenhome\wp-includes\template.php(772): require()
+#1 D:\wamp64\www\job\gco\wp\kitchenhome\wp-includes\template.php(716): load_template('D:\\wamp64\\www\\j...', false, Array)
+#2 D:\wamp64\www\job\gco\wp\kitchenhome\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\content-product.php(28): get_template_part('woocommerce/pro...', '3')
+#4 D:\wamp64\www\job\gco\wp\kitchenhome\wp-includes\template.php(772): require('D:\\wamp64\\www\\j...')
+#5 D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\wamp64\\www\\j...', false)
+#6 D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\taxonomy- in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\product-box\product-box-3.php on line 105
+
+2021-09-13T04:14:54+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_price_html() in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\product-box\product-box-3.php:105
+Stack trace:
+#0 D:\wamp64\www\job\gco\wp\kitchenhome\wp-includes\template.php(772): require()
+#1 D:\wamp64\www\job\gco\wp\kitchenhome\wp-includes\template.php(716): load_template('D:\\wamp64\\www\\j...', false, Array)
+#2 D:\wamp64\www\job\gco\wp\kitchenhome\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\content-product.php(28): get_template_part('woocommerce/pro...', '3')
+#4 D:\wamp64\www\job\gco\wp\kitchenhome\wp-includes\template.php(772): require('D:\\wamp64\\www\\j...')
+#5 D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\wamp64\\www\\j...', false)
+#6 D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\taxonomy- in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\product-box\product-box-3.php on line 105
+
+2021-09-13T06:52:17+00:00 CRITICAL syntax error, unexpected '?' in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\taxonomy-product-cat.php on line 65
+
+2021-09-13T07:14:44+00:00 CRITICAL Cannot redeclare woocommerce_pagination() (previously declared in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\plugins\woocommerce\includes\wc-template-functions.php:1498) in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\inc\pagination.php on line 12
+

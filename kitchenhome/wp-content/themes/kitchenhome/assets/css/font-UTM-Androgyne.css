@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'UTM-Androgyne';
+  src: url(../fonts/UTM-Androgyne/UTM-Androgyne.eot);
+  src: url(../fonts/UTM-Androgyne/UTM-Androgyne.eot?#iefix) format('embedded-opentype'),
+       url(../fonts/UTM-Androgyne/UTM-Androgyne.otf) format('otf'),
+       url(../fonts/UTM-Androgyne/UTM-Androgyne.svg#UTM%20Androgyne) format('svg'),
+       url(../fonts/UTM-Androgyne/UTM-Androgyne.ttf) format('truetype'),
+       url(../fonts/UTM-Androgyne/UTM-Androgyne.woff) format('woff'),
+       url(../fonts/UTM-Androgyne/UTM-Androgyne.woff2) format('woff2');
+}

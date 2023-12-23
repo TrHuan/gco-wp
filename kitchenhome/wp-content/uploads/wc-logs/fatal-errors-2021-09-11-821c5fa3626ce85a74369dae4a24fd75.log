@@ -1,0 +1,22 @@
+2021-09-11T02:01:11+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\templates\addons\products.php on line 41
+
+2021-09-11T02:26:40+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\woocommerce\product-box\product-box-2.php on line 18
+
+2021-09-11T04:24:07+00:00 CRITICAL syntax error, unexpected '<' in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\templates\addons\categories-products.php on line 23
+
+2021-09-11T04:48:47+00:00 CRITICAL syntax error, unexpected ';', expecting ']' in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\templates\addons\blogs.php on line 28
+
+2021-09-11T10:00:59+00:00 CRITICAL Uncaught Error: Call to undefined function the_sub_title() in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\templates\addons\main.php:103
+Stack trace:
+#0 D:\wamp64\www\job\gco\wp\kitchenhome\wp-includes\template.php(772): require()
+#1 D:\wamp64\www\job\gco\wp\kitchenhome\wp-includes\template.php(716): load_template('D:\\wamp64\\www\\j...', false, Array)
+#2 D:\wamp64\www\job\gco\wp\kitchenhome\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\templates\home.php(15): get_template_part('templates/addon...', '')
+#4 D:\wamp64\www\job\gco\wp\kitchenhome\wp-includes\template-loader.php(106): include('D:\\wamp64\\www\\j...')
+#5 D:\wamp64\www\job\gco\wp\kitchenhome\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\j...')
+#6 D:\wamp64\www\job\gco\wp\kitchenhome\index.php(17): require('D:\\wamp64\\www\\j...')
+#7 {main}
+  thrown in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\templates\addons\main.php on line 103
+
+2021-09-11T11:10:54+00:00 CRITICAL syntax error, unexpected '$title' (T_VARIABLE), expecting ',' or ';' in D:\wamp64\www\job\gco\wp\kitchenhome\wp-content\themes\kitchenhome\inc\widgets\widget-socials.php on line 131
+
