@@ -1,0 +1,170 @@
+$col_body: #fff;
+$col_title: #fff;
+// $col_active: #01442A;
+$col_active: #009A5E;
+$border_color: #C7C7C7;
+$bg_color: #C4C4C4;
+
+$font_sz_body: 18px;
+$font_sz_title: calc(22px + (40 - 22) * ((100vw - 320px) / (1920 - 320)));
+
+$font_family: 'Roboto', sans-serif;
+
+$font_family_2: 'Manrope', sans-serif;
+
+$max_width: 1200px;
+
+// @extend %transition;
+%h {
+	color: $col_body;
+}
+
+%flex {
+	display: flex;
+	flex-wrap: wrap;
+}
+// @extend %transition;
+
+// @mixin
+// @include position_fx('top_left', 0, 0);
+@mixin position_fx($pos_fx,$x,$y) {
+    position: fixed;
+    @if $pos_fx == 'top_left' {
+        top: $x;
+        left: $y;
+    }@else if $pos_fx == 'top_right' {
+        top: $x;
+        right: $y;
+    }@else if $pos_fx == 'bottom_left' {
+        bottom: $x;
+        left: $y;
+    }@else if $pos_fx == 'bottom_right' {
+        bottom: $x;
+        right: $y;
+    }
+}
+
+// @include position_as('top_left', 0, 0);
+@mixin position_as($pos_as,$x,$y) {
+    position: absolute;
+    @if $pos_as == 'top_left' {
+        top: $x;
+        left: $y;
+    }@else if $pos_as == 'top_right' {
+        top: $x;
+        right: $y;
+    }@else if $pos_as == 'bottom_left' {
+        bottom: $x;
+        left: $y;
+    }@else if $pos_as == 'bottom_right' {
+        bottom: $x;
+        right: $y;
+    }
+}
+
+// @include scrollbar();
+@mixin scrollbar($width: 3px) {
+    &::-webkit-scrollbar {
+        width: $width;
+    }
+
+    &::-webkit-scrollbar-track {
+        background: {
+            color: #fff;
+        } 
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background: {
+            color: $bg_color;
+        } 
+    }
+
+    &::-webkit-scrollbar-thumb:hover {
+        background: {
+            color: $bg_color;
+        }
+    }
+}
+
+// @include circular();
+@-webkit-keyframes circular{
+    from {
+        -webkit-transform:rotate(0deg);
+        -moz-transform:rotate(0deg);
+        -o-transform:rotate(0deg);
+    }
+    to {
+        -webkit-transform:rotate(360deg);
+        -moz-transform:rotate(360deg);
+        -o-transform:rotate(360deg);
+    }
+}
+/* Standard syntax */ 
+@keyframes circular {
+    from {
+        -webkit-transform:rotate(0deg);
+        -moz-transform:rotate(0deg);
+        -o-transform:rotate(0deg);
+    }
+    to {
+        -webkit-transform:rotate(360deg);
+        -moz-transform:rotate(360deg);
+        -o-transform:rotate(360deg);
+    }
+}
+
+// @include width();
+@mixin width($x, $y) {
+    width: 100% / $x * $y;
+}
+
+// @include numb_row();
+@mixin numb_row($x: 1) {
+    display: -webkit-box;
+    -webkit-line-clamp: $x;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+// @include translate();
+@mixin translate($x: 0, $y: 0) {
+    transform: translate($x, $y);
+}
+
+// @include arrow_up();
+@mixin arrow_up($x: 5px, $y: #000) {
+  width: 0;
+  height: 0;
+  border-left: $x solid transparent;
+  border-right: $x solid transparent;
+  border-bottom: $x solid $y;
+}
+
+// @include arrow_down();
+@mixin arrow_down($x: 5px, $y: #000) {
+  width: 0;
+  height: 0;
+  border-left: $x solid transparent;
+  border-right: $x solid transparent;
+  border-top: $x solid $y;
+}
+
+// @include arrow_right();
+@mixin arrow_right($x: 5px, $y: #000) {
+  width: 0;
+  height: 0;
+  border-top: $x solid transparent;
+  border-bottom: $x solid transparent;
+  border-left: $x solid $y;
+}
+
+// @include arrow_left();
+@mixin arrow_left($x: 5px, $y: #000) {
+  width: 0;
+  height: 0;
+  border-top: $x solid transparent;
+  border-bottom: $x solid transparent;
+  border-right:$x solid $y;
+}
+// @mixin

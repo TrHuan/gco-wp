@@ -1,0 +1,70 @@
+
+@font-face {
+	font-family: 'Manrope';
+	src: url('../fonts/Manrope/Manrope-ExtraLight/Manrope-ExtraLight.eot');
+	src: local('☺'), url('fonts/Manrope/Manrope-ExtraLight/Manrope-ExtraLight.woff') format('woff'), 
+	url('../fonts/Manrope/Manrope-ExtraLight/Manrope-ExtraLight.ttf') format('truetype'), 
+	url('../fonts/Manrope/Manrope-ExtraLight/Manrope-ExtraLight.svg') format('svg');
+	font-weight: 200;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Manrope';
+	src: url('../fonts/Manrope/Manrope-Light/Manrope-Light.eot');
+	src: local('☺'), url('fonts/Manrope/Manrope-Light/Manrope-Light.woff') format('woff'), 
+	url('../fonts/Manrope/Manrope-Light/Manrope-Light.ttf') format('truetype'), 
+	url('../fonts/Manrope/Manrope-Light/Manrope-Light.svg') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Manrope';
+	src: url('../fonts/Manrope/Manrope-Regular/Manrope-Regular.eot');
+	src: local('☺'), url('fonts/Manrope/Manrope-Regular/Manrope-Regular.woff') format('woff'), 
+	url('../fonts/Manrope/Manrope-Regular/Manrope-Regular.ttf') format('truetype'), 
+	url('../fonts/Manrope/Manrope-Regular/Manrope-Regular.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Manrope';
+	src: url('../fonts/Manrope/Manrope-Medium/Manrope-Medium.eot');
+	src: local('☺'), url('fonts/Manrope/Manrope-Medium/Manrope-Medium.woff') format('woff'), 
+	url('../fonts/Manrope/Manrope-Medium/Manrope-Medium.ttf') format('truetype'), 
+	url('../fonts/Manrope/Manrope-Medium/Manrope-Medium.svg') format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Manrope';
+	src: url('../fonts/Manrope/Manrope-SemiBold/Manrope-SemiBold.eot');
+	src: local('☺'), url('fonts/Manrope/Manrope-SemiBold/Manrope-SemiBold.woff') format('woff'), 
+	url('../fonts/Manrope/Manrope-SemiBold/Manrope-SemiBold.ttf') format('truetype'), 
+	url('../fonts/Manrope/Manrope-SemiBold/Manrope-SemiBold.svg') format('svg');
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Manrope';
+	src: url('../fonts/Manrope/Manrope-Bold/Manrope-Bold.eot');
+	src: local('☺'), url('fonts/Manrope/Manrope-Bold/Manrope-Bold.woff') format('woff'), 
+	url('../fonts/Manrope/Manrope-Bold/Manrope-Bold.ttf') format('truetype'), 
+	url('../fonts/Manrope/Manrope-Bold/Manrope-Bold.svg') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Manrope';
+	src: url('../fonts/Manrope/Manrope-ExtraBold/Manrope-ExtraBold.eot');
+	src: local('☺'), url('fonts/Manrope/Manrope-ExtraBold/Manrope-ExtraBold.woff') format('woff'), 
+	url('../fonts/Manrope/Manrope-ExtraBold/Manrope-ExtraBold.ttf') format('truetype'), 
+	url('../fonts/Manrope/Manrope-ExtraBold/Manrope-ExtraBold.svg') format('svg');
+	font-weight: 800;
+	font-style: normal;
+}

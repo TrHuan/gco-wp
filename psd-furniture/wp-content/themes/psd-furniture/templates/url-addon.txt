@@ -1,0 +1,7 @@
+get_template_part('templates/addons/address-box', '');
+
+get_template_part('templates/addons/logo-box', '');
+
+get_template_part('templates/addons/socials-box', '');
+
+<?php require_once(LIBS_DIR . '/breadcrumbs/breadcrumb.php'); ?>
