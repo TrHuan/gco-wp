@@ -1,0 +1,408 @@
+@charset "UTF-8";
+@-webkit-keyframes circular {
+  from {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+  }
+}
+@keyframes circular {
+  from {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+  }
+}
+@media (max-width: 1199px) {
+  .back-to-top {
+    bottom: 15px;
+    right: 15px;
+  }
+
+  .header-main .header-right > * {
+    margin-left: 20px;
+  }
+
+  .megamenu li {
+    padding: 0 14px;
+  }
+
+  .testimonial-box .testimonial-image {
+    padding: 0 15px;
+  }
+  .testimonial-box .testimonial-image .image-content {
+    padding: 0 15px 100px;
+  }
+  .testimonial-box .testimonial-content .kpis, .testimonial-box .testimonial-content .top-google {
+    font-size: 30px;
+  }
+  .testimonial-box .testimonial-content .kpis small, .testimonial-box .testimonial-content .top-google small {
+    font-size: 17px;
+  }
+
+  .main-page .lth-blogs .posts-box .post-thumbnail img {
+    width: 100%;
+  }
+  .main-page .lth-blogs-highlights .posts-box .item {
+    width: calc(100% / 3);
+  }
+  .main-page .lth-blogs-highlights .posts-box .item.active {
+    width: calc(100% / 3 * 2);
+  }
+
+  .customs-menus-box ul li a:not(.active):focus:before,
+  .customs-menus-box ul li a:not(.active):hover:before {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+@media (max-width: 991px) {
+  .main-posts .posts-box {
+    margin-bottom: 30px;
+  }
+  .main-posts .posts-box .item {
+    width: 50%;
+  }
+
+  .main-searchs .searchs-box .item {
+    width: calc(100% / 3);
+  }
+
+  .header-main .groups-box {
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start;
+    margin: 0;
+  }
+  .header-main .groups-box > * {
+    padding: 0;
+  }
+  .header-main .header-stick {
+    padding: 15px 0;
+  }
+  .header-main .menu-mobile-button {
+    margin-right: 10px;
+  }
+
+  .megamenu .menu-mobile-content .search-button .title-box {
+    border: none;
+    margin-top: 6px;
+  }
+
+  .popups-content .popup-box {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .testimonial-box .testimonial-image,
+.testimonial-box > * {
+    width: 100%;
+    padding: 15px;
+  }
+  .testimonial-box .testimonial-image .image-content {
+    border: none;
+    padding-bottom: 0;
+  }
+  .testimonial-box .testimonial-content {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .testimonial-box .testimonial-content > * {
+    width: 50%;
+  }
+  .testimonial-box .testimonial-content > *.tes-excerpt {
+    width: 100%;
+  }
+  .testimonial-box .testimonial-content .kpis, .testimonial-box .testimonial-content .top-google {
+    font-size: 28px;
+    border-bottom: none;
+    border-right: 1px solid #ebebeb;
+    padding: 15px;
+  }
+  .testimonial-box .testimonial-content .kpis:last-child, .testimonial-box .testimonial-content .top-google:last-child {
+    border-right: none;
+  }
+  .testimonial-box .testimonial-content .kpis small, .testimonial-box .testimonial-content .top-google small {
+    font-size: 17px;
+  }
+
+  .footer-main .groups-box > * {
+    width: 50%;
+  }
+  .footer-main .groups-box > *.footer-socials {
+    width: 100%;
+  }
+
+  .main-page .lth-blogs-highlights .posts-box .item {
+    width: 50%;
+  }
+  .main-page .lth-blogs-highlights .posts-box .item.active {
+    width: 100%;
+  }
+
+  .main-contacts .lth-banners.style_02 .banner-box > * {
+    width: 100%;
+  }
+  .main-contacts .lth-banners.style_02 .banner-box .banner-content {
+    padding-right: 15px;
+  }
+  .main-contacts .address-box .item {
+    width: 50%;
+  }
+  .main-contacts .contacts-box form .groups-box {
+    margin: -15px;
+  }
+  .main-contacts .contacts-box form .groups-box > * {
+    padding: 15px;
+  }
+
+  .lth-customs-menus {
+    overflow-x: auto;
+    padding-bottom: 4px;
+  }
+  .lth-customs-menus > * {
+    width: 992px;
+  }
+
+  .lth-banners.style_07 .banner-box>*,
+  .lth-banners.style_08 .banner-box>* {
+    width: 100%;
+    padding: 15px;
+  }
+
+  .lth-post-single .sidebars.active .sidebar-posts-box {
+      display: block;
+  }
+
+  .lth-post-single .sidebars .sidebar-box .content-box .item {
+      padding: 10px 0;
+  }
+  
+  .lth-post-single .sidebars-left .lth-sidebars {
+      position: fixed;
+      top: 0;
+      z-index: 9999999;
+      left: -250px;
+      transition: all 400ms;
+      max-width: 250px;
+  }
+  .lth-post-single .sidebars-left .lth-sidebars .sb-close,
+  .lth-post-single .sidebars-left .lth-sidebars .sb-menu {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 100%;
+    width: 50px;
+    height: 50px;
+    z-index: 9999;
+    font-size: 22px;
+    text-align: center;
+    line-height: 48px;
+    border: 1px solid #ebebeb;
+    background-color: #fff;
+    cursor: pointer;
+    transform: translateY(-50%);
+  }
+  .lth-post-single .sidebars-left .lth-sidebars .sb-close {
+    z-index: 999;
+  }
+  .lth-post-single .sidebars-left .lth-sidebars.active .sb-close {
+    z-index: 99999;
+  }
+  .lth-post-single .sidebars-left .lth-sidebars.active {
+    left: 0;
+  }
+}
+@media (max-width: 767px) {
+  article {
+    padding: 30px 0;
+  }
+
+  .main-searchs .searchs-box .item {
+    width: 50%;
+  }
+
+  .popups-content .popup-box {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .lth-banners.style_02 .banner-box > *, .lth-banners.style_03 .banner-box > *, .lth-banners.style_04 .banner-box > *, .lth-banners.style_05 .banner-box > * {
+    width: 100%;
+  }
+  .lth-banners.style_04 {
+    margin: 30px 0;
+    padding: 30px 0;
+  }
+
+  .testimonial-box .testimonial-content .kpis, .testimonial-box .testimonial-content .top-google {
+    font-size: 22px;
+  }
+  .testimonial-box .testimonial-content .kpis small, .testimonial-box .testimonial-content .top-google small {
+    font-size: 16px;
+  }
+
+  .footer-main .groups-box > * {
+    width: 100%;
+  }
+  .footer-main .footer-box {
+    padding: 15px;
+  }
+  .footer-main .footer-box .title-box {
+    margin-bottom: 0;
+  }
+  .footer-main .footer-box .title {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin-bottom: 0;
+  }
+  .footer-main .footer-box .title:after {
+    content: "";
+    font-family: IcoFont !important;
+    width: auto;
+    height: auto;
+    margin: 0;
+    background: none;
+  }
+  .footer-main .footer-box.active .title:after {
+    content: "";
+  }
+  .footer-main .footer-box > .content-box {
+    margin-top: 15px;
+  }
+  .footer-main .footer-socials .content-box {
+    display: block !important;
+    margin: 0;
+  }
+  .footer-main .footer-socials .title:after {
+    display: none;
+  }
+
+  .popups-content form .groups-box > * {
+    width: 100%;
+  }
+
+  .testimonial-box > * {
+    padding: 0;
+  }
+
+  .main-page .lth-blogs {
+    padding: 60px 0;
+  }
+  .main-page .lth-blogs .title-box {
+    margin-bottom: 25px;
+  }
+  .main-page .lth-blogs .posts-box .item {
+    border-bottom: 1px solid #ebebeb;
+  }
+  .main-page .lth-blogs .posts-box .item:last-child {
+    border-bottom: none;
+  }
+  .main-page .lth-blogs .posts-box .item:first-child .post-thumbnail {
+    display: block;
+    max-width: 200px;
+  }
+  .main-page .lth-blogs .posts-box .item:first-child .post-content {
+    max-width: calc(100% - 200px);
+    padding-left: 15px;
+  }
+  .main-page .lth-blogs .posts-box .post-thumbnail {
+    display: none;
+  }
+  .main-page .lth-blogs .posts-box .post-content {
+    max-width: 100%;
+    padding: 0;
+  }
+  .main-page .lth-blogs .posts-box .pagination {
+    margin-top: 30px;
+  }
+  .main-page .lth-blogs-highlights .posts-box .groups-box {
+    margin: -15px 0;
+  }
+  .main-page .lth-blogs-highlights .posts-box .item {
+    width: 100%;
+    padding: 15px 0;
+  }
+  .main-page .lth-blogs-highlights .posts-box .item.active .post-thumbnail {
+    display: block;
+    max-width: 100%;
+  }
+  .main-page .lth-blogs-highlights .posts-box .item.active .post-content {
+    position: initial;
+    background: none;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    padding: 15px 0 0;
+  }
+  .main-page .lth-blogs-highlights .posts-box .item.active .post-content a {
+    color: #262626;
+  }
+  .main-page .lth-blogs-highlights .posts-box .post {
+    border: none;
+  }
+
+  .main-contacts .address-box .item {
+    width: 100%;
+  }
+  .main-contacts .contacts-box form .groups-box {
+    margin: 0;
+  }
+  .main-contacts .contacts-box form .groups-box > * {
+    width: 100%;
+    padding: 0;
+  }
+}
+@media (max-width: 575px) {
+  .main-page .lth-blogs .posts-box .item:first-child .post-thumbnail,
+.main-page .lth-blogs .posts-box .item:first-child .post-content {
+    max-width: 100%;
+  }
+  .main-page .lth-blogs .posts-box .item:first-child .post-content {
+    padding: 15px 0 0;
+  }
+}
+@media (max-width: 479px) {
+  video {
+    width: 100%;
+  }
+
+  .main-posts .posts-box .item {
+    width: 100%;
+  }
+
+  .main-searchs .searchs-box .item {
+    width: 100%;
+  }
+
+  .footer-bottom .copyright {
+    display: block;
+    text-align: center;
+    padding: 15px 0;
+  }
+  .footer-bottom .copyright > * {
+    padding: 5px 0;
+    display: inline-block;
+  }
+}

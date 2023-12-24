@@ -1,0 +1,1437 @@
+# Translation of Plugins - Coupon Box for WooCommerce - Development (trunk) in Vietnamese
+# This file is distributed under the same license as the Plugins - Coupon Box for WooCommerce - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-11-30 04:49:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Coupon Box for WooCommerce - Development (trunk)\n"
+
+#: includes/support.php:761
+msgid "Other"
+msgstr "Khác"
+
+#: includes/support.php:801
+msgid "Cancel"
+msgstr "Hủy"
+
+#: includes/support.php:800
+msgid "Submit & Deactivate"
+msgstr "Gửi & Ngừng kích hoạt"
+
+#: includes/support.php:799
+msgid "I rather wouldn't say"
+msgstr "Tôi không muốn trả lời thêm"
+
+#: includes/support.php:784
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "Nếu bạn không phiền, vui lòng cho chúng tôi biết lý do hủy kích hoạt plugin:"
+
+#: includes/support.php:763
+msgid "Could you tell us a bit more?"
+msgstr "Bạn có thể vui lòng cho chúng tôi biết thêm?"
+
+#: includes/support.php:757
+msgid "What did you expect?"
+msgstr "Bạn đã mong đợi gì?"
+
+#: includes/support.php:755
+msgid "The plugin didn't work as expected"
+msgstr "Plugin hoạt động không như mong đợi"
+
+#: includes/support.php:749
+msgid "It's not what I was looking for"
+msgstr "Không phải plugin tôi mong muốn tìm kiếm"
+
+#: includes/support.php:745
+msgid "Could you tell us a bit more whats not working?"
+msgstr "Vui lòng cho chúng tôi thêm thông tin plugin đang không hoạt động ở đâu?"
+
+#: includes/support.php:743
+msgid "The plugin is not working"
+msgstr "Plugin đang không hoạt động"
+
+#: includes/support.php:739
+msgid "Could you tell us more about that feature?"
+msgstr "Vui lòng cho chúng tôi thêm thông tin về tính năng đó?"
+
+#: includes/support.php:737
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr "Plugin rất tuyệt, nhưng tôi cần thêm tính năng mà hiện tại đang không được hỗ trợ"
+
+#: includes/support.php:733
+msgid "Which plugin?"
+msgstr "Plugin nào?"
+
+#: includes/support.php:731
+msgid "I found a better plugin"
+msgstr "Tôi đã tìm thấy plugin khác phù hợp hơn"
+
+#: includes/support.php:727
+msgid "Would you like us to assist you?"
+msgstr "Bạn có cần chúng tôi hỗ trợ?"
+
+#: includes/support.php:725
+msgid "I couldn't understand how to make it work"
+msgstr "Tôi không hiểu làm thế nào sử dụng plugin"
+
+#: admin/settings.php:1023
+msgid "Hubspot"
+msgstr "Hubspot"
+
+#: admin/settings.php:1033
+msgid "Klaviyo"
+msgstr "Klaviyo"
+
+#: admin/settings.php:1043
+msgid "Sendinblue"
+msgstr "Sendinblue"
+
+#: frontend/frontend.php:76
+msgid "lower than threshold 0.5 "
+msgstr "thấp hơn ngưỡng 0.5 "
+
+#: admin/settings.php:1128
+msgid "to sign up for an API key pair with your Gmail account"
+msgstr "để đăng kí một cặp khóa API bằng tài khoản Gmail của bạn"
+
+#: admin/settings.php:1127
+msgid "page"
+msgstr "trang"
+
+#: admin/settings.php:1126
+msgid "1, Visit"
+msgstr "1, Đến"
+
+#: admin/settings.php:600
+msgid "setting)."
+msgstr "cài đặt)."
+
+#: admin/settings.php:282
+msgid "to edit Email design"
+msgstr "để sửa giao diện email"
+
+#: admin/settings.php:281
+msgid "WooCommerce Emails settings"
+msgstr "Cài đặt emails WooCommerce"
+
+#: admin/settings.php:279
+msgid "Please go to"
+msgstr "Hãy đi tới"
+
+#: admin/admin.php:145
+msgid "Show All"
+msgstr "Hiển thị tất cả"
+
+#: admin/settings.php:687 admin/settings.php:716
+msgid "Note*: Not found product"
+msgstr "Chú ý*: Không tìm thấy sản phẩm"
+
+#: includes/3rd/elementor/shortcode-widget.php:42
+msgid "Always Visible"
+msgstr "Luôn luôn hiển thị"
+
+#: includes/3rd/elementor/shortcode-widget.php:82
+msgid "Button Border Radius"
+msgstr "Bo viền nút"
+
+#: includes/3rd/elementor/shortcode-widget.php:54
+msgid "Button Color"
+msgstr "Màu nút"
+
+#: includes/3rd/elementor/shortcode-widget.php:45
+msgid "Display subscription form everywhere even the user is logged or subscribed"
+msgstr "Hiển thị đơn đăng ký mọi nơi ngay cả khi người dùng đã đăng nhập hoặc đã đăng ký"
+
+#: includes/3rd/elementor/shortcode-widget.php:95
+msgid "Input Border Radius"
+msgstr "Bo viền trường đầu vào"
+
+#: includes/3rd/elementor/shortcode-widget.php:47
+msgid "No"
+msgstr "Không"
+
+#: includes/3rd/elementor/shortcode-widget.php:46
+msgid "Yes"
+msgstr "Có"
+
+#: frontend/frontend.php:53
+msgid "*Invalid google reCAPTCHA secret key!"
+msgstr "*Mã bí mật google reCAPTCHA không hợp lệ!"
+
+#: frontend/frontend.php:44
+msgid "*Invalid google reCAPTCHA!"
+msgstr "*Google reCAPTCHA không hợp lệ!"
+
+#: frontend/frontend.php:29
+msgid "*No g_validate_response"
+msgstr "*No g_validate_response"
+
+#: frontend/frontend.php:67
+msgid "*reCAPTCHA verification failed"
+msgstr "*Xác thực reCAPTCHA bị lỗi"
+
+#: admin/settings.php:1134
+msgid "2, Choose reCAPTCHA v2 checkbox "
+msgstr "2, Chọn reCAPTCHA v2 checkbox "
+
+#: admin/settings.php:1138
+msgid "2, Choose reCAPTCHA v3"
+msgstr "2, Chọn reCAPTCHA v3"
+
+#: admin/settings.php:1140
+msgid "3, Fill in authorized domains"
+msgstr "3, Nhập các tên miền xác thực"
+
+#: admin/settings.php:1141
+msgid "4, Accept terms of service and click Register button"
+msgstr "4, Chấp nhận điều khoản dịch vụ và nhấp vào nút đăng ký"
+
+#: admin/settings.php:1142
+msgid "5, Copy and paste the site and secret key into the above field"
+msgstr "5, Sao chép và dán site key và secret key vào các trường tương ứng ở trên"
+
+#: admin/design.php:742
+msgid "Button 'No, thanks'"
+msgstr "Nút \"Không, cảm ơn\""
+
+#: admin/design.php:802
+msgid "Button background color"
+msgstr "Màu nền nút"
+
+#: admin/design.php:755
+msgid "Button title"
+msgstr "Tiêu đề nút"
+
+#: admin/design.php:785
+msgid "Button title color"
+msgstr "Màu tiêu đề nút"
+
+#: admin/settings.php:1104
+msgid "Dark"
+msgstr "Tối"
+
+#: admin/settings.php:1117
+msgid "Get Google reCAPTCHA V2 Site and Secret key"
+msgstr "Lấy Google reCAPTCHA V2 Site key và Secret key"
+
+#: admin/settings.php:1121
+msgid "Get Google reCAPTCHA V3 Site and Secret key"
+msgstr "Lấy Google reCAPTCHA V3 Site key và Secret key"
+
+#: admin/settings.php:303
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: admin/settings.php:1111
+msgid "Guide"
+msgstr "Hướng dẫn"
+
+#: admin/design.php:1062
+msgid "Header Title After Subscribe"
+msgstr "Nhãn tiêu đề sau khi đăng ký"
+
+#: admin/settings.php:1105
+msgid "Light"
+msgstr "Sáng"
+
+#: admin/settings.php:403
+msgid "Never reminder if click 'No, thanks' button"
+msgstr "Không hiện hộp phiếu giảm giá nếu nhấp nút 'Không, cảm ơn'"
+
+#: admin/settings.php:1073
+msgid "reCAPTCHA v2"
+msgstr "reCAPTCHA v2"
+
+#: admin/settings.php:1074
+msgid "reCAPTCHA v3"
+msgstr "reCAPTCHA v3"
+
+#: admin/design.php:767
+msgid "Rounded corner (px)"
+msgstr "Bo góc tròn (px)"
+
+#: admin/settings.php:1089
+msgid "Secret key"
+msgstr "Secret key"
+
+#: admin/settings.php:1080
+msgid "Site key"
+msgstr "Site key"
+
+#: admin/settings.php:1099
+msgid "Theme"
+msgstr "Chủ đề"
+
+#: admin/settings.php:1068
+msgid "Version"
+msgstr "Phiên bản"
+
+#: admin/settings.php:746 admin/settings.php:776
+msgid "Note*: Not found category"
+msgstr "Chú ý*: Không tìm thấy danh mục sản phẩm"
+
+#: frontend/frontend.php:76
+msgid "*reCAPTCHA score"
+msgstr "*điểm reCAPTCHA"
+
+#. Plugin URI of the plugin
+msgid "https://villatheme.com/extensions/woo-coupon-box/"
+msgstr "https://villatheme.com/extensions/woo-coupon-box/"
+
+#: woo-coupon-box.php:39
+msgid "Please install and activate WooCommerce to use Coupon Box for WooCommerce."
+msgstr "Hãy cài và kích hoạt WooCommerce để sử dụng Coupon Box for WooCommerce."
+
+#: admin/admin.php:286
+msgctxt "Admin menu"
+msgid "Coupon Box for WooCommerce"
+msgstr "Coupon Box for WooCommerce"
+
+#. Plugin Name of the plugin
+#: admin/design.php:516 admin/settings.php:276
+msgid "Coupon Box for WooCommerce"
+msgstr "Coupon Box for WooCommerce"
+
+#: admin/settings.php:342
+msgid "Enable multi language"
+msgstr "Bật đa ngôn ngữ"
+
+#: admin/settings.php:78
+msgid "never expires"
+msgstr "Không bao giờ hết hạn"
+
+#: admin/settings.php:53
+msgid "Preview emails"
+msgstr "Xem trước emails"
+
+#: admin/settings.php:348
+msgid "You can use multi language if you are using WPML or Polylang. Make sure you had translated Coupon Box for WooCommerce in all your languages before using this feature."
+msgstr "Bạn có thể sử dụng plugin với đa ngôn ngữ với WPML hoặc Polylang plugin. Hãy chắc rằng bạn đã dịch Coupon Box for WooCommerce plugin ra tất cả các ngôn ngữ."
+
+#: admin/settings.php:1013
+msgid "SendGrid"
+msgstr "SendGrid"
+
+#: admin/settings.php:1178
+msgid "\"Home page\" option above must be disabled to run these conditional tags."
+msgstr "Tùy chọn \"Trang chủ\" ở trên phải tắt để chạy các thẻ điều kiện này."
+
+#: templates/customize.php:80
+msgid "*Enter your email address"
+msgstr "*Nhập địa chỉ email của bạn"
+
+#: frontend/frontend.php:240 frontend/frontend.php:491
+msgid "*Invalid email!"
+msgstr "*Email không hợp lệ!"
+
+#: frontend/shortcode.php:254
+msgid "*Invalid email! Please enter a valid email and subscribe."
+msgstr "*Email không hợp lệ! Vui lòng nhập địa chỉ email hợp lệ và đăng ký."
+
+#: frontend/frontend.php:490
+msgid "*Please enter your email and subscribe."
+msgstr "*Vui lòng nhập địa chỉ email và đăng ký."
+
+#: frontend/frontend.php:146
+msgid "*This email already subscribed!"
+msgstr "*Địa chỉ email này đã được đăng ký!"
+
+#: frontend/shortcode.php:170
+msgid "*This email already subscribed. Please enter another email and subscribe!"
+msgstr "*Địa chỉ email này đã được đăng ký. Vui lòng nhập một địa chỉ email khác và đăng ký!"
+
+#: admin/design.php:2174
+msgid "A small icon to call coupon again after a visitor closes coupon box without subscribing"
+msgstr "Biểu tượng nhỏ để gọi hộp phiếu giảm giá sau khi khách hàng đóng chiếc hộp này mà không đăng ký"
+
+#: admin/settings.php:1003
+msgid "Active Campaign"
+msgstr "Active Campaign"
+
+#: admin/admin.php:289
+msgid "Add New Email Subscribe"
+msgstr "Thêm email đăng ký mới"
+
+#: admin/admin.php:287
+msgctxt "Add new on Admin bar"
+msgid "Email"
+msgstr "Email"
+
+#: admin/settings.php:360
+msgid "After initial time"
+msgstr "Sau thời gian khởi tạo"
+
+#: admin/design.php:591
+msgid "After subscribe"
+msgstr "Sau khi đăng ký"
+
+#: admin/settings.php:587
+msgid "Allow free shipping"
+msgstr "Cho phép giao hàng miễn phí"
+
+#: admin/settings.php:305
+msgid "Assign"
+msgstr "Chỉ định trang hiện"
+
+#: admin/settings.php:1167
+msgid "Assign Page"
+msgstr "Chỉ định trang hiện"
+
+#: admin/design.php:1244
+msgid "Auto"
+msgstr "Tự động"
+
+#: admin/design.php:910
+msgid "Background Color"
+msgstr "Màu nền"
+
+#: admin/design.php:590
+msgid "Before subscribe"
+msgstr "Trước khi đăng ký"
+
+#: admin/design.php:1142
+msgid "Body"
+msgstr "Phần thân"
+
+#: admin/design.php:1175
+msgid "Body Background Color"
+msgstr "Màu nền cho phần thân"
+
+#: admin/design.php:1204
+msgid "Body Background Image"
+msgstr "Ảnh nền cho phần thân"
+
+#: admin/design.php:1261
+msgid "Body Background Image Position"
+msgstr "Vị trí ảnh nền cho phần thân"
+
+#: admin/design.php:1220
+msgid "Body Background Image Repeat"
+msgstr "Lặp lại ảnh nền cho phần thân"
+
+#: admin/design.php:1242
+msgid "Body Background Image Size"
+msgstr "Kích cỡ ảnh nền cho phần thân"
+
+#: admin/design.php:1158
+msgid "Body Text Color"
+msgstr "Màu chữ cho phần thân"
+
+#: admin/design.php:2203
+msgid "Bottom Left"
+msgstr "Phía dưới bên trái"
+
+#: admin/design.php:2204
+msgid "Bottom Right"
+msgstr "Phía dưới bên phải"
+
+#: admin/settings.php:916
+msgid "Button \"Shop now\" background color"
+msgstr "Màu nền nút \"Mua hàng ngay\""
+
+#: admin/settings.php:905
+msgid "Button \"Shop now\" color"
+msgstr "Màu nút \"Mua hàng ngay\""
+
+#: admin/settings.php:927
+msgid "Button \"Shop now\" font size(px)"
+msgstr "Kích thước phông chữ nút \"Mua hàng ngay\""
+
+#: admin/settings.php:886
+msgid "Button \"Shop now\" title"
+msgstr "Tiêu đề nút \"Mua hàng ngay\""
+
+#: admin/settings.php:895
+msgid "Button \"Shop now\" URL"
+msgstr "Đường dẫn liên kết nút \"Mua hàng ngay\""
+
+#: admin/design.php:2141
+msgid "Button \"SUBSCRIBE\" Rounded Corner (px)"
+msgstr "Bo tròn góc nút \"ĐĂNG KÝ\" (px)"
+
+#: admin/design.php:2126 includes/3rd/elementor/shortcode-widget.php:68
+msgid "Button Background Color"
+msgstr "Màu nền nút"
+
+#: admin/design.php:847
+msgid "Button Close"
+msgstr "Nút đóng"
+
+#: admin/design.php:2041
+msgid "Button Subscribe & Email field"
+msgstr "Nút đăng ký & Trường email"
+
+#: admin/design.php:2108
+msgid "Button Text Color"
+msgstr "Màu chữ nút"
+
+#: admin/design.php:2093
+msgid "Button Title"
+msgstr "Tiêu đề nút"
+
+#: admin/export-email.php:190
+msgid "Campaign"
+msgstr "Chiến dịch"
+
+#: admin/settings.php:729
+msgid "Categories"
+msgstr "Danh mục"
+
+#: admin/design.php:1327
+msgid "Center"
+msgstr "Ở giữa"
+
+#: admin/export-email.php:211
+msgid "Choose campaign"
+msgstr "Chọn chiến dịch"
+
+#: admin/export-email.php:187
+msgid "Choose type"
+msgstr "Chọn kiểu"
+
+#: admin/design.php:893
+msgid "Color"
+msgstr "Màu"
+
+#: admin/settings.php:1191
+msgid "Combining 2 or more conditionals using || to show coupon box if 1 of the conditionals matched. e.g use "
+msgstr "Kết hợp 2 hay nhiều điều kiện sử dụng || để hiện thị hộp phiếu giảm giá nếu các điều kiện phù hợp. Ví dụ sử dụng "
+
+#: admin/design.php:1246
+msgid "Contain"
+msgstr "Chứa"
+
+#: admin/settings.php:297
+msgid "Coupon"
+msgstr "Ưu đãi"
+
+#: admin/settings.php:577
+msgid "Coupon amount"
+msgstr "Lượng ưu đãi"
+
+#: admin/design.php:2173
+msgid "Coupon box icon"
+msgstr "Biểu tượng hộp phiếu giảm giá"
+
+#: admin/design.php:2186
+msgid "Coupon box icon on mobile"
+msgstr "Biểu tượng hộp phiếu giảm giá trên điện thoại"
+
+#: admin/design.php:618
+msgid "Coupon Box Rounded Corner (px)"
+msgstr "Bo tròn góc hộp phiếu giảm giá (px)"
+
+#: admin/settings.php:568
+msgid "Coupon code prefix"
+msgstr "Tiền tố mã ưu đãi"
+
+#: admin/admin.php:37
+msgid "Coupon value"
+msgstr "Giá trị ưu đãi"
+
+#: admin/design.php:1247
+msgid "Cover"
+msgstr "Bao phủ"
+
+#: admin/settings.php:494 admin/settings.php:536
+msgid "Custom"
+msgstr "Tùy chỉnh"
+
+#: admin/design.php:2374 admin/design.php:2389
+msgid "Custom CSS"
+msgstr "Tùy chỉnh CSS"
+
+#: admin/export-email.php:189
+msgid "Date"
+msgstr "Ngày"
+
+#: admin/settings.php:427
+msgid "Day"
+msgstr "Ngày"
+
+#: admin/settings.php:444
+msgid "Days"
+msgstr "Ngày"
+
+#: admin/settings.php:546
+msgid "Description"
+msgstr "Mô tả"
+
+#: admin/settings.php:307
+msgid "Design"
+msgstr "Thiết kế"
+
+#: admin/settings.php:328
+msgid "Disable for logged-in users"
+msgstr "Tắt đối với người dùng đã đăng nhập"
+
+#: admin/settings.php:555
+msgid "Discount type"
+msgstr "Loại ưu đãi"
+
+#: frontend/frontend.php:662 frontend/frontend.php:678
+msgid "Do not show again"
+msgstr "Không hiển thị trở lại"
+
+#: admin/settings.php:495
+msgid "Do not use coupon"
+msgstr "Không sử dụng ưu đãi"
+
+#: admin/design.php:1740
+msgid "Dribbble User Name"
+msgstr "Tên người dùng tài khoản Dribbble"
+
+#: admin/design.php:2054
+msgid "Emai Input Rounded Corner (px)"
+msgstr "Bo tròn góc của trường nhập email (px)"
+
+#: admin/settings.php:299
+msgid "Email"
+msgstr "Email"
+
+#: admin/settings.php:301
+msgid "Email API"
+msgstr "Email API"
+
+#: admin/settings.php:847
+msgid "Email content"
+msgstr "Nội dung email"
+
+#: admin/settings.php:836
+msgid "Email heading"
+msgstr "Tiêu đề email"
+
+#: admin/settings.php:501
+msgid "Email restriction"
+msgstr "Hạn chế email"
+
+#: admin/settings.php:825
+msgid "Email subject"
+msgstr "Chủ đề email"
+
+#: admin/admin.php:293
+msgid "Email Subscribe"
+msgstr "Email đăng ký"
+
+#: admin/settings.php:314 admin/settings.php:321 admin/settings.php:411
+#: admin/settings.php:948 admin/settings.php:1057 admin/settings.php:1160
+msgid "Enable"
+msgstr "Bật"
+
+#: admin/settings.php:650
+msgid "Enable if the coupon cannot be used in conjunction with other coupons."
+msgstr "Đánh dấu vào ô này nếu phiếu giảm giá không thể được sử dụng với các phiếu giảm giá khác."
+
+#: admin/settings.php:664
+msgid "Enable if the coupon should not apply to items on sale. Per-item coupons will only work if the item is not on sale. Per-cart coupons will only work if there are items in the cart that are not on sale."
+msgstr "Bật nếu phiếu giảm giá không được áp dụng với mặt hàng đang giảm giá. Phiếu giảm giá trên một mặt hàng sẽ chỉ hoạt động nếu mặt hàng đang không giảm giá. Phiếu giảm giá trên giỏ hàng sẽ chỉ hoạt động nếu các mặt hàng trong giỏ đang không giảm giá."
+
+#: admin/settings.php:336
+msgid "Enable to hide coupon box for all logged-in users"
+msgstr "Bật để ẩn hộp phiếu giảm giá đối với người dùng đã đăng nhập"
+
+#: admin/design.php:1331
+msgid "End"
+msgstr "Kết thúc"
+
+#: admin/export-email.php:204
+msgid "End Date"
+msgstr "Ngày kết thúc"
+
+#: admin/settings.php:378
+msgid "Enter min,max to set initial time random between min and max(seconds)."
+msgstr "Nhập giá trị thời gian tối thiểu, tối đa để thiết lập thời gian khởi tạo giữa giá trị tối thiểu và tối đa(giây)."
+
+#: frontend/frontend.php:211 frontend/frontend.php:228
+#: frontend/shortcode.php:242 templates/customize.php:63
+msgid "Enter this promo code at checkout page."
+msgstr "Nhập mã ưu đãi ở trang thanh toán."
+
+#: frontend/shortcode.php:93
+msgid "Enter your email address"
+msgstr "Nhập địa chỉ email của bạn"
+
+#: templates/basic.php:53
+msgid "Enter your email address(*)"
+msgstr "Nhập địa chỉ email của bạn(*)"
+
+#: admin/settings.php:1172
+msgid "Ex: !is_page(array(123,41,20))"
+msgstr "Ex: !is_page(array(123,41,20))"
+
+#: admin/settings.php:759
+msgid "Exclude categories"
+msgstr "Danh mục không hiện hộp phiếu giảm giá"
+
+#: admin/settings.php:700
+msgid "Exclude products"
+msgstr "Sản phẩm không hiện hộp phiếu giảm giá"
+
+#: admin/settings.php:656
+msgid "Exclude sale items"
+msgstr "Không bao gồm mặt hàng đang giảm giá"
+
+#: admin/settings.php:493 admin/settings.php:515
+msgid "Existing coupon"
+msgstr "Phiếu giảm giá sẵn có"
+
+#: admin/settings.php:609
+msgid "Expires after(days)"
+msgstr "Hết hạn sau(ngày)"
+
+#: admin/admin.php:38
+msgid "Expiry date"
+msgstr "Ngày hết hạn"
+
+#: admin/export-email.php:164 admin/export-email.php:165
+msgid "Export Email"
+msgstr "Xuất email"
+
+#: admin/export-email.php:176
+msgid "Export email subscribe"
+msgstr "Xuất email đăng ký"
+
+#: admin/design.php:1534
+msgid "Facebook User Name"
+msgstr "Tên người dùng tài khoản Facebook"
+
+#: admin/settings.php:560
+msgid "Fixed cart discount"
+msgstr "Giảm giá cố định giỏ hàng"
+
+#: admin/settings.php:561
+msgid "Fixed product discount"
+msgstr "Giảm giá cố định sản phẩm"
+
+#: frontend/frontend.php:810
+msgid "Follow Dribbble"
+msgstr "Theo dõi Dribbble"
+
+#: frontend/frontend.php:755
+msgid "Follow Facebook"
+msgstr "Theo dõi Facebook"
+
+#: frontend/frontend.php:838
+msgid "Follow Google Plus"
+msgstr "Theo dõi Google Plus"
+
+#: frontend/frontend.php:796
+msgid "Follow Instagram"
+msgstr "Theo dõi Instagram"
+
+#: frontend/frontend.php:866
+msgid "Follow Linkedin"
+msgstr "Theo dõi Linkedin"
+
+#: frontend/frontend.php:782
+msgid "Follow Pinterest"
+msgstr "Theo dõi Pinterest"
+
+#: frontend/frontend.php:824
+msgid "Follow Tumblr"
+msgstr "Theo dõi Tumblr"
+
+#: frontend/frontend.php:768
+msgid "Follow Twitter"
+msgstr "Theo dõi Twitter"
+
+#: admin/design.php:1462
+msgid "Follow Us Text Color"
+msgstr "Màu chữ Hãy theo dõi chúng tôi"
+
+#: frontend/frontend.php:852
+msgid "Follow VK"
+msgstr "Theo dõi VK"
+
+#: frontend/frontend.php:881
+msgid "Follow Youtube"
+msgstr "Theo dõi Youtube"
+
+#: admin/design.php:823
+msgid "Footer Text"
+msgstr "Chữ ở chân"
+
+#: admin/design.php:837
+msgid "Footer Text After Subscribing"
+msgstr "Chữ ở chân sau khi đăng ký"
+
+#: admin/settings.php:599
+msgid "free shipping method"
+msgstr "Phương thức giao hàng miễn phí"
+
+#: admin/design.php:699
+msgid "GDPR checkbox"
+msgstr "Hộp kiểm GDPR"
+
+#: admin/design.php:573 admin/settings.php:294
+#: includes/3rd/elementor/shortcode-widget.php:35
+msgid "General"
+msgstr "Cài đặt chung"
+
+#: admin/admin.php:36
+msgid "Given coupon"
+msgstr "Phiếu giảm giá đã tặng"
+
+#: admin/settings.php:1201
+msgid "Go to design now"
+msgstr "Nhấp để đi tới thiết kế ngay"
+
+#: admin/design.php:1842
+msgid "Google Plus ID"
+msgstr "ID Google Plus"
+
+#: admin/design.php:1008
+msgid "Header"
+msgstr "Tiêu đề"
+
+#: admin/design.php:1094
+msgid "Header Background Color"
+msgstr "Màu nền tiêu đề"
+
+#: admin/design.php:1077
+msgid "Header Color"
+msgstr "Màu tiêu đề"
+
+#: admin/design.php:1110
+msgid "Header Font Size(px)"
+msgstr "Kích cỡ phông tiêu đề(px)"
+
+#: admin/design.php:1128
+msgid "Header Space(px)"
+msgstr "Khoảng cách tiêu đề(px)"
+
+#: admin/design.php:1029 admin/design.php:1037
+msgid "Header Title"
+msgstr "Nhãn tiêu đề"
+
+#: admin/design.php:1111
+msgid "Helpful tip: Set both Header Font size and Space to 0 to hide header."
+msgstr "Mẹo hữu ích: Thiết lập đồng thời kích cỡ phông tiêu đề và khoảng trống bằng 0 để ẩn tiêu đề"
+
+#: admin/design.php:954
+msgid "Helpful tip: Set width to 0 to disable button close. Visitor can still close Coupon box without subscribing by clicking around or press Esc."
+msgstr "Mẹo hữu ích: Thiết lập độ rộng bằng 0 để tắt nút đóng. Người truy cập sẽ đóng hộp phiếu giảm giá mà không đăng ký bằng việc nhấp khu vực xung quanh hoặc ấn Esc."
+
+#: admin/settings.php:967
+msgid "here"
+msgstr "ở đây"
+
+#: admin/settings.php:390
+msgid "Hide coupon box"
+msgstr "Ẩn hộp phiếu giảm giá"
+
+#: admin/settings.php:1153
+msgid "Home Page"
+msgstr "Trang chủ"
+
+#: admin/settings.php:426
+msgid "Hour"
+msgstr "Giờ"
+
+#: admin/design.php:1570 admin/design.php:1622 admin/design.php:1673
+#: admin/design.php:1724 admin/design.php:1775 admin/design.php:1826
+#: admin/design.php:1877 admin/design.php:1928 admin/design.php:1978
+#: admin/design.php:2028
+msgid "Icon Color"
+msgstr "Màu biểu tượng"
+
+#: admin/design.php:2252
+msgid "Icon color"
+msgstr "Màu biểu tượng"
+
+#: admin/design.php:2199
+msgid "Icon position"
+msgstr "Vị trí biểu tượng"
+
+#: admin/design.php:2234
+msgid "Icon wrap rounded corner(px)"
+msgstr "Bo góc tròn biểu tượng(px)"
+
+#: admin/design.php:1477 admin/design.php:2218
+msgid "Icons size (px)"
+msgstr "Kích cỡ biểu tượng (px)"
+
+#: admin/settings.php:397
+msgid "If a visitor subscribes when the coupon box is minimized, only field email is visible and required, all other fields are invisible even if you set them required fields."
+msgstr "Nếu khách truy cập đăng ký khi hộp phiếu giảm giá đang được thu nhỏ, chỉ hiển thị trường email và là trường bắt buộc, tất cả các trường khác sẽ bị ẩn ngay cả khi bạn chọn bắt buộc"
+
+#: admin/design.php:606
+msgid "If you set to give coupons for subscribers, beside sending coupon code via email address, enable this to print out the coupon code inside the coupon box after subscribing."
+msgstr "Nếu bạn thiết lập tặng phiếu giảm giá cho những người đăng ký, ngoài việc gửi mã giảm giá qua email, bật tính năng này để hiện thị mã giảm giá trên hộp phiếu giảm giá ngay sau khi khách đăng ký."
+
+#: admin/settings.php:642
+msgid "Individual use only"
+msgstr "Chỉ sử dụng riêng lẻ"
+
+#: admin/design.php:1245
+msgid "Inherit"
+msgstr "Kế thừa"
+
+#: admin/design.php:1222
+msgid "inherit"
+msgstr "kế thừa"
+
+#: admin/settings.php:372
+msgid "Initial time"
+msgstr "Thời gian khởi tạo"
+
+#: admin/design.php:1689
+msgid "Instagram User Name"
+msgstr "Tên người dùng tài khoản Instagram"
+
+#: admin/design.php:1329
+msgid "Justify"
+msgstr "Căn chỉnh"
+
+#: admin/design.php:1326
+msgid "Left"
+msgstr "Bên trái"
+
+#: admin/settings.php:799
+msgid "Limit usage to X items"
+msgstr "Giới hạn sử dụng cho X mặt hàng"
+
+#: admin/design.php:1963
+msgid "Linkedin User Name"
+msgstr "Tên người dùng tài khoản Linkedin"
+
+#: admin/settings.php:941
+msgid "Mailchimp"
+msgstr "Mailchimp"
+
+#: admin/settings.php:960
+msgid "Mailchimp API Key"
+msgstr "Mã API MailChimp"
+
+#: admin/settings.php:973
+msgid "Mailchimp lists"
+msgstr "Danh sách Mailchimp"
+
+#: admin/settings.php:630
+msgid "Maximum spend"
+msgstr "Chi tiêu tối đa"
+
+#: admin/system.php:26
+msgid "Memory Limit"
+msgstr "Giới hạn bộ nhớ"
+
+#: admin/design.php:1282
+msgid "Message"
+msgstr "Thông báo"
+
+#: admin/design.php:1295
+msgid "Message After Subscribing"
+msgstr "Thông báo sau khi đăng ký"
+
+#: admin/design.php:1347
+msgid "Message Color"
+msgstr "Màu thông báo"
+
+#: admin/design.php:1307
+msgid "Message Size (px)"
+msgstr "Kích cỡ thông báo (px)"
+
+#: admin/design.php:1324
+msgid "Message Text Align (px)"
+msgstr "Căn đều chữ thông báo (px)"
+
+#: admin/settings.php:620
+msgid "Minimum spend"
+msgstr "Chi tiêu tối thiểu"
+
+#: admin/settings.php:425
+msgid "Minute"
+msgstr "Phút"
+
+#: admin/admin.php:290
+msgid "New Email"
+msgstr "Email mới"
+
+#: admin/admin.php:296
+msgid "No Email found."
+msgstr "Không tìm thấy email."
+
+#: admin/design.php:1223
+msgid "no-repeat"
+msgstr "Không lặp lại"
+
+#: admin/design.php:1496
+msgid "Open link in current tab"
+msgstr "Mở đường dẫn ở thẻ hiện tại"
+
+#: admin/design.php:1495
+msgid "Open link in new tab"
+msgstr "Mở đường dẫn sang thẻ mới"
+
+#: admin/design.php:668
+msgid "Overlay color"
+msgstr "Màu lớp phủ ngoài"
+
+#: admin/admin.php:295
+msgid "Parent Email:"
+msgstr "Mail gốc:"
+
+#: admin/settings.php:559
+msgid "Percentage discount"
+msgstr "Giảm giá theo tỷ lệ phần trăm"
+
+#: admin/system.php:21
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars"
+
+#: admin/system.php:17
+msgid "PHP Time Limit"
+msgstr "PHP Time Limit"
+
+#: admin/design.php:1638
+msgid "Pinterest User Name"
+msgstr "Tên người dùng tài khoản Pinterest"
+
+#: admin/design.php:1030
+msgid "Place words in <span></span> to make it display in new line"
+msgstr "Đặt chữ ở <span></span> để hiển thị chữ trên một hàng mới"
+
+#: admin/design.php:636
+msgid "Popup Display Type"
+msgstr "Kiểu hiển thị popup"
+
+#: admin/design.php:2155
+msgid "Popup Icons"
+msgstr "Biểu tượng popup"
+
+#: admin/settings.php:354
+msgid "Popup trigger"
+msgstr "Xuất hiện popup"
+
+#: admin/design.php:1262
+msgid "Position of Background Image. Eg: 100% 100%, center..."
+msgstr "Vị trí của ảnh nền. Ví dụ: 100% 100%, giữa..."
+
+#: admin/design.php:986
+msgid "Position-x (px)"
+msgstr "Vị trí-x (px)"
+
+#: admin/design.php:998
+msgid "Position-y (px)"
+msgstr "Vị trí-y (px)"
+
+#: admin/settings.php:672
+msgid "Products"
+msgstr "Sản phẩm"
+
+#: admin/design.php:1224
+msgid "repeat"
+msgstr "Lặp lại"
+
+#: admin/design.php:1225
+msgid "repeat-x"
+msgstr "lặp lại - chiều ngang"
+
+#: admin/design.php:1226
+msgid "repeat-y"
+msgstr "lặp lại - chiều dọc"
+
+#: admin/design.php:1328
+msgid "Right"
+msgstr "Right"
+
+#: admin/admin.php:288
+msgctxt "role"
+msgid "Add New Subscribe"
+msgstr "Thêm đăng ký mới"
+
+#: admin/design.php:1227
+msgid "round"
+msgstr "Tròn"
+
+#: admin/design.php:970
+msgid "Rounded Corner (px)"
+msgstr "Bo góc tròn (px)"
+
+#: admin/settings.php:1207
+msgid "Save"
+msgstr "Lưu"
+
+#: admin/admin.php:294
+msgid "Search Email"
+msgstr "Tìm kiếm email"
+
+#: admin/settings.php:424
+msgid "Second"
+msgstr "Giây"
+
+#: admin/settings.php:487
+msgid "Select coupon"
+msgstr "Chọn ưu đãi"
+
+#: admin/design.php:588
+msgid "Select view mode to edit"
+msgstr "Chọn chế độ xem để sửa"
+
+#: admin/design.php:711
+msgid "Set checkbox state \"checked\" as default"
+msgstr "Thiết lập trạng thái nút kiểm \"Được chọn\" làm mặc định"
+
+#: admin/admin.php:200 admin/settings.php:264 admin/settings.php:265
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: admin/design.php:605
+msgid "Show coupon after subscribing."
+msgstr "Hiển thị phiếu giảm giá sau khi đăng ký."
+
+#: admin/design.php:937
+msgid "Size (px)"
+msgstr "Kích cỡ (px)"
+
+#: admin/design.php:1360
+msgid "Social Media"
+msgstr "Truyền thông xã hội"
+
+#: admin/design.php:1228
+msgid "space"
+msgstr "Khoảng trống"
+
+#: admin/design.php:2070
+msgid "Space between email field & button SUBSCRIBE"
+msgstr "Khoảng cách giữa trường email và nút ĐĂNG KÝ"
+
+#: admin/design.php:1330
+msgid "Start"
+msgstr "Bắt đầu"
+
+#: admin/export-email.php:197
+msgid "Start Date"
+msgstr "Ngày bắt đầu"
+
+#: admin/settings.php:417
+msgid "Subscription reminder if not subscribe"
+msgstr "Hiện lại hộp phiếu giảm giá nếu không đăng ký"
+
+#: admin/settings.php:437
+msgid "Subscription reminder if subscribe"
+msgstr "Hiện lại hộp phiếu giảm giá nếu đăng ký"
+
+#: admin/system.php:13 admin/system.php:38 admin/system.php:39
+msgid "System Status"
+msgstr "Trạng thái hệ thống"
+
+#: admin/design.php:1447
+msgid "Text Follow Social Network"
+msgstr "Chữ Theo dõi mạng xã hội"
+
+#: admin/design.php:593
+msgid "This option is for you to see what it't like before and after visitors subscribe only"
+msgstr "Tùy chọn chỉ cho phép bạn xem cách hộp phiếu giảm giá thay đổi trước và sau khi khách truy cập đăng ký"
+
+#: admin/settings.php:431
+msgid "Time to show subscription again if visitor does not subscribe"
+msgstr "Thời gian để hiển thị hộp phiếp giảm giá trở lại nếu người dùng không đăng ký"
+
+#: admin/settings.php:1184
+msgid "to show only on WooCommerce category page"
+msgstr "để chỉ hiện thị trên trang danh mục của WooCommerce"
+
+#: admin/design.php:2201
+msgid "Top Left"
+msgstr "Phía trên bên trái"
+
+#: admin/design.php:2202
+msgid "Top Right"
+msgstr "Phía trên bên phải"
+
+#: admin/settings.php:1162
+msgid "Turn on to show coupon box only on Home page"
+msgstr "Bật để chỉ hiện thị hộp phiếu giảm giá trên trang chủ"
+
+#: admin/settings.php:950
+msgid "Turn on to use MailChimp system"
+msgstr "Bật để sử dụng hệ thống MailChimp"
+
+#: admin/design.php:1587
+msgid "Twitter User Name"
+msgstr "Tên người dùng tài khoản Twitter"
+
+#: admin/design.php:2187
+msgid "Uncheck this to hide the coupon box icon on mobile"
+msgstr "Bỏ chọn để ẩn biểu tượng hộp phiếu giảm giá trên điện thoại"
+
+#: admin/settings.php:492
+msgid "Unique coupon"
+msgstr "Phiếu giảm giá đặc biệt"
+
+#: admin/settings.php:789
+msgid "Usage limit per coupon"
+msgstr "Giới hạn sử dụng trên mỗi phiếu giảm giá"
+
+#: admin/settings.php:810
+msgid "Usage limit per user"
+msgstr "Giới hạn sử dụng trên mỗi người dùng"
+
+#: admin/admin.php:292
+msgid "View Email"
+msgstr "Xem email"
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr "VillaTheme"
+
+#: admin/design.php:1893
+msgid "VKontakte User Name"
+msgstr "Tên người dùng tài khoản VKontakte"
+
+#: admin/design.php:1159
+msgid "wcb_coupon_box_design_body"
+msgstr "wcb_coupon_box_design_body"
+
+#: admin/design.php:1493
+msgid "When click on social icons"
+msgstr "Khi nhấp vào biểu tượng xã hội (social icons)"
+
+#: admin/settings.php:384
+msgid "When visitors close coupon box without subscribing"
+msgstr "Khi người truy cập đóng hộp phiếu giảm giá mà không đăng ký"
+
+#: admin/design.php:953
+msgid "Width (px)"
+msgstr "Độ rộng (px)"
+
+#: includes/3rd/elementor/shortcode-widget.php:15
+msgid "Woo Coupon Box"
+msgstr "Woo Coupon Box"
+
+#: admin/settings.php:1175
+msgid "WP's conditional tags"
+msgstr "Thẻ điều kiện"
+
+#: admin/design.php:1741
+msgid "Your Dribbble User Name. Eg: villatheme"
+msgstr "Tên người dùng tài khoản Dribbble của bạn. Ví dụ: villatheme"
+
+#: admin/design.php:1535
+msgid "Your Facebook User Name. Eg: villatheme"
+msgstr "Tên người dùng tài khoản Facebook của bạn. Ví dụ: villatheme"
+
+#: admin/design.php:1843
+msgid "Your Google Plus ID. Eg: +LarryPage"
+msgstr "ID Google Plus của bạn. Ví dụ: +LarryPage"
+
+#: admin/design.php:1690
+msgid "Your Instagram User Name. Eg: villatheme"
+msgstr "Tên người dùng tài khoản Instagram của bạn. Ví dụ: villatheme"
+
+#: admin/design.php:1964
+msgid "Your Linkedin User Name. Eg: villatheme"
+msgstr "Tên người dùng tài khoản Linkedin của bạn. Ví dụ: villatheme"
+
+#: admin/design.php:1639
+msgid "Your Pinterest User Name. Eg: villatheme"
+msgstr "Tên người dùng tài khoản Pinterest của bạn. Ví dụ: villatheme"
+
+#: admin/design.php:1792
+msgid "Your Tumblr User Name. Eg: villatheme"
+msgstr "Tên người dùng tài khoản Tumblr của bạn. Ví dụ: villatheme"
+
+#: admin/design.php:1588
+msgid "Your Twitter User Name. Eg: villatheme"
+msgstr "Tên người dùng tài khoản Twitter của bạn. Ví dụ: villatheme"
+
+#: admin/design.php:1894
+msgid "Your VKontakte User Name. Eg: villatheme"
+msgstr "Tên người dùng tài khoản VKontakte của bạn. Ví dụ: villatheme"
+
+#: admin/design.php:2013
+msgid "Youtube URL"
+msgstr "Đường dẫn Youtube"
+
+#: admin/settings.php:451
+msgid " days if the visitor subscribes"
+msgstr " ngày nếu người truy cập đăng ký"
+
+#: admin/settings.php:966
+msgid " The API key for connecting with your MailChimp account. Get your API key "
+msgstr " Mã API để kết nối với tài khoảng MailChimp của bạn. Lấy mã API "
+
+#: admin/settings.php:1180
+msgid " to show only on cart page"
+msgstr " để chỉ hiển thị trên trang giỏ hàng"
+
+#: admin/settings.php:1193
+msgid " to show only on cart page and checkout page"
+msgstr " để chỉ hiển thị trên trang giỏ hàng và trang thanh toán"
+
+#: admin/settings.php:1182
+msgid " to show only on checkout page"
+msgstr " để chỉ hiển thị trên trang thanh toán"
+
+#: admin/settings.php:1186
+msgid " to show only on WooCommerce shop page"
+msgstr " để chỉ hiển thị trên trang cửa hàng của WooCommerce"
+
+#: admin/settings.php:1188
+msgid " to show only on WooCommerce single product page"
+msgstr " để chỉ hiển thị trên trang chi tiết sản phẩm"
+
+#: admin/admin.php:291
+msgid "Edit Email"
+msgstr "Sửa email"
+
+#: admin/admin.php:35 admin/settings.php:458
+msgid "Email campaign"
+msgstr "Email chiến dịch"
+
+#: admin/settings.php:509
+msgid "Enable to make coupon usable for received email only"
+msgstr "Bật để chỉ sử dụng phiếu giảm giá cho email đã nhận"
+
+#: admin/design.php:725
+msgid "GDPR message"
+msgstr "Thông báo GDPR"
+
+#: admin/design.php:2280
+msgid "Icon background color"
+msgstr "Màu nền biểu tượng"
+
+#: admin/settings.php:1174
+msgid "Let you control on which pages coupon box will appear using "
+msgstr "Hãy chỉ định các trang mà hộp phiếu giảm giá xuất hiện bằng "
+
+#: admin/admin.php:297
+msgid "No Email found in Trash."
+msgstr "Không tìm thấy email trong thùng rác."
+
+#: admin/settings.php:448
+msgid "Show subscription form again after "
+msgstr "Hiển thị lại phiếu đăng ký sau "
+
+#: admin/design.php:1791
+msgid "Tumblr User Name"
+msgstr "Tên người dùng tài khoản Tumblr"
+
+#: admin/settings.php:1180 admin/settings.php:1182 admin/settings.php:1184
+#: admin/settings.php:1186 admin/settings.php:1188
+msgid "Use "
+msgstr "Sử dụng "
+
+#: admin/design.php:2014
+msgid "Your Youtube full url. Eg: https://www.youtube.com/channel/UCbCfnjbtBZIQfzLvXgNpbKw"
+msgstr "Đường dẫn Youtube đầy đủ. Eg: https://www.youtube.com/channel/UCbCfnjbtBZIQfzLvXgNpbKw"
+
+#. Description of the plugin
+msgid "The easiest way to share your coupon code and grow your social followers at the same time. With Coupon Box for WooCommerce, your customers will see a popup that motivates them to follow your social profiles to get coupon code."
+msgstr "Cách tốt nhất để chia sẽ mã giảm giá và làm tăng thêm người theo dõi cho trang của bạn trên các mạng xã hội."
+
+#: admin/settings.php:346 admin/settings.php:1007 admin/settings.php:1017
+#: admin/settings.php:1027 admin/settings.php:1037 admin/settings.php:1047
+msgid "Upgrade This Feature"
+msgstr "Nâng cấp"
+
+#: admin/settings.php:953
+msgid " to using this feature."
+msgstr " để sử dụng tính năng này."
+
+#: admin/settings.php:953
+msgid "Please install "
+msgstr "Hãy cài "
+
+#: admin/settings.php:869
+msgid "Button "
+msgstr "Nút "
+
+#: admin/settings.php:867
+msgid "The title of your website"
+msgstr "Tiêu đề trang web của bạn"
+
+#: admin/settings.php:865
+msgid "That last day that coupon is valid"
+msgstr "Ngày cuối cùng mà mã giảm giá có thể sử dụng"
+
+#: admin/settings.php:863
+msgid "From the date that given coupon will no longer be available"
+msgstr "Ngày mà kể từ đó mã giảm giá sẽ không thể sử dụng được nữa"
+
+#: admin/settings.php:861
+msgid "The code of coupon that will be sent to your subscribers"
+msgstr "Mã giảm giá được gửi cho người đăng kí"
+
+#: admin/settings.php:831 admin/settings.php:842 admin/settings.php:859
+msgid "The value of coupon, can be percentage or currency amount depending on coupon type"
+msgstr "Giá trị của mã giảm giá, có thể là phần trăm hoặc giá cụ thể tùy vào loại mã giảm giá"
+
+#: admin/settings.php:598
+msgid "Enable if the coupon grants free shipping. A free shipping method must be enabled in your shipping zone and be set to require \"a valid free shipping coupon\" (see the"
+msgstr "Bật nếu mã giảm giá cho phép miễn phí vận chuyển. Yêu cầu phải có phương thức vận chuyển miễn phí trong vùng vận chuyển và chọn yêu cầu \"mã giảm giá còn hiệu lực\" (xem"
+
+#: admin/settings.php:394
+msgid "Minimize to bottom bar-Pro version only"
+msgstr "Thu nhỏ xuống dưới-Chỉ có ở Pro"
+
+#: admin/settings.php:392
+msgid "Minimize to top bar-Pro version only"
+msgstr "Thu nhỏ lên trên-Chỉ có ở Pro"
+
+#: admin/settings.php:366
+msgid "Random one of these above-Pro version only"
+msgstr "Ngẫu nhiên các lựa chọn trên-Chỉ có ở Pro"
+
+#: admin/settings.php:364
+msgid "When users are about to exit-Pro version only"
+msgstr "Khi người dùng tắt trình duyệt-Chỉ có ở Pro"
+
+#: admin/settings.php:362
+msgid "When users scroll-Pro version only"
+msgstr "Khi người dùng cuộn chuột-Chỉ có ở Pro"
+
+#: admin/design.php:560
+msgid "ActiveCampaign integrated"
+msgstr "Tích hợp ActiveCampaign"
+
+#: admin/design.php:559
+msgid "Google font"
+msgstr "Google fonts"
+
+#: admin/design.php:558
+msgid "More templates to choose"
+msgstr "Nhiều templates hơn để chọn"
+
+#: admin/design.php:557
+msgid "Background effect like snow, rain..."
+msgstr "Hiệu ứng nền như tuyết rơi, mưa..."
+
+#: admin/design.php:556
+msgid "More input fields including name, mobile, birthday and gender"
+msgstr "Nhiều hơn các trường đầu vào gồm tên, di động, ngày sinh và giới tính"
+
+#: admin/design.php:555
+msgid "More option when visitors close Coupon box"
+msgstr "Nhiều lựa chọn hơn khi khách tắt cửa sổ"
+
+#: admin/design.php:554
+msgid "More triggers to show coupon box"
+msgstr "Nhiều trigger hơn để hiện coupon box"
+
+#. Author URI of the plugin
+msgid "http://villatheme.com"
+msgstr "http://villatheme.com"
+
+#: admin/settings.php:953
+msgid "Mailchimp for WordPress"
+msgstr "MailChimp cho WordPress"
+
+#: admin/design.php:561
+msgid "Premium support"
+msgstr "Hỗ trợ bản trả phí"
+
+#: admin/design.php:536
+msgid "Premium version features"
+msgstr "Tính năng phiên bản cao cấp"
+
+#: admin/admin.php:284 admin/admin.php:285
+msgctxt "woo-coupon-box"
+msgid "Email"
+msgstr "Email"

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//seoplus.com.vn/video-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-video/1.1 http://www.google.com/schemas/sitemap-video/1.1/sitemap-video.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+	<url>
+		<loc>https://seoplus.com.vn/qa-office-hours-cua-google-doi-format/</loc>
+		<video:video>
+			<video:title><![CDATA[English Google SEO office-hours from June 3, 2022]]></video:title>
+			<video:publication_date>2022-06-08T07:00:00+07:00</video:publication_date>
+			<video:description><![CDATA[This is a recording of the Google SEO office-hours from June 3, 2022. These sessions are open to anything search &amp; website-owner related like crawling, index...]]></video:description>
+			<video:player_loc allow_embed="yes">https://www.youtube.com/embed/-qhUhnBRe3Y</video:player_loc>
+			<video:thumbnail_loc>https://seoplus.com.vn/wp-content/uploads/2022/09/office-hours-1.jpg</video:thumbnail_loc>
+			<video:category><![CDATA[Kiến thức]]></video:category>
+			<video:duration>1557</video:duration>
+			<video:family_friendly>yes</video:family_friendly>
+			<video:uploader info="https://seoplus.com.vn/author/gco_admin/">Nguyen Hong Ky</video:uploader>
+		</video:video>
+	</url>
+	<url>
+		<loc>https://seoplus.com.vn/su-dung-google-index-api-de-crawl-data-website/</loc>
+		<video:video>
+			<video:title><![CDATA[Cách index website Wordpress nhanh chóng bằng Google API]]></video:title>
+			<video:publication_date>2022-06-15T07:00:00+07:00</video:publication_date>
+			<video:description><![CDATA[SEOPLUS bật mí đến bạn cách index google nhanh chóng bằng công cụ API của Google. Miễn Phí - Hỗ trợ mọi lĩnh vực - Index nhanh chóng...Xem chi tiết tại: http...]]></video:description>
+			<video:player_loc allow_embed="yes">https://www.youtube.com/embed/PTIdv5haaoU</video:player_loc>
+			<video:thumbnail_loc>https://seoplus.com.vn/wp-content/uploads/2022/08/su-dung-google-index-api-de-crawl-data-website.jpg</video:thumbnail_loc>
+			<video:category><![CDATA[Kiến thức]]></video:category>
+			<video:tag><![CDATA[CÔNG CỤ SEO]]></video:tag>
+			<video:duration>180</video:duration>
+			<video:family_friendly>yes</video:family_friendly>
+			<video:uploader info="https://seoplus.com.vn/author/gco_admin/">Nguyen Hong Ky</video:uploader>
+		</video:video>
+	</url>
+</urlset>
