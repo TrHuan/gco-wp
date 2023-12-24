@@ -1,0 +1,15 @@
+{"link_id":"80515","link_url":"https:\/\/pcccvn.com.vn\/product-category\/thiet-bi-chua-chay\/dau-phun-sprinkler\/","link_title":null,"link_anchortext":"\u0111\u1ea7u phun ch\u1eefa ch\u00e1y sprinkler","link_desc":"\u0111\u1ea7u phun ch\u1eefa ch\u00e1y sprinkler"}
+
+{"link_id":"101763","link_url":"https:\/\/trunghaiiot.com\/xi-lanh-dien-hanh-trinh-dai\/","link_title":null,"link_anchortext":"xi lanh \u0111i\u1ec7n h\u00e0nh tr\u00ecnh d\u00e0i","link_desc":"xi lanh \u0111i\u1ec7n h\u00e0nh tr\u00ecnh d\u00e0i"}
+
+{"link_id":"105828","link_url":"https:\/\/suntek.vn\/den-cao-ap-nang-luong-mat-troi-1-pcc8.html","link_title":null,"link_anchortext":"b\u00f3ng cao \u00e1p n\u0103ng l\u01b0\u1ee3ng m\u1eb7t tr\u1eddi","link_desc":"b\u00f3ng cao \u00e1p n\u0103ng l\u01b0\u1ee3ng m\u1eb7t tr\u1eddi"}
+
+{"link_id":"99229","link_url":"https:\/\/suakhoatrongnhan24h.com\/cach-mo-cua-oto-khi-quen-chia-khoa\/","link_title":null,"link_anchortext":"c\u00e1ch m\u1edf kh\u00f3a xe oto","link_desc":"c\u00e1ch m\u1edf kh\u00f3a xe oto"}
+
+{"link_id":"102040","link_url":"https:\/\/maycatmev.com\/gia-may-cat-laser-fiber\/","link_title":null,"link_anchortext":"c\u1eaft cnc th\u00e9p","link_desc":"c\u1eaft cnc th\u00e9p"}
+
+{"link_id":"111051","link_url":"https:\/\/yourphone.vn\/iphone-xs-max-bi-do-cam-ung.html","link_title":null,"link_anchortext":"iphone xs \u0111\u01a1 c\u1ea3m \u1ee9ng","link_desc":"iphone xs \u0111\u01a1 c\u1ea3m \u1ee9ng"}
+
+{"link_id":"97382","link_url":"https:\/\/falala.vn\/mat-na-dat-set-co-tac-dung-gi\/","link_title":null,"link_anchortext":"m\u1eb7t n\u1ea1 \u0111\u1ea5t s\u00e9t n\u00ean \u0111\u1eafp khi n\u00e0o","link_desc":"m\u1eb7t n\u1ea1 \u0111\u1ea5t s\u00e9t n\u00ean \u0111\u1eafp khi n\u00e0o"}
+
+{"link_id":"113469","link_url":"https:\/\/thonghutbephot.net.vn\/hut-be-phot-tai-tu-liem\/","link_title":null,"link_anchortext":"h\u00fat b\u1ec3 ph\u1ed1t t\u1eeb li\u00eam","link_desc":"h\u00fat b\u1ec3 ph\u1ed1t t\u1eeb li\u00eam"}

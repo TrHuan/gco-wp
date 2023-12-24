@@ -1,0 +1,13 @@
+{"link_id":"96383","link_url":"https:\/\/maytracdiasaoviet.vn\/san-pham\/may-thuy-binh-nikon-ac-2s","link_title":null,"link_anchortext":"m\u00e1y th\u1ee7y b\u00ecnh nikon","link_desc":"m\u00e1y th\u1ee7y b\u00ecnh nikon"}
+
+{"link_id":"98858","link_url":"https:\/\/gophuongdong.vn\/sofa-tan-co-dien-gia-re-dep-doc-la.html","link_title":null,"link_anchortext":"b\u1ea3ng gi\u00e1 sofa t\u00e2n c\u1ed5 \u0111i\u1ec3n","link_desc":"b\u1ea3ng gi\u00e1 sofa t\u00e2n c\u1ed5 \u0111i\u1ec3n"}
+
+{"link_id":"103998","link_url":"https:\/\/bomvietnhat.com.vn\/bom-banh-rang.html","link_title":null,"link_anchortext":"\u0111\u1eb7c \u0111i\u1ec3m b\u01a1m b\u00e1nh r\u0103ng","link_desc":"\u0111\u1eb7c \u0111i\u1ec3m b\u01a1m b\u00e1nh r\u0103ng"}
+
+{"link_id":"62877","link_url":"http:\/\/ecovuhoang.com\/new\/van-go-ghep-thanh-gia-bao-nhieu-dat-khong.html","link_title":null,"link_anchortext":"mua v\u00e1n g\u1ed7 gh\u00e9p thanh","link_desc":"mua v\u00e1n g\u1ed7 gh\u00e9p thanh"}
+
+{"link_id":"108404","link_url":"https:\/\/techbond.com.vn\/keo-ab-2-thanh-phan\/","link_title":null,"link_anchortext":"keo ab 2 th\u00e0nh ph\u1ea7n","link_desc":"keo ab 2 th\u00e0nh ph\u1ea7n"}
+
+{"link_id":"107662","link_url":"https:\/\/nhuadongsaigon.vn\/dia-chi-cung-cap-hop-nhua-dung-com\/","link_title":null,"link_anchortext":"h\u1ed9p nh\u1ef1a \u0111\u1ef1ng c\u01a1m v\u0103n ph\u00f2ng d\u00f9ng 1 l\u1ea7n","link_desc":"h\u1ed9p nh\u1ef1a \u0111\u1ef1ng c\u01a1m v\u0103n ph\u00f2ng d\u00f9ng 1 l\u1ea7n"}
+
+{"link_id":"94418","link_url":"https:\/\/hiluxpaint.com\/danh-muc\/son-ngoai-troi\/","link_title":null,"link_anchortext":"s\u01a1n ngo\u00e0i tr\u1eddi lo\u1ea1i n\u00e0o t\u1ed1t","link_desc":"s\u01a1n ngo\u00e0i tr\u1eddi lo\u1ea1i n\u00e0o t\u1ed1t"}

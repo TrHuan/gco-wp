@@ -1,0 +1,17 @@
+{"link_id":"91497","link_url":"https:\/\/kayoko.com.vn\/kayoko-sua-rua-mat-duong-trang-da-cua-nhat\/","link_title":null,"link_anchortext":"s\u1eefa r\u1eeda m\u1eb7t tr\u1eafng da c\u1ee7a nh\u1eadt","link_desc":"s\u1eefa r\u1eeda m\u1eb7t tr\u1eafng da c\u1ee7a nh\u1eadt"}
+
+{"link_id":"86943","link_url":"https:\/\/phanphoihoaphat.net\/lap-dat-gian-phoi-thong-minh-quan-12\/","link_title":null,"link_anchortext":"gi\u00e0n ph\u01a1i th\u00f4ng minh qu\u1eadn 12","link_desc":"gi\u00e0n ph\u01a1i th\u00f4ng minh qu\u1eadn 12"}
+
+{"link_id":"74515","link_url":"https:\/\/galaxydidong.vn\/san-pham\/iphone-7-32gb-quoc-te-dep-95-99\/","link_title":null,"link_anchortext":"iphone 7 qu\u1ed1c t\u1ebf","link_desc":"iphone 7 qu\u1ed1c t\u1ebf"}
+
+{"link_id":"85824","link_url":"https:\/\/acquyrocket.com.vn\/ac-quy-xe-o-to.html","link_title":null,"link_anchortext":"binh ac quy xe oto","link_desc":"binh ac quy xe oto"}
+
+{"link_id":"80918","link_url":"https:\/\/andan.com.vn\/he-thong-loc-nuoc-gieng-khoan-cong-nghiep\/","link_title":null,"link_anchortext":"h\u1ec7 th\u1ed1ng l\u1ecdc n\u01b0\u1edbc gi\u1ebfng khoan c\u00f4ng nghi\u1ec7p","link_desc":"h\u1ec7 th\u1ed1ng l\u1ecdc n\u01b0\u1edbc gi\u1ebfng khoan c\u00f4ng nghi\u1ec7p"}
+
+{"link_id":"93900","link_url":"https:\/\/sieutaywin.com\/cach-tay-xi-mang-tren-nen-gach\/","link_title":null,"link_anchortext":"c\u00e1ch t\u1ea9y xi m\u0103ng d\u00ednh tr\u00ean n\u1ec1n g\u1ea1ch","link_desc":"c\u00e1ch t\u1ea9y xi m\u0103ng d\u00ednh tr\u00ean n\u1ec1n g\u1ea1ch"}
+
+{"link_id":"96392","link_url":"https:\/\/falala.vn\/review-kem-tri-ran-stretcheal\/","link_title":null,"link_anchortext":"kem tr\u1ecb r\u1ea1n stretcheal c\u1ee7a n\u01b0\u1edbc n\u00e0o","link_desc":"kem tr\u1ecb r\u1ea1n stretcheal c\u1ee7a n\u01b0\u1edbc n\u00e0o"}
+
+{"link_id":"99799","link_url":"https:\/\/giadungnk.vn\/tin-tuc\/tram-han-thiec.html","link_title":null,"link_anchortext":"tr\u1ea1m h\u00e0n thi\u1ebfc","link_desc":"tr\u1ea1m h\u00e0n thi\u1ebfc"}
+
+{"link_id":"97051","link_url":"https:\/\/mayxaydungnhapkhau.com\/pa-lang-xich-dien-1-tan","link_title":null,"link_anchortext":"gi\u00e1 pa l\u0103ng x\u00edch \u0111i\u1ec7n 1 t\u1ea5n","link_desc":"gi\u00e1 pa l\u0103ng x\u00edch \u0111i\u1ec7n 1 t\u1ea5n"}

@@ -1,0 +1,15 @@
+{"link_id":"74577","link_url":"https:\/\/galaxydidong.vn\/san-pham\/iphone-7-plus-128g-quoc-te-dep-95-99\/","link_title":null,"link_anchortext":"iphone 7 plus qu\u1ed1c t\u1ebf","link_desc":"iphone 7 plus qu\u1ed1c t\u1ebf"}
+
+{"link_id":"91261","link_url":"https:\/\/noithathoanmy.com\/product-category\/do-trang-tri\/binh-hoa-trang-tri\/","link_title":null,"link_anchortext":"b\u00ecnh hoa trang tr\u00ed ph\u00f2ng kh\u00e1ch","link_desc":""}
+
+{"link_id":"91381","link_url":"https:\/\/kayoko.com.vn\/","link_title":null,"link_anchortext":"https:\/\/kayoko.com.vn\/","link_desc":""}
+
+{"link_id":"97702","link_url":"https:\/\/muaphelieutoanquoc.com.vn\/bang-gia-phe-lieu-hom-nay\/","link_title":null,"link_anchortext":"gi\u00e1 thu mua \u0111\u1ed3ng ph\u1ebf li\u1ec7u","link_desc":"gi\u00e1 thu mua \u0111\u1ed3ng ph\u1ebf li\u1ec7u"}
+
+{"link_id":"97028","link_url":"https:\/\/tdgroup.com.vn\/","link_title":null,"link_anchortext":"C\u00f4ng ty c\u1ed5 ph\u1ea7n \u0111\u1ea7u t\u01b0 Th\u00f9y D\u01b0\u01a1ng","link_desc":""}
+
+{"link_id":"100282","link_url":"https:\/\/minhquyglass.com\/danh-muc-san-pham\/kinh-op-bep\/kinh-mau-3d\/","link_title":null,"link_anchortext":"m\u1eabu k\u00ednh \u1ed1p b\u1ebfp 3d \u0111\u1eb9p","link_desc":""}
+
+{"link_id":"100900","link_url":"http:\/\/daiphatfrp.vn\/tin-tuc\/Phan-tich-be-tu-hoai-3-ngan-xay-bang-gach-va-be-tu-hoai-3ngan-composite-Dai-Phat-10346.html","link_title":null,"link_anchortext":"b\u1ec3 t\u1ef1 ho\u1ea1i 3 ng\u0103n nh\u1ef1a","link_desc":""}
+
+{"link_id":"100538","link_url":"https:\/\/daiphatfrp.vn\/san-pham\/luu-ngay-thong-tin-ve-bon-tu-hoai-500l-10284.html","link_title":null,"link_anchortext":"B\u1ed3n t\u1ef1 ho\u1ea1i 500L","link_desc":""}

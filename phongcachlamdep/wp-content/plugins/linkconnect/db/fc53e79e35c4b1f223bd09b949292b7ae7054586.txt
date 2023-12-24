@@ -1,0 +1,17 @@
+{"link_id":"88421","link_url":"https:\/\/www.adoco.vn\/","link_title":null,"link_anchortext":"Thiet bi xu ly nuoc thai Adoco","link_desc":"Thiet bi xu ly nuoc thai Adoco"}
+
+{"link_id":"88754","link_url":"https:\/\/www.adoco.vn\/cay-loc-nuoc-co-chuc-nang-nong-lanh","link_title":null,"link_anchortext":"M\u00e1y l\u1ecdc n\u01b0\u1edbc c\u00f3 n\u00f3ng l\u1ea1nh","link_desc":"M\u00e1y l\u1ecdc n\u01b0\u1edbc c\u00f3 n\u00f3ng l\u1ea1nh"}
+
+{"link_id":"88757","link_url":"https:\/\/www.adoco.vn\/cay-loc-nuoc-co-chuc-nang-nong-lanh","link_title":null,"link_anchortext":"n\u00ean mua m\u00e1y l\u1ecdc n\u01b0\u1edbc n\u00f3ng l\u1ea1nh kh\u00f4ng","link_desc":"n\u00ean mua m\u00e1y l\u1ecdc n\u01b0\u1edbc n\u00f3ng l\u1ea1nh kh\u00f4ng"}
+
+{"link_id":"88766","link_url":"https:\/\/www.adoco.vn\/loc-tong-cho-can-ho-gia-dinh","link_title":null,"link_anchortext":"H\u1ec7 l\u1ecdc t\u1ed5ng","link_desc":"H\u1ec7 l\u1ecdc t\u1ed5ng"}
+
+{"link_id":"99083","link_url":"https:\/\/ducphu.vn\/ecovacs-deebot-ozmo-t8-aivi\/","link_title":null,"link_anchortext":"robot h\u00fat b\u1ee5i ecovacs deebot ozmo t8 aivi","link_desc":"robot h\u00fat b\u1ee5i ecovacs deebot ozmo t8 aivi"}
+
+{"link_id":"99240","link_url":"https:\/\/suakhoatrongnhan24h.com\/sua-khoa-tai-nha-cau-giay\/","link_title":null,"link_anchortext":"s\u1eeda kh\u00f3a t\u1ea1i nh\u00e0 c\u1ea7u gi\u1ea5y","link_desc":"s\u1eeda kh\u00f3a t\u1ea1i nh\u00e0 c\u1ea7u gi\u1ea5y"}
+
+{"link_id":"101020","link_url":"https:\/\/tidiarc.vn\/thiet-ke-noi-that-theo-phong-thuy\/","link_title":null,"link_anchortext":"b\u1ed1 tr\u00ed n\u1ed9i th\u1ea5t theo phong th\u1ee7y","link_desc":"b\u1ed1 tr\u00ed n\u1ed9i th\u1ea5t theo phong th\u1ee7y"}
+
+{"link_id":"102899","link_url":"https:\/\/phongthuymaxi.com\/dat-ten-cong-ty-theo-phong-thuy\/","link_title":null,"link_anchortext":"tra c\u1ee9u t\u00ean c\u00f4ng ty theo phong th\u1ee7y","link_desc":"tra c\u1ee9u t\u00ean c\u00f4ng ty theo phong th\u1ee7y"}
+
+{"link_id":"99251","link_url":"https:\/\/suakhoatrongnhan24h.com\/sua-khoa-tai-nha-thanh-xuan-lien-he-ngay-sua-khoa-trong-nhan\/","link_title":null,"link_anchortext":"s\u1eeda kh\u00f3a t\u1ea1i nh\u00e0 thanh xu\u00e2n","link_desc":"s\u1eeda kh\u00f3a t\u1ea1i nh\u00e0 thanh xu\u00e2n"}

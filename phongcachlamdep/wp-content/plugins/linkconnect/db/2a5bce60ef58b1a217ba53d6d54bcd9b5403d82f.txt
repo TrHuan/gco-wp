@@ -1,0 +1,19 @@
+{"link_id":"88422","link_url":"https:\/\/www.adoco.vn\/","link_title":null,"link_anchortext":"Adoco.vn","link_desc":"Adoco.vn"}
+
+{"link_id":"88757","link_url":"https:\/\/www.adoco.vn\/cay-loc-nuoc-co-chuc-nang-nong-lanh","link_title":null,"link_anchortext":"n\u00ean mua m\u00e1y l\u1ecdc n\u01b0\u1edbc n\u00f3ng l\u1ea1nh kh\u00f4ng","link_desc":"n\u00ean mua m\u00e1y l\u1ecdc n\u01b0\u1edbc n\u00f3ng l\u1ea1nh kh\u00f4ng"}
+
+{"link_id":"88779","link_url":"https:\/\/www.adoco.vn\/loc-tong-cho-chung-cu","link_title":null,"link_anchortext":"L\u1ecdc t\u1ed5ng n\u00e0o ph\u00f9 h\u1ee3p cho c\u0103n h\u1ed9 chung c\u01b0","link_desc":"L\u1ecdc t\u1ed5ng n\u00e0o ph\u00f9 h\u1ee3p cho c\u0103n h\u1ed9 chung c\u01b0"}
+
+{"link_id":"88803","link_url":"https:\/\/www.adoco.vn\/dich-vu-cho-thue-may-loc-nuoc","link_title":null,"link_anchortext":"Thu\u00ea m\u00e1y l\u1ecdc n\u01b0\u1edbc","link_desc":"Thu\u00ea m\u00e1y l\u1ecdc n\u01b0\u1edbc"}
+
+{"link_id":"88806","link_url":"https:\/\/www.adoco.vn\/dich-vu-cho-thue-may-loc-nuoc","link_title":null,"link_anchortext":"Cho thu\u00ea m\u00e1y l\u1ecdc n\u01b0\u1edbc c\u00f4ng nghi\u1ec7p","link_desc":"Cho thu\u00ea m\u00e1y l\u1ecdc n\u01b0\u1edbc c\u00f4ng nghi\u1ec7p"}
+
+{"link_id":"84101","link_url":"https:\/\/ohalen.vn\/danh-muc-san-pham\/san-pham-noi-that\/noi-that-phong-khach\/","link_title":null,"link_anchortext":"n\u1ed9i th\u1ea5t ph\u00f2ng kh\u00e1ch nh\u00e0 ph\u1ed1","link_desc":""}
+
+{"link_id":"58003","link_url":"https:\/\/aomoi.vn\/bang-gia-ao-co-do-sao-vang","link_title":null,"link_anchortext":"\u00e1o c\u1edd \u0111\u1ecf","link_desc":"\u00e1o c\u1edd \u0111\u1ecf"}
+
+{"link_id":"105310","link_url":"https:\/\/thumuaphelieutoanquoc247.com\/thu-mua-phe-lieu-cong-trinh","link_title":null,"link_anchortext":"thu mua ph\u1ebf li\u1ec7u c\u00f4ng tr\u00ecnh","link_desc":"thu mua ph\u1ebf li\u1ec7u c\u00f4ng tr\u00ecnh"}
+
+{"link_id":"76772","link_url":"https:\/\/phutungxenangtruongphat.com\/bom-nhot-hop-so-xe-nang.page3744.html","link_title":null,"link_anchortext":"M\u00e1y b\u01a1m d\u1ea7u h\u1ed9p s\u1ed1","link_desc":"M\u00e1y b\u01a1m d\u1ea7u h\u1ed9p s\u1ed1"}
+
+{"link_id":"112870","link_url":"https:\/\/dichthuatsnu.vn\/dich-thuat-tieng-slovakia.html","link_title":null,"link_anchortext":"d\u1ecbch thu\u1eadt ti\u1ebfng slovakia","link_desc":"d\u1ecbch thu\u1eadt ti\u1ebfng slovakia"}

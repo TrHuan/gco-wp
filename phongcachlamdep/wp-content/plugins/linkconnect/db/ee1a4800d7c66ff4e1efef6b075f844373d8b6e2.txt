@@ -1,0 +1,15 @@
+{"link_id":"97433","link_url":"https:\/\/falala.vn\/kem-chong-nang-obagi-cua-nhat\/","link_title":null,"link_anchortext":"kem ch\u1ed1ng n\u1eafng obagi healthy skin protection spf 35","link_desc":"kem ch\u1ed1ng n\u1eafng obagi healthy skin protection spf 35"}
+
+{"link_id":"107852","link_url":"https:\/\/dienlanhalaska.vn\/tu-dong-alaska-22-11.html","link_title":null,"link_anchortext":"t\u1ee7 \u0111\u00f4ng alaska","link_desc":"t\u1ee7 \u0111\u00f4ng alaska"}
+
+{"link_id":"112675","link_url":"https:\/\/applyzones.com\/vn\/du-hoc-uc-nen-chon-nganh-gi-tin1146","link_title":null,"link_anchortext":"du h\u1ecdc \u00fac ng\u00e0nh g\u00ec","link_desc":"du h\u1ecdc \u00fac ng\u00e0nh g\u00ec"}
+
+{"link_id":"112945","link_url":"https:\/\/applyzones.com\/vn\/du-hoc-canada-tin849","link_title":null,"link_anchortext":"du h\u1ecdc canada","link_desc":"du h\u1ecdc canada"}
+
+{"link_id":"112959","link_url":"https:\/\/applyzones.com\/vn\/du-hoc-nganh-y-tai-uc-tin266","link_title":null,"link_anchortext":"du h\u1ecdc \u00fac ng\u00e0nh y","link_desc":"du h\u1ecdc \u00fac ng\u00e0nh y"}
+
+{"link_id":"112702","link_url":"https:\/\/azdecor.vn\/thiet-ke-noi-that-van-phong-dinh-hinh-phong-cach-doanh-nghiep\/","link_title":null,"link_anchortext":"thi\u1ebft k\u1ebf n\u1ed9i th\u1ea5t v\u0103n ph\u00f2ng t\u1ea1i h\u1ed3 ch\u00ed minh","link_desc":"thi\u1ebft k\u1ebf n\u1ed9i th\u1ea5t v\u0103n ph\u00f2ng t\u1ea1i h\u1ed3 ch\u00ed minh"}
+
+{"link_id":"80558","link_url":"https:\/\/pcccvn.com.vn\/cuon-voi-chua-chay-d65\/","link_title":null,"link_anchortext":"cu\u1ed9n v\u00f2i ch\u1eefa ch\u00e1y d65","link_desc":"cu\u1ed9n v\u00f2i ch\u1eefa ch\u00e1y d65"}
+
+{"link_id":"80549","link_url":"https:\/\/pcccvn.com.vn\/cuon-voi-chua-chay-d50\/","link_title":null,"link_anchortext":"cu\u1ed9n v\u00f2i ch\u1eefa ch\u00e1y d50 20m","link_desc":"cu\u1ed9n v\u00f2i ch\u1eefa ch\u00e1y d50 20m"}

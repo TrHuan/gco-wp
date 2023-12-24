@@ -1,0 +1,13 @@
+{"link_id":"69020","link_url":"https:\/\/mitavietnam.com\/danh-muc-san-pham\/balo-can-keo\/","link_title":null,"link_anchortext":"can keo","link_desc":"can keo"}
+
+{"link_id":"107859","link_url":"https:\/\/dienlanhalaska.vn\/tu-dong-alaska-22-11.html","link_title":null,"link_anchortext":"gi\u00e1 t\u1ee7 \u0111\u00f4ng alaska","link_desc":"gi\u00e1 t\u1ee7 \u0111\u00f4ng alaska"}
+
+{"link_id":"103934","link_url":"https:\/\/quatcongnghiephanoi.com\/quat-treo-tuong-cong-nghiep\/quat-treo-winton\/","link_title":null,"link_anchortext":"Qu\u1ea1t treo t\u01b0\u1eddng c\u00f4ng nghi\u1ec7p Winton","link_desc":"Qu\u1ea1t treo t\u01b0\u1eddng c\u00f4ng nghi\u1ec7p Winton"}
+
+{"link_id":"111025","link_url":"https:\/\/yourphone.vn\/sac-apple-watch-khong-len.html","link_title":null,"link_anchortext":"t\u1ea1i sao apple watch s\u1ea1c kh\u00f4ng v\u00e0o pin","link_desc":"t\u1ea1i sao apple watch s\u1ea1c kh\u00f4ng v\u00e0o pin"}
+
+{"link_id":"112461","link_url":"https:\/\/azdecor.vn\/bao-gia-thiet-ke-noi-that-chung-cu\/","link_title":null,"link_anchortext":"gi\u00e1 thi\u1ebft k\u1ebf n\u1ed9i th\u1ea5t nh\u00e0 chung c\u01b0","link_desc":"gi\u00e1 thi\u1ebft k\u1ebf n\u1ed9i th\u1ea5t nh\u00e0 chung c\u01b0"}
+
+{"link_id":"102413","link_url":"https:\/\/banglaixeotohanoi.com\/thi-bang-lai-xe-may-a1\/","link_title":null,"link_anchortext":"h\u1ed3 s\u01a1 thi b\u1eb1ng l\u00e1i xe","link_desc":""}
+
+{"link_id":"112603","link_url":"https:\/\/maltco.asia\/scotch-whisky\/san-pham\/johnnie-walker-18-hop-go","link_title":null,"link_anchortext":"johnnie walker 18 year gi\u00e1","link_desc":"johnnie walker 18 year gi\u00e1"}

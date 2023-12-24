@@ -1,0 +1,19 @@
+{"link_id":"97029","link_url":"https:\/\/tdgroup.com.vn\/","link_title":null,"link_anchortext":"https:\/\/tdgroup.com.vn\/","link_desc":""}
+
+{"link_id":"69051","link_url":"https:\/\/mitavietnam.com\/top-xuong-may-balo-gia-re-nhu-gia-si-uy-tin-nhat-tphcm\/","link_title":null,"link_anchortext":"b\u1ecf s\u1ec9 balo gi\u00e1 r\u1ebb","link_desc":"b\u1ecf s\u1ec9 balo gi\u00e1 r\u1ebb"}
+
+{"link_id":"85498","link_url":"https:\/\/giasunhattam.vn\/trung-tam-gia-su-go-vap\/","link_title":null,"link_anchortext":"trung t\u00e2m gia s\u01b0 g\u00f2 v\u1ea5p hcm","link_desc":""}
+
+{"link_id":"87157","link_url":"https:\/\/andan.com.vn\/day-chuyen-loc-nuoc-tinh-khiet\/","link_title":null,"link_anchortext":"day chuyen loc nuoc tinh khiet","link_desc":"day chuyen loc nuoc tinh khiet"}
+
+{"link_id":"91107","link_url":"https:\/\/zubu.vn\/post\/tong-hop-cac-bo-ban-ghe-sofa-go-oc-cho-cuc-hot-hien-nay-p45","link_title":null,"link_anchortext":"sofa g\u1ed7 \u00f3c ch\u00f3 h\u00e0 n\u1ed9i","link_desc":"sofa g\u1ed7 \u00f3c ch\u00f3 h\u00e0 n\u1ed9i"}
+
+{"link_id":"90157","link_url":"https:\/\/maytracdiasaoviet.vn\/tintuc\/bao-gia-may-thuy-binh-dang-ua-chuong-nhat-thi-truong.html","link_title":null,"link_anchortext":"b\u00e1o gi\u00e1 m\u00e1y th\u1ee7y b\u00ecnh","link_desc":"b\u00e1o gi\u00e1 m\u00e1y th\u1ee7y b\u00ecnh"}
+
+{"link_id":"98534","link_url":"https:\/\/daphongthuyanphat.com\/thiem-thu-bang-da.html","link_title":null,"link_anchortext":"thi\u1ec1m th\u1eeb b\u1eb1ng \u0111\u00e1","link_desc":"thi\u1ec1m th\u1eeb b\u1eb1ng \u0111\u00e1"}
+
+{"link_id":"100438","link_url":"https:\/\/giadungnk.vn\/tin-tuc\/thung-dung-rac-thong-minh.html","link_title":null,"link_anchortext":"th\u00f9ng r\u00e1c gia \u0111\u00ecnh th\u00f4ng minh","link_desc":"th\u00f9ng r\u00e1c gia \u0111\u00ecnh th\u00f4ng minh"}
+
+{"link_id":"103078","link_url":"https:\/\/chamdiscovery.com\/dia-diem-check-in-cu-lao-cham-chup-anh-dep-nhu-tranh\/","link_title":null,"link_anchortext":"https:\/\/chamdiscovery.com\/dia-diem-check-in-cu-lao-cham-chup-anh-dep-nhu-tranh\/","link_desc":"https:\/\/chamdiscovery.com\/dia-diem-check-in-cu-lao-cham-chup-anh-dep-nhu-tranh\/"}
+
+{"link_id":"104279","link_url":"https:\/\/dcvinvest.com\/bang-gia-hang-hoa-phai-sinh\/","link_title":null,"link_anchortext":"b\u1ea3ng gi\u00e1 ph\u00e1i sinh h\u00e0ng h\u00f3a","link_desc":"b\u1ea3ng gi\u00e1 ph\u00e1i sinh h\u00e0ng h\u00f3a"}

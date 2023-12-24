@@ -1,0 +1,5 @@
+{"link_id":"106847","link_url":"https:\/\/falala.vn\/danh-muc-san-pham\/cham-soc-da-mat\/my-pham-duoc-my-pham\/tay-trang\/","link_title":null,"link_anchortext":"h\u01b0\u1edbng d\u1eabn d\u00f9ng n\u01b0\u1edbc t\u1ea9y trang","link_desc":"h\u01b0\u1edbng d\u1eabn d\u00f9ng n\u01b0\u1edbc t\u1ea9y trang"}
+
+{"link_id":"107799","link_url":"https:\/\/dienlanhalaska.vn\/top-4-tu-mat-nho-gia-re-mini-gia-re-tiet-kiem-dien-dang-mua-nhat-72-25.html","link_title":null,"link_anchortext":"t\u1ee7 m\u00e1t gi\u00e1 r\u1ebb","link_desc":"t\u1ee7 m\u00e1t gi\u00e1 r\u1ebb"}
+
+{"link_id":"110948","link_url":"https:\/\/yourphone.vn\/iphone-xs-max-bi-loi-man-hinh.html","link_title":null,"link_anchortext":"s\u1eeda l\u1ed7i s\u1ecdc m\u00e0n h\u00ecnh iphone xs max","link_desc":"s\u1eeda l\u1ed7i s\u1ecdc m\u00e0n h\u00ecnh iphone xs max"}

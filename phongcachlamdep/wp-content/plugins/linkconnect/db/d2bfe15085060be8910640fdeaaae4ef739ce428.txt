@@ -1,0 +1,8 @@
+{"link_id":"46762","link_url":"http:\/\/tailieuvan.vn\/khi-kieng-nhat-la-hung-hang-tam-kieng-nhat-la-hep-hoi-tai-kieng-nhat-la-tu-cao\/","link_title":null,"link_anchortext":"kh\u00ed ki\u00eang nh\u1ea5t l\u00e0 hung h\u0103ng t\u00e2m ki\u00eang nh\u1ea5t l\u00e0 h\u1eb9p h\u00f2i t\u00e0i ki\u00eang nh\u1ea5t l\u00e0 t\u1ef1 cao","link_desc":"kh\u00ed ki\u00eang nh\u1ea5t l\u00e0 hung h\u0103ng t\u00e2m ki\u00eang nh\u1ea5t l\u00e0 h\u1eb9p h\u00f2i t\u00e0i ki\u00eang nh\u1ea5t l\u00e0 t\u1ef1 cao"}
+
+{"link_id":"48764","link_url":"http:\/\/loigiaivan.edu.vn\/phan-tich-tac-pham-chu-nguoi-tu-tu\/","link_title":null,"link_anchortext":"ph\u00e2n t\u00edch t\u00e1c ph\u1ea9m ch\u1eef ng\u01b0\u1eddi t\u1eed t\u00f9","link_desc":"ph\u00e2n t\u00edch t\u00e1c ph\u1ea9m ch\u1eef ng\u01b0\u1eddi t\u1eed t\u00f9"}
+
+{"link_id":"50431","link_url":"http:\/\/hocvanhay.com\/phan-tich-tac-pham-doc-tieu-thanh-ky-cua-nguyen-du\/","link_title":null,"link_anchortext":"Ph\u00e2n t\u00edch t\u00e1c ph\u1ea9m \u0110\u1ed9c Ti\u1ec3u Thanh K\u00ed","link_desc":"Ph\u00e2n t\u00edch t\u00e1c ph\u1ea9m \u0110\u1ed9c Ti\u1ec3u Thanh K\u00ed"}
+
+{"link_id":"46163","link_url":"http:\/\/khovanhoc.com\/phan-tich-bai-tho-nho-rung-cua-nha-tho-the-lu\/","link_title":null,"link_anchortext":"Ph\u00e2n t\u00edch b\u00e0i th\u01a1 nh\u1edb r\u1eebng","link_desc":"Ph\u00e2n t\u00edch b\u00e0i th\u01a1 nh\u1edb r\u1eebng"}
+

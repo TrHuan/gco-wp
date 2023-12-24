@@ -1,0 +1,15 @@
+{"link_id":"91485","link_url":"https:\/\/kayoko.com.vn\/san-pham\/kayoko-vang\/","link_title":null,"link_anchortext":"m\u1ef9 ph\u1ea9m kayoko plus","link_desc":"m\u1ef9 ph\u1ea9m kayoko plus"}
+
+{"link_id":"86924","link_url":"https:\/\/phanphoihoaphat.net\/cua-luoi-chong-muoi-dang-lua-tphcm\/","link_title":null,"link_anchortext":"c\u1eeda l\u01b0\u1edbi ch\u1ed1ng mu\u1ed7i d\u1ea1ng l\u00f9a","link_desc":"c\u1eeda l\u01b0\u1edbi ch\u1ed1ng mu\u1ed7i d\u1ea1ng l\u00f9a"}
+
+{"link_id":"74508","link_url":"https:\/\/galaxydidong.vn\/category\/iphone\/iphone-xs-xsmax\/","link_title":null,"link_anchortext":"iphone xs max gi\u00e1 r\u1ebb","link_desc":"iphone xs max gi\u00e1 r\u1ebb"}
+
+{"link_id":"85819","link_url":"https:\/\/acquyrocket.com.vn\/binh-ac-quy-rocket.html","link_title":null,"link_anchortext":"acquy rocket","link_desc":"acquy rocket"}
+
+{"link_id":"97720","link_url":"https:\/\/muaphelieutoanquoc.com.vn\/bang-gia-phe-lieu-hom-nay\/","link_title":null,"link_anchortext":"inox ph\u1ebf li\u1ec7u gi\u00e1 bao nhi\u00eau","link_desc":"inox ph\u1ebf li\u1ec7u gi\u00e1 bao nhi\u00eau"}
+
+{"link_id":"97027","link_url":"https:\/\/tdgroup.com.vn\/","link_title":null,"link_anchortext":"C\u00f4ng ty CP \u0111\u1ea7u t\u01b0 Th\u00f9y D\u01b0\u01a1ng","link_desc":""}
+
+{"link_id":"100282","link_url":"https:\/\/minhquyglass.com\/danh-muc-san-pham\/kinh-op-bep\/kinh-mau-3d\/","link_title":null,"link_anchortext":"m\u1eabu k\u00ednh \u1ed1p b\u1ebfp 3d \u0111\u1eb9p","link_desc":""}
+
+{"link_id":"100901","link_url":"http:\/\/daiphatfrp.vn\/tin-tuc\/Phan-tich-be-tu-hoai-3-ngan-xay-bang-gach-va-be-tu-hoai-3ngan-composite-Dai-Phat-10346.html","link_title":null,"link_anchortext":"thi\u1ebft k\u1ebf b\u1ec3 t\u1ef1 ho\u1ea1i 3 ng\u0103n","link_desc":""}

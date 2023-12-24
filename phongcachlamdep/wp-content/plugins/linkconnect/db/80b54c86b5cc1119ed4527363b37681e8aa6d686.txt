@@ -1,0 +1,16 @@
+{"link_id":"81229","link_url":"https:\/\/muaphelieutoanquoc.com.vn\/bang-bao-gia-vai-phe-lieu\/","link_title":null,"link_anchortext":"Gi\u00e1 ph\u1ebf li\u1ec7u v\u1ea3i t\u1ed3n kho","link_desc":"Gi\u00e1 ph\u1ebf li\u1ec7u v\u1ea3i t\u1ed3n kho"}
+
+{"link_id":"83907","link_url":"https:\/\/finewinestore.vn\/kien-thuc-ve-ruou\/bang-gia-ruou-vang-merlot-va-5-chai-ruou-vang-merlot-ngon-nhat","link_title":null,"link_anchortext":"gi\u00e1 r\u01b0\u1ee3u vang merlot","link_desc":"gi\u00e1 r\u01b0\u1ee3u vang merlot"}
+
+{"link_id":"85906","link_url":"https:\/\/acquyrocket.com.vn\/rocket-es150-12-12v-150ah.html","link_title":null,"link_anchortext":"b\u00ecnh vi\u1ec5n th\u00f4ng 150ah","link_desc":"b\u00ecnh vi\u1ec5n th\u00f4ng 150ah"}
+
+{"link_id":"82927","link_url":"https:\/\/sanxuatkhanbong.com\/cong-ty-san-xuat-khan-bong\/","link_title":null,"link_anchortext":"c\u00f4ng ty s\u1ea3n xu\u1ea5t kh\u0103n b\u00f4ng","link_desc":"c\u00f4ng ty s\u1ea3n xu\u1ea5t kh\u0103n b\u00f4ng"}
+
+{"link_id":"84609","link_url":"https:\/\/muaphelieutoanquoc.com.vn\/thu-mua-may-moc-thiet-bi-cu\/","link_title":null,"link_anchortext":"thu mua m\u00e1y m\u00f3c thi\u1ebft b\u1ecb c\u0169","link_desc":""}
+
+{"link_id":"96934","link_url":"https:\/\/tgicosmetics.com.vn\/tin-tuc\/tay-toc-co-uon-duoc-khong","link_title":null,"link_anchortext":"t\u1ea9y t\u00f3c xong c\u00f3 u\u1ed1n \u0111\u01b0\u1ee3c kh\u00f4ng","link_desc":"t\u1ea9y t\u00f3c xong c\u00f3 u\u1ed1n \u0111\u01b0\u1ee3c kh\u00f4ng"}
+
+{"link_id":"97212","link_url":"https:\/\/casca.vn\/bao-gia-cua-tu-dong-han-quoc-gia-re","link_title":null,"link_anchortext":"cua tu dong han quoc","link_desc":"cua tu dong han quoc"}
+
+{"link_id":"97080","link_url":"https:\/\/mayxaydungnhapkhau.com\/xe-nang-mat-ban","link_title":null,"link_anchortext":"xe n\u00e2ng m\u1eb7t b\u00e0n","link_desc":"xe n\u00e2ng m\u1eb7t b\u00e0n"}
+

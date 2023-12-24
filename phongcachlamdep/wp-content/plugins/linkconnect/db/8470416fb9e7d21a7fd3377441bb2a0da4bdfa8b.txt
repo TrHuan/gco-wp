@@ -1,0 +1,17 @@
+{"link_id":"107169","link_url":"https:\/\/thunggotot.com\/thung-go-dung-gao","link_title":null,"link_anchortext":"th\u00f9ng g\u1ed7 \u0111\u1ef1ng g\u1ea1o 10kg","link_desc":"th\u00f9ng g\u1ed7 \u0111\u1ef1ng g\u1ea1o 10kg"}
+
+{"link_id":"106720","link_url":"https:\/\/tongkhoquatcongnghiep.vn\/quat-thong-gio-vuong","link_title":null,"link_anchortext":"c\u00e1c lo\u1ea1i qu\u1ea1t th\u00f4ng gi\u00f3 vu\u00f4ng","link_desc":"c\u00e1c lo\u1ea1i qu\u1ea1t th\u00f4ng gi\u00f3 vu\u00f4ng"}
+
+{"link_id":"110975","link_url":"https:\/\/yourphone.vn\/goi-video-messenger-khong-nghe-tieng-tren-iphone.html","link_title":null,"link_anchortext":"kh\u1eafc ph\u1ee5c l\u1ed7i g\u1ecdi video tr\u00ean messenger kh\u00f4ng nghe \u0111\u01b0\u1ee3c","link_desc":"kh\u1eafc ph\u1ee5c l\u1ed7i g\u1ecdi video tr\u00ean messenger kh\u00f4ng nghe \u0111\u01b0\u1ee3c"}
+
+{"link_id":"110998","link_url":"https:\/\/yourphone.vn\/iphone-bi-mat-song.html","link_title":null,"link_anchortext":"\u0111i\u1ec7n tho\u1ea1i iphone b\u1ecb m\u1ea5t s\u00f3ng","link_desc":"\u0111i\u1ec7n tho\u1ea1i iphone b\u1ecb m\u1ea5t s\u00f3ng"}
+
+{"link_id":"93394","link_url":"https:\/\/maytracdiasaoviet.vn\/san-pham\/may-toan-dac-dien-tu-leica-ts09-plus","link_title":null,"link_anchortext":"gi\u00e1 m\u00e1y to\u00e0n \u0111\u1ea1c \u0111i\u1ec7n t\u1eed leica","link_desc":"gi\u00e1 m\u00e1y to\u00e0n \u0111\u1ea1c \u0111i\u1ec7n t\u1eed leica"}
+
+{"link_id":"110693","link_url":"https:\/\/www.chauvinhcuong.com\/6-loai-cong-trinh-can-lap-dat-thiet-bi-chong-set-lan-truyen","link_title":null,"link_anchortext":"ch\u1ed1ng s\u00e9t lan truy\u1ec1n cho \u0111\u00e8n \u0111\u01b0\u1eddng","link_desc":"ch\u1ed1ng s\u00e9t lan truy\u1ec1n cho \u0111\u00e8n \u0111\u01b0\u1eddng"}
+
+{"link_id":"98643","link_url":"https:\/\/sukienminhduc.com\/ban-ghe-su-kien\/","link_title":null,"link_anchortext":"thu\u00ea b\u00e0n gh\u1ebf s\u1ef1 ki\u1ec7n","link_desc":"thu\u00ea b\u00e0n gh\u1ebf s\u1ef1 ki\u1ec7n"}
+
+{"link_id":"113126","link_url":"https:\/\/thietbilocmiennam.vn\/products\/cot-loc-composite-1054","link_title":null,"link_anchortext":"c\u1ed9t l\u1ecdc composite 1054","link_desc":"c\u1ed9t l\u1ecdc composite 1054"}
+
+{"link_id":"76695","link_url":"https:\/\/phutungxenangtruongphat.com\/bom-thuy-luc.page3741.html","link_title":null,"link_anchortext":"b\u01a1m th\u1ee7y l\u1ef1c 24v","link_desc":"b\u01a1m th\u1ee7y l\u1ef1c 24v"}

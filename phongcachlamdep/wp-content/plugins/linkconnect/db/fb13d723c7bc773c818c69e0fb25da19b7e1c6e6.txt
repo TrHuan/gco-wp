@@ -1,0 +1,8 @@
+{"link_id":"46763","link_url":"http:\/\/tailieuvan.vn\/anh-chi-hay-phan-tich-bai-tho-toi-yeu-em-cua-puskin\/","link_title":null,"link_anchortext":"ph\u00e2n t\u00edch b\u00e0i th\u01a1 t\u00f4i y\u00eau em","link_desc":"ph\u00e2n t\u00edch b\u00e0i th\u01a1 t\u00f4i y\u00eau em"}
+
+{"link_id":"48764","link_url":"http:\/\/loigiaivan.edu.vn\/phan-tich-tac-pham-chu-nguoi-tu-tu\/","link_title":null,"link_anchortext":"ph\u00e2n t\u00edch t\u00e1c ph\u1ea9m ch\u1eef ng\u01b0\u1eddi t\u1eed t\u00f9","link_desc":"ph\u00e2n t\u00edch t\u00e1c ph\u1ea9m ch\u1eef ng\u01b0\u1eddi t\u1eed t\u00f9"}
+
+{"link_id":"50432","link_url":"http:\/\/hocvanhay.com\/phan-tich-tinh-canh-le-loi-cua-nguoi-chinh-phu\/","link_title":null,"link_anchortext":"Ph\u00e2n t\u00edch t\u00ecnh c\u1ea3nh l\u1ebb loi c\u1ee7a ng\u01b0\u1eddi chinh ph\u1ee5","link_desc":"Ph\u00e2n t\u00edch t\u00ecnh c\u1ea3nh l\u1ebb loi c\u1ee7a ng\u01b0\u1eddi chinh ph\u1ee5"}
+
+{"link_id":"46163","link_url":"http:\/\/khovanhoc.com\/phan-tich-bai-tho-nho-rung-cua-nha-tho-the-lu\/","link_title":null,"link_anchortext":"Ph\u00e2n t\u00edch b\u00e0i th\u01a1 nh\u1edb r\u1eebng","link_desc":"Ph\u00e2n t\u00edch b\u00e0i th\u01a1 nh\u1edb r\u1eebng"}
+

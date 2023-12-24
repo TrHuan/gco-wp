@@ -1,0 +1,7 @@
+{"link_id":"100470","link_url":"http:\/\/daiphatfrp.vn\/Cung-cap-vat-tu-nghanh-composite\/Soi-thuy-tinh-mat-350-450-nitobo--10247.html","link_title":null,"link_anchortext":"Mua s\u1ee3i th\u1ee7y tinh Composite","link_desc":""}
+
+{"link_id":"111065","link_url":"https:\/\/yourphone.vn\/dichvu\/thay-kinh-lung-iphone-12-pro-max.html","link_title":null,"link_anchortext":"thay k\u00ednh l\u01b0ng 12 pro max","link_desc":"thay k\u00ednh l\u01b0ng 12 pro max"}
+
+{"link_id":"112686","link_url":"https:\/\/azdecor.vn\/co-nen-thue-dich-vu-thiet-ke-noi-that-van-phong\/","link_title":null,"link_anchortext":"gi\u00e1 thi\u1ebft k\u1ebf n\u1ed9i th\u1ea5t v\u0103n ph\u00f2ng","link_desc":"gi\u00e1 thi\u1ebft k\u1ebf n\u1ed9i th\u1ea5t v\u0103n ph\u00f2ng"}
+
+{"link_id":"111457","link_url":"https:\/\/techbond.com.vn\/cong-dung-cua-keo-sua\/","link_title":null,"link_anchortext":"keo s\u1eefa c\u00f3 \u0111\u1ed9c kh\u00f4ng","link_desc":"keo s\u1eefa c\u00f3 \u0111\u1ed9c kh\u00f4ng"}

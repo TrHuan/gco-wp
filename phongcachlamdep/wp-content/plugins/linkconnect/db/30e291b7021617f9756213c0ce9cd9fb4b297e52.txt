@@ -1,0 +1,12 @@
+{"link_id":"83869","link_url":"https:\/\/finewinestore.vn\/kien-thuc-ve-ruou\/bang-gia-ruou-champagne-moi-nhat-2021","link_title":null,"link_anchortext":"gi\u00e1 r\u01b0\u1ee3u champagne","link_desc":"gi\u00e1 r\u01b0\u1ee3u champagne"}
+
+{"link_id":"91445","link_url":"https:\/\/thuocdactrinamda.com\/","link_title":null,"link_anchortext":"https:\/\/thuocdactrinamda.com\/","link_desc":""}
+
+{"link_id":"96858","link_url":"https:\/\/tgicosmetics.com.vn\/san-pham\/thuoc-nhuom-selective","link_title":null,"link_anchortext":"thu\u1ed1c nhu\u1ed9m selective","link_desc":"thu\u1ed1c nhu\u1ed9m selective"}
+
+{"link_id":"97211","link_url":"https:\/\/casca.vn\/bao-gia-cua-tu-dong-han-quoc-gia-re","link_title":null,"link_anchortext":"c\u1eeda t\u1ef1 \u0111\u1ed9ng h\u00e0n qu\u1ed1c","link_desc":"c\u1eeda t\u1ef1 \u0111\u1ed9ng h\u00e0n qu\u1ed1c"}
+
+{"link_id":"94187","link_url":"https:\/\/thuvientoan.net\/tong-hop-de-thi-thu-hoa-thpt-quoc-gia-nam-2021-co-loi-giai-chi-tiet","link_title":null,"link_anchortext":"\u0111\u1ec1 thi th\u1eed h\u00f3a thpt qu\u1ed1c gia 2021","link_desc":"\u0111\u1ec1 thi th\u1eed h\u00f3a thpt qu\u1ed1c gia 2021"}
+
+{"link_id":"82979","link_url":"https:\/\/sanxuatkhanbong.com\/khan-trai-giuong-spa-gia-re\/","link_title":null,"link_anchortext":"kh\u0103n tr\u1ea3i gi\u01b0\u1eddng spa gi\u00e1 r\u1ebb","link_desc":"kh\u0103n tr\u1ea3i gi\u01b0\u1eddng spa gi\u00e1 r\u1ebb"}
+

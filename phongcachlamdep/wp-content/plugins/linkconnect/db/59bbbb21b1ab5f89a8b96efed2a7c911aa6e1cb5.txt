@@ -1,0 +1,17 @@
+{"link_id":"91497","link_url":"https:\/\/kayoko.com.vn\/kayoko-sua-rua-mat-duong-trang-da-cua-nhat\/","link_title":null,"link_anchortext":"s\u1eefa r\u1eeda m\u1eb7t tr\u1eafng da c\u1ee7a nh\u1eadt","link_desc":"s\u1eefa r\u1eeda m\u1eb7t tr\u1eafng da c\u1ee7a nh\u1eadt"}
+
+{"link_id":"92875","link_url":"https:\/\/inhoangdung.com\/","link_title":null,"link_anchortext":"C\u00f4ng ty In Ho\u00e0ng D\u0169ng","link_desc":""}
+
+{"link_id":"86943","link_url":"https:\/\/phanphoihoaphat.net\/lap-dat-gian-phoi-thong-minh-quan-12\/","link_title":null,"link_anchortext":"gi\u00e0n ph\u01a1i th\u00f4ng minh qu\u1eadn 12","link_desc":"gi\u00e0n ph\u01a1i th\u00f4ng minh qu\u1eadn 12"}
+
+{"link_id":"74515","link_url":"https:\/\/galaxydidong.vn\/san-pham\/iphone-7-32gb-quoc-te-dep-95-99\/","link_title":null,"link_anchortext":"iphone 7 qu\u1ed1c t\u1ebf","link_desc":"iphone 7 qu\u1ed1c t\u1ebf"}
+
+{"link_id":"100475","link_url":"http:\/\/daiphatfrp.vn\/Cung-cap-vat-tu-nghanh-composite\/Soi-thuy-tinh-mat-350-450-nitobo--10247.html","link_title":null,"link_anchortext":"gi\u00e1 s\u1ee3i th\u1ee7y tinh","link_desc":""}
+
+{"link_id":"98988","link_url":"https:\/\/daiphatfrp.vn\/","link_title":null,"link_anchortext":"C\u00f4ng ty c\u1ed5 ph\u1ea7n \u0110\u1ea1i Ph\u00e1t Composite","link_desc":""}
+
+{"link_id":"94945","link_url":"https:\/\/vyhome.com.vn\/","link_title":null,"link_anchortext":"https:\/\/vyhome.com.vn\/","link_desc":"https:\/\/vyhome.com.vn\/"}
+
+{"link_id":"99243","link_url":"https:\/\/suakhoatrongnhan24h.com\/sua-khoa-tai-nha-dong-da\/","link_title":null,"link_anchortext":"s\u1eeda kh\u00f3a t\u1ea1i nh\u00e0 \u0111\u1ed1ng \u0111a","link_desc":"s\u1eeda kh\u00f3a t\u1ea1i nh\u00e0 \u0111\u1ed1ng \u0111a"}
+
+{"link_id":"102402","link_url":"https:\/\/banglaixeotohanoi.com\/doi-bang-lai-xe-cho-nguoi-nuoc-ngoai\/","link_title":null,"link_anchortext":"d\u1ecbch v\u1ee5 \u0111\u1ed5i b\u1eb1ng l\u00e1i xe cho ng\u01b0\u1eddi n\u01b0\u1edbc ngo\u00e0i","link_desc":""}

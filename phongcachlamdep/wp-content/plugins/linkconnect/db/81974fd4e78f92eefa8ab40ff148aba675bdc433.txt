@@ -1,0 +1,19 @@
+{"link_id":"109189","link_url":"https:\/\/tranh3dhoangthanh.com\/giay-dan-tuong-phong-ngu\/","link_title":null,"link_anchortext":"gi\u1ea5y d\u00e1n ph\u00f2ng ng\u1ee7 \u0111\u1eb9p","link_desc":"gi\u1ea5y d\u00e1n ph\u00f2ng ng\u1ee7 \u0111\u1eb9p"}
+
+{"link_id":"106304","link_url":"https:\/\/anninhcanhve.com\/vn\/bao-ve-toa-nha-chung-cu.html","link_title":null,"link_anchortext":"b\u1ea3o v\u1ec7 t\u00f2a nh\u00e0 chung c\u01b0","link_desc":"b\u1ea3o v\u1ec7 t\u00f2a nh\u00e0 chung c\u01b0"}
+
+{"link_id":"110969","link_url":"https:\/\/yourphone.vn\/dien-thoai-samsung-bi-treo.html","link_title":null,"link_anchortext":"m\u00e0n h\u00ecnh \u0111i\u1ec7n tho\u1ea1i samsung b\u1ecb \u0111\u01a1","link_desc":"m\u00e0n h\u00ecnh \u0111i\u1ec7n tho\u1ea1i samsung b\u1ecb \u0111\u01a1"}
+
+{"link_id":"73760","link_url":"http:\/\/phanphoihoaphat.net\/gian-phoi-do-thong-minh-quan-thu-duc\/","link_title":null,"link_anchortext":"gi\u00e0n ph\u01a1i \u0111\u1ed3 th\u00f4ng minh qu\u1eadn Th\u1ee7 \u0110\u1ee9c","link_desc":"gi\u00e0n ph\u01a1i \u0111\u1ed3 th\u00f4ng minh qu\u1eadn Th\u1ee7 \u0110\u1ee9c"}
+
+{"link_id":"111866","link_url":"https:\/\/thethongminh.vn\/phan-mem-quan-ly-bai-xe-thong-minh-iparking-basic\/","link_title":null,"link_anchortext":"ph\u1ea7n m\u1ec1m qu\u1ea3n l\u00fd gi\u1eef xe","link_desc":"ph\u1ea7n m\u1ec1m qu\u1ea3n l\u00fd gi\u1eef xe"}
+
+{"link_id":"107800","link_url":"https:\/\/dienlanhalaska.vn\/top-4-tu-mat-nho-gia-re-mini-gia-re-tiet-kiem-dien-dang-mua-nhat-72-25.html","link_title":null,"link_anchortext":"t\u1ee7 \u0111\u00f4ng mini gi\u00e1 r\u1ebb","link_desc":"t\u1ee7 \u0111\u00f4ng mini gi\u00e1 r\u1ebb"}
+
+{"link_id":"105406","link_url":"https:\/\/sukienminhduc.com\/to-chuc-khai-truong-tron-goi\/","link_title":null,"link_anchortext":"t\u1ed5 ch\u1ee9c l\u1ec5 khai tr\u01b0\u01a1ng","link_desc":"t\u1ed5 ch\u1ee9c l\u1ec5 khai tr\u01b0\u01a1ng"}
+
+{"link_id":"114260","link_url":"https:\/\/ototaydo.com\/san-pham\/xe-tai-35-tan-tera-345sl-thung-dai-62m\/","link_title":null,"link_anchortext":"tera 345sl","link_desc":"tera 345sl"}
+
+{"link_id":"111013","link_url":"https:\/\/yourphone.vn\/thay-kinh-lung-iphone-13promax-12promax-chinh-hang.html","link_title":null,"link_anchortext":"thay m\u1eb7t k\u00ednh sau iphone","link_desc":"thay m\u1eb7t k\u00ednh sau iphone"}
+
+{"link_id":"110755","link_url":"https:\/\/www.chauvinhcuong.com\/tu-gom-day-combiner-box","link_title":null,"link_anchortext":"t\u1ee7 combiner box 1500vdc","link_desc":"t\u1ee7 combiner box 1500vdc"}

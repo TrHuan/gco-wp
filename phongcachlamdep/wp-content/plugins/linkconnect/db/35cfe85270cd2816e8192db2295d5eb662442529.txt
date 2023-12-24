@@ -1,0 +1,9 @@
+{"link_id":"80897","link_url":"https:\/\/andan.com.vn\/danh-muc-san-pham\/san-pham\/day-chuyen-loc-nuoc-tinh-khiet\/","link_title":null,"link_anchortext":"d\u00e2y chuy\u1ec1n l\u1ecdc n\u01b0\u1edbc tinh khi\u1ebft","link_desc":"d\u00e2y chuy\u1ec1n l\u1ecdc n\u01b0\u1edbc tinh khi\u1ebft"}
+
+{"link_id":"97198","link_url":"https:\/\/mitavietnam.com\/xuong-san-xuat-tui-vai-canvas-tai-tp-hcm\/","link_title":null,"link_anchortext":"t\u00fai v\u1ea3i canvas tphcm","link_desc":"t\u00fai v\u1ea3i canvas tphcm"}
+
+{"link_id":"110974","link_url":"https:\/\/yourphone.vn\/goi-video-messenger-khong-nghe-tieng-tren-iphone.html","link_title":null,"link_anchortext":"kh\u00f4ng g\u1ecdi \u0111\u01b0\u1ee3c messenger tr\u00ean iphone","link_desc":"kh\u00f4ng g\u1ecdi \u0111\u01b0\u1ee3c messenger tr\u00ean iphone"}
+
+{"link_id":"111051","link_url":"https:\/\/yourphone.vn\/iphone-xs-max-bi-do-cam-ung.html","link_title":null,"link_anchortext":"iphone xs \u0111\u01a1 c\u1ea3m \u1ee9ng","link_desc":"iphone xs \u0111\u01a1 c\u1ea3m \u1ee9ng"}
+
+{"link_id":"105158","link_url":"https:\/\/dogocaocapngoctu.com\/tu-tho\/","link_title":null,"link_anchortext":"https:\/\/dogocaocapngoctu.com\/tu-tho\/","link_desc":"https:\/\/dogocaocapngoctu.com\/tu-tho\/"}

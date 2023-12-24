@@ -1,0 +1,17 @@
+{"link_id":"88781","link_url":"https:\/\/www.adoco.vn\/loc-tong-cho-chung-cu","link_title":null,"link_anchortext":"H\u1ec7 l\u1ecdc t\u1ed5ng nh\u1ecf g\u1ecdn cho chung c\u01b0","link_desc":"H\u1ec7 l\u1ecdc t\u1ed5ng nh\u1ecf g\u1ecdn cho chung c\u01b0"}
+
+{"link_id":"88791","link_url":"https:\/\/www.adoco.vn\/he-loc-tong-lam-mem-cao-cap-made-in-usa","link_title":null,"link_anchortext":"N\u01b0\u1edbc b\u1ecb \u0111\u00f3ng c\u1eb7n m\u1ea3ng b\u00e1m","link_desc":"N\u01b0\u1edbc b\u1ecb \u0111\u00f3ng c\u1eb7n m\u1ea3ng b\u00e1m"}
+
+{"link_id":"88810","link_url":"https:\/\/www.adoco.vn\/xu-ly-nuoc-thai-cong-nghiep","link_title":null,"link_anchortext":"Gi\u1ea3i ph\u00e1p x\u1eed l\u00fd n\u01b0\u1edbc th\u1ea3i c\u00f4ng nghi\u1ec7p","link_desc":"Gi\u1ea3i ph\u00e1p x\u1eed l\u00fd n\u01b0\u1edbc th\u1ea3i c\u00f4ng nghi\u1ec7p"}
+
+{"link_id":"88817","link_url":"https:\/\/www.adoco.vn\/xu-ly-nuoc-thai-sinh-hoat","link_title":null,"link_anchortext":"Tr\u1ea1m x\u1eed l\u00fd n\u01b0\u1edbc th\u1ea3i sinh ho\u1ea1t","link_desc":"Tr\u1ea1m x\u1eed l\u00fd n\u01b0\u1edbc th\u1ea3i sinh ho\u1ea1t"}
+
+{"link_id":"91903","link_url":"https:\/\/haisan24h.com.vn\/tom-alaska-khong-lo-gia-bao-nhieu\/","link_title":null,"link_anchortext":"t\u00f4m h\u00f9m alaska kh\u1ed5ng l\u1ed3 gi\u00e1 bao nhi\u00eau","link_desc":"t\u00f4m h\u00f9m alaska kh\u1ed5ng l\u1ed3 gi\u00e1 bao nhi\u00eau"}
+
+{"link_id":"97418","link_url":"https:\/\/falala.vn\/co-nen-boi-kem-chong-nang-vao-ban-dem\/","link_title":null,"link_anchortext":"1 ng\u00e0y b\u00f4i kem ch\u1ed1ng n\u1eafng m\u1ea5y l\u1ea7n","link_desc":"1 ng\u00e0y b\u00f4i kem ch\u1ed1ng n\u1eafng m\u1ea5y l\u1ea7n"}
+
+{"link_id":"98541","link_url":"https:\/\/daphongthuyanphat.com\/coc-ngam-tien-bang-da.html","link_title":null,"link_anchortext":"c\u00f3c ng\u1eadm ti\u1ec1n phong th\u1ee7y","link_desc":"c\u00f3c ng\u1eadm ti\u1ec1n phong th\u1ee7y"}
+
+{"link_id":"99780","link_url":"https:\/\/giadungnk.vn\/san-pham\/rot-ruou-tu-dong.html","link_title":null,"link_anchortext":"may rot ruou tu dong","link_desc":"may rot ruou tu dong"}
+
+{"link_id":"101483","link_url":"https:\/\/wikicalo.com\/","link_title":null,"link_anchortext":"Tin t\u1ee9c t\u1ed5ng h\u1ee3p v\u1ec1 Calo","link_desc":"Tin t\u1ee9c t\u1ed5ng h\u1ee3p v\u1ec1 Calo"}

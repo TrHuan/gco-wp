@@ -1,0 +1,17 @@
+{"link_id":"91491","link_url":"https:\/\/kayoko.com.vn\/sua-rua-mat-tri-nam-tan-nhang-cua-nhat-tot-nhat-hien-nay\/","link_title":null,"link_anchortext":"s\u1eefa r\u1eeda m\u1eb7t tr\u1ecb n\u00e1m t\u00e0n nhang","link_desc":"s\u1eefa r\u1eeda m\u1eb7t tr\u1ecb n\u00e1m t\u00e0n nhang"}
+
+{"link_id":"92876","link_url":"https:\/\/inhoangdung.com\/nhan-label","link_title":null,"link_anchortext":"https:\/\/inhoangdung.com\/nhan-label","link_desc":""}
+
+{"link_id":"86940","link_url":"https:\/\/phanphoihoaphat.net\/cua-luoi-chong-muoi-con-trung-tphcm\/","link_title":null,"link_anchortext":"c\u1eeda l\u01b0\u1edbi ch\u1ed1ng c\u00f4n tr\u00f9ng","link_desc":"c\u1eeda l\u01b0\u1edbi ch\u1ed1ng c\u00f4n tr\u00f9ng"}
+
+{"link_id":"74511","link_url":"https:\/\/galaxydidong.vn\/san-pham\/iphone-6s-plus-64gb-quoc-te-dep-95-99\/","link_title":null,"link_anchortext":"iphone 6s plus 64gb qu\u1ed1c t\u1ebf","link_desc":"iphone 6s plus 64gb qu\u1ed1c t\u1ebf"}
+
+{"link_id":"100272","link_url":"https:\/\/kingled.vn\/den-led-nha-xuong-200w-highbay-ufo","link_title":null,"link_anchortext":"\u0111\u00e8n led nh\u00e0 x\u01b0\u1edfng 200w","link_desc":""}
+
+{"link_id":"100006","link_url":"https:\/\/cokhingocvan.com\/gia-ton-lop-mai-chong-nong\/","link_title":null,"link_anchortext":"gi\u00e1 ti\u1ec1n m\u00e1i t\u00f4n ch\u1ed1ng n\u00f3ng","link_desc":"gi\u00e1 ti\u1ec1n m\u00e1i t\u00f4n ch\u1ed1ng n\u00f3ng"}
+
+{"link_id":"81496","link_url":"http:\/\/phongthuymaxi.com\/dat-ten-cong-ty-theo-phong-thuy\/","link_title":null,"link_anchortext":"\u0111\u1eb7t t\u00ean doanh nghi\u1ec7p theo phong th\u1ee7y","link_desc":"\u0111\u1eb7t t\u00ean doanh nghi\u1ec7p theo phong th\u1ee7y"}
+
+{"link_id":"93167","link_url":"https:\/\/yoshaki.vn\/tin-tuc\/kinh-nghiem-mua-may-massage-chan\/","link_title":null,"link_anchortext":"Mua m\u00e1y massage ch\u00e2n \u1edf \u0111\u00e2u","link_desc":""}
+
+{"link_id":"98881","link_url":"https:\/\/gophuongdong.vn\/mau-ban-an-co-dien-dep-gia-re.html","link_title":null,"link_anchortext":"m\u1eabu b\u00e0n \u0103n t\u00e2n c\u1ed5 \u0111i\u1ec3n","link_desc":"m\u1eabu b\u00e0n \u0103n t\u00e2n c\u1ed5 \u0111i\u1ec3n"}

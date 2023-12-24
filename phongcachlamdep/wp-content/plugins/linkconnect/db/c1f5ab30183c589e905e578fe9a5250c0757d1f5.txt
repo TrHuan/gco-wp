@@ -1,0 +1,19 @@
+{"link_id":"91510","link_url":"https:\/\/kayoko.com.vn\/my-pham-kayoko-co-phai-kem-tron-khong\/","link_title":null,"link_anchortext":"m\u1ef9 ph\u1ea9m kayoko c\u00f3 ph\u1ea3i kem tr\u1ed9n kh\u00f4ng","link_desc":"m\u1ef9 ph\u1ea9m kayoko c\u00f3 ph\u1ea3i kem tr\u1ed9n kh\u00f4ng"}
+
+{"link_id":"92885","link_url":"https:\/\/sanxuatkhanbong.com\/khan-tam-khach-san\/","link_title":null,"link_anchortext":"mua kh\u0103n t\u1eafm kh\u00e1ch s\u1ea1n h\u00e0 n\u1ed9i","link_desc":""}
+
+{"link_id":"92893","link_url":"https:\/\/cuuho916.vn\/","link_title":null,"link_anchortext":"https:\/\/cuuho916.vn\/","link_desc":""}
+
+{"link_id":"74552","link_url":"https:\/\/galaxydidong.vn\/san-pham\/iphone-xs-max-64g-quoc-te-moi-95-99\/","link_title":null,"link_anchortext":"gi\u00e1 iphone xs max 64gb","link_desc":"gi\u00e1 iphone xs max 64gb"}
+
+{"link_id":"83857","link_url":"https:\/\/finewinestore.vn\/kien-thuc-ve-ruou\/dia-chi-shop-ruou-ngoai-gia-si-chinh-hang-uy-tin","link_title":null,"link_anchortext":"r\u01b0\u1ee3u ngo\u1ea1i gi\u00e1 s\u1ec9","link_desc":"r\u01b0\u1ee3u ngo\u1ea1i gi\u00e1 s\u1ec9"}
+
+{"link_id":"84049","link_url":"https:\/\/ohalen.vn\/tu-bep-am-tuong-dep\/","link_title":null,"link_anchortext":"t\u1ee7 b\u1ebfp \u00e2m t\u01b0\u1eddng \u0111\u1eb9p","link_desc":""}
+
+{"link_id":"97387","link_url":"https:\/\/falala.vn\/mat-na-dat-set-nao-tot\/","link_title":null,"link_anchortext":"m\u1eb7t n\u1ea1 \u0111\u1ea5t s\u00e9t d\u00f9ng m\u1ea5y l\u1ea7n 1 tu\u1ea7n","link_desc":"m\u1eb7t n\u1ea1 \u0111\u1ea5t s\u00e9t d\u00f9ng m\u1ea5y l\u1ea7n 1 tu\u1ea7n"}
+
+{"link_id":"99796","link_url":"https:\/\/giadungnk.vn\/tin-tuc\/so-do-mach-dieu-khien-quat-tu-xa.html","link_title":null,"link_anchortext":"s\u01a1 \u0111\u1ed3 m\u1ea1ch \u0111i\u1ec1u khi\u1ec3n qu\u1ea1t t\u1eeb xa","link_desc":"s\u01a1 \u0111\u1ed3 m\u1ea1ch \u0111i\u1ec1u khi\u1ec3n qu\u1ea1t t\u1eeb xa"}
+
+{"link_id":"101830","link_url":"https:\/\/trunghaiiot.com\/motor-cong-lua-tu-dong\/","link_title":null,"link_anchortext":"motor c\u1ed5ng l\u00f9a","link_desc":"motor c\u1ed5ng l\u00f9a"}
+
+{"link_id":"103177","link_url":"https:\/\/narylee.com\/san-pham\/bo-cotton-he-lung-1","link_title":null,"link_anchortext":"B\u00f4\u0323 \u0111\u00f4\u0300 m\u0103\u0323c nha\u0300","link_desc":"B\u00f4\u0323 \u0111\u00f4\u0300 m\u0103\u0323c nha\u0300"}

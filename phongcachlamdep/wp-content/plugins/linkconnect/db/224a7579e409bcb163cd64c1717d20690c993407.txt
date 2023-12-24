@@ -1,0 +1,17 @@
+{"link_id":"91485","link_url":"https:\/\/kayoko.com.vn\/san-pham\/kayoko-vang\/","link_title":null,"link_anchortext":"m\u1ef9 ph\u1ea9m kayoko plus","link_desc":"m\u1ef9 ph\u1ea9m kayoko plus"}
+
+{"link_id":"92961","link_url":"https:\/\/dongphucductri.com\/may-ao-so-mi-nu-dep-nhat-o-ha-noi\/","link_title":null,"link_anchortext":"x\u01b0\u1edfng may \u00e1o s\u01a1 mi n\u1eef","link_desc":"https:\/\/dongphucductri.com\/may-ao-so-mi-nu-dep-nhat-o-ha-noi\/"}
+
+{"link_id":"82742","link_url":"https:\/\/nhasachthudo247.net\/dich-vu-giat-tham-cong-nghiep-gia-re-khong-mui-khong-doc-hai.html","link_title":null,"link_anchortext":"d\u1ecbch v\u1ee5 gi\u1eb7t th\u1ea3m c\u00f4ng nghi\u1ec7p","link_desc":"d\u1ecbch v\u1ee5 gi\u1eb7t th\u1ea3m c\u00f4ng nghi\u1ec7p"}
+
+{"link_id":"88754","link_url":"https:\/\/www.adoco.vn\/cay-loc-nuoc-co-chuc-nang-nong-lanh","link_title":null,"link_anchortext":"M\u00e1y l\u1ecdc n\u01b0\u1edbc c\u00f3 n\u00f3ng l\u1ea1nh","link_desc":"M\u00e1y l\u1ecdc n\u01b0\u1edbc c\u00f3 n\u00f3ng l\u1ea1nh"}
+
+{"link_id":"109518","link_url":"https:\/\/wrapstudio.vn\/dan-decal-xe-o-to.html","link_title":null,"link_anchortext":"D\u00e1n xe","link_desc":"D\u00e1n xe"}
+
+{"link_id":"79639","link_url":"https:\/\/phelieumienbac.net\/thu-mua-thiec-phe-lieu\/","link_title":null,"link_anchortext":"thu mua thi\u1ebfc ph\u1ebf li\u1ec7u","link_desc":"thu mua thi\u1ebfc ph\u1ebf li\u1ec7u"}
+
+{"link_id":"109215","link_url":"https:\/\/kiemdinhantoan.com.vn\/vn\/quy-trinh-kiem-dinh-may-nen-khi--binh-chiu-ap-luc_v401.html","link_title":null,"link_anchortext":"quy tr\u00ecnh ki\u1ec3m \u0111\u1ecbnh b\u00ecnh ch\u1ecbu \u00e1p l\u1ef1c","link_desc":"quy tr\u00ecnh ki\u1ec3m \u0111\u1ecbnh b\u00ecnh ch\u1ecbu \u00e1p l\u1ef1c"}
+
+{"link_id":"94951","link_url":"https:\/\/vyhome.com.vn\/danh-muc-san-pham\/san-go-cong-nghiep\/","link_title":null,"link_anchortext":"l\u00e1t s\u00e0n g\u1ed7 c\u00f4ng nghi\u1ec7p gi\u00e1 bao nhi\u00eau","link_desc":"l\u00e1t s\u00e0n g\u1ed7 c\u00f4ng nghi\u1ec7p gi\u00e1 bao nhi\u00eau"}
+
+{"link_id":"97423","link_url":"https:\/\/falala.vn\/mat-na-duong-am-tu-nhien\/","link_title":null,"link_anchortext":"m\u1eb7t n\u1ea1 d\u01b0\u1ee1ng \u1ea9m da t\u1ef1 nhi\u00ean","link_desc":"m\u1eb7t n\u1ea1 d\u01b0\u1ee1ng \u1ea9m da t\u1ef1 nhi\u00ean"}

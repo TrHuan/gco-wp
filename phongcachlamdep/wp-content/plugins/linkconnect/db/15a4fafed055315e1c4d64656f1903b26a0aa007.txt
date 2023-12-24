@@ -1,0 +1,16 @@
+{"link_id":"91489","link_url":"https:\/\/kayoko.com.vn\/bo-my-pham-kayoko-gia-bao-nhieu\/","link_title":null,"link_anchortext":"b\u1ed9 m\u1ef9 ph\u1ea9m kayoko gi\u00e1 bao nhi\u00eau","link_desc":"b\u1ed9 m\u1ef9 ph\u1ea9m kayoko gi\u00e1 bao nhi\u00eau"}
+
+{"link_id":"86930","link_url":"https:\/\/phanphoihoaphat.net\/bao-gia-cua-luoi-chong-muoi-tu-cuon\/","link_title":null,"link_anchortext":"c\u1eeda l\u01b0\u1edbi ch\u1ed1ng mu\u1ed7i t\u1ef1 cu\u1ed1n","link_desc":"c\u1eeda l\u01b0\u1edbi ch\u1ed1ng mu\u1ed7i t\u1ef1 cu\u1ed1n"}
+
+{"link_id":"74510","link_url":"https:\/\/galaxydidong.vn\/san-pham\/iphone-6s-64gb-quoc-te-dep-95-99\/","link_title":null,"link_anchortext":"iphone 6s 64gb c\u0169","link_desc":"iphone 6s 64gb c\u0169"}
+
+{"link_id":"85820","link_url":"https:\/\/acquyrocket.com.vn\/binh-ac-quy-rocket.html","link_title":null,"link_anchortext":"\u1eafc quy","link_desc":"\u1eafc quy"}
+
+{"link_id":"85579","link_url":"https:\/\/giasunhattam.vn\/gia-su-tieng-trung-2\/","link_title":null,"link_anchortext":"gia s\u01b0 ti\u1ebfng trung","link_desc":""}
+
+{"link_id":"90368","link_url":"https:\/\/zubu.vn\/post\/cac-mau-ban-ghe-sofa-phong-khach-chung-cu-hot-dan-dau-xu-huong-p50","link_title":null,"link_anchortext":"sofa ph\u00f2ng kh\u00e1ch chung c\u01b0","link_desc":"sofa ph\u00f2ng kh\u00e1ch chung c\u01b0"}
+
+{"link_id":"93954","link_url":"https:\/\/sieutaywin.com\/tay-can-canxi-tren-kinh\/","link_title":null,"link_anchortext":"t\u1ea9y canxi tr\u00ean k\u00ednh","link_desc":"t\u1ea9y canxi tr\u00ean k\u00ednh"}
+
+{"link_id":"97373","link_url":"https:\/\/falala.vn\/san-pham\/serum-skinceuticals-b5\/","link_title":null,"link_anchortext":"serum skinceuticals b5","link_desc":"serum skinceuticals b5"}
+

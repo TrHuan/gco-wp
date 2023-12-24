@@ -1,0 +1,16 @@
+{"link_id":"82994","link_url":"https:\/\/sanxuatkhanbong.com\/khan-bong-lau-mat\/","link_title":null,"link_anchortext":"kh\u0103n m\u1eb7t b\u00f4ng","link_desc":"kh\u0103n m\u1eb7t b\u00f4ng"}
+
+{"link_id":"83938","link_url":"https:\/\/finewinestore.vn\/kien-thuc-ve-bia\/gia-bia-sanwald-hefeweizen-hien-nay","link_title":null,"link_anchortext":"bia sanwald","link_desc":"bia sanwald"}
+
+{"link_id":"85910","link_url":"https:\/\/acquyrocket.com.vn\/ac-quy-vien-thong-rocket-es100-12v100ah.html","link_title":null,"link_anchortext":"binh ac quy vien thong 12v 100ah","link_desc":"binh ac quy vien thong 12v 100ah"}
+
+{"link_id":"95665","link_url":"https:\/\/sieutaywin.com\/tay-can-canxi-vach-kinh-nha-tam\/","link_title":null,"link_anchortext":"t\u1ea9y c\u1eb7n canxi tr\u00ean k\u00ednh","link_desc":"t\u1ea9y c\u1eb7n canxi tr\u00ean k\u00ednh"}
+
+{"link_id":"98529","link_url":"https:\/\/daphongthuyanphat.com\/ty-huu-da-phong-thuy.html","link_title":null,"link_anchortext":"t\u1ef3 h\u01b0u \u0111\u00e1 th\u1ea1ch anh","link_desc":"t\u1ef3 h\u01b0u \u0111\u00e1 th\u1ea1ch anh"}
+
+{"link_id":"100393","link_url":"https:\/\/giasunhattam.vn\/gia-su-cap-2-tai-tphcm\/","link_title":null,"link_anchortext":"gia s\u01b0 d\u1ea1y c\u1ea5p 2","link_desc":"gia s\u01b0 d\u1ea1y c\u1ea5p 2"}
+
+{"link_id":"100446","link_url":"https:\/\/zubu.vn\/post\/ghe-tinh-yeu-la-gi-cong-dung-va-cac-huong-dan-chi-tiet-p30","link_title":null,"link_anchortext":"gh\u1ebf tantra \u0111\u1ec3 l\u00e0m g\u00ec","link_desc":"gh\u1ebf tantra \u0111\u1ec3 l\u00e0m g\u00ec"}
+
+{"link_id":"99250","link_url":"https:\/\/suakhoatrongnhan24h.com\/tim-dia-chi-sua-khoa-tai-nha-tay-ho-uy-tin-gia-tot-nhat\/","link_title":null,"link_anchortext":"s\u1eeda kh\u00f3a t\u1ea1i nh\u00e0 t\u00e2y h\u1ed3","link_desc":"s\u1eeda kh\u00f3a t\u1ea1i nh\u00e0 t\u00e2y h\u1ed3"}
+

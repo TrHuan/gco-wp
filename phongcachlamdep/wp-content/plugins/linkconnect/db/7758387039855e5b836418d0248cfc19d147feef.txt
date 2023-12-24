@@ -1,0 +1,13 @@
+{"link_id":"88422","link_url":"https:\/\/www.adoco.vn\/","link_title":null,"link_anchortext":"Adoco.vn","link_desc":"Adoco.vn"}
+
+{"link_id":"88777","link_url":"https:\/\/www.adoco.vn\/may-loc-nuoc-gia-dinh","link_title":null,"link_anchortext":"L\u1ecdc n\u01b0\u1edbc u\u1ed1ng tr\u1ef1c ti\u1ebfp","link_desc":"L\u1ecdc n\u01b0\u1edbc u\u1ed1ng tr\u1ef1c ti\u1ebfp"}
+
+{"link_id":"88810","link_url":"https:\/\/www.adoco.vn\/xu-ly-nuoc-thai-cong-nghiep","link_title":null,"link_anchortext":"Gi\u1ea3i ph\u00e1p x\u1eed l\u00fd n\u01b0\u1edbc th\u1ea3i c\u00f4ng nghi\u1ec7p","link_desc":"Gi\u1ea3i ph\u00e1p x\u1eed l\u00fd n\u01b0\u1edbc th\u1ea3i c\u00f4ng nghi\u1ec7p"}
+
+{"link_id":"112823","link_url":"https:\/\/dichthuatsnu.vn\/","link_title":null,"link_anchortext":"c\u00f4ng ty d\u1ecbch thu\u1eadt","link_desc":"c\u00f4ng ty d\u1ecbch thu\u1eadt"}
+
+{"link_id":"108404","link_url":"https:\/\/techbond.com.vn\/keo-ab-2-thanh-phan\/","link_title":null,"link_anchortext":"keo ab 2 th\u00e0nh ph\u1ea7n","link_desc":"keo ab 2 th\u00e0nh ph\u1ea7n"}
+
+{"link_id":"94939","link_url":"https:\/\/beptot.vn\/lo-nuong-tot-nhat-hien-nay.html","link_title":null,"link_anchortext":"n\u00ean mua l\u00f2 n\u01b0\u1edbng h\u00e3ng n\u00e0o","link_desc":"n\u00ean mua l\u00f2 n\u01b0\u1edbng h\u00e3ng n\u00e0o"}
+
+{"link_id":"112034","link_url":"https:\/\/akas.com.vn\/nang-cap-ram-cho-laptop\/","link_title":null,"link_anchortext":"dich vu thay ram cho laptop","link_desc":"dich vu thay ram cho laptop"}

@@ -1,0 +1,19 @@
+{"link_id":"100823","link_url":"https:\/\/banglaixeotohanoi.com\/giay-phep-lai-xe-a2\/","link_title":null,"link_anchortext":"thi gi\u1ea5y ph\u00e9p l\u00e1i xe a2","link_desc":"thi gi\u1ea5y ph\u00e9p l\u00e1i xe a2"}
+
+{"link_id":"105390","link_url":"https:\/\/thumuaphelieutoanquoc247.com\/thu-mua-phe-lieu-inox","link_title":null,"link_anchortext":"thu mua inox ph\u1ebf li\u1ec7u gi\u00e1 cao","link_desc":"thu mua inox ph\u1ebf li\u1ec7u gi\u00e1 cao"}
+
+{"link_id":"105618","link_url":"https:\/\/gianphoihoaphathp.com\/bang-bao-gia-bat-che-nang-ngoai-troi.html","link_title":null,"link_anchortext":"b\u00e1o gi\u00e1 b\u1ea1t che n\u1eafng","link_desc":"b\u00e1o gi\u00e1 b\u1ea1t che n\u1eafng"}
+
+{"link_id":"110971","link_url":"https:\/\/yourphone.vn\/dien-thoai-samsung-bi-treo.html","link_title":null,"link_anchortext":"c\u00e1ch x\u1eed l\u00fd \u0111i\u1ec7n tho\u1ea1i samsung b\u1ecb \u0111\u01a1","link_desc":"c\u00e1ch x\u1eed l\u00fd \u0111i\u1ec7n tho\u1ea1i samsung b\u1ecb \u0111\u01a1"}
+
+{"link_id":"61566","link_url":"https:\/\/kiemdinhantoan.com.vn\/vn\/quy-trinh-kiem-dinh-noi-hoi_v400.html","link_title":null,"link_anchortext":"kiem dinh noi dun nuoc nong","link_desc":"kiem dinh noi dun nuoc nong"}
+
+{"link_id":"111221","link_url":"https:\/\/maivangrongviet.vn\/cay-mai-ma-vang-rong","link_title":null,"link_anchortext":"c\u00e2y mai d\u00e1t v\u00e0ng","link_desc":"c\u00e2y mai d\u00e1t v\u00e0ng"}
+
+{"link_id":"111083","link_url":"https:\/\/yourphone.vn\/iphone-bat-song-yeu.html","link_title":null,"link_anchortext":"kh\u1eafc ph\u1ee5c iphone b\u1eaft s\u00f3ng y\u1ebfu","link_desc":"kh\u1eafc ph\u1ee5c iphone b\u1eaft s\u00f3ng y\u1ebfu"}
+
+{"link_id":"94465","link_url":"https:\/\/hiluxpaint.com\/mau-son-gia-da-dep\/","link_title":null,"link_anchortext":"s\u01a1n \u0111\u00e1","link_desc":"s\u01a1n \u0111\u00e1"}
+
+{"link_id":"61577","link_url":"https:\/\/kiemdinhantoan.com.vn\/vn\/kiem-dinh-he-thong-chong-set_p933.html","link_title":null,"link_anchortext":"ki\u1ec3m \u0111\u1ecbnh h\u1ec7 th\u1ed1ng ch\u1ed1ng s\u00e9t","link_desc":"ki\u1ec3m \u0111\u1ecbnh h\u1ec7 th\u1ed1ng ch\u1ed1ng s\u00e9t"}
+
+{"link_id":"110936","link_url":"https:\/\/yourphone.vn\/dien-thoai-samsung-sac-khong-vao-pin.html","link_title":null,"link_anchortext":"t\u1ea1i sao m\u00e1y samsung s\u1ea1c kh\u00f4ng v\u00e0o pin","link_desc":"t\u1ea1i sao m\u00e1y samsung s\u1ea1c kh\u00f4ng v\u00e0o pin"}

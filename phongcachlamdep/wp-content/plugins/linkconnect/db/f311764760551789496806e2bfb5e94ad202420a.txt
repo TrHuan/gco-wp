@@ -1,0 +1,15 @@
+{"link_id":"74540","link_url":"https:\/\/galaxydidong.vn\/san-pham\/iphone-xs-max-256g-quoc-te\/","link_title":null,"link_anchortext":"gi\u00e1 iphone xs max 256g","link_desc":"gi\u00e1 iphone xs max 256g"}
+
+{"link_id":"91510","link_url":"https:\/\/kayoko.com.vn\/my-pham-kayoko-co-phai-kem-tron-khong\/","link_title":null,"link_anchortext":"m\u1ef9 ph\u1ea9m kayoko c\u00f3 ph\u1ea3i kem tr\u1ed9n kh\u00f4ng","link_desc":"m\u1ef9 ph\u1ea9m kayoko c\u00f3 ph\u1ea3i kem tr\u1ed9n kh\u00f4ng"}
+
+{"link_id":"91784","link_url":"https:\/\/noithathoanmy.com\/mau-ban-phan-dep\/","link_title":null,"link_anchortext":"b\u00e0n ph\u1ea5n \u0111\u1eb9p","link_desc":"b\u00e0n ph\u1ea5n \u0111\u1eb9p"}
+
+{"link_id":"85593","link_url":"https:\/\/giasunhattam.vn\/gia-su-lop-1-tai-nha\/","link_title":null,"link_anchortext":"gia s\u01b0 d\u1ea1y l\u1edbp 1 t\u1ea1i nh\u00e0","link_desc":""}
+
+{"link_id":"97374","link_url":"https:\/\/falala.vn\/san-pham\/serum-skinceuticals-b5\/","link_title":null,"link_anchortext":"serum skinceuticals hydrating b5 gel","link_desc":"serum skinceuticals hydrating b5 gel"}
+
+{"link_id":"98410","link_url":"https:\/\/daphongthuyanphat.com\/qua-cau-thach-anh-vang-gia-bao-nhieu.html","link_title":null,"link_anchortext":"qu\u1ea3 c\u1ea7u th\u1ea1ch anh v\u00e0ng c\u00f3 t\u00e1c d\u1ee5ng g\u00ec","link_desc":"qu\u1ea3 c\u1ea7u th\u1ea1ch anh v\u00e0ng c\u00f3 t\u00e1c d\u1ee5ng g\u00ec"}
+
+{"link_id":"99777","link_url":"https:\/\/giadungnk.vn\/san-pham\/rot-ruou-tu-dong.html","link_title":null,"link_anchortext":"b\u00e1n m\u00e1y r\u00f3t r\u01b0\u1ee3u","link_desc":"b\u00e1n m\u00e1y r\u00f3t r\u01b0\u1ee3u"}
+
+{"link_id":"100471","link_url":"http:\/\/daiphatfrp.vn\/Cung-cap-vat-tu-nghanh-composite\/Soi-thuy-tinh-mat-350-450-nitobo--10247.html","link_title":null,"link_anchortext":"s\u1ee3i composite","link_desc":""}

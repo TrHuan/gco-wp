@@ -1,0 +1,16 @@
+{"link_id":"81797","link_url":"https:\/\/kienvangchuyennha.com.vn\/tin-tuc\/huong-dan-cach-chon-ngay-chuyen-nha-chi-tiet-nhat","link_title":null,"link_anchortext":"xem ng\u00e0y chuy\u1ec3n nh\u00e0","link_desc":"xem ng\u00e0y chuy\u1ec3n nh\u00e0"}
+
+{"link_id":"82933","link_url":"https:\/\/sanxuatkhanbong.com\/cong-ty-san-xuat-khan-bong\/","link_title":null,"link_anchortext":"cty s\u1ea3n xu\u1ea5t kh\u0103n b\u00f4ng c\u00e1c lo\u1ea1i","link_desc":"cty s\u1ea3n xu\u1ea5t kh\u0103n b\u00f4ng c\u00e1c lo\u1ea1i"}
+
+{"link_id":"83869","link_url":"https:\/\/finewinestore.vn\/kien-thuc-ve-ruou\/bang-gia-ruou-champagne-moi-nhat-2021","link_title":null,"link_anchortext":"gi\u00e1 r\u01b0\u1ee3u champagne","link_desc":"gi\u00e1 r\u01b0\u1ee3u champagne"}
+
+{"link_id":"91154","link_url":"https:\/\/zubu.vn\/post\/ghe-sofa-bang-dai-gia-re-ha-noi-nho-dep-hien-dai-p57","link_title":null,"link_anchortext":"gh\u1ebf sofa b\u0103ng d\u00e0i","link_desc":"gh\u1ebf sofa b\u0103ng d\u00e0i"}
+
+{"link_id":"95841","link_url":"https:\/\/sieutaywin.com\/nuoc-tay-can-canxi-tren-inox\/","link_title":null,"link_anchortext":"n\u01b0\u1edbc t\u1ea9y c\u1eb7n canxi","link_desc":"n\u01b0\u1edbc t\u1ea9y c\u1eb7n canxi"}
+
+{"link_id":"97356","link_url":"https:\/\/falala.vn\/review-ban-chai-dien-foreo\/","link_title":null,"link_anchortext":"review b\u00e0n ch\u1ea3i \u0111i\u1ec7n foreo issa mikro","link_desc":"review b\u00e0n ch\u1ea3i \u0111i\u1ec7n foreo issa mikro"}
+
+{"link_id":"99776","link_url":"https:\/\/giadungnk.vn\/san-pham\/rot-ruou-tu-dong.html","link_title":null,"link_anchortext":"m\u00e1y r\u00f3t r\u01b0\u1ee3u c\u1ea3m bi\u1ebfn","link_desc":"m\u00e1y r\u00f3t r\u01b0\u1ee3u c\u1ea3m bi\u1ebfn"}
+
+{"link_id":"101072","link_url":"https:\/\/sieutaywin.com\/cach-lam-sach-can-canxi-o-voi-sen\/","link_title":null,"link_anchortext":"c\u00e1ch l\u00e0m s\u1ea1ch c\u1eb7n canxi \u1edf v\u00f2i sen","link_desc":"c\u00e1ch l\u00e0m s\u1ea1ch c\u1eb7n canxi \u1edf v\u00f2i sen"}
+

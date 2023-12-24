@@ -1,0 +1,12 @@
+{"link_id":"85913","link_url":"https:\/\/acquyrocket.com.vn\/binh-ac-quy-vien-thong-50ah","link_title":null,"link_anchortext":"acquy vi\u1ec5n th\u00f4ng 12v 50ah","link_desc":"acquy vi\u1ec5n th\u00f4ng 12v 50ah"}
+
+{"link_id":"94418","link_url":"https:\/\/hiluxpaint.com\/danh-muc\/son-ngoai-troi\/","link_title":null,"link_anchortext":"s\u01a1n ngo\u00e0i tr\u1eddi lo\u1ea1i n\u00e0o t\u1ed1t","link_desc":"s\u01a1n ngo\u00e0i tr\u1eddi lo\u1ea1i n\u00e0o t\u1ed1t"}
+
+{"link_id":"82940","link_url":"https:\/\/sanxuatkhanbong.com\/cac-mau-khan-tam-60x120-50x100-40x80-70x140cm\/","link_title":null,"link_anchortext":"kh\u0103n t\u1eafm 60x120","link_desc":"kh\u0103n t\u1eafm 60x120"}
+
+{"link_id":"97080","link_url":"https:\/\/mayxaydungnhapkhau.com\/xe-nang-mat-ban","link_title":null,"link_anchortext":"xe n\u00e2ng m\u1eb7t b\u00e0n","link_desc":"xe n\u00e2ng m\u1eb7t b\u00e0n"}
+
+{"link_id":"100007","link_url":"https:\/\/cokhingocvan.com\/mai-ton-chong-nong-san-thuong\/","link_title":null,"link_anchortext":"m\u00e1i t\u00f4n ch\u1ed1ng n\u00f3ng s\u00e2n th\u01b0\u1ee3ng","link_desc":"m\u00e1i t\u00f4n ch\u1ed1ng n\u00f3ng s\u00e2n th\u01b0\u1ee3ng"}
+
+{"link_id":"100536","link_url":"https:\/\/daiphatfrp.vn\/san-pham\/luu-ngay-thong-tin-ve-bon-tu-hoai-500l-10284.html","link_title":null,"link_anchortext":"b\u1ed3n t\u1ef1 ho\u1ea1i 500l h\u00e0 n\u1ed9i","link_desc":""}
+

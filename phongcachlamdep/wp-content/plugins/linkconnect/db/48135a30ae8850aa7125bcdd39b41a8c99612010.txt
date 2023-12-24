@@ -1,0 +1,19 @@
+{"link_id":"88419","link_url":"https:\/\/www.adoco.vn\/","link_title":null,"link_anchortext":"Thi\u1ebft b\u1ecb s\u1eed l\u00fd n\u01b0\u1edbc Adoco","link_desc":"Thi\u1ebft b\u1ecb s\u1eed l\u00fd n\u01b0\u1edbc Adoco"}
+
+{"link_id":"88754","link_url":"https:\/\/www.adoco.vn\/cay-loc-nuoc-co-chuc-nang-nong-lanh","link_title":null,"link_anchortext":"M\u00e1y l\u1ecdc n\u01b0\u1edbc c\u00f3 n\u00f3ng l\u1ea1nh","link_desc":"M\u00e1y l\u1ecdc n\u01b0\u1edbc c\u00f3 n\u00f3ng l\u1ea1nh"}
+
+{"link_id":"88758","link_url":"https:\/\/www.adoco.vn\/xu-ly-nuoc-di","link_title":null,"link_anchortext":"H\u1ec7 th\u1ed1ng x\u1eed l\u00fd n\u01b0\u1edbc DI","link_desc":"H\u1ec7 th\u1ed1ng x\u1eed l\u00fd n\u01b0\u1edbc DI"}
+
+{"link_id":"88778","link_url":"https:\/\/www.adoco.vn\/loc-tong-cho-chung-cu","link_title":null,"link_anchortext":"H\u1ec7 th\u1ed1ng l\u1ecdc t\u1ed5ng n\u00e0o t\u1ed1t nh\u1ea5t cho chung c\u01b0","link_desc":"H\u1ec7 th\u1ed1ng l\u1ecdc t\u1ed5ng n\u00e0o t\u1ed1t nh\u1ea5t cho chung c\u01b0"}
+
+{"link_id":"88804","link_url":"https:\/\/www.adoco.vn\/dich-vu-cho-thue-may-loc-nuoc","link_title":null,"link_anchortext":"Cho thu\u00ea c\u00e2y l\u1ecdc n\u01b0\u1edbc n\u00f3ng l\u1ea1nh","link_desc":"Cho thu\u00ea c\u00e2y l\u1ecdc n\u01b0\u1edbc n\u00f3ng l\u1ea1nh"}
+
+{"link_id":"109745","link_url":"https:\/\/maycatmev.com\/san-pham\/nguon-cat-plasma-m200\/","link_title":null,"link_anchortext":"m\u00e1y cnc plasma ch\u1ea5t l\u01b0\u1ee3ng","link_desc":"m\u00e1y cnc plasma ch\u1ea5t l\u01b0\u1ee3ng"}
+
+{"link_id":"74747","link_url":"https:\/\/aomoi.vn\/mau-tap-de-dong-phuc","link_title":null,"link_anchortext":"may \u0111\u1ed3ng ph\u1ee5c t\u1ea1p d\u1ec1","link_desc":"may \u0111\u1ed3ng ph\u1ee5c t\u1ea1p d\u1ec1"}
+
+{"link_id":"105377","link_url":"https:\/\/thumuaphelieutoanquoc247.com\/thu-mua-xac-nha-cu-tai-tphcm","link_title":null,"link_anchortext":"mua x\u00e1c nh\u00e0 t\u1ea1i tphcm","link_desc":"mua x\u00e1c nh\u00e0 t\u1ea1i tphcm"}
+
+{"link_id":"113009","link_url":"https:\/\/thietbilocmiennam.vn\/tin-tuc\/loc-nuoc-ro.html","link_title":null,"link_anchortext":"loc nuoc ro","link_desc":"loc nuoc ro"}
+
+{"link_id":"111741","link_url":"https:\/\/shopcancau.vn\/moi-gia","link_title":null,"link_anchortext":"m\u1ed3i gi\u1ea3","link_desc":"m\u1ed3i gi\u1ea3"}

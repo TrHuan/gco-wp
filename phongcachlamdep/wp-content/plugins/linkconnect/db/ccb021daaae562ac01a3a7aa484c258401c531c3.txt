@@ -1,0 +1,13 @@
+{"link_id":"74620","link_url":"https:\/\/galaxydidong.vn\/category\/iphone\/iphone-xr\/","link_title":null,"link_anchortext":"iphone xr qu\u1ed1c t\u1ebf","link_desc":"iphone xr qu\u1ed1c t\u1ebf"}
+
+{"link_id":"71758","link_url":"https:\/\/poemy.com.vn\/collections\/ao-choang-tam","link_title":null,"link_anchortext":"\u00e1o cho\u00e0ng t\u1eafm n\u1eef","link_desc":"\u00e1o cho\u00e0ng t\u1eafm n\u1eef"}
+
+{"link_id":"80918","link_url":"https:\/\/andan.com.vn\/he-thong-loc-nuoc-gieng-khoan-cong-nghiep\/","link_title":null,"link_anchortext":"h\u1ec7 th\u1ed1ng l\u1ecdc n\u01b0\u1edbc gi\u1ebfng khoan c\u00f4ng nghi\u1ec7p","link_desc":"h\u1ec7 th\u1ed1ng l\u1ecdc n\u01b0\u1edbc gi\u1ebfng khoan c\u00f4ng nghi\u1ec7p"}
+
+{"link_id":"93900","link_url":"https:\/\/sieutaywin.com\/cach-tay-xi-mang-tren-nen-gach\/","link_title":null,"link_anchortext":"c\u00e1ch t\u1ea9y xi m\u0103ng d\u00ednh tr\u00ean n\u1ec1n g\u1ea1ch","link_desc":"c\u00e1ch t\u1ea9y xi m\u0103ng d\u00ednh tr\u00ean n\u1ec1n g\u1ea1ch"}
+
+{"link_id":"96392","link_url":"https:\/\/falala.vn\/review-kem-tri-ran-stretcheal\/","link_title":null,"link_anchortext":"kem tr\u1ecb r\u1ea1n stretcheal c\u1ee7a n\u01b0\u1edbc n\u00e0o","link_desc":"kem tr\u1ecb r\u1ea1n stretcheal c\u1ee7a n\u01b0\u1edbc n\u00e0o"}
+
+{"link_id":"97051","link_url":"https:\/\/mayxaydungnhapkhau.com\/pa-lang-xich-dien-1-tan","link_title":null,"link_anchortext":"gi\u00e1 pa l\u0103ng x\u00edch \u0111i\u1ec7n 1 t\u1ea5n","link_desc":"gi\u00e1 pa l\u0103ng x\u00edch \u0111i\u1ec7n 1 t\u1ea5n"}
+
+{"link_id":"103054","link_url":"https:\/\/chamdiscovery.com\/lan-ngam-san-ho-o-cu-lao-cham\/","link_title":null,"link_anchortext":"l\u1eb7n ng\u1eafm san h\u00f4 \u1edf c\u00f9 lao ch\u00e0m","link_desc":"l\u1eb7n ng\u1eafm san h\u00f4 \u1edf c\u00f9 lao ch\u00e0m"}

@@ -1,0 +1,13 @@
+{"link_id":"108230","link_url":"https:\/\/xaydungviettin.vn\/bao-gia-cai-tao-sua-chua-nha-cu\/","link_title":null,"link_anchortext":"gi\u00e1 c\u1ea3i t\u1ea1o s\u1eeda ch\u1eefa nh\u00e0","link_desc":"gi\u00e1 c\u1ea3i t\u1ea1o s\u1eeda ch\u1eefa nh\u00e0"}
+
+{"link_id":"61513","link_url":"https:\/\/kiemdinhantoan.com.vn\/vn\/kiem-dinh-cau-truc_v388.html","link_title":null,"link_anchortext":"ki\u1ec3m \u0111\u1ecbnh c\u1ea7u tr\u1ee5c","link_desc":"ki\u1ec3m \u0111\u1ecbnh c\u1ea7u tr\u1ee5c"}
+
+{"link_id":"104063","link_url":"https:\/\/bomvietnhat.com.vn\/may-bom-cong-nghiep.html","link_title":null,"link_anchortext":"m\u00e1y b\u01a1m n\u01b0\u1edbc c\u00f4ng nghi\u1ec7p","link_desc":"m\u00e1y b\u01a1m n\u01b0\u1edbc c\u00f4ng nghi\u1ec7p"}
+
+{"link_id":"107219","link_url":"https:\/\/thunggotot.com\/lap-dat-phong-xong-hoi-kho-da-muoi-chuyen-nghiep-toan-quoc.html","link_title":null,"link_anchortext":"thi c\u00f4ng ph\u00f2ng x\u00f4ng h\u01a1i kh\u00f4","link_desc":"thi c\u00f4ng ph\u00f2ng x\u00f4ng h\u01a1i kh\u00f4"}
+
+{"link_id":"82968","link_url":"https:\/\/sanxuatkhanbong.com\/khan-bong-khach-san\/","link_title":null,"link_anchortext":"kh\u0103n kh\u00e1ch s\u1ea1n cao c\u1ea5p","link_desc":"kh\u0103n kh\u00e1ch s\u1ea1n cao c\u1ea5p"}
+
+{"link_id":"105110","link_url":"https:\/\/dogocaocapngoctu.com\/ban-tho-go-go-do\/","link_title":null,"link_anchortext":"https:\/\/dogocaocapngoctu.com\/ban-tho-go-go-do\/","link_desc":"https:\/\/dogocaocapngoctu.com\/ban-tho-go-go-do\/"}
+
+{"link_id":"107850","link_url":"https:\/\/dienlanhalaska.vn\/tu-dong-mat-inverter-23-11.html","link_title":null,"link_anchortext":"gi\u00e1 t\u1ee7 c\u1ea5p \u0111\u00f4ng","link_desc":"gi\u00e1 t\u1ee7 c\u1ea5p \u0111\u00f4ng"}

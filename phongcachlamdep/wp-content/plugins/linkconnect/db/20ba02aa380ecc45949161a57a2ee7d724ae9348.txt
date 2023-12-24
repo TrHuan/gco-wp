@@ -1,0 +1,8 @@
+{"link_id":"46760","link_url":"http:\/\/tailieuvan.vn\/nhung-nguoi-ban-gia-doi-giong-nhu-nhung-chiec-bong\/","link_title":null,"link_anchortext":"nh\u1eefng ng\u01b0\u1eddi b\u1ea1n gi\u1ea3 d\u1ed1i gi\u1ed1ng nh\u01b0 nh\u1eefng chi\u1ebfc b\u00f3ng","link_desc":"nh\u1eefng ng\u01b0\u1eddi b\u1ea1n gi\u1ea3 d\u1ed1i gi\u1ed1ng nh\u01b0 nh\u1eefng chi\u1ebfc b\u00f3ng"}
+
+{"link_id":"48760","link_url":"http:\/\/loigiaivan.edu.vn\/phan-tich-hinh-anh-giot-nuoc-mat-cua-chi-pheo\/","link_title":null,"link_anchortext":"ph\u00e2n t\u00edch h\u00ecnh \u1ea3nh gi\u1ecdt n\u01b0\u1edbc m\u1eaft c\u1ee7a ch\u00ed ph\u00e8o","link_desc":"ph\u00e2n t\u00edch h\u00ecnh \u1ea3nh gi\u1ecdt n\u01b0\u1edbc m\u1eaft c\u1ee7a ch\u00ed ph\u00e8o"}
+
+{"link_id":"50429","link_url":"http:\/\/hocvanhay.com\/phan-tich-bai-tho-thuat-hoai-cua-pham-ngu-lao\/","link_title":null,"link_anchortext":"Ph\u00e2n t\u00edch b\u00e0i th\u01a1 Thu\u1eadt Ho\u00e0i","link_desc":"Ph\u00e2n t\u00edch b\u00e0i th\u01a1 Thu\u1eadt Ho\u00e0i"}
+
+{"link_id":"46160","link_url":"http:\/\/khovanhoc.com\/soan-bai-tho-tay-tien-cua-quang-dung-tiet-1","link_title":null,"link_anchortext":"so\u1ea1n B\u00e0i T\u00e2y Ti\u1ebfn","link_desc":"so\u1ea1n B\u00e0i T\u00e2y Ti\u1ebfn"}
+

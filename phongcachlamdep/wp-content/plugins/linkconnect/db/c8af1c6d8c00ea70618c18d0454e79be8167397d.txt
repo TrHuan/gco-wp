@@ -1,0 +1,15 @@
+{"link_id":"110145","link_url":"https:\/\/quattranht.com\/tin-tuc\/mua-quat-tran-den-o-dau-ha-noi-n25.html","link_title":null,"link_anchortext":"mua qu\u1ea1t tr\u1ea7n \u0111\u00e8n \u1edf \u0111\u00e2u h\u00e0 n\u1ed9i","link_desc":"mua qu\u1ea1t tr\u1ea7n \u0111\u00e8n \u1edf \u0111\u00e2u h\u00e0 n\u1ed9i"}
+
+{"link_id":"101590","link_url":"https:\/\/banglaixeotohanoi.com\/bang-d-lai-xe-gi-thong-tin-quan-trong-can-biet-de-thi-bang-hang-d\/","link_title":null,"link_anchortext":"b\u1eb1ng d bao nhi\u00eau tu\u1ed5i","link_desc":"b\u1eb1ng d bao nhi\u00eau tu\u1ed5i"}
+
+{"link_id":"105306","link_url":"https:\/\/thumuaphelieutoanquoc247.com\/thu-mua-phe-lieu-hop-kim","link_title":null,"link_anchortext":"gi\u00e1 h\u1ee3p kim ph\u1ebf li\u1ec7u","link_desc":"gi\u00e1 h\u1ee3p kim ph\u1ebf li\u1ec7u"}
+
+{"link_id":"90181","link_url":"https:\/\/maytracdiasaoviet.vn\/tintuc\/tim-hieu-may-ban-tia-laser-bao-nhieu-tien.html","link_title":null,"link_anchortext":"m\u00e1y b\u1eafn tia laser gi\u00e1 bao nhi\u00eau","link_desc":"m\u00e1y b\u1eafn tia laser gi\u00e1 bao nhi\u00eau"}
+
+{"link_id":"102653","link_url":"https:\/\/sukienminhduc.com\/mau-backdrop-su-kien-dep\/","link_title":null,"link_anchortext":"https:\/\/sukienminhduc.com\/mau-backdrop-su-kien-dep\/","link_desc":"https:\/\/sukienminhduc.com\/mau-backdrop-su-kien-dep\/"}
+
+{"link_id":"92056","link_url":"https:\/\/maytracdiasaoviet.vn\/tintuc\/cach-tinh-cao-do-may-thuy-binh.html","link_title":null,"link_anchortext":"c\u00e1ch t\u00ednh cao \u0111\u1ed9 b\u1eb1ng m\u00e1y th\u1ee7y b\u00ecnh","link_desc":"c\u00e1ch t\u00ednh cao \u0111\u1ed9 b\u1eb1ng m\u00e1y th\u1ee7y b\u00ecnh"}
+
+{"link_id":"79586","link_url":"https:\/\/phelieumienbac.net\/gia-thu-mua-phe-lieu-inox-304\/","link_title":null,"link_anchortext":"thu mua ph\u1ebf li\u1ec7u inox 304","link_desc":"thu mua ph\u1ebf li\u1ec7u inox 304"}
+
+{"link_id":"80473","link_url":"https:\/\/pcccvn.com.vn\/product-category\/thiet-bi-chua-chay\/","link_title":null,"link_anchortext":"thi\u1ebft b\u1ecb ch\u1eefa ch\u00e1y th\u00f4ng minh","link_desc":"thi\u1ebft b\u1ecb ch\u1eefa ch\u00e1y th\u00f4ng minh"}

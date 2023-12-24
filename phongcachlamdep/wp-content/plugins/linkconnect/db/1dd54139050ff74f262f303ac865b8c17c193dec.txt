@@ -1,0 +1,19 @@
+{"link_id":"82985","link_url":"https:\/\/sanxuatkhanbong.com\/cach-gap-khan-spa-dep\/","link_title":null,"link_anchortext":"g\u1ea5p kh\u0103n spa","link_desc":"g\u1ea5p kh\u0103n spa"}
+
+{"link_id":"83949","link_url":"https:\/\/finewinestore.vn\/kien-thuc-ve-bia\/bia-chimay-xanh-co-gi-ngon-mua-o-dau-gia-tot-bang-gia-bia-chimay-xanh-moi-nhat","link_title":null,"link_anchortext":"gi\u00e1 bia chimay xanh","link_desc":"gi\u00e1 bia chimay xanh"}
+
+{"link_id":"91393","link_url":"https:\/\/acquyrocket.com.vn\/rocket-smf-nx110-5-12v-70ah.html","link_title":null,"link_anchortext":"gi\u00e1 b\u00ecnh \u1eafc quy rocket 70ah","link_desc":""}
+
+{"link_id":"92566","link_url":"https:\/\/kienvangchuyennha.com.vn\/","link_title":null,"link_anchortext":"https:\/\/kienvangchuyennha.com.vn\/","link_desc":""}
+
+{"link_id":"92754","link_url":"https:\/\/thuocdactrinamda.com\/","link_title":null,"link_anchortext":"thu\u1ed1c \u0111\u1eb7c tr\u1ecb n\u1ea5m da","link_desc":"thu\u1ed1c \u0111\u1eb7c tr\u1ecb n\u1ea5m da"}
+
+{"link_id":"96939","link_url":"https:\/\/tgicosmetics.com.vn\/tin-tuc\/huong-dan-tay-toc","link_title":null,"link_anchortext":"h\u01b0\u1edbng d\u1eabn t\u1ea9y t\u00f3c","link_desc":"h\u01b0\u1edbng d\u1eabn t\u1ea9y t\u00f3c"}
+
+{"link_id":"97626","link_url":"https:\/\/casca.vn\/cua-xoay-tron-tu-dong","link_title":null,"link_anchortext":"c\u1eeda xoay tr\u1ee5c gi\u1eefa","link_desc":""}
+
+{"link_id":"104456","link_url":"https:\/\/galaxydidong.vn\/category\/san-pham-apple\/iphone\/iphone-x\/","link_title":null,"link_anchortext":"gi\u00e1 iphone x c\u0169","link_desc":"gi\u00e1 iphone x c\u0169"}
+
+{"link_id":"106079","link_url":"https:\/\/ngoctoanphat.com\/mau-banh-sinh-nhat-cong-ty-dep\/","link_title":null,"link_anchortext":"b\u00e1nh kem sinh nh\u1eadt c\u00f4ng ty","link_desc":"b\u00e1nh kem sinh nh\u1eadt c\u00f4ng ty"}
+
+{"link_id":"107293","link_url":"https:\/\/tuixachanhbinh.com\/tin-tuc\/may-tui-sieu-thi\/","link_title":null,"link_anchortext":"may t\u00fai si\u00eau th\u1ecb","link_desc":"may t\u00fai si\u00eau th\u1ecb"}

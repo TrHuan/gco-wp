@@ -1,0 +1,14 @@
+{"link_id":"91485","link_url":"https:\/\/kayoko.com.vn\/san-pham\/kayoko-vang\/","link_title":null,"link_anchortext":"m\u1ef9 ph\u1ea9m kayoko plus","link_desc":"m\u1ef9 ph\u1ea9m kayoko plus"}
+
+{"link_id":"92873","link_url":"https:\/\/inhoangdung.com\/","link_title":null,"link_anchortext":"In Ho\u00e0ng D\u0169ng","link_desc":""}
+
+{"link_id":"86921","link_url":"https:\/\/phanphoihoaphat.net\/gian-phoi-nhap-khau\/","link_title":null,"link_anchortext":"gi\u00e0n ph\u01a1i nh\u1eadp kh\u1ea9u","link_desc":"gi\u00e0n ph\u01a1i nh\u1eadp kh\u1ea9u"}
+
+{"link_id":"74504","link_url":"https:\/\/galaxydidong.vn\/category\/iphone\/iphone-x\/","link_title":null,"link_anchortext":"tr\u1ea3 g\u00f3p iphone x","link_desc":"tr\u1ea3 g\u00f3p iphone x"}
+
+{"link_id":"97065","link_url":"https:\/\/mayxaydungnhapkhau.com\/pa-lang-xich-keo-tay-1-tan-gia-re","link_title":null,"link_anchortext":"pa l\u0103ng x\u00edch k\u00e9o tay 1 t\u1ea5n","link_desc":"pa l\u0103ng x\u00edch k\u00e9o tay 1 t\u1ea5n"}
+
+{"link_id":"100282","link_url":"https:\/\/minhquyglass.com\/danh-muc-san-pham\/kinh-op-bep\/kinh-mau-3d\/","link_title":null,"link_anchortext":"m\u1eabu k\u00ednh \u1ed1p b\u1ebfp 3d \u0111\u1eb9p","link_desc":""}
+
+{"link_id":"81488","link_url":"http:\/\/phongthuymaxi.com\/phong-thuy-mo-phan\/","link_title":null,"link_anchortext":"phong th\u1ee7y m\u1ed9 ph\u1ea7n","link_desc":"phong th\u1ee7y m\u1ed9 ph\u1ea7n"}
+

@@ -1,0 +1,17 @@
+{"link_id":"88422","link_url":"https:\/\/www.adoco.vn\/","link_title":null,"link_anchortext":"Adoco.vn","link_desc":"Adoco.vn"}
+
+{"link_id":"88756","link_url":"https:\/\/www.adoco.vn\/cay-loc-nuoc-co-chuc-nang-nong-lanh","link_title":null,"link_anchortext":"M\u00e1y l\u1ecdc n\u01b0\u1edbc c\u00f3 ch\u1ee9c n\u0103ng n\u00f3ng l\u1ea1nh","link_desc":"M\u00e1y l\u1ecdc n\u01b0\u1edbc c\u00f3 ch\u1ee9c n\u0103ng n\u00f3ng l\u1ea1nh"}
+
+{"link_id":"88775","link_url":"https:\/\/www.adoco.vn\/may-loc-nuoc-gia-dinh","link_title":null,"link_anchortext":"M\u00e1y l\u1ecdc n\u01b0\u1edbc nh\u1ecf g\u1ecdn cho g\u1ea7m b\u1ebfp","link_desc":"M\u00e1y l\u1ecdc n\u01b0\u1edbc nh\u1ecf g\u1ecdn cho g\u1ea7m b\u1ebfp"}
+
+{"link_id":"88804","link_url":"https:\/\/www.adoco.vn\/dich-vu-cho-thue-may-loc-nuoc","link_title":null,"link_anchortext":"Cho thu\u00ea c\u00e2y l\u1ecdc n\u01b0\u1edbc n\u00f3ng l\u1ea1nh","link_desc":"Cho thu\u00ea c\u00e2y l\u1ecdc n\u01b0\u1edbc n\u00f3ng l\u1ea1nh"}
+
+{"link_id":"105552","link_url":"https:\/\/gianphoihoaphathp.com","link_title":null,"link_anchortext":"gi\u00e0n ph\u01a1i h\u00f2a ph\u00e1t","link_desc":"gi\u00e0n ph\u01a1i h\u00f2a ph\u00e1t"}
+
+{"link_id":"87148","link_url":"https:\/\/andan.com.vn\/may-lam-da-vien-mini\/","link_title":null,"link_anchortext":"m\u00e1y l\u00e0m \u0111\u00e1 vi\u00ean mini gia \u0111\u00ecnh","link_desc":"m\u00e1y l\u00e0m \u0111\u00e1 vi\u00ean mini gia \u0111\u00ecnh"}
+
+{"link_id":"105890","link_url":"https:\/\/suntek.vn\/he-thong-bom-nuoc-nang-luong-mat-troi-n219.html","link_title":null,"link_anchortext":"h\u1ec7 th\u1ed1ng b\u01a1m n\u01b0\u1edbc b\u1eb1ng n\u0103ng l\u01b0\u1ee3ng m\u1eb7t tr\u1eddi","link_desc":"h\u1ec7 th\u1ed1ng b\u01a1m n\u01b0\u1edbc b\u1eb1ng n\u0103ng l\u01b0\u1ee3ng m\u1eb7t tr\u1eddi"}
+
+{"link_id":"105624","link_url":"https:\/\/gianphoihoaphathp.com\/bat-che-nang-mua","link_title":null,"link_anchortext":"b\u1ea1t che n\u1eafng m\u01b0a h\u00f2a ph\u00e1t","link_desc":"b\u1ea1t che n\u1eafng m\u01b0a h\u00f2a ph\u00e1t"}
+
+{"link_id":"111263","link_url":"https:\/\/maivangrongviet.vn\/qua-tang-tet-cho-doanh-nghiep-va-doi-tac-y-nghia","link_title":null,"link_anchortext":"qu\u00e0 t\u1eb7ng doanh nghi\u1ec7p d\u1ecbp t\u1ebft","link_desc":"qu\u00e0 t\u1eb7ng doanh nghi\u1ec7p d\u1ecbp t\u1ebft"}

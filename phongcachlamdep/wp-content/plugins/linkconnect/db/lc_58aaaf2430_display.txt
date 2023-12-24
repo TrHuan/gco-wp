@@ -1,0 +1,1 @@
+{"display_type":"0","display_direction":"block","display_width":"287","font":"arial","size":"10px","border_color":"#CCCC66","bg_color":"#FFFFFF","text_color":"#3333FF","textdes_color":"#006600"}

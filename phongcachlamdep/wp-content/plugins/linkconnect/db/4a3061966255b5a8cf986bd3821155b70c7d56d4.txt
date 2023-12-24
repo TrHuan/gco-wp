@@ -1,0 +1,15 @@
+{"link_id":"91497","link_url":"https:\/\/kayoko.com.vn\/kayoko-sua-rua-mat-duong-trang-da-cua-nhat\/","link_title":null,"link_anchortext":"s\u1eefa r\u1eeda m\u1eb7t tr\u1eafng da c\u1ee7a nh\u1eadt","link_desc":"s\u1eefa r\u1eeda m\u1eb7t tr\u1eafng da c\u1ee7a nh\u1eadt"}
+
+{"link_id":"86943","link_url":"https:\/\/phanphoihoaphat.net\/lap-dat-gian-phoi-thong-minh-quan-12\/","link_title":null,"link_anchortext":"gi\u00e0n ph\u01a1i th\u00f4ng minh qu\u1eadn 12","link_desc":"gi\u00e0n ph\u01a1i th\u00f4ng minh qu\u1eadn 12"}
+
+{"link_id":"74514","link_url":"https:\/\/galaxydidong.vn\/san-pham\/iphone-7-128gb-quoc-te-dep-95-99\/","link_title":null,"link_anchortext":"ip 7 128gb","link_desc":"ip 7 128gb"}
+
+{"link_id":"101652","link_url":"https:\/\/banglaixeotohanoi.com\/doi-bang-lai-xe-nhat-ban-sang-bang-viet-nam\/","link_title":null,"link_anchortext":"b\u1eb1ng l\u00e1i xe nh\u1eadt b\u1ea3n","link_desc":"b\u1eb1ng l\u00e1i xe nh\u1eadt b\u1ea3n"}
+
+{"link_id":"105846","link_url":"https:\/\/suntek.vn\/den-bup-nang-luong-mat-troi-n210.html","link_title":null,"link_anchortext":"\u0111\u00e8n b\u00fap n\u0103ng l\u01b0\u1ee3ng m\u1eb7t tr\u1eddi 50w","link_desc":"\u0111\u00e8n b\u00fap n\u0103ng l\u01b0\u1ee3ng m\u1eb7t tr\u1eddi 50w"}
+
+{"link_id":"99186","link_url":"https:\/\/suakhoatrongnhan24h.com\/sua-khoa-ket-sat\/","link_title":null,"link_anchortext":"s\u1eeda kh\u00f3a k\u00e9t s\u1eaft t\u1ea1i nh\u00e0","link_desc":"s\u1eeda kh\u00f3a k\u00e9t s\u1eaft t\u1ea1i nh\u00e0"}
+
+{"link_id":"106875","link_url":"https:\/\/falala.vn\/danh-muc-san-pham\/cham-soc-da-mat\/my-pham-duoc-my-pham\/sua-rua-mat\/","link_title":null,"link_anchortext":"l\u00e0m s\u1ea1ch da m\u1eb7t t\u1ea1i nh\u00e0","link_desc":"l\u00e0m s\u1ea1ch da m\u1eb7t t\u1ea1i nh\u00e0"}
+
+{"link_id":"114231","link_url":"https:\/\/ototaydo.com\/san-pham\/xe-tai-tera-100\/","link_title":null,"link_anchortext":"teraco 100","link_desc":"teraco 100"}

@@ -1,0 +1,15 @@
+{"link_id":"74517","link_url":"https:\/\/galaxydidong.vn\/san-pham\/iphone-7-plus-32g-quoc-te-dep-95-99\/","link_title":null,"link_anchortext":"iphone 7 plus c\u0169 32gb","link_desc":"iphone 7 plus c\u0169 32gb"}
+
+{"link_id":"91489","link_url":"https:\/\/kayoko.com.vn\/bo-my-pham-kayoko-gia-bao-nhieu\/","link_title":null,"link_anchortext":"b\u1ed9 m\u1ef9 ph\u1ea9m kayoko gi\u00e1 bao nhi\u00eau","link_desc":"b\u1ed9 m\u1ef9 ph\u1ea9m kayoko gi\u00e1 bao nhi\u00eau"}
+
+{"link_id":"91730","link_url":"https:\/\/noithathoanmy.com\/ghe-thu-gian-gia-re\/","link_title":null,"link_anchortext":"gh\u1ebf th\u01b0 gi\u00e3n","link_desc":"gh\u1ebf th\u01b0 gi\u00e3n"}
+
+{"link_id":"82924","link_url":"https:\/\/sanxuatkhanbong.com\/khan-bong-trang\/","link_title":null,"link_anchortext":"kh\u0103n cotton tr\u1eafng","link_desc":"kh\u0103n cotton tr\u1eafng"}
+
+{"link_id":"97309","link_url":"https:\/\/kingled.vn\/den-pha-led","link_title":null,"link_anchortext":"\u0111\u00e8n pha led","link_desc":"\u0111\u00e8n pha led"}
+
+{"link_id":"100280","link_url":"https:\/\/minhquyglass.com\/danh-muc-san-pham\/nhom-he-cao-cap\/vach-nhom-kinh\/","link_title":null,"link_anchortext":"v\u00e1ch nh\u00f4m k\u00ednh xingfa","link_desc":""}
+
+{"link_id":"100009","link_url":"https:\/\/cokhingocvan.com\/mai-ton-chong-nong-san-thuong\/","link_title":null,"link_anchortext":"m\u00e1i che ch\u1ed1ng n\u00f3ng s\u00e2n th\u01b0\u1ee3ng","link_desc":"m\u00e1i che ch\u1ed1ng n\u00f3ng s\u00e2n th\u01b0\u1ee3ng"}
+
+{"link_id":"100475","link_url":"http:\/\/daiphatfrp.vn\/Cung-cap-vat-tu-nghanh-composite\/Soi-thuy-tinh-mat-350-450-nitobo--10247.html","link_title":null,"link_anchortext":"gi\u00e1 s\u1ee3i th\u1ee7y tinh","link_desc":""}

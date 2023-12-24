@@ -1,0 +1,17 @@
+{"link_id":"91491","link_url":"https:\/\/kayoko.com.vn\/sua-rua-mat-tri-nam-tan-nhang-cua-nhat-tot-nhat-hien-nay\/","link_title":null,"link_anchortext":"s\u1eefa r\u1eeda m\u1eb7t tr\u1ecb n\u00e1m t\u00e0n nhang","link_desc":"s\u1eefa r\u1eeda m\u1eb7t tr\u1ecb n\u00e1m t\u00e0n nhang"}
+
+{"link_id":"92876","link_url":"https:\/\/inhoangdung.com\/nhan-label","link_title":null,"link_anchortext":"https:\/\/inhoangdung.com\/nhan-label","link_desc":""}
+
+{"link_id":"86940","link_url":"https:\/\/phanphoihoaphat.net\/cua-luoi-chong-muoi-con-trung-tphcm\/","link_title":null,"link_anchortext":"c\u1eeda l\u01b0\u1edbi ch\u1ed1ng c\u00f4n tr\u00f9ng","link_desc":"c\u1eeda l\u01b0\u1edbi ch\u1ed1ng c\u00f4n tr\u00f9ng"}
+
+{"link_id":"74511","link_url":"https:\/\/galaxydidong.vn\/san-pham\/iphone-6s-plus-64gb-quoc-te-dep-95-99\/","link_title":null,"link_anchortext":"iphone 6s plus 64gb qu\u1ed1c t\u1ebf","link_desc":"iphone 6s plus 64gb qu\u1ed1c t\u1ebf"}
+
+{"link_id":"91148","link_url":"https:\/\/zubu.vn\/post\/tong-hop-cac-mau-sofa-giuong-nho-gon-cho-can-ho-chung-cu-p55","link_title":null,"link_anchortext":"sofa gi\u01b0\u1eddng nh\u1ecf g\u1ecdn","link_desc":"sofa gi\u01b0\u1eddng nh\u1ecf g\u1ecdn"}
+
+{"link_id":"93993","link_url":"https:\/\/sieutaywin.com\/tay-xi-mang-tren-da\/","link_title":null,"link_anchortext":"t\u1ea9y xi m\u0103ng tr\u00ean \u0111\u00e1","link_desc":"t\u1ea9y xi m\u0103ng tr\u00ean \u0111\u00e1"}
+
+{"link_id":"97431","link_url":"https:\/\/falala.vn\/lam-sach-da-dung-cach\/","link_title":null,"link_anchortext":"c\u00e1ch l\u00e0m s\u1ea1ch da t\u1eeb s\u00e2u b\u00ean trong","link_desc":"c\u00e1ch l\u00e0m s\u1ea1ch da t\u1eeb s\u00e2u b\u00ean trong"}
+
+{"link_id":"98534","link_url":"https:\/\/daphongthuyanphat.com\/thiem-thu-bang-da.html","link_title":null,"link_anchortext":"thi\u1ec1m th\u1eeb b\u1eb1ng \u0111\u00e1","link_desc":"thi\u1ec1m th\u1eeb b\u1eb1ng \u0111\u00e1"}
+
+{"link_id":"100466","link_url":"https:\/\/giadungnk.vn\/tin-tuc\/review-thung-rac-thong-minh.html","link_title":null,"link_anchortext":"th\u00f9ng r\u00e1c th\u00f4ng minh kh\u1eed m\u00f9i","link_desc":"th\u00f9ng r\u00e1c th\u00f4ng minh kh\u1eed m\u00f9i"}

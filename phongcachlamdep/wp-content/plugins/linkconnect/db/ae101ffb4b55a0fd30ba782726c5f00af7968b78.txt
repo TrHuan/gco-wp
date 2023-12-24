@@ -1,0 +1,17 @@
+{"link_id":"91491","link_url":"https:\/\/kayoko.com.vn\/sua-rua-mat-tri-nam-tan-nhang-cua-nhat-tot-nhat-hien-nay\/","link_title":null,"link_anchortext":"s\u1eefa r\u1eeda m\u1eb7t tr\u1ecb n\u00e1m t\u00e0n nhang","link_desc":"s\u1eefa r\u1eeda m\u1eb7t tr\u1ecb n\u00e1m t\u00e0n nhang"}
+
+{"link_id":"92876","link_url":"https:\/\/inhoangdung.com\/nhan-label","link_title":null,"link_anchortext":"https:\/\/inhoangdung.com\/nhan-label","link_desc":""}
+
+{"link_id":"86940","link_url":"https:\/\/phanphoihoaphat.net\/cua-luoi-chong-muoi-con-trung-tphcm\/","link_title":null,"link_anchortext":"c\u1eeda l\u01b0\u1edbi ch\u1ed1ng c\u00f4n tr\u00f9ng","link_desc":"c\u1eeda l\u01b0\u1edbi ch\u1ed1ng c\u00f4n tr\u00f9ng"}
+
+{"link_id":"74514","link_url":"https:\/\/galaxydidong.vn\/san-pham\/iphone-7-128gb-quoc-te-dep-95-99\/","link_title":null,"link_anchortext":"ip 7 128gb","link_desc":"ip 7 128gb"}
+
+{"link_id":"90371","link_url":"https:\/\/zubu.vn\/post\/tong-hop-kieu-dang-ghe-sofa-don-trong-phong-ngu-dep-gia-re-p51","link_title":null,"link_anchortext":"gh\u1ebf sofa \u0111\u01a1n 1 ch\u1ed7 ng\u1ed3i","link_desc":"gh\u1ebf sofa \u0111\u01a1n 1 ch\u1ed7 ng\u1ed3i"}
+
+{"link_id":"93979","link_url":"https:\/\/sieutaywin.com\/tay-can-canxi-o-bon-cau\/","link_title":null,"link_anchortext":"t\u1ea9y c\u1eb7n canxi \u1ed1 b\u1ed3n c\u1ea7u","link_desc":"t\u1ea9y c\u1eb7n canxi \u1ed1 b\u1ed3n c\u1ea7u"}
+
+{"link_id":"97417","link_url":"https:\/\/falala.vn\/cach-dung-tinh-chat-duong-da\/","link_title":null,"link_anchortext":"tinh ch\u1ea5t d\u01b0\u1ee1ng da c\u00f3 c\u00f4ng d\u1ee5ng g\u00ec","link_desc":"tinh ch\u1ea5t d\u01b0\u1ee1ng da c\u00f3 c\u00f4ng d\u1ee5ng g\u00ec"}
+
+{"link_id":"98264","link_url":"https:\/\/giadungnk.vn\/tin-tuc\/bo-mach-quat-dieu-hoa.html","link_title":null,"link_anchortext":"m\u1ea1ch qu\u1ea1t \u0111i\u1ec1u h\u00f2a","link_desc":"m\u1ea1ch qu\u1ea1t \u0111i\u1ec1u h\u00f2a"}
+
+{"link_id":"98531","link_url":"https:\/\/daphongthuyanphat.com\/ty-huu-da-phong-thuy.html","link_title":null,"link_anchortext":"t\u1ef3 h\u01b0u \u0111\u00e1 t\u1ef1 nhi\u00ean","link_desc":"t\u1ef3 h\u01b0u \u0111\u00e1 t\u1ef1 nhi\u00ean"}

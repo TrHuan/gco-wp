@@ -1,0 +1,15 @@
+{"link_id":"74576","link_url":"https:\/\/galaxydidong.vn\/san-pham\/samsung-galaxy-s8-plus\/","link_title":null,"link_anchortext":"samsung 8 plus","link_desc":"samsung 8 plus"}
+
+{"link_id":"91528","link_url":"https:\/\/kayoko.com.vn\/kem-duong-trang-da-mat-ban-dem-cua-nhat\/","link_title":null,"link_anchortext":"kem d\u01b0\u1ee1ng da ban \u0111\u00eam c\u1ee7a nh\u1eadt","link_desc":"kem d\u01b0\u1ee1ng da ban \u0111\u00eam c\u1ee7a nh\u1eadt"}
+
+{"link_id":"91853","link_url":"https:\/\/noithathoanmy.com\/ban-an-gia-dinh\/","link_title":null,"link_anchortext":"b\u00e0n \u0103n","link_desc":"b\u00e0n \u0103n"}
+
+{"link_id":"93977","link_url":"https:\/\/sieutaywin.com\/tay-can-canxi-tren-voi-nuoc\/","link_title":null,"link_anchortext":"c\u00e1ch t\u1ea9y c\u1eb7n canxi tr\u00ean v\u00f2i n\u01b0\u1edbc","link_desc":"c\u00e1ch t\u1ea9y c\u1eb7n canxi tr\u00ean v\u00f2i n\u01b0\u1edbc"}
+
+{"link_id":"99777","link_url":"https:\/\/giadungnk.vn\/san-pham\/rot-ruou-tu-dong.html","link_title":null,"link_anchortext":"b\u00e1n m\u00e1y r\u00f3t r\u01b0\u1ee3u","link_desc":"b\u00e1n m\u00e1y r\u00f3t r\u01b0\u1ee3u"}
+
+{"link_id":"100496","link_url":"https:\/\/daphongthuyanphat.com\/da-thach-anh-vun.html","link_title":null,"link_anchortext":"\u0111\u00e1 th\u1ea1ch anh v\u1ee5n r\u1ea3i m\u1ed9","link_desc":"\u0111\u00e1 th\u1ea1ch anh v\u1ee5n r\u1ea3i m\u1ed9"}
+
+{"link_id":"101745","link_url":"https:\/\/trunghaiiot.com\/","link_title":null,"link_anchortext":"https:\/\/trunghaiiot.com\/","link_desc":"https:\/\/trunghaiiot.com\/"}
+
+{"link_id":"102421","link_url":"https:\/\/dcvinvest.com\/","link_title":null,"link_anchortext":"https:\/\/dcvinvest.com\/","link_desc":""}

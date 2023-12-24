@@ -1,0 +1,8 @@
+{"link_id":"46779","link_url":"http:\/\/tailieuvan.vn\/nghi-luan-xa-hoi-ve-tac-dung-cua-viec-doc-sach\/","link_title":null,"link_anchortext":"ngh\u1ecb lu\u1eadn v\u1ec1 t\u00e1c d\u1ee5ng c\u1ee7a vi\u1ec7c \u0111\u1ecdc s\u00e1ch","link_desc":"ngh\u1ecb lu\u1eadn v\u1ec1 t\u00e1c d\u1ee5ng c\u1ee7a vi\u1ec7c \u0111\u1ecdc s\u00e1ch"}
+
+{"link_id":"48785","link_url":"http:\/\/loigiaivan.edu.vn\/binh-giang-bai-tho-song-cua-xuan-quynh\/","link_title":null,"link_anchortext":"b\u00ecnh gi\u1ea3ng b\u00e0i th\u01a1 s\u00f3ng c\u1ee7a xu\u00e2n qu\u1ef3nh","link_desc":"b\u00ecnh gi\u1ea3ng b\u00e0i th\u01a1 s\u00f3ng c\u1ee7a xu\u00e2n qu\u1ef3nh"}
+
+{"link_id":"50446","link_url":"http:\/\/hocvanhay.com\/phan-tich-bai-tho-canh-ngay-xuan-cua-nguyen-du\/","link_title":null,"link_anchortext":"Ph\u00e2n t\u00edch b\u00e0i th\u01a1 C\u1ea3nh Ng\u00e0y Xu\u00e2n c\u1ee7a Nguy\u1ec5n Du","link_desc":"Ph\u00e2n t\u00edch b\u00e0i th\u01a1 C\u1ea3nh Ng\u00e0y Xu\u00e2n c\u1ee7a Nguy\u1ec5n Du"}
+
+{"link_id":"46174","link_url":"http:\/\/khovanhoc.com\/phan-tich-bai-tinh-than-yeu-nuoc-cua-nhan-dan-ta\/","link_title":null,"link_anchortext":"Ph\u00e2n T\u00edch B\u00e0i Tinh Th\u1ea7n Y\u00eau N\u01b0\u1edbc C\u1ee7a Nh\u00e2n D\u00e2n Ta","link_desc":"Ph\u00e2n T\u00edch B\u00e0i Tinh Th\u1ea7n Y\u00eau N\u01b0\u1edbc C\u1ee7a Nh\u00e2n D\u00e2n Ta"}
+

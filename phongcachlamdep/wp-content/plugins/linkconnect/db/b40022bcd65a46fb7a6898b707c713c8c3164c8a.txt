@@ -1,0 +1,17 @@
+{"link_id":"91397","link_url":"https:\/\/noithathoanmy.com\/product-category\/do-trang-tri\/tham-trai-san\/","link_title":null,"link_anchortext":"th\u1ea3m trang tr\u00ed","link_desc":""}
+
+{"link_id":"91406","link_url":"https:\/\/kayoko.com.vn\/san-pham\/kayoko-xanh-5-in-1\/","link_title":null,"link_anchortext":"b\u1ed9 m\u1ef9 ph\u1ea9m kayoko xanh","link_desc":""}
+
+{"link_id":"91450","link_url":"https:\/\/poemy.com.vn\/blogs\/news\/khan-tap-gym-cao-cap","link_title":null,"link_anchortext":"https:\/\/poemy.com.vn\/blogs\/news\/khan-tap-gym-cao-cap","link_desc":""}
+
+{"link_id":"74515","link_url":"https:\/\/galaxydidong.vn\/san-pham\/iphone-7-32gb-quoc-te-dep-95-99\/","link_title":null,"link_anchortext":"iphone 7 qu\u1ed1c t\u1ebf","link_desc":"iphone 7 qu\u1ed1c t\u1ebf"}
+
+{"link_id":"97420","link_url":"https:\/\/falala.vn\/mat-na-duong-am-tu-nhien\/","link_title":null,"link_anchortext":"m\u1eb7t n\u1ea1 d\u01b0\u1ee1ng \u1ea9m t\u1eeb thi\u00ean nhi\u00ean","link_desc":"m\u1eb7t n\u1ea1 d\u01b0\u1ee1ng \u1ea9m t\u1eeb thi\u00ean nhi\u00ean"}
+
+{"link_id":"100417","link_url":"https:\/\/giasunhattam.vn\/kinh-nghiem-day-gia-su-lop-4-giup-hoc-sinh-tien-bo-nhanh-chong\/","link_title":null,"link_anchortext":"gia su day kem lop 4","link_desc":"gia su day kem lop 4"}
+
+{"link_id":"100455","link_url":"https:\/\/giadungnk.vn\/san-pham\/dieu-khien-quat-mitsubishi-chinh-hang.html","link_title":null,"link_anchortext":"m\u1ea1ch \u0111i\u1ec1u khi\u1ec3n qu\u1ea1t mitsubishi","link_desc":"m\u1ea1ch \u0111i\u1ec1u khi\u1ec3n qu\u1ea1t mitsubishi"}
+
+{"link_id":"100468","link_url":"https:\/\/giadungnk.vn\/tin-tuc\/review-thung-rac-thong-minh.html","link_title":null,"link_anchortext":"th\u00f9ng r\u00e1c th\u00f4ng minh mini","link_desc":"th\u00f9ng r\u00e1c th\u00f4ng minh mini"}
+
+{"link_id":"101033","link_url":"https:\/\/daphongthuyanphat.com\/qua-cau-phong-thuy\/qua-cau-thach-anh\/","link_title":null,"link_anchortext":"qu\u1ea3 c\u1ea7u th\u1ea1ch anh","link_desc":"qu\u1ea3 c\u1ea7u th\u1ea1ch anh"}

@@ -1,0 +1,11 @@
+{"link_id":"91510","link_url":"https:\/\/kayoko.com.vn\/my-pham-kayoko-co-phai-kem-tron-khong\/","link_title":null,"link_anchortext":"m\u1ef9 ph\u1ea9m kayoko c\u00f3 ph\u1ea3i kem tr\u1ed9n kh\u00f4ng","link_desc":"m\u1ef9 ph\u1ea9m kayoko c\u00f3 ph\u1ea3i kem tr\u1ed9n kh\u00f4ng"}
+
+{"link_id":"65382","link_url":"https:\/\/bepdaiviet.com.vn\/tu-bep-inox","link_title":null,"link_anchortext":"t\u1ee7 b\u1ebfp inox c\u00e1nh k\u00ednh","link_desc":"t\u1ee7 b\u1ebfp inox c\u00e1nh k\u00ednh"}
+
+{"link_id":"69053","link_url":"https:\/\/mitavietnam.com\/top-xuong-may-balo-gia-re-nhu-gia-si-uy-tin-nhat-tphcm\/","link_title":null,"link_anchortext":"may balo gia re","link_desc":"may balo gia re"}
+
+{"link_id":"109770","link_url":"https:\/\/tonmatpan.com.vn\/gia-panel-cach-nhiet","link_title":null,"link_anchortext":"gi\u00e1 panel c\u00e1ch nhi\u1ec7t","link_desc":"gi\u00e1 panel c\u00e1ch nhi\u1ec7t"}
+
+{"link_id":"112566","link_url":"https:\/\/maltco.asia\/scotch-whisky\/san-pham\/chivas-regal-18yo-100cl","link_title":null,"link_anchortext":"chivas 18 1 l\u00edt","link_desc":"chivas 18 1 l\u00edt"}
+
+{"link_id":"105080","link_url":"https:\/\/www.dogocaocapngoctu.com\/","link_title":null,"link_anchortext":"\u0111\u1ed3 g\u1ed7 m\u1ef9 ngh\u1ec7 ng\u1ecdc t\u00fa","link_desc":"\u0111\u1ed3 g\u1ed7 m\u1ef9 ngh\u1ec7 ng\u1ecdc t\u00fa"}

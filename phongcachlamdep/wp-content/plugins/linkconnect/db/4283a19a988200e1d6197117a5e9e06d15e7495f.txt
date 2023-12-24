@@ -1,0 +1,16 @@
+{"link_id":"69051","link_url":"https:\/\/mitavietnam.com\/top-xuong-may-balo-gia-re-nhu-gia-si-uy-tin-nhat-tphcm\/","link_title":null,"link_anchortext":"b\u1ecf s\u1ec9 balo gi\u00e1 r\u1ebb","link_desc":"b\u1ecf s\u1ec9 balo gi\u00e1 r\u1ebb"}
+
+{"link_id":"85498","link_url":"https:\/\/giasunhattam.vn\/trung-tam-gia-su-go-vap\/","link_title":null,"link_anchortext":"trung t\u00e2m gia s\u01b0 g\u00f2 v\u1ea5p hcm","link_desc":""}
+
+{"link_id":"87157","link_url":"https:\/\/andan.com.vn\/day-chuyen-loc-nuoc-tinh-khiet\/","link_title":null,"link_anchortext":"day chuyen loc nuoc tinh khiet","link_desc":"day chuyen loc nuoc tinh khiet"}
+
+{"link_id":"91107","link_url":"https:\/\/zubu.vn\/post\/tong-hop-cac-bo-ban-ghe-sofa-go-oc-cho-cuc-hot-hien-nay-p45","link_title":null,"link_anchortext":"sofa g\u1ed7 \u00f3c ch\u00f3 h\u00e0 n\u1ed9i","link_desc":"sofa g\u1ed7 \u00f3c ch\u00f3 h\u00e0 n\u1ed9i"}
+
+{"link_id":"93978","link_url":"https:\/\/sieutaywin.com\/tay-can-canxi-tren-voi-nuoc\/","link_title":null,"link_anchortext":"t\u1ea9y canxi trong \u1ea5m \u0111un n\u01b0\u1edbc","link_desc":"t\u1ea9y canxi trong \u1ea5m \u0111un n\u01b0\u1edbc"}
+
+{"link_id":"97065","link_url":"https:\/\/mayxaydungnhapkhau.com\/pa-lang-xich-keo-tay-1-tan-gia-re","link_title":null,"link_anchortext":"pa l\u0103ng x\u00edch k\u00e9o tay 1 t\u1ea5n","link_desc":"pa l\u0103ng x\u00edch k\u00e9o tay 1 t\u1ea5n"}
+
+{"link_id":"99709","link_url":"https:\/\/minhquyglass.com\/mai-kinh-gieng-troi\/","link_title":null,"link_anchortext":"m\u00e1i k\u00ednh l\u1ea5y s\u00e1ng gi\u1ebfng tr\u1eddi","link_desc":"m\u00e1i k\u00ednh l\u1ea5y s\u00e1ng gi\u1ebfng tr\u1eddi"}
+
+{"link_id":"81484","link_url":"http:\/\/phongthuymaxi.com\/phong-thuy-chung-cu\/","link_title":null,"link_anchortext":"phong th\u1ee7y chung c\u01b0 nh\u1eefng \u0111i\u1ec1u n\u00ean bi\u1ebft","link_desc":"phong th\u1ee7y chung c\u01b0 nh\u1eefng \u0111i\u1ec1u n\u00ean bi\u1ebft"}
+
