@@ -1,0 +1,157 @@
+/*--------------------------------------------------------------
+## Posts and pages
+--------------------------------------------------------------*/
+.sticky {display: block}
+.hentry {margin: 0 0 1.5em}
+.byline, .updated:not(.published) {display: none}
+.single .byline, .group-blog .byline {display: inline}
+.page-links {clear: both;margin: 0 0 1.5em}
+.single article.post .entry-content {
+	line-height: 25px;
+	margin-bottom: 20px;
+}
+.single .entry-content table tr td {
+    padding: 8px;
+    line-height: 1.42857143;
+}
+.entry-meta {
+	font-size: 13px;
+	margin-bottom: 10px;
+}
+.entry-meta span {
+	color: #747474;
+	display: inline-block;
+	margin-right: 10px;
+}
+.entry-meta span i {
+	color: #747474;
+}
+.socials-share {
+    padding: 20px 0 15px 0;
+    margin-bottom: 20px;
+    border-top: 1px solid #ebebeb;
+    border-bottom: 1px solid #ebebeb;
+}
+.socials-share .fb_iframe_widget {
+    position: relative;
+    top: -8px;
+}
+.post-next-prev {
+	border-bottom: 1px solid #ebebeb;
+	margin: 20px 0;
+}
+.post-next-prev-content span {
+    display: block;
+    font-size: 12px;
+    color: #c1c1c1;
+    margin-bottom: 7px;
+}
+.post-next-prev-content a {
+    display: block;
+    color: #222;
+    margin-bottom: 20px;
+}
+.related-posts {
+	margin-bottom: 30px;
+}
+.related-posts .related-title {
+	font-weight: bold;
+	font-size: 20px;
+	margin-bottom: 15px;
+	text-transform: uppercase;
+}
+.related-posts ul {
+	padding-left: 0;
+    list-style-position: inside;
+}
+.related-posts ul li {
+	margin-bottom: 5px;
+}
+.related-posts ul li a {
+	color: #333333;
+}
+.sidebar .widget_nav_menu ul li a:hover,.post-next-prev-content a:hover, 
+.related-posts ul li a:hover,.item-product-slide h3 a:hover, 
+.widget .list-post-item h3 a:hover, .new-list article .more-link {color: #337ab7;}
+
+/*--------------------------------------------------------------
+## Comments
+--------------------------------------------------------------*/
+.comments-area .comment-list .comment-content a {
+    word-wrap: break-word
+}
+.comment-form label {
+    display: block
+}
+.comment-form textarea,.comment-form input[type="text"], .comment-form input[type="email"], .comment-form input[type="url"] {
+    width: 100%;
+    padding: 5px 10px
+}
+.comment-form input, .comment-form textarea {
+    border: 1px solid rgba(51, 51, 51, 0.1);
+    color: rgba(51, 51, 51, 0.7)
+}
+.comment-form input[type="submit"] {
+    background: #337ab7;
+    color: #FFF;
+    padding: 5px 10px
+}
+.comment-list {
+    list-style: none;
+    margin: 0;padding: 0
+}
+.comment-list article, .comment-list .pingback, .comment-list .trackback {
+    border-top: 1px solid #eaeaea;
+    border-top: 1px solid rgba(51, 51, 51, 0.1);
+    padding: 1.6em 0
+}
+.comment-content {
+    padding: 10px 20px 45px;
+    margin: 25px 0 0;
+    font-size: 15px;
+    border: 1px solid #dfdfdf;
+    border-radius: 3px;
+    line-height: 1.5em !important
+}
+.comment-list li .reply {
+    position: absolute;
+    margin: -45px 0 0 10px;
+    padding: 5px 10px
+}
+.comment-list .children {list-style: none;margin: 0}
+.comment-list .children > li {padding-left: 0.8em}
+.comment-author {padding: 10px 5px 0}
+.comment-list li .avatar {background: #fff;float: left;margin: 0 10px 0 0px;border-radius: 50%;-moz-border-radius: 50%}
+.comment-list p, .ping-list p {font-weight: normal;text-transform: none;margin: 10px 5px 10px 0;padding: 0;word-wrap: break-word}
+.comment-list li .fn, .comment-list li .cfn {font-size: 16px;display: inline-block;margin: 10px 0 0}
+.comment-list li .says {display: none}
+/* Extra Comments */
+#formcmmaxweb {margin-bottom:20px}
+#formcmmaxweb textarea.form-control  {height: auto;}
+span.title_comment {font-size:20px;color:#606664;line-height:1.3em;font-weight:700;margin:15px 0;display:block}
+.comment-author.vcard {width:25px}
+.comment-author.vcard {float:left;clear:both;z-index:2;position:relative;text-align:center}
+.commentlist {margin-top:10px}
+.commentlist li {overflow:hidden;clear:both;margin-bottom:10px}
+.commentlist .children {margin-top:10px}
+.commentBody em {color:red}
+.commentBody {position:relative;margin-left:35px;overflow:hidden}
+.comment-meta.commentmetadata {position:relative;padding:0;margin:0 0 5px}
+.noidungcomment {font-size:14px;line-height:22px}
+.cancel-comment-reply a {display: block;margin: 5px 0;font-size:14px;text-decoration:none;color:#a9883f}
+.nocomments {border-color:#D98D8D;background-color:#FFCECE;background-position:left -792px;color:#665252;padding:10px}
+.comment-meta.commentmetadata .ngaythang {position:absolute;top:0;right:0;color:#337ab7;opacity:.3;font-size:12px}
+.commentBody:hover .comment-meta.commentmetadata .ngaythang {opacity:1}
+.commentBody .reply {float:right;margin:0;position:absolute;bottom:0;right:0}
+.comment-meta.commentmetadata .fn {font-weight:700;color:#333;margin:0;text-transform:capitalize;font-size:16px;line-height:22px;margin-top:2px}
+ol.commentlist_mw,ol.commentlist_mw ul.children {list-style:none;padding: 0;}
+ol.commentlist_mw li {margin-bottom:10px}
+ol.commentlist_mw>ul.children {margin:10px 0 15px 35px;background:#f8f8f8;padding:10px;position:relative;border: 1px solid #dfdfdf;}
+ol.commentlist_mw>ul.children:before  {content: '';position: absolute;top: -11px;left: 13px;width: 0;height: 0;border-bottom: 11px solid #dfdfdf;border-left: 11px solid rgba(238,238,238,0);border-right: 11px solid rgba(238,238,238,0);}
+ol.commentlist_mw>ul.children:after {content:'';position:absolute;top:-10px;left:14px;width:0;height:0;border-bottom:10px solid #f8f8f8;border-left:10px solid transparent;border-right:10px solid transparent}
+div.error {color:red;font-size:14px;text-align:left;line-height:16px;margin:10px 0 0}
+.tools_comment a {color:#337ab7;font-size:14px;position:relative;padding:0 15px 0 0;margin:0 7px 0 0;line-height:14px}
+.tools_comment a:after {content:"";width:4px;height:4px;top:50%;margin-top:-2px;background:#999;position:absolute;right:0;border-radius:50%;-moz-border-radius:50%;-webkit-border-radius:50%}
+.tools_comment a:last-child:after {display:none}
+.tools_comment a:last-child {padding:0;margin:0}
+.noidungcomment p {margin:0 0 5px}

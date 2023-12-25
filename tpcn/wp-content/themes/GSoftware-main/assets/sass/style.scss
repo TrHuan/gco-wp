@@ -1,0 +1,66 @@
+/*
+Theme Name: GCO
+Theme URI: gco.vn
+Author: Healer
+Author URI: gco.vn
+Description: 
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: shtheme
+Tags: gco
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Normalize
+# Typography
+# Elements
+# Forms
+# Navigation
+	## Links
+	## Menus
+# Accessibility
+# Alignments
+# Clearings
+## Sidebar - Widgets
+# Content
+	## Posts and pages
+	## Comments
+# Media
+	## Captions
+	## Galleries
+## Layout construct
+## Shortcode
+## Footer
+## Menu Mobile
+## Custom css
+## Responsive
+--------------------------------------------------------------*/
+
+/*!--------------------------------------------------------------
+1 - Header
+----------------------------------------------------------------*/
+// @import "header/menu";
+// @import "header/menu_mb"; 
+
+/*!--------------------------------------------------------------
+2 - Footer
+----------------------------------------------------------------*/
+// @import "footer/layouts";
+
+/*!--------------------------------------------------------------
+3 - Shortcode
+----------------------------------------------------------------*/
+// @import "shortcode/layout_blog";
+
+/*!--------------------------------------------------------------
+4 - Sidebar
+----------------------------------------------------------------*/
+// @import "sidebar/widgets";
+
+/*!--------------------------------------------------------------
+5 - Woocommerce
+----------------------------------------------------------------*/
+// @import "woocommerce/custom-single";
+// @import "woocommerce/layout";
