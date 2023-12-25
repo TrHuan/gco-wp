@@ -1,0 +1,6 @@
+page giới thiệu - about.html
+page tin tức - blog-standard.html
+			 - project-with-text.html - thi công
+
+
+			 dự án - thiết kế

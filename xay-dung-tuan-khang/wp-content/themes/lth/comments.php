@@ -1,0 +1,1 @@
+<div class="lth-comments"><?php echo do_shortcode('[wpdiscuz_comments]'); ?></div>
