@@ -1,0 +1,70 @@
+@import 'base';
+@import 'function';
+
+textarea,
+input,
+button {
+    outline: none !important;
+}
+
+::-webkit-scrollbar {}
+
+::-webkit-scrollbar-track {}
+
+::-webkit-scrollbar-thumb {}
+
+::-webkit-scrollbar-thumb:hover {}
+
+
+scroll-topss:hover>a {
+    background: #EE9526
+}
+
+.cart-group {
+    border: cal(1rem) solid #DADAE5;
+    padding: cal(5rem);
+    padding-bottom: cal(0rem);
+}
+
+.fw300 {
+    font-weight: 300;
+}
+
+.fw500 {
+    font-weight: 500;
+}
+
+.fw600 {
+    font-weight: 600;
+}
+
+.fw900 {
+    font-weight: 900;
+}
+
+.navblock {
+    font-family: 'SVN-Harabaras';
+}
+
+.row_0 {
+    margin-left: 0;
+    margin-right: 0;
+
+    div[class^="col-"] {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+.fw_600 {
+    font-weight: 600;
+}
+
+.fw_900 {
+    font-weight: 900;
+}
+
+
+
+/* :not(:last-child) */
+/* :nth-child(1n+0) */

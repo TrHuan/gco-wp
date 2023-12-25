@@ -1,0 +1,81 @@
+@import 'settings';
+
+@media (max-width: 1269px) {
+	.footer-fixed {
+		bottom: 15px;
+		right: 15px;
+	}
+	
+	/*// Code*/
+
+
+}
+
+@media (max-width: 1199px) {
+	/*// Code*/
+
+}
+
+@media (max-width: 991px) {
+	.page-searchs .searchs-list .item {
+		width: calc(100% / 2);
+	}
+
+	/*// Code*/
+
+}
+
+@media (max-width: 767px) {
+	section {
+		margin: 30px 0 !important;
+	}
+
+	section.lth-slidershow {
+		margin: 0 !important;
+	}
+
+	.product-content-box > * {
+		width: 100%;
+	}
+
+	.product-content-box .product-images {
+		margin-bottom: 20px;
+	}
+
+	.main-products .products-list .groups-box>* {
+		width: 50%;
+	}
+
+	/*// Code*/
+
+}
+
+@media (max-width: 575px) {	
+	.page-searchs .searchs-list .item {
+		width: 100%;
+	}
+
+	.main-products .products-list .products-box {
+		margin-bottom: 30px;
+	}
+		
+	.main-products .products-list .products-box > * {
+		width: 100%;
+	}
+
+	.main-products .products-list .products-box .woocommerce-result-count {
+		margin-bottom: 15px;
+	}
+
+	/*// Code*/
+
+}
+
+@media (max-width: 479px) {
+	.main-products .products-list .groups-box > * {
+		width: 100%;
+	}
+
+	/*// Code*/
+
+}
