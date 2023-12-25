@@ -1,0 +1,57 @@
+/* :not(:last-child) */
+/* :nth-child(1n+0) */
+textarea,
+input,
+button {
+  outline: none !important;
+}
+
+scroll-topss:hover > a {
+  background: #EE9526;
+}
+
+.cart-group {
+  border: 0.0625rem solid #DADAE5;
+  padding: 0.3125rem;
+  padding-bottom: 0rem;
+}
+
+.fw300 {
+  font-weight: 300;
+}
+
+.fw500 {
+  font-weight: 500;
+}
+
+.fw600 {
+  font-weight: 600;
+}
+
+.fw900 {
+  font-weight: 900;
+}
+
+.navblock {
+  font-family: "SVN-Harabaras";
+}
+
+.row_0 {
+  margin-left: 0;
+  margin-right: 0;
+}
+.row_0 div[class^=col-] {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.fw_600 {
+  font-weight: 600;
+}
+
+.fw_900 {
+  font-weight: 900;
+}
+
+/* :not(:last-child) */
+/* :nth-child(1n+0) */

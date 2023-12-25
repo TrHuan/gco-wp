@@ -1,0 +1,175 @@
+@import 'base';
+@import 'function';
+
+
+.items-carts__mobiles {
+    display: flex;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+    border-bottom: 1px solid #DDDDDD;
+
+    .img-carts__mobiles {
+        margin-right: 10px;
+        width: 75px;
+
+        img {
+            object-fit: scale-down;
+            height: 75px;
+        }
+
+        .delete-carts__mobiles {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            border: 0px;
+            background-color: transparent;
+            outline: none;
+            color: #555555;
+            margin-top: 10px;
+
+            i {
+                margin-right: 5px;
+            }
+        }
+    }
+
+    .intros-carts__mobiles {
+        width: 100%;
+        flex: 1;
+    }
+}
+
+.names-carts__mobiles {
+    font-size: 12px;
+    font-family: 'Arial-Bold';
+    color: #434343;
+}
+
+.price-carts__mobiles {
+    font-size: 14px;
+    font-family: 'Arial-Bold';
+    color: $growns-2s;
+}
+
+.note-gift__carts {
+    background-color: #EEEEEE;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+
+.titles-gift__carts {
+    font-family: 'Arial-Bold';
+    color: $blues-2s;
+}
+
+
+.list-gift__carts {
+    font-size: 12px;
+    padding-left: 15px;
+    list-style: disc;
+
+    li {
+        color: $blues-2s;
+    }
+}
+
+
+.bottoms-carts__mobiles {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.price-alls__carts {
+    font-size: 16px;
+    color: $growns-2s;
+}
+
+.checks-sexs__pays {
+    display: flex;
+    flex-wrap: wrap;
+
+    .check-circle__alls {
+        &:not(:last-child) {
+            margin-right: 40px;
+        }
+    }
+}
+
+.check-ship__carts {
+    .check-circle__alls {
+        &:not(:last-child) {
+            margin-bottom: 15px;
+        }
+    }
+}
+
+
+.capcha-pay__carts {
+    .input-pays__alls {
+        max-width: 180px;
+    }
+}
+
+
+.pay-carts__mobiles {
+    .btn-oranges__linear {
+        display: flex;
+        flex-direction: column;
+        font-family: 'Arial-Regular';
+        text-transform: inherit;
+        width: 100%;
+        font-size: 15px;
+        border-radius: 4px;
+
+        .titles-md__alls {
+            font-size: 18px;
+        }
+    }
+}
+
+.btn-backs__buys {
+    display: flex;
+    align-items: center;
+    font-family: 'Arial-Bold';
+    color: $blues-2s;
+
+    i {
+        margin-right: 10px;
+    }
+
+}
+
+.form-ship__checks {
+    padding: 20px;
+    background-color: #ebebeb;
+}
+
+
+.control-box__checks {
+    height: 35px;
+    border: solid 1px;
+    background-color: #FFFFFF;
+    border: solid 1px #CCCCCC;
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 10px;
+
+}
+
+.list-ship__checks {
+
+    .items-ship__checks {
+
+        &:not(:last-child) {
+            margin-bottom: 10px;
+        }
+
+        .form-ship__checks {
+            display: none;
+        }
+    }
+}

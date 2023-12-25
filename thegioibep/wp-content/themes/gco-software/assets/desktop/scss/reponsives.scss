@@ -1,0 +1,586 @@
+@import 'settings';
+
+@media (max-width: 1773px) {
+	.headers .container {
+	    max-width: 1350px;
+	}
+
+	.header-stick .groups-box {
+		margin: 0 -15px;
+
+		>* {
+		    padding: 0 15px;
+		}
+
+		> .megamenu {
+			padding: 0 10px;
+		}
+	}
+
+	.search-box .search-content {
+		width: 200px;
+	}
+
+	.megamenu.megamenu-desktop li {
+	    padding: 0 5px;
+	}
+
+	.lth-single-product .entry-summary .coupons-box {
+		padding: 12px;
+	}
+
+	.lth-single-product .entry-summary {
+		>form .button {
+			font-size: 14px;
+		}
+
+		.coupons-box form {
+			.form-group-button .wpcf7-submit {
+			    font-size: 11px;
+			    padding: 0 6px;
+			}
+		}
+	}
+
+	.why-buy-eu .content {
+	    padding: 6px 8px;
+	}
+
+	.lth-services {
+		.module_services .btn {
+		    padding: 10px 20px;
+		    font-size: 16px;
+		}
+
+		.module_hotline {
+		    padding: 73px 20px;
+		}
+	}
+
+	.main-products-appliances .module_categories {
+		>label {
+		    margin-bottom: 10px;
+		    margin-right: 0;
+		}
+
+		.groups-box {
+			margin: -5px;
+
+			> * {
+				padding: 5px;
+			}
+		}
+	}
+
+	.main-products-appliances-cat .module_products {
+		.module__banner {
+		    max-width: 580px;
+		}
+
+		.module_content {
+			max-width: calc(100% - 580px);
+		}
+	}
+}
+
+@media (max-width: 1380px) {
+	// .header-stick .groups-box {
+	//     justify-content: space-between;
+	// }
+
+	.header-stick .groups-box {
+	    margin: 0 -8px;
+
+	    > * {
+	    	padding: 0 8px;
+	    }
+
+	    > .megamenu {
+			padding: 0 3px;
+		}
+	}
+
+	.megamenu.megamenu-desktop li:last-child .sub-menu {
+		left: auto;
+		right: 0;
+	}
+
+	.megamenu.megamenu-desktop li:nth-last-child(2) .sub-menu {
+		left: auto;
+		right: 0;
+	}
+
+	.search-box .search-content {
+		max-width: 216px;
+		width: 100%;
+	}
+}
+
+@media (max-width: 1199px) {
+	.footer-fixed {
+		bottom: 15px;
+		right: 15px;
+	}
+
+	.megamenu.megamenu-desktop .menu {
+	    align-items: flex-start;
+	}
+
+	.main-products {		
+		.module__header {
+			.row > * {
+				flex-wrap: wrap;
+				align-items: flex-end;
+			}
+
+			.module_title {
+				width: 75%;
+				flex-wrap: wrap;
+
+				> * {
+					width: 100%;
+					margin-right: 0;
+				}
+
+				> form {
+					width: calc(100% / 3);
+					text-align: left;
+					padding-right: 15px;
+					margin-top: 15px;
+				}
+			}
+		}
+
+		.products-ordering {
+			width: 25%;
+
+			label {
+				width: 100%;
+			}
+
+			ul {
+				left: 0;
+				right: auto;
+				width: 100%;
+			}
+		}
+
+		.module_products .groups-box>* {
+			width: calc(100% / 3);
+		}
+
+		.post-donate {
+			padding: 0 15px 15px;
+
+			.post-image {
+			    width: 70px;
+			}
+
+			.post-content {
+			    max-width: calc(100% - 70px);
+			    padding-left: 10px;
+			}
+		}
+
+		.post-excerpt {
+			padding: 0 15px;
+		}
+	}
+
+	.lth-categories {
+		.module__header {
+			.module_title {
+				width: 100%;
+			}
+		}
+
+		.brands-box .megamenu .menu>* {
+			width: 25%;
+		}
+	}
+
+	.showroom-box {
+		margin-top: 20px;
+	}
+
+	.lth-endow .endow-eu {
+		border-left: 1px solid #E0E0E0;
+    	border-right: 1px solid #E0E0E0;
+    	border-top: none;
+    	border-bottom: none;
+	}
+
+	.lth-services .module_hotline {
+		max-width: 500px;
+		width: 100%;
+		margin: 20px auto 0;
+	}
+
+	.main-products-appliances-cat {
+		.module_products {
+			.module__banner,
+			.module_content {
+				max-width: 100%;
+			}
+
+			.module__banner {
+				img {
+					width: 100%;
+				}
+			}
+		}
+
+		.module__header {
+			.product-cats,
+			.module_title {
+				width: auto;
+			}
+		}
+	}
+
+	body.products-appliances-cat .module_categories .groups-box>* {
+	    width: calc(100% / 6);
+	}
+
+}
+
+@media (max-width: 991px) {
+	header {
+		position: relative;
+		z-index: 9;
+	}
+	
+	// Code
+
+	.header-stick {
+	    padding: 10px 0;
+	}
+
+	.megamenu .menu-mobile-content .menu-content .menu-item-has-children>a {
+		justify-content: flex-start;
+	}
+
+	.slick-slider .slick-arrow {
+		&.slick-prev {
+		    left: 70px;
+		}
+
+		&.slick-next {
+		    right: 70px;
+		}
+	}
+
+	.module_blogs {
+		margin-bottom: 20px;
+	}
+
+	.footer-main {
+		.groups-box {
+			margin-top: 20px;
+		}
+
+		.footer-box:last-child {
+			width: 100%;
+		}
+
+		.footer-bottom {
+			.groups-box {
+				margin-top: 0;
+			}
+
+			.footer-box {
+				width: 100%;
+				text-align: center;
+			}
+
+			.footer-images {
+				justify-content: center;
+			}
+		}
+	}
+
+	.main-products-appliances .module__header .row > div > .groups-box>* {
+	    width: 100%;
+	    display: block;
+
+	    &.module_manufacturer {
+	    	padding-left: 15px;
+
+	    	&:before {
+	    		display: none;
+	    	}
+
+	    	.module_title {
+	    		> * {
+		    		width: auto;
+		    	}
+	    	}
+	    }
+	}
+
+	.main-carts .form-contact .form-group-radio {
+		flex-wrap: wrap;
+
+		label {
+		    display: block;
+		    width: 100%;
+		}
+	}
+
+}
+
+@media (max-width: 767px) {
+	section {
+		margin: 30px 0 !important;
+
+		&.lth-slidershow {
+			margin: 0 !important;
+		}
+	}
+
+	// Code
+
+	.lth-products .module__header {
+		display: block;
+
+		.module_title {
+			margin-bottom: 15px;
+		}
+	}
+
+	.lth-contacts form {
+		flex-wrap: wrap;
+
+		>* {
+			max-width: 100%;
+		}
+	}
+
+	.footer-main .footer-box {
+		width: 100%;
+	}
+
+	.main-products .module_products .groups-box>* {
+		width: 50%;
+	}
+
+	.lth-products .module__header {
+		.products-ordering,
+		.module_title {
+			width: 100%;
+
+			> form {
+				width: 100%;
+				padding-right: 0;
+			}
+		}
+	}
+
+	.lth-categories .categories-box .megamenu .menu a {
+	    padding: 10px 0;
+	}
+
+	.lth-categories .brands-box .megamenu .menu>* {
+		width: calc(100% / 3);
+	}
+
+	.why-buy-eu ul li {
+		width: 50%;
+	}
+
+	.lth-services .module_services {
+		padding: 20px;
+
+		.content {
+			max-width: 100%;
+			padding: 15px 0 0;
+		}
+	}
+
+	.lth-endow .endow-eu li {
+		width: 100%;
+		border-bottom: 1px solid #E0E0E0;
+		border-right: none;
+
+		&:last-child {
+			border-bottom: none;
+		}
+	}
+
+	.lth-product-tabs .module__header .tabs-menu {
+		li {
+			width: 50%;
+		}
+
+		.title {
+		    font-size: 14px;
+		    padding: 15px;
+		}
+	}
+
+	.main-products-appliances {
+		.lth-products .module__header .module_title {
+			margin-bottom: 0;
+
+			>form {
+				margin-right: 15px;
+
+				&:last-child {
+					margin-right: 0;
+				}
+			}
+		}
+
+		.module_manufacturer .menu>li {
+		    width: calc(100% / 4);
+		}
+	}
+
+	body.products-appliances-cat .module_categories .groups-box>* {
+	    width: calc(100% / 4);
+	}
+
+	.main-carts .form-contact .groups-box {
+		margin-bottom: 20px;
+
+		>* {
+			width: 100%;
+		}
+	}
+
+	.main-blog-details .module_title .title,
+	.main-blogs .module_title .title {
+		font-size: 20px;
+	}
+
+	.main-blog-details .module_blogs .groups-box>* {
+	    width: 100%;
+	}
+
+}
+
+@media (max-width: 575px) {	
+	.header-top .top-left {
+		justify-content: center;
+	}
+
+	.shopcart {
+	    text-align: center;
+	}
+
+	.lth-products .module__header .product-cats ul li {
+	    padding: 0 10px;
+	}
+
+	.lth-services .module_services .btn {
+		margin-top: 15px;
+	}
+
+	body.products-appliances-cat .module_categories .groups-box>* {
+	    width: calc(100% / 3);
+	}
+
+	.main-carts .woocommerce .woocommerce-cart-form {
+		overflow-y: hidden;
+		overflow-x: auto;
+		
+		table {
+			width: 404px;
+		}
+	}
+
+	.main-blogs .module_blogs {
+		.post-content,
+		.post-image {
+			max-width: 100%;
+			width: 100%;
+			padding-left: 0;
+		}
+
+		.post-image {
+			margin-bottom: 15px;
+
+			img {
+				width: 100%;
+			}
+		}
+
+		.item-first .post-excerpt {
+			max-width: 100%;
+			padding-right: 0;
+			margin-bottom: 15px;
+		}
+	}
+}
+
+@media (max-width: 479px) {
+	// Code
+
+	.search-box .search-content {
+	    max-width: 147px;
+	}
+
+	.slick-slider .slick-arrow {
+	    display: none !important;
+	}
+
+	.lth-products .module__header {
+	    padding: 12px 0;
+
+	    .product-cats ul li {
+		    padding: 0 5px;
+		}
+	}
+
+	.lth-contacts .title {
+	    font-size: 25px;
+	}
+
+	.lth-categories .brands-box .megamenu .menu>* {
+		width: 50%;
+	}
+
+	.main-products .module_products .groups-box>* {
+		width: 100%;
+	}
+
+	.lth-endow .module__header {
+		padding: 30px 15px;
+		flex-wrap: wrap;
+
+		> div {
+			width: 100%;
+		}
+
+		> span {
+			margin: 10px auto 0;
+		}
+	}
+
+	.lth-product-tabs .module__header .tabs-menu li {
+		width: 100%;
+	}
+
+	.lth-services .module_services .btn {
+		font-size: 13px;
+	}
+
+	.main-single-product .lth-products {
+		.module__header .title {
+		    font-size: 24px;
+		}
+
+		.module_products .slick-slider {
+		    margin: -5px -65px;
+		}
+	}
+	
+	.main-products-appliances .module_manufacturer .menu>li,
+	.main-products-appliances .module_categories .groups-box>* {
+		width: 50%;
+	}
+
+	body.products-appliances-cat .module_categories .groups-box>* {
+	    width: calc(100% / 2);
+	}
+}

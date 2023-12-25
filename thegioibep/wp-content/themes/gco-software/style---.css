@@ -1,0 +1,450 @@
+
+form.wpcf7-form .wpcf7-spinner {
+	width: auto;
+    display: inline-block;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.module_blogs .post-name {
+	display: flex;
+}
+.module_blogs .post-image img {
+	width: 100%;
+}
+
+.woocommerce-info {
+	padding: 10px 15px;
+}
+
+.lth-categories .categories-box .megamenu .menu {
+	width: 100%;
+}
+
+.main-products .module__header .module_title>* {
+	width: auto;
+}
+
+@media (max-width: 1199px) {
+.dgwt-wcas-search-wrapp {
+        max-width: 100%;
+        margin-top: 20px;
+    }
+
+    #main-menu-mobile {
+        display: block;
+        z-index: 9999990;
+    }
+
+    #main-menu-mobile .menu_clone .menu {
+        position: initial;
+        width: auto;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    
+    #main-menu-mobile .menu_clone ul li a img {
+        display: none;
+    }
+
+    .bg-over-menu.show-over {
+        z-index: 999999;
+    }
+}
+
+@media (max-width: 991.98px) {
+.searchs-list .groups-box {
+    margin: 0;
+}
+
+.searchs-list .items-prds__sales {
+    width: 50%;
+    margin-bottom: 15px;
+    border: none;
+}
+
+.cart-header .numbers-carts-headers {
+    border-color: #7E0D0F;
+}
+
+.posts-list .items-prd__groups {
+    height: 100%;
+}
+
+.items-prd__groups .intros-prds__groups .evaluate-star__prds {
+    flex-wrap: nowrap !important;
+}
+
+.items-trademark__mains img {
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.titles-news__alls {
+    color: #555;
+}
+
+.register-sale form.wpcf7-form .wpcf7-submit {
+    border-color: #EB7E17;
+}
+.register-sale {
+    margin-bottom: 0 !important;
+}
+
+.footers {
+    margin: 0 !important;
+}
+	
+
+.lth-breadcrumbs > .container-fluid > .row > div {
+    padding: 0;
+}
+	
+
+.main-products .module__header .module_title>* {
+    width: 50%;
+}
+.main-products .woocommerce-result-count {
+    display: none;
+}
+	
+.lth-products .posts-list .sidebar-box .select2-selection {
+    width: 100%;
+}
+.posts-list .sidebar-products .select2-container {
+    width: 100%!important;
+}
+
+.items-prd__groups .intros-prds__groups .logos-producer__prds a img {
+    width: auto;
+    height: auto;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.posts-list .items-prd__groups .btn-dacks__alls {
+    background-color: #DBDBDB;
+}
+.items-gift__details .names-gift__details ~ p,
+.items-gift__details .names-gift__details {
+    margin-bottom: 0;
+}
+	
+	
+.register-sale__buys .form-button .wpcf7-submit {
+    padding: 0 15px;
+    line-height: 30px;
+}
+.register-sale__buys .form-button .wpcf7-spinner {
+    width: 24px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+	
+.register-sale__buys .btn-oranges__linear {
+    padding: 5px 18px;
+    color: #fff;
+}
+	
+.hotline-prds__details .gutter-6 .col-6:nth-child(2n) .number-hotline__details {
+    color: #246AAB;
+}
+.intros-text__alls .titles-text__alls {
+    margin-bottom: 0;
+}
+
+.main-products-appliances {
+    background-color: rgb(203, 235, 245);
+}
+.main-products-appliances .lth-breadcrumbs {
+    background: none;
+}
+.main-products-appliances .nav-breadcrumbs {
+    background-color: #fff;
+}
+.items-prd__groups .intros-prds__groups .classify-producter__prds label {
+    margin-bottom: 0;
+}
+.lth-products.select-housewares .sidebar-box .select2-selection {
+    width: 100%;
+}
+.select-housewares .sidebar-products .select2-container {
+    width: 100%!important;
+}
+.lth-products.select-housewares .sidebar-box .select2-selection__rendered {
+    border: none;
+}
+.main-products-appliances-cat .lth-products .posts-list .module__header {
+    display: none;
+}
+.main-products-appliances-cat {
+    background: #f8f8f8;
+}
+.main-products-appliances-cat .prds-houseware__items .btn-oranges__linear {
+    display: flex;
+    min-height: 30px;
+    width: fit-content;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border: solid 1px transparent;
+    color: #FFFFFF;
+    font-size: 12px;
+    padding: 5px 20px;
+    transition: all 0.3s;
+    text-transform: uppercase;
+    border-radius: 2px;
+    background: linear-gradient(180deg, #EB7E17 0%, #FFA103 100%);
+    font-family: "Arial-Bold";
+}
+.bottoms-prds__pages {
+    display: block;
+    width: 100%;
+}
+
+.main-page .woocommerce-checkout tr,
+.main-page .woocommerce-checkout tbody,
+.main-page .woocommerce-checkout {
+    width: 100%;
+}
+.woocommerce-checkout .cart_item .product-name,
+.woocommerce-cart .cart_item .product-name {
+    display: block;
+}
+.main-page .woocommerce-checkout tr,
+.main-page .woocommerce-checkout tbody {
+    display: block;
+}
+.main-page .woocommerce-checkout .cart-subtotal td {
+    display: block;
+}
+.main-page #customer_details #billing_last_name_field,
+.main-page #customer_details #billing_email_field,
+.main-page #customer_details #billing_phone_field {
+    width: 100%;
+}
+.main-page .woocommerce-checkout .shop_table {
+    border: none;
+}
+.main-page .woocommerce-checkout {
+    flex-wrap: wrap;
+}
+.woocommerce-checkout .woocommerce .module__header,
+.woocommerce-cart .woocommerce .module__header {
+    display: block !important;
+}
+.woocommerce-checkout .cart-subtotal .place-order {
+    margin-bottom: 0;
+}
+
+.main-blogs .lth-breadcrumbs {
+    margin-bottom: 0;
+}
+.main-blogs .nav-breadcrumbs {
+    border-bottom: none;
+}
+.main-blogs .list-category__news {
+    padding: 10px 5px;
+}
+.main-blogs .list-category__news li {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border: none;
+}
+.main-blogs .tops-category__news {
+    margin-top: 0 !important;
+}
+.main-blogs .items-news__pages .intros-news__pages p {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+	
+.main-blog-details .timers-views__details li {
+    margin-bottom: 0;
+}
+}
+
+@media(max-width: 767px) {
+	.items-prd__groups .intros-prds__groups .evaluate-star__prds .glsr-summary-rating {
+		color: #1890ff;
+	}
+	.items-prds__sales .note-sale__prds a {
+    font-size: 10px;
+    text-align: center;
+    color: #148726;
+    margin-bottom: 15px;
+}
+	.items-prd__groups .intros-prds__groups .evaluate-star__prds li {
+		margin-right: 0 !important;
+	}
+	.items-prd__groups .intros-prds__groups .evaluate-star__prds li:not(:last-child):after {
+    margin: 0px 10px;
+}
+}
+/*2022/05/16*/
+@media (min-width: 1200px) {
+    .dgwt-wcas-suggestions-wrapp {
+        /*width: 320px !important;*/
+    }
+    .dgwt-wcas-content-wrapp {
+        display: block;
+    }
+    .dgwt-wcas-sp {
+        text-align: left;
+    }
+    .dgwt-wcas-sp .amount {
+        font-weight: 700;
+        color: #E3071E;
+    }
+
+    .main-products .module__header .module_title {
+/*         display: none; */
+    }
+/* 	.main-page .woocommerce-checkout > *, */
+	.woocommerce-checkout .woocommerce-notices-wrapper,
+    .main-page .checkout_coupon .woocommerce-notices-wrapper {
+/*         display: block !important; */
+    }
+}
+
+@media (max-width: 1199px) {
+   @media (max-width: 1199px) {
+    .main-products .lth-products .module_products .module_title {
+        display: none;
+    }
+    .lth-products .module__header .products-ordering {
+    width: 200px !important;
+}
+    }
+    .trademark-tops__items {
+        padding: 15px ;
+    }
+    .trademark-tops__items.active img {
+        /*padding: 15px 25px;*/
+        width: 70%;
+        height: 70%;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    #main-menu-mobile .menu_clone ul li i::before {
+        content: '+';
+    }
+    #main-menu-mobile .menu_clone ul li i.active::before {
+        transform: rotate(0);
+        content: '-';
+    }
+    .show-prds__details .tag-insurance__prds {
+        position: inherit;
+        margin-bottom: 10px;
+    }
+    .show-prds__details .prds-made__in {
+        top: 27px;
+    }
+    .dgwt-wcas-content-wrapp {
+        display: block;
+    }
+    .dgwt-wcas-sp {
+        text-align: left;
+    }
+    .dgwt-wcas-sp .amount {
+        font-weight: 700;
+        color: #E3071E;
+    }
+	
+	.woocommerce-table--order-details .product-image {
+		width: 60px !important;
+	}
+	.woocommerce-checkout .main-page td img {
+/* 		width:50px; */
+	}
+	.woocommerce-table--order-details .product-total .amount {
+    font-size: 12px;
+}
+	.woocommerce-table--order-details .amount {
+			font-size: 12px;
+	}
+	.woocommerce-table--order-details .product-name {
+		width: 90px;
+	}
+	.woocommerce-checkout .main-page .order_details th, .woocommerce-checkout .main-page .order_details td {
+    padding: 20px 5px;
+}
+}
+
+#ajaxsearchpro1_1 .probox, #ajaxsearchpro1_2 .probox, div.asp_m.asp_m_1 .probox {
+        background: #fff !important;
+        border-radius: 24px !important;
+        color: #333 !important;
+        height: 28px !important;
+    }
+    #ajaxsearchpro1_1 .probox .promagnifier div.innericon,
+    #ajaxsearchpro1_2 .probox .promagnifier div.innericon,
+    div.asp_m.asp_m_1 .probox .promagnifier div.innericon {
+        width: 30px !important;
+        height: 28px !important;
+    }
+/*end 2022/05/16*/
+.module__slidershow .slick-slider .content-image,
+.slick-slider .item {
+    padding: 0;
+}
+.module__slidershow .slick-slider .content-image img {
+	position: initial;
+}
+
+
+/* .comment-form {
+	position: relative;
+}
+
+.comment-form .form-submit {
+	position: absolute;
+	top: 45%;
+	right: 10px;
+}
+.woocommerce #reviews #comments ol.commentlist li img.avatar {
+	width: 40px;
+	padding: 0;
+  border-radius: 0;
+  margin-right: 10px;
+	border-radius: 4px;
+  border: none;
+}
+.comment-author.vcard,
+.comment-meta.commentmetadata {
+	padding-left: 50px;
+}
+.reply>a {
+	color:#0a5eb8;
+}
+
+.fn>a,
+.comment-author.vcard .fn{
+	font-weight: bold;
+	font-style:normal;
+}
+
+.comment-form .form-submit .submit {
+	border-radius: 5px !important;
+}
+.comment-form-comment label {
+	font-size: 18px;
+}
+
+.comment-awaiting-moderation {
+	padding-left: 50px;
+}
+
+.woocommerce #review_form #respond p { margin-bottom: 20px;
+} */
