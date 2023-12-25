@@ -1,0 +1,52 @@
+
+@font-face {
+  font-family: "GaramondPremrProdisplay";
+  src: url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-LtDisp/GaramondPremrPro-LtDisp.eot");
+  src: url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-LtDisp/GaramondPremrPro-LtDisp.eot?#iefix") format("embedded-opentype"),
+  url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-LtDisp/GaramondPremrPro-LtDisp.otf") format("opentype"),
+  url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-LtDisp/GaramondPremrPro-LtDisp.svg") format("svg"),
+  url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-LtDisp/GaramondPremrPro-LtDisp.ttf") format("truetype"),
+  url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-LtDisp/GaramondPremrPro-LtDisp.woff") format("woff"),
+  url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-LtDisp/GaramondPremrPro-LtDisp.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GaramondPremrProdisplay";
+  src: url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-MedDisp/GaramondPremrPro-MedDisp.eot");
+  src: url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-MedDisp/GaramondPremrPro-MedDisp.eot?#iefix") format("embedded-opentype"),
+  url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-MedDisp/GaramondPremrPro-MedDisp.otf") format("opentype"),
+  url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-MedDisp/GaramondPremrPro-MedDisp.svg") format("svg"),
+  url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-MedDisp/GaramondPremrPro-MedDisp.ttf") format("truetype"),
+  url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-MedDisp/GaramondPremrPro-MedDisp.woff") format("woff"),
+  url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-MedDisp/GaramondPremrPro-MedDisp.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GaramondPremrProdisplay";
+  src: url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-SmbdDisp/GaramondPremrPro-SmbdDisp.eot");
+  src: url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-SmbdDisp/GaramondPremrPro-SmbdDisp.eot?#iefix") format("embedded-opentype"),
+  url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-SmbdDisp/GaramondPremrPro-SmbdDisp.otf") format("opentype"),
+  url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-SmbdDisp/GaramondPremrPro-SmbdDisp.svg") format("svg"),
+  url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-SmbdDisp/GaramondPremrPro-SmbdDisp.ttf") format("truetype"),
+  url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-SmbdDisp/GaramondPremrPro-SmbdDisp.woff") format("woff"),
+  url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-SmbdDisp/GaramondPremrPro-SmbdDisp.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GaramondPremrProdisplay";
+  src: url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-BdDisp/GaramondPremrPro-BdDisp.eot");
+  src: url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-BdDisp/GaramondPremrPro-BdDisp.eot?#iefix") format("embedded-opentype"),
+  url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-BdDisp/GaramondPremrPro-BdDisp.otf") format("opentype"),
+  url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-BdDisp/GaramondPremrPro-BdDisp.svg") format("svg"),
+  url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-BdDisp/GaramondPremrPro-BdDisp.ttf") format("truetype"),
+  url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-BdDisp/GaramondPremrPro-BdDisp.woff") format("woff"),
+  url("../fonts/GaramondPremrProdisplay/GaramondPremrPro-BdDisp/GaramondPremrPro-BdDisp.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}

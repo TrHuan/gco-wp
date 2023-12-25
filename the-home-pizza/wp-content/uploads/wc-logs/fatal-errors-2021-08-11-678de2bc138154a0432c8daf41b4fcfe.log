@@ -1,0 +1,8 @@
+2021-08-11T09:38:04+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in D:\wamp64\www\job\gco\wp\the-home-pizza\wp-content\themes\the-home-pizza\woocommerce\taxonomy-product-cat.php on line 58
+
+2021-08-11T09:44:59+00:00 CRITICAL Object of class WP_Error could not be converted to string in D:\wamp64\www\job\gco\wp\the-home-pizza\wp-content\themes\the-home-pizza\woocommerce\taxonomy-product-cat.php on line 87
+
+2021-08-11T09:45:10+00:00 CRITICAL Object of class WP_Error could not be converted to string in D:\wamp64\www\job\gco\wp\the-home-pizza\wp-content\themes\the-home-pizza\woocommerce\taxonomy-product-cat.php on line 74
+
+2021-08-11T09:46:13+00:00 CRITICAL Object of class WP_Error could not be converted to string in D:\wamp64\www\job\gco\wp\the-home-pizza\wp-content\themes\the-home-pizza\woocommerce\taxonomy-product-cat.php on line 64
+
