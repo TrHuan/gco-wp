@@ -1,0 +1,4 @@
+2021-10-13T10:10:39+00:00 CRITICAL require_once(): Failed opening required 'D:\wamp64\www\job\gco\projects\wp\yuna/wp-content/themes/yuna/woocommerce/cart/header-cart-ajax.php' (include_path='.;C:\php\pear') in D:\wamp64\www\job\gco\projects\wp\yuna\wp-content\themes\yuna\header.php on line 351
+
+2021-10-13T10:10:48+00:00 CRITICAL require_once(): Failed opening required 'D:\wamp64\www\job\gco\projects\wp\yuna/wp-content/themes/yuna/woocommerce/cart/header-cart-ajax.php' (include_path='.;C:\php\pear') in D:\wamp64\www\job\gco\projects\wp\yuna\wp-content\themes\yuna\header.php on line 351
+
