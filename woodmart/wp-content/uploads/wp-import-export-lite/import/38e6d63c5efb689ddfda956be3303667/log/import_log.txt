@@ -1,0 +1,980 @@
+[06:59:48] <strong>Record</strong> #1
+[06:59:48] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:48] <strong>Record</strong> #2
+[06:59:48] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:48] <strong>Record</strong> #3
+[06:59:48] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:48] <strong>Record</strong> #4
+[06:59:48] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:48] <strong>Record</strong> #5
+[06:59:48] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:48] <strong>Record</strong> #6
+[06:59:48] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:48] <strong>Record</strong> #7
+[06:59:48] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:48] <strong>Record</strong> #8
+[06:59:48] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:48] <strong>Record</strong> #9
+[06:59:48] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:48] <strong>Record</strong> #10
+[06:59:48] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:48] <strong>Record</strong> #11
+[06:59:48] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:48] <strong>Record</strong> #12
+[06:59:48] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:48] <strong>Record</strong> #13
+[06:59:48] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:48] <strong>Record</strong> #14
+[06:59:48] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:48] <strong>Record</strong> #15
+[06:59:48] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:48] <strong>Record</strong> #16
+[06:59:48] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:48] <strong>Record</strong> #17
+[06:59:48] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:48] <strong>Record</strong> #18
+[06:59:48] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:48] <strong>Record</strong> #19
+[06:59:48] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:48] <strong>Record</strong> #20
+[06:59:48] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:49] <strong>Record</strong> #21
+[06:59:49] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:49] <strong>Record</strong> #22
+[06:59:49] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:49] <strong>Record</strong> #23
+[06:59:49] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:49] <strong>Record</strong> #24
+[06:59:49] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:49] <strong>Record</strong> #25
+[06:59:49] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:49] <strong>Record</strong> #26
+[06:59:49] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:49] <strong>Record</strong> #27
+[06:59:49] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:49] <strong>Record</strong> #28
+[06:59:49] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:49] <strong>Record</strong> #29
+[06:59:49] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:49] <strong>Record</strong> #30
+[06:59:49] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:49] <strong>Record</strong> #31
+[06:59:49] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:49] <strong>Record</strong> #32
+[06:59:49] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:49] <strong>Record</strong> #33
+[06:59:49] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:49] <strong>Record</strong> #34
+[06:59:49] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:49] <strong>Record</strong> #35
+[06:59:49] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:49] <strong>Record</strong> #36
+[06:59:49] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:49] <strong>Record</strong> #37
+[06:59:49] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:49] <strong>Record</strong> #38
+[06:59:49] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:49] <strong>Record</strong> #39
+[06:59:49] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:49] <strong>Record</strong> #40
+[06:59:49] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:51] <strong>Record</strong> #41
+[06:59:51] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:51] <strong>Record</strong> #42
+[06:59:51] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:51] <strong>Record</strong> #43
+[06:59:51] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:51] <strong>Record</strong> #44
+[06:59:51] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:51] <strong>Record</strong> #45
+[06:59:51] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:51] <strong>Record</strong> #46
+[06:59:51] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:51] <strong>Record</strong> #47
+[06:59:51] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:51] <strong>Record</strong> #48
+[06:59:51] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:51] <strong>Record</strong> #49
+[06:59:51] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:51] <strong>Record</strong> #50
+[06:59:51] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:51] <strong>Record</strong> #51
+[06:59:51] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:51] <strong>Record</strong> #52
+[06:59:51] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:51] <strong>Record</strong> #53
+[06:59:51] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:51] <strong>Record</strong> #54
+[06:59:51] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:51] <strong>Record</strong> #55
+[06:59:51] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:51] <strong>Record</strong> #56
+[06:59:51] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:51] <strong>Record</strong> #57
+[06:59:51] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:51] <strong>Record</strong> #58
+[06:59:51] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:51] <strong>Record</strong> #59
+[06:59:51] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:51] <strong>Record</strong> #60
+[06:59:51] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:52] <strong>Record</strong> #61
+[06:59:52] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:52] <strong>Record</strong> #62
+[06:59:52] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:52] <strong>Record</strong> #63
+[06:59:52] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:52] <strong>Record</strong> #64
+[06:59:52] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:52] <strong>Record</strong> #65
+[06:59:52] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:52] <strong>Record</strong> #66
+[06:59:52] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:52] <strong>Record</strong> #67
+[06:59:52] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:52] <strong>Record</strong> #68
+[06:59:52] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:52] <strong>Record</strong> #69
+[06:59:52] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:52] <strong>Record</strong> #70
+[06:59:52] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:52] <strong>Record</strong> #71
+[06:59:52] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:52] <strong>Record</strong> #72
+[06:59:52] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:52] <strong>Record</strong> #73
+[06:59:52] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:52] <strong>Record</strong> #74
+[06:59:52] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:52] <strong>Record</strong> #75
+[06:59:52] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:52] <strong>Record</strong> #76
+[06:59:52] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:52] <strong>Record</strong> #77
+[06:59:52] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:52] <strong>Record</strong> #78
+[06:59:52] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:52] <strong>Record</strong> #79
+[06:59:52] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:52] <strong>Record</strong> #80
+[06:59:52] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:53] <strong>Record</strong> #81
+[06:59:53] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:53] <strong>Record</strong> #82
+[06:59:53] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:53] <strong>Record</strong> #83
+[06:59:53] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:53] <strong>Record</strong> #84
+[06:59:53] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:53] <strong>Record</strong> #85
+[06:59:53] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:53] <strong>Record</strong> #86
+[06:59:53] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:53] <strong>Record</strong> #87
+[06:59:53] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:53] <strong>Record</strong> #88
+[06:59:53] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:53] <strong>Record</strong> #89
+[06:59:53] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:53] <strong>Record</strong> #90
+[06:59:53] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:53] <strong>Record</strong> #91
+[06:59:53] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:53] <strong>Record</strong> #92
+[06:59:53] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:53] <strong>Record</strong> #93
+[06:59:53] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:53] <strong>Record</strong> #94
+[06:59:53] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:53] <strong>Record</strong> #95
+[06:59:53] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:53] <strong>Record</strong> #96
+[06:59:53] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:53] <strong>Record</strong> #97
+[06:59:53] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:53] <strong>Record</strong> #98
+[06:59:53] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:53] <strong>Record</strong> #99
+[06:59:53] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:53] <strong>Record</strong> #100
+[06:59:53] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:55] <strong>Record</strong> #101
+[06:59:55] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:55] <strong>Record</strong> #102
+[06:59:55] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:55] <strong>Record</strong> #103
+[06:59:55] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:55] <strong>Record</strong> #104
+[06:59:55] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:55] <strong>Record</strong> #105
+[06:59:55] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:55] <strong>Record</strong> #106
+[06:59:55] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:55] <strong>Record</strong> #107
+[06:59:55] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:55] <strong>Record</strong> #108
+[06:59:55] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:55] <strong>Record</strong> #109
+[06:59:55] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:55] <strong>Record</strong> #110
+[06:59:55] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:55] <strong>Record</strong> #111
+[06:59:55] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:55] <strong>Record</strong> #112
+[06:59:55] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:55] <strong>Record</strong> #113
+[06:59:55] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:55] <strong>Record</strong> #114
+[06:59:55] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:55] <strong>Record</strong> #115
+[06:59:55] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:55] <strong>Record</strong> #116
+[06:59:55] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:55] <strong>Record</strong> #117
+[06:59:55] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:55] <strong>Record</strong> #118
+[06:59:55] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:55] <strong>Record</strong> #119
+[06:59:55] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:55] <strong>Record</strong> #120
+[06:59:55] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:56] <strong>Record</strong> #121
+[06:59:56] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:56] <strong>Record</strong> #122
+[06:59:56] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:56] <strong>Record</strong> #123
+[06:59:56] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:56] <strong>Record</strong> #124
+[06:59:56] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:56] <strong>Record</strong> #125
+[06:59:56] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:56] <strong>Record</strong> #126
+[06:59:56] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:56] <strong>Record</strong> #127
+[06:59:56] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:56] <strong>Record</strong> #128
+[06:59:56] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:56] <strong>Record</strong> #129
+[06:59:56] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:56] <strong>Record</strong> #130
+[06:59:56] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:56] <strong>Record</strong> #131
+[06:59:56] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:56] <strong>Record</strong> #132
+[06:59:56] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:56] <strong>Record</strong> #133
+[06:59:56] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:56] <strong>Record</strong> #134
+[06:59:56] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:56] <strong>Record</strong> #135
+[06:59:56] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:56] <strong>Record</strong> #136
+[06:59:56] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:56] <strong>Record</strong> #137
+[06:59:56] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:56] <strong>Record</strong> #138
+[06:59:56] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:56] <strong>Record</strong> #139
+[06:59:56] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:56] <strong>Record</strong> #140
+[06:59:56] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:57] <strong>Record</strong> #141
+[06:59:57] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:57] <strong>Record</strong> #142
+[06:59:57] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:57] <strong>Record</strong> #143
+[06:59:57] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:57] <strong>Record</strong> #144
+[06:59:57] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:57] <strong>Record</strong> #145
+[06:59:57] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:57] <strong>Record</strong> #146
+[06:59:57] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:57] <strong>Record</strong> #147
+[06:59:57] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:57] <strong>Record</strong> #148
+[06:59:57] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:57] <strong>Record</strong> #149
+[06:59:57] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:57] <strong>Record</strong> #150
+[06:59:57] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:57] <strong>Record</strong> #151
+[06:59:57] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:57] <strong>Record</strong> #152
+[06:59:57] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:57] <strong>Record</strong> #153
+[06:59:57] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:57] <strong>Record</strong> #154
+[06:59:57] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:57] <strong>Record</strong> #155
+[06:59:57] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:57] <strong>Record</strong> #156
+[06:59:57] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:57] <strong>Record</strong> #157
+[06:59:57] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:57] <strong>Record</strong> #158
+[06:59:57] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:58] <strong>Record</strong> #159
+[06:59:58] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:58] <strong>Record</strong> #160
+[06:59:58] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:59] <strong>Record</strong> #161
+[06:59:59] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:59] <strong>Record</strong> #162
+[06:59:59] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:59] <strong>Record</strong> #163
+[06:59:59] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:59] <strong>Record</strong> #164
+[06:59:59] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:59] <strong>Record</strong> #165
+[06:59:59] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:59] <strong>Record</strong> #166
+[06:59:59] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:59] <strong>Record</strong> #167
+[06:59:59] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:59] <strong>Record</strong> #168
+[06:59:59] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:59] <strong>Record</strong> #169
+[06:59:59] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:59] <strong>Record</strong> #170
+[06:59:59] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:59] <strong>Record</strong> #171
+[06:59:59] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:59] <strong>Record</strong> #172
+[06:59:59] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:59] <strong>Record</strong> #173
+[06:59:59] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:59] <strong>Record</strong> #174
+[06:59:59] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:59] <strong>Record</strong> #175
+[06:59:59] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:59] <strong>Record</strong> #176
+[06:59:59] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:59] <strong>Record</strong> #177
+[06:59:59] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:59] <strong>Record</strong> #178
+[06:59:59] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:59] <strong>Record</strong> #179
+[06:59:59] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[06:59:59] <strong>Record</strong> #180
+[06:59:59] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[07:00:00] <strong>Record</strong> #181
+[07:00:00] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[07:00:00] <strong>Record</strong> #182
+[07:00:00] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[07:00:00] <strong>Record</strong> #183
+[07:00:00] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[07:00:00] <strong>Record</strong> #184
+[07:00:00] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[07:00:00] <strong>Record</strong> #185
+[07:00:00] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[07:00:00] <strong>Record</strong> #186
+[07:00:00] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[07:00:00] <strong>Record</strong> #187
+[07:00:00] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[07:00:00] <strong>Record</strong> #188
+[07:00:00] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[07:00:00] <strong>Record</strong> #189
+[07:00:00] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[07:00:00] <strong>Record</strong> #190
+[07:00:00] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[07:00:00] <strong>Record</strong> #191
+[07:00:00] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[07:00:00] <strong>Record</strong> #192
+[07:00:00] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[07:00:00] <strong>Record</strong> #193
+[07:00:00] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[07:00:00] <strong>Record</strong> #194
+[07:00:00] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[07:00:00] <strong>Record</strong> #195
+[07:00:00] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[07:00:00] <strong>Record</strong> #196
+[07:00:00] <strong>ERROR</strong> : Nội dung, tiêu đề và trích dẫn đều trống rỗng.
+[07:04:15] <strong>Record</strong> #1
+[07:04:17] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:04:17] post #11497 Successfully Imported
+[07:04:17] <strong>Record</strong> #2
+[07:04:17] Existing item found #11497
+[07:04:17] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:17] <strong>Record</strong> #3
+[07:04:17] Existing item found #11497
+[07:04:17] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:17] <strong>Record</strong> #4
+[07:04:17] Existing item found #11497
+[07:04:17] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:17] <strong>Record</strong> #5
+[07:04:17] Existing item found #11497
+[07:04:17] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:17] <strong>Record</strong> #6
+[07:04:17] Existing item found #11497
+[07:04:17] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:17] <strong>Record</strong> #7
+[07:04:17] Existing item found #11497
+[07:04:17] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:17] <strong>Record</strong> #8
+[07:04:17] Existing item found #11497
+[07:04:17] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:17] <strong>Record</strong> #9
+[07:04:17] Existing item found #11497
+[07:04:17] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:17] <strong>Record</strong> #10
+[07:04:17] Existing item found #11497
+[07:04:17] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:17] <strong>Record</strong> #11
+[07:04:17] Existing item found #11497
+[07:04:17] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:17] <strong>Record</strong> #12
+[07:04:17] Existing item found #11497
+[07:04:17] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:17] <strong>Record</strong> #13
+[07:04:17] Existing item found #11497
+[07:04:17] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:17] <strong>Record</strong> #14
+[07:04:17] Existing item found #11497
+[07:04:17] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:17] <strong>Record</strong> #15
+[07:04:17] Existing item found #11497
+[07:04:17] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:17] <strong>Record</strong> #16
+[07:04:17] Existing item found #11497
+[07:04:17] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:17] <strong>Record</strong> #17
+[07:04:17] Existing item found #11497
+[07:04:17] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:17] <strong>Record</strong> #18
+[07:04:17] Existing item found #11497
+[07:04:17] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:17] <strong>Record</strong> #19
+[07:04:17] Existing item found #11497
+[07:04:17] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:17] <strong>Record</strong> #20
+[07:04:17] Existing item found #11497
+[07:04:17] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:18] <strong>Record</strong> #21
+[07:04:18] Existing item found #11497
+[07:04:18] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:18] <strong>Record</strong> #22
+[07:04:18] Existing item found #11497
+[07:04:18] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:18] <strong>Record</strong> #23
+[07:04:18] Existing item found #11497
+[07:04:18] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:18] <strong>Record</strong> #24
+[07:04:18] Existing item found #11497
+[07:04:18] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:18] <strong>Record</strong> #25
+[07:04:18] Existing item found #11497
+[07:04:18] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:18] <strong>Record</strong> #26
+[07:04:18] Existing item found #11497
+[07:04:18] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:18] <strong>Record</strong> #27
+[07:04:18] Existing item found #11497
+[07:04:18] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:18] <strong>Record</strong> #28
+[07:04:18] Existing item found #11497
+[07:04:18] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:18] <strong>Record</strong> #29
+[07:04:18] Existing item found #11497
+[07:04:18] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:18] <strong>Record</strong> #30
+[07:04:18] Existing item found #11497
+[07:04:18] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:18] <strong>Record</strong> #31
+[07:04:18] Existing item found #11497
+[07:04:18] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:18] <strong>Record</strong> #32
+[07:04:18] Existing item found #11497
+[07:04:18] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:18] <strong>Record</strong> #33
+[07:04:18] Existing item found #11497
+[07:04:18] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:18] <strong>Record</strong> #34
+[07:04:18] Existing item found #11497
+[07:04:18] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:18] <strong>Record</strong> #35
+[07:04:18] Existing item found #11497
+[07:04:18] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:18] <strong>Record</strong> #36
+[07:04:18] Existing item found #11497
+[07:04:18] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:18] <strong>Record</strong> #37
+[07:04:18] Existing item found #11497
+[07:04:18] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:18] <strong>Record</strong> #38
+[07:04:18] Existing item found #11497
+[07:04:18] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:18] <strong>Record</strong> #39
+[07:04:18] Existing item found #11497
+[07:04:18] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:18] <strong>Record</strong> #40
+[07:04:18] Existing item found #11497
+[07:04:18] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:19] <strong>Record</strong> #41
+[07:04:19] Existing item found #11497
+[07:04:19] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:19] <strong>Record</strong> #42
+[07:04:19] Existing item found #11497
+[07:04:19] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:19] <strong>Record</strong> #43
+[07:04:19] Existing item found #11497
+[07:04:19] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:19] <strong>Record</strong> #44
+[07:04:19] Existing item found #11497
+[07:04:19] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:19] <strong>Record</strong> #45
+[07:04:19] Existing item found #11497
+[07:04:19] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:19] <strong>Record</strong> #46
+[07:04:19] Existing item found #11497
+[07:04:19] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:19] <strong>Record</strong> #47
+[07:04:19] Existing item found #11497
+[07:04:19] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:19] <strong>Record</strong> #48
+[07:04:19] Existing item found #11497
+[07:04:19] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:19] <strong>Record</strong> #49
+[07:04:19] Existing item found #11497
+[07:04:19] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:19] <strong>Record</strong> #50
+[07:04:19] Existing item found #11497
+[07:04:19] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:19] <strong>Record</strong> #51
+[07:04:19] Existing item found #11497
+[07:04:19] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:19] <strong>Record</strong> #52
+[07:04:19] Existing item found #11497
+[07:04:19] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:19] <strong>Record</strong> #53
+[07:04:19] Existing item found #11497
+[07:04:19] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:19] <strong>Record</strong> #54
+[07:04:19] Existing item found #11497
+[07:04:19] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:19] <strong>Record</strong> #55
+[07:04:19] Existing item found #11497
+[07:04:19] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:19] <strong>Record</strong> #56
+[07:04:19] Existing item found #11497
+[07:04:19] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:19] <strong>Record</strong> #57
+[07:04:19] Existing item found #11497
+[07:04:19] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:19] <strong>Record</strong> #58
+[07:04:19] Existing item found #11497
+[07:04:19] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:19] <strong>Record</strong> #59
+[07:04:19] Existing item found #11497
+[07:04:19] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:19] <strong>Record</strong> #60
+[07:04:19] Existing item found #11497
+[07:04:19] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:20] <strong>Record</strong> #61
+[07:04:20] Existing item found #11497
+[07:04:20] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:20] <strong>Record</strong> #62
+[07:04:20] Existing item found #11497
+[07:04:20] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:20] <strong>Record</strong> #63
+[07:04:20] Existing item found #11497
+[07:04:20] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:20] <strong>Record</strong> #64
+[07:04:20] Existing item found #11497
+[07:04:20] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:20] <strong>Record</strong> #65
+[07:04:20] Existing item found #11497
+[07:04:20] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:20] <strong>Record</strong> #66
+[07:04:20] Existing item found #11497
+[07:04:20] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:20] <strong>Record</strong> #67
+[07:04:20] Existing item found #11497
+[07:04:20] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:20] <strong>Record</strong> #68
+[07:04:20] Existing item found #11497
+[07:04:20] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:20] <strong>Record</strong> #69
+[07:04:20] Existing item found #11497
+[07:04:20] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:20] <strong>Record</strong> #70
+[07:04:20] Existing item found #11497
+[07:04:20] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:20] <strong>Record</strong> #71
+[07:04:20] Existing item found #11497
+[07:04:20] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:20] <strong>Record</strong> #72
+[07:04:20] Existing item found #11497
+[07:04:20] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:20] <strong>Record</strong> #73
+[07:04:20] Existing item found #11497
+[07:04:20] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:20] <strong>Record</strong> #74
+[07:04:20] Existing item found #11497
+[07:04:20] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:20] <strong>Record</strong> #75
+[07:04:20] Existing item found #11497
+[07:04:20] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:20] <strong>Record</strong> #76
+[07:04:20] Existing item found #11497
+[07:04:20] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:20] <strong>Record</strong> #77
+[07:04:20] Existing item found #11497
+[07:04:20] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:20] <strong>Record</strong> #78
+[07:04:20] Existing item found #11497
+[07:04:20] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:20] <strong>Record</strong> #79
+[07:04:20] Existing item found #11497
+[07:04:20] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:20] <strong>Record</strong> #80
+[07:04:20] Existing item found #11497
+[07:04:20] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:22] <strong>Record</strong> #81
+[07:04:22] Existing item found #11497
+[07:04:22] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:22] <strong>Record</strong> #82
+[07:04:22] Existing item found #11497
+[07:04:22] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:22] <strong>Record</strong> #83
+[07:04:22] Existing item found #11497
+[07:04:22] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:22] <strong>Record</strong> #84
+[07:04:22] Existing item found #11497
+[07:04:22] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:22] <strong>Record</strong> #85
+[07:04:22] Existing item found #11497
+[07:04:22] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:22] <strong>Record</strong> #86
+[07:04:22] Existing item found #11497
+[07:04:22] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:22] <strong>Record</strong> #87
+[07:04:22] Existing item found #11497
+[07:04:22] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:22] <strong>Record</strong> #88
+[07:04:22] Existing item found #11497
+[07:04:22] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:22] <strong>Record</strong> #89
+[07:04:22] Existing item found #11497
+[07:04:22] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:22] <strong>Record</strong> #90
+[07:04:22] Existing item found #11497
+[07:04:22] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:22] <strong>Record</strong> #91
+[07:04:22] Existing item found #11497
+[07:04:22] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:22] <strong>Record</strong> #92
+[07:04:22] Existing item found #11497
+[07:04:22] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:22] <strong>Record</strong> #93
+[07:04:22] Existing item found #11497
+[07:04:22] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:22] <strong>Record</strong> #94
+[07:04:22] Existing item found #11497
+[07:04:22] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:22] <strong>Record</strong> #95
+[07:04:22] Existing item found #11497
+[07:04:22] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:22] <strong>Record</strong> #96
+[07:04:22] Existing item found #11497
+[07:04:22] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:22] <strong>Record</strong> #97
+[07:04:22] Existing item found #11497
+[07:04:22] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:22] <strong>Record</strong> #98
+[07:04:22] Existing item found #11497
+[07:04:22] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:22] <strong>Record</strong> #99
+[07:04:22] Existing item found #11497
+[07:04:22] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:22] <strong>Record</strong> #100
+[07:04:22] Existing item found #11497
+[07:04:22] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #101
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #102
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #103
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #104
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #105
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #106
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #107
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #108
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #109
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #110
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #111
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #112
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #113
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #114
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #115
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #116
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #117
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #118
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #119
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #120
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #121
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #122
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #123
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #124
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #125
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #126
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #127
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #128
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #129
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #130
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #131
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #132
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #133
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #134
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #135
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #136
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #137
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #138
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #139
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:26] <strong>Record</strong> #140
+[07:04:26] Existing item found #11497
+[07:04:26] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:30] <strong>Record</strong> #141
+[07:04:30] Existing item found #11497
+[07:04:30] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:30] <strong>Record</strong> #142
+[07:04:30] Existing item found #11497
+[07:04:30] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:30] <strong>Record</strong> #143
+[07:04:30] Existing item found #11497
+[07:04:30] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:30] <strong>Record</strong> #144
+[07:04:30] Existing item found #11497
+[07:04:30] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:30] <strong>Record</strong> #145
+[07:04:30] Existing item found #11497
+[07:04:30] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:30] <strong>Record</strong> #146
+[07:04:30] Existing item found #11497
+[07:04:30] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:30] <strong>Record</strong> #147
+[07:04:30] Existing item found #11497
+[07:04:30] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:30] <strong>Record</strong> #148
+[07:04:30] Existing item found #11497
+[07:04:30] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:30] <strong>Record</strong> #149
+[07:04:30] Existing item found #11497
+[07:04:30] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:30] <strong>Record</strong> #150
+[07:04:30] Existing item found #11497
+[07:04:30] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:30] <strong>Record</strong> #151
+[07:04:30] Existing item found #11497
+[07:04:30] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:30] <strong>Record</strong> #152
+[07:04:30] Existing item found #11497
+[07:04:30] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:30] <strong>Record</strong> #153
+[07:04:30] Existing item found #11497
+[07:04:30] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:30] <strong>Record</strong> #154
+[07:04:30] Existing item found #11497
+[07:04:30] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:30] <strong>Record</strong> #155
+[07:04:30] Existing item found #11497
+[07:04:30] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:30] <strong>Record</strong> #156
+[07:04:30] Existing item found #11497
+[07:04:30] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:30] <strong>Record</strong> #157
+[07:04:30] Existing item found #11497
+[07:04:30] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:30] <strong>Record</strong> #158
+[07:04:30] Existing item found #11497
+[07:04:30] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:30] <strong>Record</strong> #159
+[07:04:30] Existing item found #11497
+[07:04:30] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:30] <strong>Record</strong> #160
+[07:04:30] Existing item found #11497
+[07:04:30] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:35] <strong>Record</strong> #161
+[07:04:35] Existing item found #11497
+[07:04:35] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:35] <strong>Record</strong> #162
+[07:04:35] Existing item found #11497
+[07:04:35] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:35] <strong>Record</strong> #163
+[07:04:35] Existing item found #11497
+[07:04:35] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:35] <strong>Record</strong> #164
+[07:04:35] Existing item found #11497
+[07:04:35] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:35] <strong>Record</strong> #165
+[07:04:35] Existing item found #11497
+[07:04:35] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:35] <strong>Record</strong> #166
+[07:04:35] Existing item found #11497
+[07:04:35] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:35] <strong>Record</strong> #167
+[07:04:35] Existing item found #11497
+[07:04:35] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:35] <strong>Record</strong> #168
+[07:04:35] Existing item found #11497
+[07:04:35] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:35] <strong>Record</strong> #169
+[07:04:35] Existing item found #11497
+[07:04:35] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:35] <strong>Record</strong> #170
+[07:04:35] Existing item found #11497
+[07:04:35] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:35] <strong>Record</strong> #171
+[07:04:35] Existing item found #11497
+[07:04:35] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:35] <strong>Record</strong> #172
+[07:04:35] Existing item found #11497
+[07:04:35] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:35] <strong>Record</strong> #173
+[07:04:35] Existing item found #11497
+[07:04:35] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:35] <strong>Record</strong> #174
+[07:04:35] Existing item found #11497
+[07:04:35] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:36] <strong>Record</strong> #175
+[07:04:36] Existing item found #11497
+[07:04:36] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:36] <strong>Record</strong> #176
+[07:04:36] Existing item found #11497
+[07:04:36] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:36] <strong>Record</strong> #177
+[07:04:36] Existing item found #11497
+[07:04:36] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:36] <strong>Record</strong> #178
+[07:04:36] Existing item found #11497
+[07:04:36] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:36] <strong>Record</strong> #179
+[07:04:36] Existing item found #11497
+[07:04:36] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:36] <strong>Record</strong> #180
+[07:04:36] Existing item found #11497
+[07:04:36] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:37] <strong>Record</strong> #181
+[07:04:37] Existing item found #11497
+[07:04:37] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:37] <strong>Record</strong> #182
+[07:04:37] Existing item found #11497
+[07:04:37] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:37] <strong>Record</strong> #183
+[07:04:37] Existing item found #11497
+[07:04:37] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:37] <strong>Record</strong> #184
+[07:04:37] Existing item found #11497
+[07:04:37] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:37] <strong>Record</strong> #185
+[07:04:37] Existing item found #11497
+[07:04:37] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:37] <strong>Record</strong> #186
+[07:04:37] Existing item found #11497
+[07:04:37] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:37] <strong>Record</strong> #187
+[07:04:37] Existing item found #11497
+[07:04:37] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:37] <strong>Record</strong> #188
+[07:04:37] Existing item found #11497
+[07:04:37] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:37] <strong>Record</strong> #189
+[07:04:37] Existing item found #11497
+[07:04:37] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:37] <strong>Record</strong> #190
+[07:04:37] Existing item found #11497
+[07:04:37] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:37] <strong>Record</strong> #191
+[07:04:37] Existing item found #11497
+[07:04:37] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:37] <strong>Record</strong> #192
+[07:04:37] Existing item found #11497
+[07:04:37] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:37] <strong>Record</strong> #193
+[07:04:37] Existing item found #11497
+[07:04:37] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:37] <strong>Record</strong> #194
+[07:04:37] Existing item found #11497
+[07:04:37] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:37] <strong>Record</strong> #195
+[07:04:37] Existing item found #11497
+[07:04:37] <strong>SKIPPED</strong> : Skip Existing Items
+[07:04:37] <strong>Record</strong> #196
+[07:04:37] Existing item found #11497
+[07:04:37] <strong>SKIPPED</strong> : Skip Existing Items

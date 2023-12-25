@@ -1,0 +1,784 @@
+[07:28:39] <strong>Record</strong> #1
+[07:28:39] Existing item found #11497
+[07:28:44] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:28:44] post #11497 Successfully Imported
+[07:28:44] <strong>Record</strong> #2
+[07:28:44] Existing item found #11497
+[07:28:47] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:28:47] post #11497 Successfully Imported
+[07:28:47] <strong>Record</strong> #3
+[07:28:47] Existing item found #11497
+[07:28:50] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:28:50] post #11497 Successfully Imported
+[07:28:50] <strong>Record</strong> #4
+[07:28:50] Existing item found #11497
+[07:28:52] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:28:52] post #11497 Successfully Imported
+[07:28:52] <strong>Record</strong> #5
+[07:28:52] Existing item found #11497
+[07:28:54] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:28:54] post #11497 Successfully Imported
+[07:28:54] <strong>Record</strong> #6
+[07:28:54] Existing item found #11497
+[07:28:56] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:28:56] post #11497 Successfully Imported
+[07:28:56] <strong>Record</strong> #7
+[07:28:56] Existing item found #11497
+[07:28:58] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:28:58] post #11497 Successfully Imported
+[07:28:58] <strong>Record</strong> #8
+[07:28:58] Existing item found #11497
+[07:29:00] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:00] post #11497 Successfully Imported
+[07:29:00] <strong>Record</strong> #9
+[07:29:00] Existing item found #11497
+[07:29:01] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:01] post #11497 Successfully Imported
+[07:29:01] <strong>Record</strong> #10
+[07:29:01] Existing item found #11497
+[07:29:04] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:04] post #11497 Successfully Imported
+[07:29:04] <strong>Record</strong> #11
+[07:29:04] Existing item found #11497
+[07:29:06] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:06] post #11497 Successfully Imported
+[07:29:06] <strong>Record</strong> #12
+[07:29:06] Existing item found #11497
+[07:29:07] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:07] post #11497 Successfully Imported
+[07:29:07] <strong>Record</strong> #13
+[07:29:07] Existing item found #11497
+[07:29:10] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:10] post #11497 Successfully Imported
+[07:29:10] <strong>Record</strong> #14
+[07:29:10] Existing item found #11497
+[07:29:11] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:11] post #11497 Successfully Imported
+[07:29:11] <strong>Record</strong> #15
+[07:29:11] Existing item found #11497
+[07:29:13] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:13] post #11497 Successfully Imported
+[07:29:13] <strong>Record</strong> #16
+[07:29:13] Existing item found #11497
+[07:29:15] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:15] post #11497 Successfully Imported
+[07:29:15] <strong>Record</strong> #17
+[07:29:15] Existing item found #11497
+[07:29:16] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:16] post #11497 Successfully Imported
+[07:29:16] <strong>Record</strong> #18
+[07:29:16] Existing item found #11497
+[07:29:18] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:18] post #11497 Successfully Imported
+[07:29:18] <strong>Record</strong> #19
+[07:29:18] Existing item found #11497
+[07:29:20] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:20] post #11497 Successfully Imported
+[07:29:20] <strong>Record</strong> #20
+[07:29:20] Existing item found #11497
+[07:29:21] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:21] post #11497 Successfully Imported
+[07:29:23] <strong>Record</strong> #21
+[07:29:23] Existing item found #11497
+[07:29:24] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:24] post #11497 Successfully Imported
+[07:29:24] <strong>Record</strong> #22
+[07:29:24] Existing item found #11497
+[07:29:26] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:26] post #11497 Successfully Imported
+[07:29:26] <strong>Record</strong> #23
+[07:29:26] Existing item found #11497
+[07:29:27] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:27] post #11497 Successfully Imported
+[07:29:27] <strong>Record</strong> #24
+[07:29:27] Existing item found #11497
+[07:29:29] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:29] post #11497 Successfully Imported
+[07:29:30] <strong>Record</strong> #25
+[07:29:30] Existing item found #11497
+[07:29:31] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:31] post #11497 Successfully Imported
+[07:29:31] <strong>Record</strong> #26
+[07:29:31] Existing item found #11497
+[07:29:34] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:34] post #11497 Successfully Imported
+[07:29:34] <strong>Record</strong> #27
+[07:29:34] Existing item found #11497
+[07:29:35] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:35] post #11497 Successfully Imported
+[07:29:35] <strong>Record</strong> #28
+[07:29:35] Existing item found #11497
+[07:29:37] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:37] post #11497 Successfully Imported
+[07:29:37] <strong>Record</strong> #29
+[07:29:37] Existing item found #11497
+[07:29:39] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:39] post #11497 Successfully Imported
+[07:29:39] <strong>Record</strong> #30
+[07:29:39] Existing item found #11497
+[07:29:41] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:41] post #11497 Successfully Imported
+[07:29:41] <strong>Record</strong> #31
+[07:29:41] Existing item found #11497
+[07:29:43] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:43] post #11497 Successfully Imported
+[07:29:43] <strong>Record</strong> #32
+[07:29:43] Existing item found #11497
+[07:29:45] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:45] post #11497 Successfully Imported
+[07:29:45] <strong>Record</strong> #33
+[07:29:45] Existing item found #11497
+[07:29:47] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:47] post #11497 Successfully Imported
+[07:29:47] <strong>Record</strong> #34
+[07:29:47] Existing item found #11497
+[07:29:49] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:49] post #11497 Successfully Imported
+[07:29:49] <strong>Record</strong> #35
+[07:29:49] Existing item found #11497
+[07:29:51] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:51] post #11497 Successfully Imported
+[07:29:51] <strong>Record</strong> #36
+[07:29:51] Existing item found #11497
+[07:29:54] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:54] post #11497 Successfully Imported
+[07:29:54] <strong>Record</strong> #37
+[07:29:54] Existing item found #11497
+[07:29:56] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:56] post #11497 Successfully Imported
+[07:29:56] <strong>Record</strong> #38
+[07:29:56] Existing item found #11497
+[07:29:58] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:29:58] post #11497 Successfully Imported
+[07:29:58] <strong>Record</strong> #39
+[07:29:58] Existing item found #11497
+[07:30:00] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:00] post #11497 Successfully Imported
+[07:30:00] <strong>Record</strong> #40
+[07:30:00] Existing item found #11497
+[07:30:02] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:02] post #11497 Successfully Imported
+[07:30:02] <strong>Record</strong> #41
+[07:30:02] Existing item found #11497
+[07:30:04] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:04] post #11497 Successfully Imported
+[07:30:04] <strong>Record</strong> #42
+[07:30:04] Existing item found #11497
+[07:30:06] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:06] post #11497 Successfully Imported
+[07:30:06] <strong>Record</strong> #43
+[07:30:06] Existing item found #11497
+[07:30:09] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:09] post #11497 Successfully Imported
+[07:30:09] <strong>Record</strong> #44
+[07:30:09] Existing item found #11497
+[07:30:11] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:11] post #11497 Successfully Imported
+[07:30:11] <strong>Record</strong> #45
+[07:30:11] Existing item found #11497
+[07:30:14] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:14] post #11497 Successfully Imported
+[07:30:14] <strong>Record</strong> #46
+[07:30:14] Existing item found #11497
+[07:30:16] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:16] post #11497 Successfully Imported
+[07:30:16] <strong>Record</strong> #47
+[07:30:16] Existing item found #11497
+[07:30:17] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:17] post #11497 Successfully Imported
+[07:30:17] <strong>Record</strong> #48
+[07:30:17] Existing item found #11497
+[07:30:19] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:19] post #11497 Successfully Imported
+[07:30:19] <strong>Record</strong> #49
+[07:30:19] Existing item found #11497
+[07:30:21] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:21] post #11497 Successfully Imported
+[07:30:21] <strong>Record</strong> #50
+[07:30:21] Existing item found #11497
+[07:30:23] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:23] post #11497 Successfully Imported
+[07:30:23] <strong>Record</strong> #51
+[07:30:23] Existing item found #11497
+[07:30:25] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:25] post #11497 Successfully Imported
+[07:30:25] <strong>Record</strong> #52
+[07:30:25] Existing item found #11497
+[07:30:27] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:27] post #11497 Successfully Imported
+[07:30:27] <strong>Record</strong> #53
+[07:30:27] Existing item found #11497
+[07:30:28] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:28] post #11497 Successfully Imported
+[07:30:28] <strong>Record</strong> #54
+[07:30:28] Existing item found #11497
+[07:30:30] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:30] post #11497 Successfully Imported
+[07:30:30] <strong>Record</strong> #55
+[07:30:30] Existing item found #11497
+[07:30:32] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:32] post #11497 Successfully Imported
+[07:30:32] <strong>Record</strong> #56
+[07:30:32] Existing item found #11497
+[07:30:34] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:34] post #11497 Successfully Imported
+[07:30:34] <strong>Record</strong> #57
+[07:30:34] Existing item found #11497
+[07:30:36] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:36] post #11497 Successfully Imported
+[07:30:37] <strong>Record</strong> #58
+[07:30:37] Existing item found #11497
+[07:30:39] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:39] post #11497 Successfully Imported
+[07:30:39] <strong>Record</strong> #59
+[07:30:39] Existing item found #11497
+[07:30:41] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:41] post #11497 Successfully Imported
+[07:30:41] <strong>Record</strong> #60
+[07:30:41] Existing item found #11497
+[07:30:42] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:42] post #11497 Successfully Imported
+[07:30:44] <strong>Record</strong> #61
+[07:30:44] Existing item found #11497
+[07:30:45] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:45] post #11497 Successfully Imported
+[07:30:45] <strong>Record</strong> #62
+[07:30:45] Existing item found #11497
+[07:30:47] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:47] post #11497 Successfully Imported
+[07:30:47] <strong>Record</strong> #63
+[07:30:47] Existing item found #11497
+[07:30:49] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:49] post #11497 Successfully Imported
+[07:30:49] <strong>Record</strong> #64
+[07:30:49] Existing item found #11497
+[07:30:52] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:52] post #11497 Successfully Imported
+[07:30:52] <strong>Record</strong> #65
+[07:30:52] Existing item found #11497
+[07:30:54] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:54] post #11497 Successfully Imported
+[07:30:54] <strong>Record</strong> #66
+[07:30:54] Existing item found #11497
+[07:30:57] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:57] post #11497 Successfully Imported
+[07:30:57] <strong>Record</strong> #67
+[07:30:57] Existing item found #11497
+[07:30:59] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:30:59] post #11497 Successfully Imported
+[07:30:59] <strong>Record</strong> #68
+[07:30:59] Existing item found #11497
+[07:31:02] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:02] post #11497 Successfully Imported
+[07:31:02] <strong>Record</strong> #69
+[07:31:02] Existing item found #11497
+[07:31:04] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:04] post #11497 Successfully Imported
+[07:31:04] <strong>Record</strong> #70
+[07:31:04] Existing item found #11497
+[07:31:06] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:06] post #11497 Successfully Imported
+[07:31:06] <strong>Record</strong> #71
+[07:31:06] Existing item found #11497
+[07:31:08] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:08] post #11497 Successfully Imported
+[07:31:08] <strong>Record</strong> #72
+[07:31:08] Existing item found #11497
+[07:31:11] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:11] post #11497 Successfully Imported
+[07:31:11] <strong>Record</strong> #73
+[07:31:11] Existing item found #11497
+[07:31:13] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:13] post #11497 Successfully Imported
+[07:31:13] <strong>Record</strong> #74
+[07:31:13] Existing item found #11497
+[07:31:16] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:16] post #11497 Successfully Imported
+[07:31:16] <strong>Record</strong> #75
+[07:31:16] Existing item found #11497
+[07:31:19] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:19] post #11497 Successfully Imported
+[07:31:19] <strong>Record</strong> #76
+[07:31:19] Existing item found #11497
+[07:31:21] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:21] post #11497 Successfully Imported
+[07:31:21] <strong>Record</strong> #77
+[07:31:21] Existing item found #11497
+[07:31:24] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:24] post #11497 Successfully Imported
+[07:31:24] <strong>Record</strong> #78
+[07:31:24] Existing item found #11497
+[07:31:26] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:26] post #11497 Successfully Imported
+[07:31:26] <strong>Record</strong> #79
+[07:31:26] Existing item found #11497
+[07:31:28] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:28] post #11497 Successfully Imported
+[07:31:28] <strong>Record</strong> #80
+[07:31:28] Existing item found #11497
+[07:31:29] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:29] post #11497 Successfully Imported
+[07:31:29] <strong>Record</strong> #81
+[07:31:29] Existing item found #11497
+[07:31:31] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:31] post #11497 Successfully Imported
+[07:31:31] <strong>Record</strong> #82
+[07:31:31] Existing item found #11497
+[07:31:33] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:33] post #11497 Successfully Imported
+[07:31:33] <strong>Record</strong> #83
+[07:31:33] Existing item found #11497
+[07:31:35] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:35] post #11497 Successfully Imported
+[07:31:35] <strong>Record</strong> #84
+[07:31:35] Existing item found #11497
+[07:31:37] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:37] post #11497 Successfully Imported
+[07:31:37] <strong>Record</strong> #85
+[07:31:37] Existing item found #11497
+[07:31:39] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:39] post #11497 Successfully Imported
+[07:31:39] <strong>Record</strong> #86
+[07:31:39] Existing item found #11497
+[07:31:41] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:41] post #11497 Successfully Imported
+[07:31:41] <strong>Record</strong> #87
+[07:31:41] Existing item found #11497
+[07:31:43] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:43] post #11497 Successfully Imported
+[07:31:43] <strong>Record</strong> #88
+[07:31:43] Existing item found #11497
+[07:31:45] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:45] post #11497 Successfully Imported
+[07:31:45] <strong>Record</strong> #89
+[07:31:45] Existing item found #11497
+[07:31:47] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:47] post #11497 Successfully Imported
+[07:31:47] <strong>Record</strong> #90
+[07:31:47] Existing item found #11497
+[07:31:49] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:49] post #11497 Successfully Imported
+[07:31:49] <strong>Record</strong> #91
+[07:31:49] Existing item found #11497
+[07:31:51] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:51] post #11497 Successfully Imported
+[07:31:51] <strong>Record</strong> #92
+[07:31:51] Existing item found #11497
+[07:31:53] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:53] post #11497 Successfully Imported
+[07:31:53] <strong>Record</strong> #93
+[07:31:53] Existing item found #11497
+[07:31:55] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:55] post #11497 Successfully Imported
+[07:31:55] <strong>Record</strong> #94
+[07:31:55] Existing item found #11497
+[07:31:57] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:57] post #11497 Successfully Imported
+[07:31:57] <strong>Record</strong> #95
+[07:31:57] Existing item found #11497
+[07:31:59] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:31:59] post #11497 Successfully Imported
+[07:31:59] <strong>Record</strong> #96
+[07:31:59] Existing item found #11497
+[07:32:01] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:01] post #11497 Successfully Imported
+[07:32:01] <strong>Record</strong> #97
+[07:32:01] Existing item found #11497
+[07:32:03] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:03] post #11497 Successfully Imported
+[07:32:03] <strong>Record</strong> #98
+[07:32:03] Existing item found #11497
+[07:32:05] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:05] post #11497 Successfully Imported
+[07:32:05] <strong>Record</strong> #99
+[07:32:05] Existing item found #11497
+[07:32:07] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:07] post #11497 Successfully Imported
+[07:32:07] <strong>Record</strong> #100
+[07:32:07] Existing item found #11497
+[07:32:08] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:08] post #11497 Successfully Imported
+[07:32:10] <strong>Record</strong> #101
+[07:32:10] Existing item found #11497
+[07:32:12] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:12] post #11497 Successfully Imported
+[07:32:12] <strong>Record</strong> #102
+[07:32:12] Existing item found #11497
+[07:32:15] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:15] post #11497 Successfully Imported
+[07:32:15] <strong>Record</strong> #103
+[07:32:15] Existing item found #11497
+[07:32:17] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:17] post #11497 Successfully Imported
+[07:32:17] <strong>Record</strong> #104
+[07:32:17] Existing item found #11497
+[07:32:19] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:19] post #11497 Successfully Imported
+[07:32:19] <strong>Record</strong> #105
+[07:32:19] Existing item found #11497
+[07:32:20] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:20] post #11497 Successfully Imported
+[07:32:20] <strong>Record</strong> #106
+[07:32:20] Existing item found #11497
+[07:32:22] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:22] post #11497 Successfully Imported
+[07:32:22] <strong>Record</strong> #107
+[07:32:22] Existing item found #11497
+[07:32:24] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:24] post #11497 Successfully Imported
+[07:32:24] <strong>Record</strong> #108
+[07:32:24] Existing item found #11497
+[07:32:26] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:26] post #11497 Successfully Imported
+[07:32:26] <strong>Record</strong> #109
+[07:32:26] Existing item found #11497
+[07:32:27] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:27] post #11497 Successfully Imported
+[07:32:27] <strong>Record</strong> #110
+[07:32:27] Existing item found #11497
+[07:32:29] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:29] post #11497 Successfully Imported
+[07:32:29] <strong>Record</strong> #111
+[07:32:29] Existing item found #11497
+[07:32:31] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:31] post #11497 Successfully Imported
+[07:32:31] <strong>Record</strong> #112
+[07:32:31] Existing item found #11497
+[07:32:34] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:34] post #11497 Successfully Imported
+[07:32:34] <strong>Record</strong> #113
+[07:32:34] Existing item found #11497
+[07:32:36] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:36] post #11497 Successfully Imported
+[07:32:36] <strong>Record</strong> #114
+[07:32:36] Existing item found #11497
+[07:32:38] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:38] post #11497 Successfully Imported
+[07:32:38] <strong>Record</strong> #115
+[07:32:38] Existing item found #11497
+[07:32:39] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:39] post #11497 Successfully Imported
+[07:32:39] <strong>Record</strong> #116
+[07:32:39] Existing item found #11497
+[07:32:42] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:42] post #11497 Successfully Imported
+[07:32:42] <strong>Record</strong> #117
+[07:32:42] Existing item found #11497
+[07:32:44] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:44] post #11497 Successfully Imported
+[07:32:44] <strong>Record</strong> #118
+[07:32:44] Existing item found #11497
+[07:32:46] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:46] post #11497 Successfully Imported
+[07:32:46] <strong>Record</strong> #119
+[07:32:46] Existing item found #11497
+[07:32:48] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:48] post #11497 Successfully Imported
+[07:32:48] <strong>Record</strong> #120
+[07:32:48] Existing item found #11497
+[07:32:50] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:32:50] post #11497 Successfully Imported
+[07:32:58] <strong>Record</strong> #121
+[07:32:58] Existing item found #11497
+[07:33:00] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:00] post #11497 Successfully Imported
+[07:33:00] <strong>Record</strong> #122
+[07:33:00] Existing item found #11497
+[07:33:02] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:02] post #11497 Successfully Imported
+[07:33:02] <strong>Record</strong> #123
+[07:33:02] Existing item found #11497
+[07:33:04] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:04] post #11497 Successfully Imported
+[07:33:04] <strong>Record</strong> #124
+[07:33:04] Existing item found #11497
+[07:33:05] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:05] post #11497 Successfully Imported
+[07:33:05] <strong>Record</strong> #125
+[07:33:05] Existing item found #11497
+[07:33:08] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:08] post #11497 Successfully Imported
+[07:33:08] <strong>Record</strong> #126
+[07:33:08] Existing item found #11497
+[07:33:09] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:09] post #11497 Successfully Imported
+[07:33:09] <strong>Record</strong> #127
+[07:33:09] Existing item found #11497
+[07:33:11] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:11] post #11497 Successfully Imported
+[07:33:11] <strong>Record</strong> #128
+[07:33:11] Existing item found #11497
+[07:33:13] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:13] post #11497 Successfully Imported
+[07:33:13] <strong>Record</strong> #129
+[07:33:13] Existing item found #11497
+[07:33:15] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:15] post #11497 Successfully Imported
+[07:33:15] <strong>Record</strong> #130
+[07:33:15] Existing item found #11497
+[07:33:16] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:16] post #11497 Successfully Imported
+[07:33:16] <strong>Record</strong> #131
+[07:33:16] Existing item found #11497
+[07:33:18] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:18] post #11497 Successfully Imported
+[07:33:18] <strong>Record</strong> #132
+[07:33:18] Existing item found #11497
+[07:33:20] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:20] post #11497 Successfully Imported
+[07:33:20] <strong>Record</strong> #133
+[07:33:20] Existing item found #11497
+[07:33:21] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:21] post #11497 Successfully Imported
+[07:33:21] <strong>Record</strong> #134
+[07:33:21] Existing item found #11497
+[07:33:23] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:23] post #11497 Successfully Imported
+[07:33:23] <strong>Record</strong> #135
+[07:33:23] Existing item found #11497
+[07:33:25] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:25] post #11497 Successfully Imported
+[07:33:25] <strong>Record</strong> #136
+[07:33:25] Existing item found #11497
+[07:33:26] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:26] post #11497 Successfully Imported
+[07:33:26] <strong>Record</strong> #137
+[07:33:26] Existing item found #11497
+[07:33:28] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:28] post #11497 Successfully Imported
+[07:33:28] <strong>Record</strong> #138
+[07:33:28] Existing item found #11497
+[07:33:30] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:30] post #11497 Successfully Imported
+[07:33:30] <strong>Record</strong> #139
+[07:33:30] Existing item found #11497
+[07:33:31] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:31] post #11497 Successfully Imported
+[07:33:31] <strong>Record</strong> #140
+[07:33:31] Existing item found #11497
+[07:33:33] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:33] post #11497 Successfully Imported
+[07:33:35] <strong>Record</strong> #141
+[07:33:35] Existing item found #11497
+[07:33:37] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:37] post #11497 Successfully Imported
+[07:33:37] <strong>Record</strong> #142
+[07:33:37] Existing item found #11497
+[07:33:38] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:38] post #11497 Successfully Imported
+[07:33:38] <strong>Record</strong> #143
+[07:33:38] Existing item found #11497
+[07:33:40] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:40] post #11497 Successfully Imported
+[07:33:40] <strong>Record</strong> #144
+[07:33:40] Existing item found #11497
+[07:33:42] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:42] post #11497 Successfully Imported
+[07:33:42] <strong>Record</strong> #145
+[07:33:42] Existing item found #11497
+[07:33:44] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:44] post #11497 Successfully Imported
+[07:33:44] <strong>Record</strong> #146
+[07:33:44] Existing item found #11497
+[07:33:45] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:45] post #11497 Successfully Imported
+[07:33:45] <strong>Record</strong> #147
+[07:33:45] Existing item found #11497
+[07:33:47] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:47] post #11497 Successfully Imported
+[07:33:47] <strong>Record</strong> #148
+[07:33:47] Existing item found #11497
+[07:33:49] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:49] post #11497 Successfully Imported
+[07:33:49] <strong>Record</strong> #149
+[07:33:49] Existing item found #11497
+[07:33:51] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:51] post #11497 Successfully Imported
+[07:33:51] <strong>Record</strong> #150
+[07:33:51] Existing item found #11497
+[07:33:53] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:53] post #11497 Successfully Imported
+[07:33:53] <strong>Record</strong> #151
+[07:33:53] Existing item found #11497
+[07:33:55] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:55] post #11497 Successfully Imported
+[07:33:55] <strong>Record</strong> #152
+[07:33:55] Existing item found #11497
+[07:33:57] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:57] post #11497 Successfully Imported
+[07:33:57] <strong>Record</strong> #153
+[07:33:57] Existing item found #11497
+[07:33:59] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:33:59] post #11497 Successfully Imported
+[07:33:59] <strong>Record</strong> #154
+[07:33:59] Existing item found #11497
+[07:34:01] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:01] post #11497 Successfully Imported
+[07:34:01] <strong>Record</strong> #155
+[07:34:01] Existing item found #11497
+[07:34:03] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:03] post #11497 Successfully Imported
+[07:34:03] <strong>Record</strong> #156
+[07:34:03] Existing item found #11497
+[07:34:04] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:04] post #11497 Successfully Imported
+[07:34:05] <strong>Record</strong> #157
+[07:34:05] Existing item found #11497
+[07:34:06] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:06] post #11497 Successfully Imported
+[07:34:06] <strong>Record</strong> #158
+[07:34:06] Existing item found #11497
+[07:34:08] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:08] post #11497 Successfully Imported
+[07:34:08] <strong>Record</strong> #159
+[07:34:08] Existing item found #11497
+[07:34:10] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:10] post #11497 Successfully Imported
+[07:34:10] <strong>Record</strong> #160
+[07:34:10] Existing item found #11497
+[07:34:11] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:11] post #11497 Successfully Imported
+[07:34:12] <strong>Record</strong> #161
+[07:34:12] Existing item found #11497
+[07:34:14] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:14] post #11497 Successfully Imported
+[07:34:14] <strong>Record</strong> #162
+[07:34:14] Existing item found #11497
+[07:34:16] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:16] post #11497 Successfully Imported
+[07:34:16] <strong>Record</strong> #163
+[07:34:16] Existing item found #11497
+[07:34:18] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:18] post #11497 Successfully Imported
+[07:34:18] <strong>Record</strong> #164
+[07:34:18] Existing item found #11497
+[07:34:19] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:19] post #11497 Successfully Imported
+[07:34:19] <strong>Record</strong> #165
+[07:34:19] Existing item found #11497
+[07:34:21] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:21] post #11497 Successfully Imported
+[07:34:21] <strong>Record</strong> #166
+[07:34:21] Existing item found #11497
+[07:34:22] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:22] post #11497 Successfully Imported
+[07:34:22] <strong>Record</strong> #167
+[07:34:22] Existing item found #11497
+[07:34:24] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:24] post #11497 Successfully Imported
+[07:34:24] <strong>Record</strong> #168
+[07:34:24] Existing item found #11497
+[07:34:26] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:26] post #11497 Successfully Imported
+[07:34:26] <strong>Record</strong> #169
+[07:34:26] Existing item found #11497
+[07:34:28] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:28] post #11497 Successfully Imported
+[07:34:28] <strong>Record</strong> #170
+[07:34:28] Existing item found #11497
+[07:34:30] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:30] post #11497 Successfully Imported
+[07:34:30] <strong>Record</strong> #171
+[07:34:30] Existing item found #11497
+[07:34:32] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:32] post #11497 Successfully Imported
+[07:34:32] <strong>Record</strong> #172
+[07:34:32] Existing item found #11497
+[07:34:34] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:34] post #11497 Successfully Imported
+[07:34:34] <strong>Record</strong> #173
+[07:34:34] Existing item found #11497
+[07:34:37] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:37] post #11497 Successfully Imported
+[07:34:37] <strong>Record</strong> #174
+[07:34:37] Existing item found #11497
+[07:34:40] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:40] post #11497 Successfully Imported
+[07:34:40] <strong>Record</strong> #175
+[07:34:40] Existing item found #11497
+[07:34:43] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:43] post #11497 Successfully Imported
+[07:34:43] <strong>Record</strong> #176
+[07:34:43] Existing item found #11497
+[07:34:45] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:45] post #11497 Successfully Imported
+[07:34:46] <strong>Record</strong> #177
+[07:34:46] Existing item found #11497
+[07:34:48] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:48] post #11497 Successfully Imported
+[07:34:48] <strong>Record</strong> #178
+[07:34:48] Existing item found #11497
+[07:34:51] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:51] post #11497 Successfully Imported
+[07:34:51] <strong>Record</strong> #179
+[07:34:51] Existing item found #11497
+[07:34:52] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:52] post #11497 Successfully Imported
+[07:34:52] <strong>Record</strong> #180
+[07:34:52] Existing item found #11497
+[07:34:54] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:54] post #11497 Successfully Imported
+[07:34:55] <strong>Record</strong> #181
+[07:34:55] Existing item found #11497
+[07:34:57] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:57] post #11497 Successfully Imported
+[07:34:57] <strong>Record</strong> #182
+[07:34:57] Existing item found #11497
+[07:34:59] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:34:59] post #11497 Successfully Imported
+[07:34:59] <strong>Record</strong> #183
+[07:34:59] Existing item found #11497
+[07:35:02] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:35:02] post #11497 Successfully Imported
+[07:35:02] <strong>Record</strong> #184
+[07:35:02] Existing item found #11497
+[07:35:05] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:35:05] post #11497 Successfully Imported
+[07:35:05] <strong>Record</strong> #185
+[07:35:05] Existing item found #11497
+[07:35:07] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:35:07] post #11497 Successfully Imported
+[07:35:07] <strong>Record</strong> #186
+[07:35:07] Existing item found #11497
+[07:35:09] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:35:09] post #11497 Successfully Imported
+[07:35:09] <strong>Record</strong> #187
+[07:35:09] Existing item found #11497
+[07:35:11] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:35:11] post #11497 Successfully Imported
+[07:35:11] <strong>Record</strong> #188
+[07:35:11] Existing item found #11497
+[07:35:13] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:35:13] post #11497 Successfully Imported
+[07:35:13] <strong>Record</strong> #189
+[07:35:13] Existing item found #11497
+[07:35:15] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:35:15] post #11497 Successfully Imported
+[07:35:15] <strong>Record</strong> #190
+[07:35:15] Existing item found #11497
+[07:35:17] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:35:17] post #11497 Successfully Imported
+[07:35:17] <strong>Record</strong> #191
+[07:35:17] Existing item found #11497
+[07:35:20] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:35:20] post #11497 Successfully Imported
+[07:35:20] <strong>Record</strong> #192
+[07:35:20] Existing item found #11497
+[07:35:23] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:35:23] post #11497 Successfully Imported
+[07:35:23] <strong>Record</strong> #193
+[07:35:23] Existing item found #11497
+[07:35:25] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:35:25] post #11497 Successfully Imported
+[07:35:25] <strong>Record</strong> #194
+[07:35:25] Existing item found #11497
+[07:35:28] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:35:28] post #11497 Successfully Imported
+[07:35:28] <strong>Record</strong> #195
+[07:35:28] Existing item found #11497
+[07:35:30] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:35:30] post #11497 Successfully Imported
+[07:35:30] <strong>Record</strong> #196
+[07:35:30] Existing item found #11497
+[07:35:33] <strong>Warning</strong> : File Download Error : Invalid File Format
+[07:35:33] post #11497 Successfully Imported
