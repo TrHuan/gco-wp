@@ -1,0 +1,117 @@
+
+---Downloaded files---
+The import files for: Clean Store were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://bepbon.com
+Data file = /home/bepbonco/public_html/wp-content/themes/stockie/demo/10/content.xml
+Widget file = /home/bepbonco/public_html/wp-content/themes/stockie/demo/10/widgets.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "st__product__1.3-min-4" (Đa phương tiện)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "st__product__1.3-min-4" (Đa phương tiện)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "st__product__1.3-min-4" (Đa phương tiện)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "st__product__1.3-min-4" (Đa phương tiện)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "st__product__1.3-min-4" (Đa phương tiện)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "st__product__1.3-min-4" (Đa phương tiện)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "st__product__1.3-min-4" (Đa phương tiện)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "st__product__1.3-min-4" (Đa phương tiện)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "st__product__1.3-min-4" (Đa phương tiện)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "st__product__1.3-min-4" (Đa phương tiện)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "st__product__1.3-min-4" (Đa phương tiện)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "st__product__1.3-min-4" (Đa phương tiện)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "st__product__1.3-min-4" (Đa phương tiện)
+
+
+---Importing widgets---
+Blog : 
+
+Tìm kiếm - No Title - Widget already exists
+Bài viết mới - No Title - Widget already exists
+Phản hồi gần đây - No Title - Widget already exists
+Lưu trữ - No Title - Widget already exists
+Chuyên mục - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer column 1 : 
+
+Stockie: Logo - No Title - Widget already exists
+Stockie: Contact block - No Title - Imported
+HTML Tùy chỉnh - No Title - Imported
+
+Footer column 2 : 
+
+Trang - Get Help - Imported
+Thanh điều hướng - Get Help - Imported
+
+Footer column 3 : 
+
+Các danh mục sản phẩm - Popular Categories - Imported
+
+Footer column 4 : 
+
+Stockie: Subscribe - Let&#039;s stay in touch - Imported
+Văn bản - No Title - Imported
+
+Shop : 
+
+Tìm kiếm sản phẩm - No Title - Widget already exists
+Lọc sản phẩm bởi giá - Filter by price - Widget already exists
+Các danh mục sản phẩm - Product categories - Widget already exists
+
+
+
+---pt-ocdi/after_import---
+

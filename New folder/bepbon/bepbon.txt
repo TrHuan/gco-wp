@@ -1,0 +1,26 @@
+* Trang chủ
+- desktop + mobile - Tại sao chọn? - nội dung chữ to ra                                                 - done
+                   - sản phẩm nổi bật: tab đầu tiên là danh mục cha, các tab sau là các danh mục con    - done
+                   - banner chuyển thành ảnh + text                                                     - done
+                   - thêm menu các hãng phía bên trên lý do (???)
+
+- Mobile - thay dmsp = search               - done
+         - dmsp đầu trang cho vòa menu      - done
+         - chuyển menu sang trái
+
+- khối sản phẩm ở các trang: giống nhau giữa các trang, thêm - ratting
+                                                             - thay tên hiển thị sản phẩm thành mã sản phẩm
+                                                            nhưng vào chi tiết thì hiện binhg thường
+                                                             - ko có khối quà tặng thì hiện categories
+                                                             - giá để 2 dòng
+
+- các nút ghim cho hiệu ứng động, cho xuống cuối trang
+
+* chi tiết sản phẩm
+- Mobile: - phần album ảnh, các ảnh bé chuyển thành ...
+          - giá to lên                                      - done
+          - các button cân với 2 bên lề
+          - bỏ phần khảo sát
+          - thêm button ở chỗ phần khảo sát vừa bỏ
+
+* breadcrumb - thêm danh mục trước tên sản phẩm             - done

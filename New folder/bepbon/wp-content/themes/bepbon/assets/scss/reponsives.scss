@@ -1,0 +1,292 @@
+@import 'settings';
+
+@media (max-width: 1269px) {
+	.footer-fixed {
+		bottom: 15px;
+		right: 15px;
+	}
+	
+	// Code
+
+	.search-box .content-box .search-container {
+	    width: 220px;	    
+	}
+}
+
+@media (max-width: 1199px) {
+	// Code
+	.back-to-top {
+		bottom: 15px;
+		right: 15px;
+	}
+
+	.header {
+		.item-col-1 {
+		    max-width: 160px;
+		}
+
+		.item-col-2 {
+		    max-width: calc(100% - 160px);
+		}
+
+		.groups-box {
+			margin: 0 -5px;
+
+			>* {
+			    padding: 0 5px;
+			}
+		}
+	}
+
+	.megamenu .menu li {
+	    padding: 31px 8px;
+	}
+
+	.footer-main .row>* {
+		width: 50%;
+	}
+
+	.footer-main .footer-box {
+		padding-top: 0;
+	}
+
+	.posts-list .groups-box .item:not(:first-child) {
+	    width: calc(100% / 2);
+	}
+
+	.main-products .products-list .groups-box .item {
+		width: 50%;
+	}
+
+	.lth-banner .content {
+		.text-3 {
+		    margin-bottom: 15px;
+		}
+
+		.lth-banner .content a {
+		    padding: 3px 15px;
+		    font-size: 12px;
+		}
+	}
+}
+
+@media (max-width: 991px) {
+	.page-searchs {
+		.searchs-list {			
+			.item {
+				width: calc(100% / 2);
+			}
+		}
+	}
+
+	// Code
+
+	.header-stick {
+		padding: 19px 0;
+	}
+
+	.lth-slider {
+		.item-col-1,
+		.item-col-2 {
+			max-width: 100%;
+		}
+	}
+
+	.slick-slidershow {
+		margin-top: 28px;
+	}
+
+	.lth-products {
+		.products {
+			max-width: 100%;
+		}
+		
+		.banner {
+			padding: 0;
+			margin: 0 auto;
+		}
+	}
+
+	.lth-section {
+		.wp-block-column {
+			flex-basis: 100% !important;
+
+			&:not(:last-child) {
+				margin-bottom: 15px;
+			}
+		}
+	}
+
+	.lth-banner {
+		max-width: 614px;
+		margin: 0 auto;
+	}
+
+	.lth-toggle .entry-header {
+	    max-width: 100%;
+	}
+
+	.main-blogs .lth-blogs .sidebars {
+	    top: 0;
+	    padding-top: 15px;
+	}
+
+	.main-products {
+		.col-item-1,
+		.col-item-2 {
+			max-width: 100%;
+		}
+
+		.sidebars {
+			margin-bottom: 30px;
+		}
+
+		.sidebar-product {
+			.menus {
+				.menu-close,
+				.menu-open {
+					display: none !important;
+				}
+			}
+		}
+
+		.products-list .groups-box .item {
+			width: calc(100% / 3);
+		}
+	}
+
+	.lth-popups.buynow .product-content-box .entry-summary .product_title {
+		display: block;
+	}
+
+	.lth-products .banner {
+		margin-bottom: 20px;
+	}
+}
+
+@media (max-width: 767px) {
+	section {
+		margin: 30px 0 !important;
+
+		&.lth-slidershow {
+			margin: 0 !important;
+		}
+	}
+
+	.product-content-box {
+		> * {
+			width: 100%;
+		}
+
+		.product-images {
+			margin-bottom: 20px;
+		}
+	}
+
+	.main-products .products-list .groups-box>* {
+		width: 50%;
+	}
+
+	// Code
+
+	.footer-bottom .module__content {
+		display: block;
+	}
+
+	.footer-bottom ul {
+		padding-left: 0;
+	}
+
+	.main-products .products-list .groups-box .item {
+		width: 50%;
+	}
+
+	.lth-popups.buynow .product-content-box .entry-summary,
+	.lth-popups.buynow .product-content-box .entry-summary {
+		width: 100%;
+	}
+
+	.lth-popups.buynow .product-content-box .product-images img,
+	.lth-popups.buynow .product-content-box .product-images {
+	    width: 100%;
+	}
+
+	.lth-banner .content .text-2 {
+	    margin-bottom: 3px;
+	}
+}
+
+@media (max-width: 575px) {	
+	.page-searchs {
+		.searchs-list {			
+			.item {
+				width: 100%;
+			}
+		}
+	}
+
+	// code
+
+	.main-products .products-list .products-box {
+		margin-bottom: 30px;
+		
+		> * {
+			width: 100%;
+		}
+
+		.woocommerce-result-count {
+			margin-bottom: 15px;
+		}
+	}
+
+	// Code
+
+	.footer-main .row>* {
+	    width: 100%;
+	}
+
+	.lth-banner .content {
+	    position: initial;
+	    margin-top: 10px;
+
+	    .text-3 {
+	    	padding: 0;
+	    	background: none;
+	    	margin-bottom: 20px;
+	    }
+	}
+
+	.posts-list .groups-box .item:not(:first-child) {
+		width: 100%;
+	}
+
+	.main-products .products-list .groups-box .item {
+		width: 100%;
+	}
+
+	.main-products {
+		.products-filter {
+			// margin: 0 -6px;
+
+			> * {
+				width: 100%;
+				// padding: 0 6px;
+			}
+		}
+
+		.product_filter {
+		    width: 100%;
+		    margin-right: 0 !important;
+		}
+	}
+
+}
+
+@media (max-width: 479px) {
+	.main-products .products-list .groups-box>* {
+		width: 100%;
+	}
+
+	// Code
+
+}
