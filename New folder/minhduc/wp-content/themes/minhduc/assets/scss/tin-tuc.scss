@@ -1,0 +1,242 @@
+@import 'base';
+@import 'function';
+
+.tops-news__pages {
+    >.row {
+        &>[class^='col'] {
+            &:nth-child(1) {
+                .items-prj__pages>a {
+                    padding-top: 50%;
+                }
+
+                .name-prj__pages {
+                    text-transform: uppercase;
+                }
+            }
+        }
+    }
+
+    .items-prj__pages {
+        margin-bottom: 10px;
+    }
+
+}
+
+.list-news__pages {
+    .items-news__mains {
+        margin-bottom: 20px;
+    }
+
+    .btn-greys__trans {
+        border-radius: 5px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+
+
+
+.text-news__details {
+    img {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+}
+
+.details-news__sidebars {
+    .items-prj__pages {
+        &:not(:last-child) {
+            margin-bottom: 15px;
+        }
+    }
+}
+
+
+.box-right__details {
+
+    &:not(:last-child) {
+        margin-bottom: 30px;
+        padding-bottom: 30px;
+        border-bottom: solid 1px #E0E0E0;
+    }
+
+
+    .list-btn__choose {
+        flex-wrap: wrap;
+        width: 100%;
+
+        li {
+            width: 100%;
+            margin-bottom: 15px;
+        }
+    }
+}
+
+.title-support__sidebars {
+    font-family: 'Roboto-Bold';
+}
+
+.title-text__befores {
+    display: flex;
+    align-items: center;
+    font-family: 'HelveticaNeue-Medium';
+
+    &:before {
+        content: "";
+        display: flex;
+        width: 6px;
+        height: 6px;
+        border-radius: 1000px;
+        background-color: #333333;
+        margin: 0px 10px;
+    }
+}
+
+
+.prj-relates__details {
+    .items-prj__pages {
+        margin-bottom: 15px;
+
+        >a {
+            padding-top: 135%;
+        }
+    }
+}
+
+
+.content-news__details {
+    .list-btn__choose {
+        width: 100%;
+    }
+}
+
+
+
+.btn-side__bars {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    transition: all 0.3s;
+    cursor: pointer;
+
+    &:before {
+        position: absolute;
+        font-family: 'fontawesome';
+        content: "\f107";
+        font-size: 18px;
+        transition: all 0.1s;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    &:after {
+        position: absolute;
+        content: "";
+        font-family: 'fontawesome';
+        content: "\f106";
+        opacity: 0;
+        visibility: hidden;
+        transition: all 0.1s;
+    }
+}
+
+
+.list-sevice__sidebar {
+    padding: 0px 15px;
+
+    li {
+        position: relative;
+        transition: all 0.3s;
+        padding: 10px 0px;
+
+        a {
+            color: #262626;
+            display: flex;
+            width: fit-content;
+            font-size: 15px;
+
+            &:hover,
+            &:focus {
+                color: $oranges;
+            }
+        }
+
+        ul {
+            display: none;
+
+            li {
+
+                &:not(:last-child) {
+                    border-bottom: solid 1px #EBEBEB;
+                }
+
+                a {
+                    position: relative;
+
+                    &:hover,
+                    &:focus {}
+                }
+            }
+        }
+
+    }
+
+    >li {
+
+        &:before {
+            content: "";
+            width: 7px;
+            height: 7px;
+            border-radius: 1000px;
+            background-color: $oranges;
+            position: absolute;
+            left: 0px;
+            top: 20px;
+            display: flex;
+            opacity: 0;
+        }
+    }
+}
+
+.active-seivce__sidebars {
+    padding-left: 20px !important;
+
+    &:before {
+        opacity: 1 !important;
+    }
+
+    .btn-side__bars {
+
+        &:before {
+            opacity: 0;
+            visibility: hidden;
+        }
+
+        &:after {
+            opacity: 1;
+            visibility: visible;
+        }
+    }
+
+    >a {
+        color: $blues !important;
+        font-family: 'HelveticaNeue-Medium';
+    }
+
+}
+
+.box-nav__sevices {
+    background-color: #F7F8F9;
+}
+
+.titles-nav__sevices {
+    padding: 20px;
+    border-bottom: solid 1px #E0E0E0;
+}

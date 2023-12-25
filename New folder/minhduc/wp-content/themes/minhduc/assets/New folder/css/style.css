@@ -1,0 +1,100 @@
+.header-top-box .top-left > h3 {
+	display: none;
+}
+
+.search-box .btn {
+	color: #fff;
+}
+
+form .wpcf7-form-control {
+    background: none;
+    background-color: #fff;
+    border: 1px solid #c4c4c4;
+    width: 100%;
+    font-size: 18px;
+    padding: 0 15px;
+    border-radius: 5px;
+    height: 40px;
+    color: #000;
+}
+form .wpcf7-form-control:focus,
+form .wpcf7-form-control:hover {
+    box-shadow: none;
+    border-color: #e5e5e5;
+}
+footer form .form-content .wpcf7-form-control {
+    font-size: 16px;
+    padding: 0 15px;
+    height: 40px;
+    border-radius: 5px;
+}
+footer form .form-content .form-button {
+	position: relative;
+    margin-left: 10px;
+}
+footer form .form-content .wpcf7-submit {
+    font-size: 16px;
+    color: #000;
+    background-color: #00A954;
+    border-radius: 5px;
+    padding: 7px 6px;
+    border: none;
+    transition: all 400ms;
+    font-weight: 700;
+}
+footer form .form-content .wpcf7-submit:hover {
+    background-color: #fff;
+    color: #00A954;
+}
+footer form .form-button .wpcf7-spinner {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	margin: 0;
+}
+
+.module_banners .module_content .btn {
+	color: #fff;
+}
+.module_banners .module_content .btn:hover {
+	background-color: #fff;
+}
+
+.title-box .title a {
+	font-size: inherit;
+	font-weight: inherit;
+	color: inherit;
+}
+
+.module_products .module_button a:after {
+	transition: all 400ms;
+}
+
+.added_to_cart.wc-forward {
+	display: none !important;
+}
+.module_products .content-name {
+	margin-bottom: 0;
+}
+.module_products .content-prices .price {
+	display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+	min-height: 60px;
+}
+.module_products .content-prices ins {
+	text-decoration: none;
+}
+.module_products .content-prices ins .amount {
+    color: #ff0000;
+}
+.module_products .content-prices del .amount {
+    font-size: 14px;
+    text-decoration: line-through;
+    color: #000;
+}
+
+.module_blogs .content-button a:after {
+    transition: all 400ms;
+}

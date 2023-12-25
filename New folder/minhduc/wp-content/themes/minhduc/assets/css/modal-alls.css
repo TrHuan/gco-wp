@@ -1,0 +1,170 @@
+/* :not(:last-child) */
+/* :nth-child(1n+0) */
+.modal-small .modal-dialog {
+  max-width: 800px;
+}
+.modal-small .modal-dialog .modal-content {
+  position: relative;
+}
+.modal-small .modal-dialog .modal-content .close-modal__alls {
+  position: absolute;
+  top: -20px;
+  right: -20px;
+  z-index: 10;
+}
+
+.modal-small.modal-tiny__carts .modal-dialog {
+  max-width: 520px;
+}
+
+.close-modal__alls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 1000px;
+  border: 0px;
+  background-color: #E5EBF4;
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.3);
+}
+.close-modal__alls img {
+  width: 18px;
+  height: 18px;
+  object-fit: scale-down;
+}
+
+.content-modals__small > .row {
+  height: 100%;
+}
+.content-modals__small > .row .modal-small__rights {
+  padding: 40px;
+}
+.content-modals__small > .row .bg-modals__small {
+  height: 100%;
+  background: linear-gradient(180deg, #EAF0F9 0%, #C8D7EE 100%);
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+.content-modals__small > .row .bg-modals__small img {
+  margin-bottom: 20px;
+  max-width: 180px;
+  object-fit: scale-down;
+}
+.content-modals__small > .row .bg-modals__small p {
+  max-width: 180px;
+  color: #0F40BD;
+}
+
+.control-modal__small {
+  border: 0px;
+  border-bottom: 1px solid #E0E0E0;
+  padding: 0px;
+  padding-bottom: 10px;
+  width: 100%;
+  font-size: 15px;
+  color: #808080;
+}
+
+.modal-small__rights .btn-blues__alls {
+  width: 100%;
+}
+.modal-small__rights .btn-reds__alls {
+  width: 100%;
+}
+.modal-small__rights .btn-see__alls {
+  width: fit-content;
+}
+
+.login-by__apps .titles-apps__modal {
+  display: flex;
+  align-items: flex-end;
+  position: relative;
+  color: #808080;
+  line-height: 1;
+}
+.login-by__apps .titles-apps__modal:before {
+  content: "";
+  width: 100%;
+  flex: 1;
+  height: 1px;
+  background-color: #E0E0E0;
+  margin-right: 5px;
+}
+.login-by__apps .titles-apps__modal:after {
+  content: "";
+  width: 100%;
+  flex: 1;
+  height: 1px;
+  background-color: #E0E0E0;
+  margin-left: 5px;
+}
+
+.list-login__apps {
+  display: flex;
+  justify-content: center;
+}
+.list-login__apps li:not(:last-child) {
+  margin-right: 20px;
+}
+.list-login__apps li img {
+  width: 58px;
+  height: 58px;
+  border-radius: 1000px;
+}
+
+.text-modal__rules {
+  font-size: 11px;
+  color: #808080;
+  text-align: center;
+}
+.text-modal__rules a {
+  text-decoration: underline;
+}
+
+.backs-modals__alls {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 30px;
+  height: 30px;
+  font-size: 30px;
+  background-color: #FFFFFF;
+  border: 0px;
+  color: #808080;
+}
+
+.passwords-sms__modal {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.passwords-sms__modal li:not(:last-child) {
+  margin-right: 10px;
+}
+
+.groups-verification__code {
+  display: flex;
+  justify-content: center;
+}
+.groups-verification__code .input-modal__small.control-modal__small {
+  width: 35px;
+  font-size: 32px;
+  color: #808080;
+  text-align: center;
+}
+.groups-verification__code .input-modal__small.control-modal__small:not(:last-child) {
+  margin-right: 20px;
+}
+
+.content-tiny__carts {
+  padding: 150px 100px;
+  text-align: center;
+}
+.content-tiny__carts .btn-blues__alls {
+  width: 100%;
+}

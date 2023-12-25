@@ -1,0 +1,21 @@
+.a {
+  display: flex;
+  position: relative;
+  height: 1px;
+  width: 100%;
+  padding-top: 65%;
+}
+.a img {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* :not(:last-child) */
+/* :nth-child(1n+0) */
+.img-sevice-differents img {
+  width: 100%;
+}

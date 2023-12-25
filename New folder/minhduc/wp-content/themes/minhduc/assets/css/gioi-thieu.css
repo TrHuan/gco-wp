@@ -1,0 +1,104 @@
+.a {
+  display: flex;
+  position: relative;
+  height: 1px;
+  width: 100%;
+  padding-top: 65%;
+}
+.a img {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* :not(:last-child) */
+/* :nth-child(1n+0) */
+.why-choose__about {
+  max-width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.why-choose__about .titles-choose__about {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.items-why__chooes .tops-why__choose {
+  display: flex;
+  justify-content: center;
+  width: fit-content;
+  margin-left: 20px;
+}
+.items-why__chooes .tops-why__choose i {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 47px;
+  height: 47px;
+  min-width: 47px;
+  border-radius: 1000px;
+  background-color: #F7941D;
+  margin-right: 10px;
+}
+
+.img-why__chooses {
+  max-width: 880px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img-why__chooses img {
+  width: 100%;
+}
+
+.img-achievements__abouts img {
+  width: 100%;
+}
+
+.achievements-abouts {
+  background-color: #F0F4F8;
+}
+
+.about-teams__pages {
+  max-width: 910px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.about-teams__pages img {
+  width: 100%;
+}
+.about-teams__pages .title-after__mains {
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.about-teams__pages .title-after__mains:before {
+  margin: 0px auto;
+  right: 0;
+  transform: translateX(-20px);
+}
+.about-teams__pages .title-after__mains:after {
+  margin: 0px auto;
+  right: 0;
+  transform: translateX(25px);
+}
+
+.text-about__teams {
+  max-width: 780px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.vision-abouts {
+  background-color: #F0F4F8;
+}
+
+.img-vision__abouts img {
+  width: 100%;
+}
+
+.text-vision__abouts {
+  padding-top: 5%;
+}
