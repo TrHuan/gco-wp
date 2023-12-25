@@ -1,0 +1,20 @@
+- header-top, menu, footer: cùng màu nền với menu #232D39									- done
+- header-top logo MXH: đồng bộ footer 													- done
+- xóa dự án trên menu 																	- done
+- Trang chủ - video : thêm tiêu đề trên video, showw luôn video ko để popup				- done
+
+- footer: .footer-widget-wrapper.footer-widget-style-7 { 								- done
+		    width: 48%; 																
+		}
+		#widget-area .footer-widget-wrapper.last {
+		    margin-right: 0;
+		}
+	MXH: màu giống MXH trên header top 													- done
+
+- trang con: tiêu đề bỏ nền icon... chỉ để text 										- done
+- Giới thiệu: show hết ko để toggle														- done
+- dịch vụ môi giới, đại diện môi giới: code giống đầu tư BĐS							- done
+
+
+- dịch vụ ký gửi: từ KHÁI NIỆM KÝ GỬI NHÀ ĐẤT & KÝ GỬI BẤT ĐỘNG SẢN xuống để dạng		- done
+toggle thay border left bằng ô vuông có dấu + (https://jackby.com/ban-nha-mat-pho/)												
