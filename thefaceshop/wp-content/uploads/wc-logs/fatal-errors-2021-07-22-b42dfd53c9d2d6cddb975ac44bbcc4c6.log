@@ -1,0 +1,42 @@
+2021-07-22T04:07:01+00:00 CRITICAL require_once(): Failed opening required 'D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop/wp-content/themes/thefaceshop/woocommerce/cart/mini-cart-ajax.php' (include_path='.;C:\php\pear') in D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\header.php on line 133
+
+2021-07-22T07:25:39+00:00 CRITICAL Uncaught Error: Class 'WPSEO_Primary_Term' not found in D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\inc\breadcrumbs\breadcrumb-content.php:75
+Stack trace:
+#0 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\inc\breadcrumbs.php(11): require_once()
+#1 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\header.php(170): require_once('D:\\wamp64\\www\\j...')
+#2 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-includes\template.php(770): require_once('D:\\wamp64\\www\\j...')
+#3 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-includes\template.php(716): load_template('D:\\wamp64\\www\\j...', true, Array)
+#4 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#5 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\woocommerce\single-product.php(22): in D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\inc\breadcrumbs\breadcrumb-content.php on line 75
+
+2021-07-22T07:27:46+00:00 CRITICAL Uncaught Error: Class 'WPSEO_Primary_Term' not found in D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\inc\breadcrumbs\breadcrumb-content.php:75
+Stack trace:
+#0 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\inc\breadcrumbs.php(11): require_once()
+#1 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\header.php(170): require_once('D:\\wamp64\\www\\j...')
+#2 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-includes\template.php(770): require_once('D:\\wamp64\\www\\j...')
+#3 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-includes\template.php(716): load_template('D:\\wamp64\\www\\j...', true, Array)
+#4 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#5 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\woocommerce\single-product.php(22): in D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\inc\breadcrumbs\breadcrumb-content.php on line 75
+
+2021-07-22T07:30:08+00:00 CRITICAL Uncaught Error: Class 'WPSEO_Primary_Term' not found in D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\inc\breadcrumbs\breadcrumb-content.php:75
+Stack trace:
+#0 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\inc\breadcrumbs.php(11): require_once()
+#1 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\header.php(170): require_once('D:\\wamp64\\www\\j...')
+#2 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-includes\template.php(770): require_once('D:\\wamp64\\www\\j...')
+#3 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-includes\template.php(716): load_template('D:\\wamp64\\www\\j...', true, Array)
+#4 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#5 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\woocommerce\single-product.php(22): in D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\inc\breadcrumbs\breadcrumb-content.php on line 75
+
+2021-07-22T09:03:58+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\plugins\woocommerce\templates\single-product\sale-flash.php:25
+Stack trace:
+#0 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1609): wc_get_template('single-product/...')
+#2 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-includes\class-wp-hook.php(303): woocommerce_show_product_sale_flash('')
+#3 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\footer.php(89): do_a in D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\plugins\woocommerce\templates\single-product\sale-flash.php on line 25
+
+2021-07-22T09:18:18+00:00 CRITICAL syntax error, unexpected 'product_id' (T_STRING), expecting ']' in D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\woocommerce\product-box\product-box.php on line 28
+
+2021-07-22T09:20:24+00:00 CRITICAL syntax error, unexpected 'product_id' (T_STRING), expecting ']' in D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\woocommerce\product-box\product-box.php on line 28
+

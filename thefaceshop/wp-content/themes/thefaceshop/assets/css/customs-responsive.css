@@ -1,0 +1,250 @@
+/*=============== Extra Large(xl) Device ===============*/
+@media (min-width: 1200px) and (max-width: 1599px) {
+
+}
+
+/*=============== Large(LG) Device ===============*/
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+/*=============== 0 to 1199 Device ===============*/
+@media (max-width: 1199px) {
+    .footer-box {
+        max-width: 100%;
+        width: 50%;
+    }
+
+    .megamenu-desktop .nav-menu>li>.sub-menu {
+        width: 600px;
+    }
+}
+
+/*=============== Medium (md) Device ===============*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/*=============== 0 to 991 ===============*/
+@media (max-width: 991px) {
+    header {
+        background: #f37b3c none repeat scroll 0 0;
+        position: relative;
+    }
+
+    .module__slidershow .slide {
+        padding: 0;
+    }
+
+    .lth-features {
+        padding: 0;
+    }
+
+    .lth-features .container {
+        position: initial;
+        transform: translate(0, 0);
+    }
+
+    .module_contacts {
+        background: none;
+        min-height: 410px;
+    }
+
+    footer {
+        padding-top: 50px;
+    }
+
+    .blogs-list .groups-box > * {
+        width: 50%;
+    }
+
+    .post-single {
+        padding-bottom: 0;
+    }
+
+    .lth-products .row {
+        flex-direction: column-reverse;
+    }
+
+    .products-list {
+        margin-bottom: 40px;
+    }
+
+    .woocommerce-order-details .woocommerce-tables,
+    .main-page .woocommerce-cart-form .table {
+        overflow-x: auto;
+    }
+
+    .woocommerce-order-details .order_details,
+    .main-page .woocommerce-cart-form table {
+        width: 690px;
+    }
+
+    .woocommerce-checkout .row {
+        flex-direction: column-reverse;
+    }
+
+    .woocommerce-checkout .cart-list {
+        margin-bottom: 30px;
+    }
+
+    .woocommerce-order > div > * {
+        width: 100%;
+    }
+
+    .searchs-list .module_products .groups-box > * {
+        width: calc(100% / 3);
+    }
+
+    /*.menu-mobile .menu-content {
+        background: #131e2c none repeat scroll 0 0;
+        float: left;
+        left: 0;
+        min-height: 0;
+        padding: 0;
+        position: absolute;
+        top: 100%;
+        width: 100%;
+        z-index: 999999;
+    }
+
+    .menu-mobile .menu-content ul li a {
+        color: #ffffff;
+        display: block;
+        font-size: 12px;
+        font-weight: 500;
+        margin: 0;
+        padding: 13px 5%;
+        text-transform: uppercase;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }*/
+
+    .single-support .support-desc {
+        width: calc(100% - 80px);
+    }
+}
+
+/*=============== Small (sm) Device ===============*/
+@media (max-width: 767px) {
+    .menu-mobile .menu-menu-container .nav-menu a {
+        padding-left: 20px;
+    }
+
+    .menu-mobile .menu-menu-container .nav-menu .sub-menu li a {
+        padding-left: 40px;
+    }
+
+    .menu-mobile .menu-menu-container .nav-menu .sub-menu .sub-menu a {
+        padding-left: 60px;
+    }
+
+    .tags-social > * {
+        width: 100%;
+    }
+
+    .blog-social ul {
+        justify-content: flex-start;
+    }
+
+    .products-list .groups-box > * {
+        width: 50%;
+    }
+
+    .product-content-box .product-images,
+    .product-content-box>* {
+        width: 100%;
+    }
+
+    .product-content-box .product-images {
+        margin-bottom: 30px;
+    }
+
+    .searchs-list .module_products .groups-box > * {
+        width: 50%;
+    }
+
+    .main-page .page {
+        padding: 50px 0;
+    }
+
+    .main-page .page .module_title {
+        margin-bottom: 0;
+    }
+
+    #yith-quick-view-content div.summary,
+    #yith-quick-view-content .main-product-thumbnail {
+        width: 100%;
+    }
+
+    .search-box .search-form {
+        width: 340px;
+    }
+
+    .shopcart .cart-content {
+        height: 240px;
+        overflow-x: hidden;
+        overflow-y: auto;
+    }
+}
+
+/*=============== Mobile Device ===============*/
+@media (max-width: 575px) {
+    .footer-box {
+        width: 100%;
+    }
+
+    .entry-meta {
+        width: 70px;
+    }
+
+    .entry-meta .date {
+        padding: 18px 15px;
+    }
+
+    .entry-meta .date::before {
+        width: 60px;
+    }
+
+    .main-page .woocommerce-billing-fields__field-wrapper #billing_email_field,
+    .main-page .woocommerce-billing-fields__field-wrapper #billing_phone_field {
+        width: 100%;
+    }
+
+    .blogs-list .groups-box > * {
+        width: 100%;
+    }
+}
+
+/*=============== Some Specific issues ===============*/
+@media (max-width: 500px) {
+    .products-list .products.list-view .single-aboss-product > * {
+        flex-basis:  100%;
+    }
+
+    .products-list .groups-box > * {
+        width: 100%;
+    }
+
+    .searchs-list .module_products .groups-box > * {
+        width: 100%;
+    }
+
+    .menu-mobile .menu-content .nav-menu .sub-menu li a {
+        padding-left: 30px;
+    }
+
+    .menu-mobile .menu-content .nav-menu .sub-menu .sub-menu a {
+        padding-left: 45px;
+    }
+
+    .search-box .search-form {
+        right: -100px;
+        width: 260px;
+    }
+}
+
+/*=============== Extra Small Mobile Device ===============*/
+@media (max-width: 420px) {
+
+}

@@ -1,0 +1,10 @@
+2021-07-13T01:12:00+00:00 CRITICAL syntax error, unexpected ')', expecting ',' or ';' in D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\woocommerce\cart\mini-cart.php on line 52
+
+2021-07-13T03:44:48+00:00 CRITICAL Uncaught Error: Call to undefined function get_title() in D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\templates\contact.php:13
+Stack trace:
+#0 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-includes\template-loader.php(106): include()
+#1 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\j...')
+#2 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\index.php(17): require('D:\\wamp64\\www\\j...')
+#3 {main}
+  thrown in D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\templates\contact.php on line 13
+

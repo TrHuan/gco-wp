@@ -1,0 +1,11 @@
+2021-07-14T03:31:20+00:00 CRITICAL Uncaught Error: Call to a member function is_in_stock() on null in D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\woocommerce\single-product\add-to-cart\simple.php:54
+Stack trace:
+#0 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1629): wc_get_template('single-product/...')
+#2 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-includes\class-wp-hook.php(292): woocommerce_simple_add_to_cart('')
+#3 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#4 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#5 D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\plugins\woocommerce\includes\wc-te in D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\woocommerce\single-product\add-to-cart\simple.php on line 54
+
+2021-07-14T04:06:10+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) in D:\wamp64\www\job\gco\wp\kho\2018\web-ban-hang\thefaceshop\wp-content\themes\thefaceshop\inc\BFI_Thumb\setting.php on line 35
+
