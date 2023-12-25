@@ -1,0 +1,19 @@
+{"link_id":"112292","link_url":"https:\/\/seoplus.com.vn\/thiet-ke-web-chuan-seo\/","link_title":null,"link_anchortext":"h\u01b0\u1edbng d\u1eabn thi\u1ebft k\u1ebf web chu\u1ea9n seo","link_desc":""}
+
+{"link_id":"112191","link_url":"https:\/\/seoplus.com.vn\/lsi-keyword\/","link_title":null,"link_anchortext":"Lsi Keyword","link_desc":""}
+
+{"link_id":"112146","link_url":"https:\/\/seoplus.com.vn\/chien-luoc-seo\/","link_title":null,"link_anchortext":"chi\u1ebfn l\u01b0\u1ee3c SEO","link_desc":""}
+
+{"link_id":"112202","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo-tai-nha-trang\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 SEO t\u1ea1i Nha Trang","link_desc":""}
+
+{"link_id":"112141","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo\/","link_title":null,"link_anchortext":"t\u01b0 v\u1ea5n seo","link_desc":""}
+
+{"link_id":"112335","link_url":"https:\/\/seoplus.com.vn\/cong-cu-tim-kiem-tu-khoa\/","link_title":null,"link_anchortext":"C\u00f4ng c\u1ee5 t\u00ecm ki\u1ebfm t\u1eeb kh\u00f3a","link_desc":""}
+
+{"link_id":"112145","link_url":"https:\/\/seoplus.com.vn\/chien-luoc-seo\/","link_title":null,"link_anchortext":"seo b\u1ec1n v\u1eefng","link_desc":""}
+
+{"link_id":"112280","link_url":"https:\/\/seoplus.com.vn\/code-chuan-seo\/","link_title":null,"link_anchortext":"code chu\u1ea9n seo","link_desc":""}
+
+{"link_id":"112150","link_url":"https:\/\/seoplus.com.vn\/ke-hoach-seo-tong-the\/","link_title":null,"link_anchortext":"seo t\u1ed5ng th\u1ec3","link_desc":""}
+
+{"link_id":"112228","link_url":"https:\/\/seoplus.com.vn\/cach-su-dung-yoast-seo\/","link_title":null,"link_anchortext":"C\u00e1ch s\u1eed d\u1ee5ng Yoast seo","link_desc":""}

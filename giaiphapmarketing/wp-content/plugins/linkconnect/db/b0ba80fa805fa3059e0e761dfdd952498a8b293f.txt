@@ -1,0 +1,19 @@
+{"link_id":"112095","link_url":"https:\/\/seoplus.com.vn\/over-optimize\/","link_title":null,"link_anchortext":"over optimize","link_desc":""}
+
+{"link_id":"112267","link_url":"https:\/\/seoplus.com.vn\/dich-vu-entity\/","link_title":null,"link_anchortext":"entity trong seo","link_desc":""}
+
+{"link_id":"112093","link_url":"https:\/\/seoplus.com.vn\/permalink\/","link_title":null,"link_anchortext":"permalink blog","link_desc":""}
+
+{"link_id":"112171","link_url":"https:\/\/seoplus.com.vn\/tong-quan-ve-seo\/","link_title":null,"link_anchortext":"l\u00e0m seo nh\u01b0 th\u1ebf n\u00e0o","link_desc":""}
+
+{"link_id":"112327","link_url":"https:\/\/seoplus.com.vn\/pa-la-gi\/","link_title":null,"link_anchortext":"pa l\u00e0 g\u00ec","link_desc":""}
+
+{"link_id":"112182","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo-tai-tphcm\/","link_title":null,"link_anchortext":"d\u1ecbch v\u1ee5 seo HCM","link_desc":""}
+
+{"link_id":"112303","link_url":"https:\/\/seoplus.com.vn\/huong-dan-seo-web-len-google\/","link_title":null,"link_anchortext":"H\u01b0\u1edbng d\u1eabn SEO web l\u00ean google","link_desc":""}
+
+{"link_id":"112186","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo-ha-noi\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 SEO gi\u00e1 r\u1ebb H\u00e0 N\u1ed9i","link_desc":""}
+
+{"link_id":"112124","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo\/","link_title":null,"link_anchortext":"d\u1ecbch v\u1ee5 seo uy t\u00edn","link_desc":""}
+
+{"link_id":"112115","link_url":"https:\/\/seoplus.com.vn\/dao-tao-seo\/","link_title":null,"link_anchortext":"kh\u00f3a h\u1ecdc seo website","link_desc":""}

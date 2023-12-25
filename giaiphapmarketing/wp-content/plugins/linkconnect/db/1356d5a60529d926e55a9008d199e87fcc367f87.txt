@@ -1,0 +1,19 @@
+{"link_id":"112240","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo-tphcm\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 seo H\u1ed3 Ch\u00ed Minh","link_desc":""}
+
+{"link_id":"112217","link_url":"https:\/\/seoplus.com.vn\/cong-ty-thuong-mai-dien-tu\/","link_title":null,"link_anchortext":"t\u00ecm hi\u1ec3u v\u1ec1 th\u01b0\u01a1ng m\u1ea1i \u0111i\u1ec7n t\u1eed","link_desc":""}
+
+{"link_id":"112150","link_url":"https:\/\/seoplus.com.vn\/ke-hoach-seo-tong-the\/","link_title":null,"link_anchortext":"seo t\u1ed5ng th\u1ec3","link_desc":""}
+
+{"link_id":"112186","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo-ha-noi\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 SEO gi\u00e1 r\u1ebb H\u00e0 N\u1ed9i","link_desc":""}
+
+{"link_id":"112115","link_url":"https:\/\/seoplus.com.vn\/dao-tao-seo\/","link_title":null,"link_anchortext":"kh\u00f3a h\u1ecdc seo website","link_desc":""}
+
+{"link_id":"112192","link_url":"https:\/\/seoplus.com.vn\/lsi-keyword\/","link_title":null,"link_anchortext":"Lsi Keyword l\u00e0 g\u00ec","link_desc":""}
+
+{"link_id":"112225","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo-thong-minh\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 SEO th\u00f4ng minh","link_desc":""}
+
+{"link_id":"112223","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo-tai-binh-duong\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 SEO t\u1ea1i B\u00ecnh D\u01b0\u01a1ng","link_desc":""}
+
+{"link_id":"112227","link_url":"https:\/\/seoplus.com.vn\/cach-su-dung-yoast-seo\/","link_title":null,"link_anchortext":"Yoast seo l\u00e0 g\u00ec","link_desc":""}
+
+{"link_id":"112228","link_url":"https:\/\/seoplus.com.vn\/cach-su-dung-yoast-seo\/","link_title":null,"link_anchortext":"C\u00e1ch s\u1eed d\u1ee5ng Yoast seo","link_desc":""}

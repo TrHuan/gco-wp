@@ -1,0 +1,19 @@
+{"link_id":"108921","link_url":"https:\/\/seoplus.com.vn\/dich-vu-backlink\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 backlink","link_desc":"gi\u00e1 r\u1ebb, ch\u1ea5t l\u01b0\u1ee3ng"}
+
+{"link_id":"108918","link_url":"https:\/\/seoplus.com.vn\/dich-vu-backlink\/","link_title":null,"link_anchortext":"Mua backlink","link_desc":""}
+
+{"link_id":"108916","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 seo web","link_desc":""}
+
+{"link_id":"112300","link_url":"https:\/\/seoplus.com.vn\/bao-gia-dich-vu-seo\/","link_title":null,"link_anchortext":"Chi ph\u00ed SEO","link_desc":""}
+
+{"link_id":"112140","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 SEO t\u1eeb kh\u00f3a uy t\u00edn","link_desc":""}
+
+{"link_id":"112214","link_url":"https:\/\/seoplus.com.vn\/cong-ty-thuong-mai-dien-tu\/","link_title":null,"link_anchortext":"c\u00f4ng ty th\u01b0\u01a1ng m\u1ea1i \u0111i\u1ec7n t\u1eed","link_desc":""}
+
+{"link_id":"112113","link_url":"https:\/\/seoplus.com.vn\/dao-tao-seo\/","link_title":null,"link_anchortext":"trung t\u00e2m seo","link_desc":""}
+
+{"link_id":"112295","link_url":"https:\/\/seoplus.com.vn\/bao-gia-dich-vu-seo\/","link_title":null,"link_anchortext":"B\u00e1o gi\u00e1 d\u1ecbch v\u1ee5 seo web","link_desc":""}
+
+{"link_id":"112297","link_url":"https:\/\/seoplus.com.vn\/bao-gia-dich-vu-seo\/","link_title":null,"link_anchortext":"bao gia seo","link_desc":""}
+
+{"link_id":"112330","link_url":"https:\/\/seoplus.com.vn\/chi-so-ctr-trong-seo\/","link_title":null,"link_anchortext":"ctr l\u00e0 g\u00ec","link_desc":""}

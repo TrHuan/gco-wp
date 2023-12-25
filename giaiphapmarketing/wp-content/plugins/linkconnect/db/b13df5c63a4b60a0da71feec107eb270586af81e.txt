@@ -1,0 +1,19 @@
+{"link_id":"112194","link_url":"https:\/\/seoplus.com.vn\/lsi-keyword\/","link_title":null,"link_anchortext":"lsi l\u00e0 g\u00ec","link_desc":""}
+
+{"link_id":"112196","link_url":"https:\/\/seoplus.com.vn\/eat\/","link_title":null,"link_anchortext":"eat l\u00e0 g\u00ec","link_desc":""}
+
+{"link_id":"112105","link_url":"https:\/\/seoplus.com.vn\/seo-ecommerce\/","link_title":null,"link_anchortext":"seo ecommerce","link_desc":""}
+
+{"link_id":"112218","link_url":"https:\/\/seoplus.com.vn\/cong-ty-thuong-mai-dien-tu\/","link_title":null,"link_anchortext":"th\u01b0\u01a1ng m\u1ea1i \u0111i\u1ec7n t\u1eed","link_desc":""}
+
+{"link_id":"112201","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo-da-nang\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 SEO \u0110\u00e0 N\u1eb5ng","link_desc":""}
+
+{"link_id":"108920","link_url":"https:\/\/seoplus.com.vn\/dich-vu-entity\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 entity","link_desc":""}
+
+{"link_id":"108914","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo-tai-ha-noi\/","link_title":null,"link_anchortext":"Dich vu seo ha noi","link_desc":""}
+
+{"link_id":"112193","link_url":"https:\/\/seoplus.com.vn\/lsi-keyword\/","link_title":null,"link_anchortext":"t\u1eeb kh\u00f3a LSI","link_desc":""}
+
+{"link_id":"112096","link_url":"https:\/\/seoplus.com.vn\/over-optimize\/","link_title":null,"link_anchortext":"over optimized l\u00e0 g\u00ec","link_desc":""}
+
+{"link_id":"108918","link_url":"https:\/\/seoplus.com.vn\/dich-vu-backlink\/","link_title":null,"link_anchortext":"Mua backlink","link_desc":""}

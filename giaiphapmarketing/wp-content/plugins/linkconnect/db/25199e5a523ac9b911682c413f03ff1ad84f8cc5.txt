@@ -1,0 +1,19 @@
+{"link_id":"112323","link_url":"https:\/\/seoplus.com.vn\/mobile-friendly\/","link_title":null,"link_anchortext":"Mobile Friendly","link_desc":""}
+
+{"link_id":"112094","link_url":"https:\/\/seoplus.com.vn\/permalink\/","link_title":null,"link_anchortext":"permalink seo","link_desc":""}
+
+{"link_id":"108916","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 seo web","link_desc":""}
+
+{"link_id":"112233","link_url":"https:\/\/seoplus.com.vn\/schema-seo\/","link_title":null,"link_anchortext":"schema l\u00e0 g\u00ec","link_desc":""}
+
+{"link_id":"112135","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo\/","link_title":null,"link_anchortext":"Seo t\u1eeb kh\u00f3a Gi\u00e1 R\u1ebb","link_desc":""}
+
+{"link_id":"112278","link_url":"https:\/\/seoplus.com.vn\/cong-ty-seo-chuyen-nghiep\/","link_title":null,"link_anchortext":"c\u00f4ng ty l\u00e0m seo","link_desc":""}
+
+{"link_id":"112156","link_url":"https:\/\/seoplus.com.vn\/seo-pinterest\/","link_title":null,"link_anchortext":"SEO Pinterest","link_desc":""}
+
+{"link_id":"112100","link_url":"https:\/\/seoplus.com.vn\/hoc-viet-content-chuan-seo\/","link_title":null,"link_anchortext":"t\u1ef1 h\u1ecdc content","link_desc":""}
+
+{"link_id":"108921","link_url":"https:\/\/seoplus.com.vn\/dich-vu-backlink\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 backlink","link_desc":"gi\u00e1 r\u1ebb, ch\u1ea5t l\u01b0\u1ee3ng"}
+
+{"link_id":"112320","link_url":"https:\/\/seoplus.com.vn\/inbound-link\/","link_title":null,"link_anchortext":"inbound link","link_desc":""}

@@ -1,0 +1,19 @@
+{"link_id":"108921","link_url":"https:\/\/seoplus.com.vn\/dich-vu-backlink\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 backlink","link_desc":"gi\u00e1 r\u1ebb, ch\u1ea5t l\u01b0\u1ee3ng"}
+
+{"link_id":"108917","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 seo website","link_desc":""}
+
+{"link_id":"112293","link_url":"https:\/\/seoplus.com.vn\/bao-gia-dich-vu-seo\/","link_title":null,"link_anchortext":"B\u00e1o gi\u00e1 d\u1ecbch v\u1ee5 SEO","link_desc":""}
+
+{"link_id":"112288","link_url":"https:\/\/seoplus.com.vn\/thiet-ke-web-chuan-seo\/","link_title":null,"link_anchortext":"Thi\u1ebft k\u1ebf web chu\u1ea9n seo","link_desc":""}
+
+{"link_id":"112334","link_url":"https:\/\/seoplus.com.vn\/seo-va-sem\/","link_title":null,"link_anchortext":"seo v\u00e0 sem","link_desc":""}
+
+{"link_id":"112088","link_url":"https:\/\/seoplus.com.vn\/tu-hoc-seo\/","link_title":null,"link_anchortext":"c\u00e1ch h\u1ecdc seo","link_desc":""}
+
+{"link_id":"112190","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo-tai-hai-phong\/","link_title":null,"link_anchortext":"SEO web H\u1ea3i Ph\u00f2ng","link_desc":""}
+
+{"link_id":"112264","link_url":"https:\/\/seoplus.com.vn\/breadcrumbs-la-gi\/","link_title":null,"link_anchortext":"breadcrumb","link_desc":""}
+
+{"link_id":"112274","link_url":"https:\/\/seoplus.com.vn\/cong-ty-seo-chuyen-nghiep\/","link_title":null,"link_anchortext":"C\u00f4ng ty SEO web uy t\u00edn","link_desc":""}
+
+{"link_id":"112271","link_url":"https:\/\/seoplus.com.vn\/dich-vu-entity\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 Entity","link_desc":""}

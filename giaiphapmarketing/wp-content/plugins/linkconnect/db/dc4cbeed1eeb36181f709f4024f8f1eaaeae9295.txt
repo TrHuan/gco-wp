@@ -1,0 +1,19 @@
+{"link_id":"112212","link_url":"https:\/\/seoplus.com.vn\/dich-vu-backlink\/","link_title":null,"link_anchortext":"d\u1ecbch v\u1ee5 \u0111\u1eb7t backlink","link_desc":""}
+
+{"link_id":"112330","link_url":"https:\/\/seoplus.com.vn\/chi-so-ctr-trong-seo\/","link_title":null,"link_anchortext":"ctr l\u00e0 g\u00ec","link_desc":""}
+
+{"link_id":"112255","link_url":"https:\/\/seoplus.com.vn\/nghien-cuu-tu-khoa\/","link_title":null,"link_anchortext":"Nghi\u00ean c\u1ee9u t\u1eeb kh\u00f3a","link_desc":""}
+
+{"link_id":"112103","link_url":"https:\/\/seoplus.com.vn\/hoc-viet-content-chuan-seo\/","link_title":null,"link_anchortext":"h\u1ecdc vi\u1ebft content c\u01a1 b\u1ea3n","link_desc":""}
+
+{"link_id":"112124","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo\/","link_title":null,"link_anchortext":"d\u1ecbch v\u1ee5 seo uy t\u00edn","link_desc":""}
+
+{"link_id":"112164","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo-ha-noi\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 SEO H\u00e0 N\u1ed9i","link_desc":""}
+
+{"link_id":"112146","link_url":"https:\/\/seoplus.com.vn\/chien-luoc-seo\/","link_title":null,"link_anchortext":"chi\u1ebfn l\u01b0\u1ee3c SEO","link_desc":""}
+
+{"link_id":"112132","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo\/","link_title":null,"link_anchortext":"d\u1ecbch v\u1ee5 seo web t\u1ed5ng th\u1ec3","link_desc":""}
+
+{"link_id":"112201","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo-da-nang\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 SEO \u0110\u00e0 N\u1eb5ng","link_desc":""}
+
+{"link_id":"112191","link_url":"https:\/\/seoplus.com.vn\/lsi-keyword\/","link_title":null,"link_anchortext":"Lsi Keyword","link_desc":""}

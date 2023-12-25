@@ -1,0 +1,19 @@
+{"link_id":"112310","link_url":"https:\/\/seoplus.com.vn\/chi-phi-seo\/","link_title":null,"link_anchortext":"chi ph\u00ed seo website","link_desc":""}
+
+{"link_id":"108913","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo-tai-ha-noi\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 seo h\u00e0 n\u1ed9i","link_desc":""}
+
+{"link_id":"112301","link_url":"https:\/\/seoplus.com.vn\/phantom-keyword\/","link_title":null,"link_anchortext":"phantom keyword l\u00e0 g\u00ec","link_desc":""}
+
+{"link_id":"112200","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo-da-nang\/","link_title":null,"link_anchortext":"SEO web \u0110\u00e0 N\u1eb5ng","link_desc":""}
+
+{"link_id":"112259","link_url":"https:\/\/seoplus.com.vn\/seo-social\/","link_title":null,"link_anchortext":"SEO Social","link_desc":""}
+
+{"link_id":"112175","link_url":"https:\/\/seoplus.com.vn\/dich-vu-viet-bai-chuan-seo\/","link_title":null,"link_anchortext":"nh\u1eadn vi\u1ebft b\u00e0i chu\u1ea9n seo","link_desc":""}
+
+{"link_id":"112096","link_url":"https:\/\/seoplus.com.vn\/over-optimize\/","link_title":null,"link_anchortext":"over optimized l\u00e0 g\u00ec","link_desc":""}
+
+{"link_id":"112232","link_url":"https:\/\/seoplus.com.vn\/cau-truc-silo\/","link_title":null,"link_anchortext":"c\u1ea5u tr\u00fac trang web","link_desc":""}
+
+{"link_id":"112085","link_url":"https:\/\/seoplus.com.vn\/tu-hoc-seo\/","link_title":null,"link_anchortext":"h\u1ecdc l\u00e0m seo","link_desc":""}
+
+{"link_id":"112230","link_url":"https:\/\/seoplus.com.vn\/cau-truc-silo\/","link_title":null,"link_anchortext":"C\u1ea5u tr\u00fac website chu\u1ea9n SEO","link_desc":""}

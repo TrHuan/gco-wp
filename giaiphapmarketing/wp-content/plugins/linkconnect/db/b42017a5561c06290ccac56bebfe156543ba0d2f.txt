@@ -1,0 +1,19 @@
+{"link_id":"108916","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 seo web","link_desc":""}
+
+{"link_id":"108917","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 seo website","link_desc":""}
+
+{"link_id":"112109","link_url":"https:\/\/seoplus.com.vn\/dao-tao-seo\/","link_title":null,"link_anchortext":"\u0111\u00e0o t\u1ea1o seo","link_desc":""}
+
+{"link_id":"108921","link_url":"https:\/\/seoplus.com.vn\/dich-vu-backlink\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 backlink","link_desc":"gi\u00e1 r\u1ebb, ch\u1ea5t l\u01b0\u1ee3ng"}
+
+{"link_id":"112132","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo\/","link_title":null,"link_anchortext":"d\u1ecbch v\u1ee5 seo web t\u1ed5ng th\u1ec3","link_desc":""}
+
+{"link_id":"108920","link_url":"https:\/\/seoplus.com.vn\/dich-vu-entity\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 entity","link_desc":""}
+
+{"link_id":"112251","link_url":"https:\/\/seoplus.com.vn\/dao-tao-seo-bat-dong-san\/","link_title":null,"link_anchortext":"SEO b\u1ea5t \u0111\u1ed9ng s\u1ea3n","link_desc":""}
+
+{"link_id":"112084","link_url":"https:\/\/seoplus.com.vn\/tu-hoc-seo\/","link_title":null,"link_anchortext":"seo cho ng\u01b0\u1eddi m\u1edbi","link_desc":""}
+
+{"link_id":"112117","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo\/","link_title":null,"link_anchortext":"d\u1ecbch v\u1ee5 seo t\u1ed1t nh\u1ea5t","link_desc":""}
+
+{"link_id":"112143","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo\/","link_title":null,"link_anchortext":"d\u1ecbch v\u1ee5 t\u01b0 v\u1ea5n seo","link_desc":""}

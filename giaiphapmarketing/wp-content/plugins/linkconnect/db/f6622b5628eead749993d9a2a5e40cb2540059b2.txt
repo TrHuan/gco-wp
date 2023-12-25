@@ -1,0 +1,19 @@
+{"link_id":"108913","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo-tai-ha-noi\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 seo h\u00e0 n\u1ed9i","link_desc":""}
+
+{"link_id":"112116","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo\/","link_title":null,"link_anchortext":"d\u1ecbch v\u1ee5 SEO","link_desc":""}
+
+{"link_id":"112162","link_url":"https:\/\/seoplus.com.vn\/seo-app\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 \u0111\u1ea9y top app","link_desc":""}
+
+{"link_id":"112337","link_url":"https:\/\/seoplus.com.vn\/google-tag-manager-la-gi\/","link_title":null,"link_anchortext":"c\u00e0i \u0111\u1eb7t google tag manager","link_desc":""}
+
+{"link_id":"112201","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo-da-nang\/","link_title":null,"link_anchortext":"D\u1ecbch v\u1ee5 SEO \u0110\u00e0 N\u1eb5ng","link_desc":""}
+
+{"link_id":"112172","link_url":"https:\/\/seoplus.com.vn\/tong-quan-ve-seo\/","link_title":null,"link_anchortext":"l\u1ee3i \u00edch c\u1ee7a SEO","link_desc":""}
+
+{"link_id":"112235","link_url":"https:\/\/seoplus.com.vn\/schema-seo\/","link_title":null,"link_anchortext":"t\u1ea1o Schema","link_desc":""}
+
+{"link_id":"112334","link_url":"https:\/\/seoplus.com.vn\/seo-va-sem\/","link_title":null,"link_anchortext":"seo v\u00e0 sem","link_desc":""}
+
+{"link_id":"112296","link_url":"https:\/\/seoplus.com.vn\/bao-gia-dich-vu-seo\/","link_title":null,"link_anchortext":"b\u00e1o gi\u00e1 SEO","link_desc":""}
+
+{"link_id":"112175","link_url":"https:\/\/seoplus.com.vn\/dich-vu-viet-bai-chuan-seo\/","link_title":null,"link_anchortext":"nh\u1eadn vi\u1ebft b\u00e0i chu\u1ea9n seo","link_desc":""}

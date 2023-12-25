@@ -1,0 +1,19 @@
+{"link_id":"112332","link_url":"https:\/\/seoplus.com.vn\/slug-la-gi\/","link_title":null,"link_anchortext":"Slug l\u00e0 g\u00ec","link_desc":""}
+
+{"link_id":"112284","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo-google-map\/","link_title":null,"link_anchortext":"h\u01b0\u1edbng d\u1eabn seo google","link_desc":""}
+
+{"link_id":"112143","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo\/","link_title":null,"link_anchortext":"d\u1ecbch v\u1ee5 t\u01b0 v\u1ea5n seo","link_desc":""}
+
+{"link_id":"112124","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo\/","link_title":null,"link_anchortext":"d\u1ecbch v\u1ee5 seo uy t\u00edn","link_desc":""}
+
+{"link_id":"108918","link_url":"https:\/\/seoplus.com.vn\/dich-vu-backlink\/","link_title":null,"link_anchortext":"Mua backlink","link_desc":""}
+
+{"link_id":"112096","link_url":"https:\/\/seoplus.com.vn\/over-optimize\/","link_title":null,"link_anchortext":"over optimized l\u00e0 g\u00ec","link_desc":""}
+
+{"link_id":"112102","link_url":"https:\/\/seoplus.com.vn\/hoc-viet-content-chuan-seo\/","link_title":null,"link_anchortext":"t\u1ef1 h\u1ecdc vi\u1ebft content","link_desc":""}
+
+{"link_id":"112301","link_url":"https:\/\/seoplus.com.vn\/phantom-keyword\/","link_title":null,"link_anchortext":"phantom keyword l\u00e0 g\u00ec","link_desc":""}
+
+{"link_id":"112093","link_url":"https:\/\/seoplus.com.vn\/permalink\/","link_title":null,"link_anchortext":"permalink blog","link_desc":""}
+
+{"link_id":"112116","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo\/","link_title":null,"link_anchortext":"d\u1ecbch v\u1ee5 SEO","link_desc":""}

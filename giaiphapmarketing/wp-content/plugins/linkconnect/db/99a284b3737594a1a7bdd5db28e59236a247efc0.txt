@@ -1,0 +1,19 @@
+{"link_id":"112335","link_url":"https:\/\/seoplus.com.vn\/cong-cu-tim-kiem-tu-khoa\/","link_title":null,"link_anchortext":"C\u00f4ng c\u1ee5 t\u00ecm ki\u1ebfm t\u1eeb kh\u00f3a","link_desc":""}
+
+{"link_id":"112241","link_url":"https:\/\/seoplus.com.vn\/link-nofollow\/","link_title":null,"link_anchortext":"link nofollow","link_desc":""}
+
+{"link_id":"112302","link_url":"https:\/\/seoplus.com.vn\/seo-tu-khoa\/","link_title":null,"link_anchortext":"seo t\u1eeb kh\u00f3a l\u00ean top google","link_desc":""}
+
+{"link_id":"112195","link_url":"https:\/\/seoplus.com.vn\/eat\/","link_title":null,"link_anchortext":"EAT","link_desc":""}
+
+{"link_id":"112282","link_url":"https:\/\/seoplus.com.vn\/dich-vu-seo-google-map\/","link_title":null,"link_anchortext":"SEO google maps","link_desc":""}
+
+{"link_id":"112268","link_url":"https:\/\/seoplus.com.vn\/dich-vu-entity\/","link_title":null,"link_anchortext":"entity l\u00e0 g\u00ec","link_desc":""}
+
+{"link_id":"112234","link_url":"https:\/\/seoplus.com.vn\/schema-seo\/","link_title":null,"link_anchortext":"schema SEO","link_desc":""}
+
+{"link_id":"112255","link_url":"https:\/\/seoplus.com.vn\/nghien-cuu-tu-khoa\/","link_title":null,"link_anchortext":"Nghi\u00ean c\u1ee9u t\u1eeb kh\u00f3a","link_desc":""}
+
+{"link_id":"112152","link_url":"https:\/\/seoplus.com.vn\/ke-hoach-seo-tong-the\/","link_title":null,"link_anchortext":"quy tr\u00ecnh seo hi\u1ec7u qu\u1ea3","link_desc":""}
+
+{"link_id":"112245","link_url":"https:\/\/seoplus.com.vn\/seo-khong-backlink\/","link_title":null,"link_anchortext":"\u0110\u00e0o t\u1ea1o seo kh\u00f4ng backlink","link_desc":""}
