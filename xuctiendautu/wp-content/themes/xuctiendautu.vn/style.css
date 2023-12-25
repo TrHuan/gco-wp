@@ -1,0 +1,73 @@
+/* 
+Theme Name: Xuctiendautu.vn
+Theme URI: https://github.com/elementor/hello-theme/
+Description: Xuctiendautu.vn is a child theme of Hello Elementor, created by Elementor team
+Author: Elementor Team
+Author URI: https://elementor.com/
+Template: hello-elementor
+Version: 1.0.1
+Text Domain: Xuctiendautu.vn
+License: GNU General Public License v3 or later.
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Tags: flexible-header, custom-colors, custom-menu, custom-logo, editor-style, featured-images, rtl-language-support, threaded-comments, translation-ready
+*/
+
+/*Add your custom styles here*/
+/*
+@font-face {
+    font-weight: 400;
+    font-style: normal;
+    font-family: ABook;
+    src: url(/vn-data/themes/xuctiendautu.vn/fonts/ABook_400.woff2) format("woff2"), url(/vn-data/themes/xuctiendautu.vn/fonts/ABook_400.woff) format("woff");
+}
+@font-face {
+    font-weight: 300;
+    font-style: normal;
+    font-family: ABook;
+    font-display: fallback;
+    src: url(/vn-data/themes/xuctiendautu.vn/fonts/ABook_300.woff);
+}
+@font-face {
+    font-weight: 700;
+    font-style: normal;
+    font-family: ABook;
+    font-display: fallback;
+    src: url(/vn-data/themes/xuctiendautu.vn/fonts/ABook_700.woff);
+} */
+.body-content p {color: #232f3e;}
+blockquote {border: dashed 1px #d16f6f; padding: 8px; background-color: #e7f4f5;}
+p {margin-bottom: 0.7rem;}
+.wp-caption-text {margin: 8px 0 0 0;}
+.title-lienquan{border-top: solid 1px #e1e1e1; padding-top: 15px;}
+.elementor-36 .elementor-element.elementor-element-35fef2ff > .elementor-element-populated {padding: 10px;}
+p, li, ul, ol {text-align: justify;}
+/* Back to top button */
+.back-to-top-button {
+	height: 40px;
+	width: 40px;
+	position: fixed;
+	bottom: 20px;
+    right: 20px;
+    display: block;
+    padding: 10px;
+    background: #00483d;
+    border-radius: 8px;
+	opacity: 0.4;
+}
+.back-to-top-button:hover {opacity: 1;}
+.body-tags-content a.elementor-post-info__terms-list-item {
+    background-color: #00483d;
+    padding: 5px 8px 5px 8px;
+    border-radius: 5px;
+    color: #fff !important;
+    text-transform: capitalize;
+}
+.body-tags-content .elementor-icon-list-icon i {color: #00483d !important;}
+.meta-source a {margin-left: -20px !important;}
+.meta-source .elementor-widget-container{
+	background: #f2f2f2;
+    border-radius: 100px;
+    padding: 9px 11px;
+    display: inline-flex;
+}
+.top-post-right h3.elementor-post__title {text-align: justify;}
